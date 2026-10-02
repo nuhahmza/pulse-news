@@ -23,6 +23,8 @@ function ago(iso) {
   return fmt("d", Math.round(h / 24));
 }
 
+const tt = (it) => (state.lang === "ar" && it.title_ar) || it.title;
+const ss = (it) => (state.lang === "ar" && it.summary_ar) || it.summary;
 const img = (it) =>
   `<img class="thumb" src="${esc(it.image || PH)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.onerror=null;this.src='${PH}'">`;
 const meta = (it, t) =>
@@ -37,22 +39,22 @@ function render() {
   $("q").placeholder = t.search;
   $("langBtn").textContent = t.lang;
   document.title = `${t.site} — AI & Photography News`;
-  $("tabs").innerHTML = ["all", "ai", "photo", "video"]
+  $("tabs").innerHTML = ["all", "ai", "photo", "video", "instagram"]
     .map((c) => `<button class="tab" data-c="${c}" aria-pressed="${state.cat === c}">${t[c]}</button>`).join("");
   if (state.updated) $("updated").textContent = `${t.updated}: ${ago(state.updated)}`;
 
   const q = state.q.toLowerCase();
   const list = state.items.filter((i) =>
     (state.cat === "all" || i.category === state.cat) &&
-    (!q || `${i.title} ${i.summary} ${i.source}`.toLowerCase().includes(q)));
+    (!q || `${i.title} ${i.summary} ${i.title_ar || ""} ${i.source}`.toLowerCase().includes(q)));
 
   const heroItem = list.find((i) => i.image);
   const rest = list.filter((i) => i !== heroItem);
   $("hero").innerHTML = heroItem
-    ? `<a class="hero" href="${esc(heroItem.link)}" target="_blank" rel="noopener">${img(heroItem)}<div class="body">${meta(heroItem, t)}<h2>${esc(heroItem.title)}</h2><p>${esc(heroItem.summary)}</p></div></a>`
+    ? `<a class="hero" href="${esc(heroItem.link)}" target="_blank" rel="noopener">${img(heroItem)}<div class="body">${meta(heroItem, t)}<h2>${esc(tt(heroItem))}</h2><p>${esc(ss(heroItem))}</p></div></a>`
     : "";
   $("grid").innerHTML = rest
-    .map((i) => `<a class="card" href="${esc(i.link)}" target="_blank" rel="noopener">${img(i)}<div class="body">${meta(i, t)}<h3>${esc(i.title)}</h3><p>${esc(i.summary)}</p></div></a>`)
+    .map((i) => `<a class="card" href="${esc(i.link)}" target="_blank" rel="noopener">${img(i)}<div class="body">${meta(i, t)}<h3>${esc(tt(i))}</h3><p>${esc(ss(i))}</p></div></a>`)
     .join("");
   $("msg").hidden = list.length > 0;
   if (!list.length) $("msg").textContent = state.failed ? t.loadfail : t.empty;

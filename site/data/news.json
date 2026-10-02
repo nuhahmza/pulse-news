@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T11:45:31.696Z",
+ "updated": "2026-10-02T11:47:17.265Z",
  "items": [
   {
    "title": "Court Orders Man to Be Resentenced After Judge Was Affected by AI Video",
@@ -470,20 +470,20 @@
    "date": "2026-10-01T14:26:54.000Z"
   },
   {
-   "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-   "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-   "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/DSC01567.jpg?resize=1200,801",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-01T14:00:00.000Z"
-  },
-  {
    "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
    "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
    "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah.&#160; The idea was to build the world’s biggest data center — a 40,000",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_1001_Oleary.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-01T14:00:00.000Z"
+  },
+  {
+   "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+   "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+   "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/DSC01567.jpg?resize=1200,801",
+   "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-01T14:00:00.000Z"
   },
@@ -504,6 +504,15 @@
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-01T13:55:31.000Z"
+  },
+  {
+   "title": "Social media image sizes for all networks [October 2026]",
+   "link": "https://blog.hootsuite.com/social-media-image-sizes-guide/",
+   "summary": "The most recent image sizes for different social media networks, including Instagram, X, Facebook, LinkedIn, TikTok, Bluesky, and more. The post Social media image sizes for all networks [October 2026] appeared first on ",
+   "image": "https://blog.hootsuite.com/wp-content/uploads/2025/12/Social-media-image-sizes-for-all-networks-January-2026-1-620x465.png",
+   "source": "Hootsuite",
+   "category": "instagram",
+   "date": "2026-10-01T13:37:09.000Z"
   },
   {
    "title": "Security startup finds more than 13,000 internal company screenshots that AI agents uploaded publicly",
@@ -675,6 +684,15 @@
    "source": "No Film School",
    "category": "video",
    "date": "2026-09-30T22:29:11.000Z"
+  },
+  {
+   "title": "Instagram adds option to boost livestreams",
+   "link": "https://www.socialmediatoday.com/news/instagram-adds-option-to-boost-livestreams/831842/",
+   "summary": "Creators can now use an in-app feature to increase engagement of their live videos.",
+   "image": "https://imgproxy.divecdn.com/QJxUTJVUqdA1thzGnMU6UlqwhD40tPhtD7csMiqTvys/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pZ19sb2dvMi5wbmc=.webp",
+   "source": "Social Media Today",
+   "category": "instagram",
+   "date": "2026-09-30T22:05:28.000Z"
   },
   {
    "title": "Adobe Announces More Interactive Editing Controls Are Coming for its Plugin in ChatGPT",
@@ -956,6 +974,24 @@
    "date": "2026-09-30T15:03:01.000Z"
   },
   {
+   "title": "Instagram rolls out an AI video assistant for creators",
+   "link": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
+   "summary": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801",
+   "source": "TechCrunch",
+   "category": "instagram",
+   "date": "2026-09-30T14:30:00.000Z"
+  },
+  {
+   "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
+   "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+   "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creati",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK070__01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "instagram",
+   "date": "2026-09-30T14:30:00.000Z"
+  },
+  {
    "title": "OpenAI delays IPO over AI safety concerns",
    "link": "https://arstechnica.com/ai/2026/09/openai-delays-ipo-over-ai-safety-concerns/",
    "summary": "OpenAI is seeking another $30 billion privately as its IPO plans slip.",
@@ -1080,6 +1116,303 @@
    "source": "Ars Technica",
    "category": "ai",
    "date": "2026-09-29T18:11:09.000Z"
+  },
+  {
+   "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
+   "link": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
+   "summary": "“The experiments are still in the queue. The PR is already live,” says one expert.",
+   "image": "https://media.wired.com/photos/6abbc40baa4c41ce1b0d6fa0/master/pass/092926-AI%20Science%20Discovery.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-09-29T18:03:01.000Z"
+  },
+  {
+   "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
+   "link": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
+   "summary": "These cute agents are designed to connect to your apps and tackle multistep tasks.",
+   "image": "https://media.wired.com/photos/6abbcee9422fade848ea964d/master/pass/Dots%20Hero%20Image.png",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-09-29T17:15:00.000Z"
+  },
+  {
+   "title": "OM System PEN studio scene: see how much image quality you can carry with you",
+   "link": "https://www.dpreview.com/articles/om-system-pen-studio-scene-see-how-much-image-quality-you-can-carry-with-you/",
+   "summary": "Studio images and Raw analysis back up the performance we saw when out shooting.",
+   "image": "https://www.dpreview.com/wp-content/uploads/2026/08/PI_OM_System_PEN_01.jpg",
+   "source": "DPReview",
+   "category": "photo",
+   "date": "2026-09-29T16:36:19.000Z"
+  },
+  {
+   "title": "7Artisans’ 109g 18mm F2 is an ultra-light autofocus prime for APS-C Sony cameras",
+   "link": "https://www.dpreview.com/news/7artisans-109g-18mm-f2-is-an-ultra-light-autofocus-prime-for-aps-c-sony-cameras/",
+   "summary": "7Artisans says the $169 pancake lens is the lightest autofocus F2 prime lens available for APS-C cameras.",
+   "image": "https://www.dpreview.com/wp-content/uploads/2026/09/M-PI-7Artisans-Af-18mm-F2-Aps-C-E-mount-16x9-Lead-1.jpg",
+   "source": "DPReview",
+   "category": "photo",
+   "date": "2026-09-29T15:22:59.000Z"
+  },
+  {
+   "title": "Polaroid Mod is an instant camera for playing with motion, light and split frames",
+   "link": "https://www.dpreview.com/news/polaroid-mod-is-an-instant-camera-for-playing-with-motion-light-and-split-frames/",
+   "summary": "A new physical mode dial gives photographers four analog creative effects without requiring a phone or app.",
+   "image": "https://www.dpreview.com/wp-content/uploads/2026/09/M-GN-polaroid-mod-camera-lead-16x9-Lead-1.jpg",
+   "source": "DPReview",
+   "category": "photo",
+   "date": "2026-09-29T14:38:45.000Z"
+  },
+  {
+   "title": "Calibrite ColorChecker Turns 50 – 1976 Macbeth Chart, 24 Patches, Virtual Museum and Challenge",
+   "link": "https://www.cined.com/calibrite-colorchecker-turns-50-1976-macbeth-chart-24-patches-virtual-museum-and-challenge/",
+   "summary": "The ColorChecker, the 24-patch color reference chart that has sat in front of film cameras, digital cinema cameras, and lab test rigs since 1976, is turning 50. Calibrite, which has owned the brand since 2021, has launch",
+   "image": "https://www.cined.com/content/uploads/2026/09/ColorChecker-2-300x169.jpeg",
+   "source": "CineD",
+   "category": "video",
+   "date": "2026-09-29T14:29:04.000Z"
+  },
+  {
+   "title": "OpenAI says planned GPT-6.1 is too insecure to release",
+   "link": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
+   "summary": "Similar performance, security trade-offs also seen in current public models.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1822585391-1152x648.jpg",
+   "source": "Ars Technica",
+   "category": "ai",
+   "date": "2026-09-29T14:22:31.000Z"
+  },
+  {
+   "title": "Anthropic’s IPO pitch includes a warning about human extinction",
+   "link": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
+   "summary": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/claudebyanthropic-1024x648.jpg",
+   "source": "Ars Technica",
+   "category": "ai",
+   "date": "2026-09-29T14:10:00.000Z"
+  },
+  {
+   "title": "Expanding Instagram’s School Partnership Program to Help Teens Stay Informed",
+   "link": "https://about.fb.com/news/2026/09/expanding-instagram-school-partnership-program-help-teens-stay-informed/",
+   "summary": "We're expanding our School Partnership Program to give verified school partners, verified students, and parents new features to stay connected and informed. The post Expanding Instagram’s School Partnership Program to He",
+   "image": "https://about.fb.com/wp-content/uploads/2026/09/Expanding-Instagrams-School-Partnership-Program-to-Help-Teens-Stay-Informed_Header.jpg?fit=1920%2C1080",
+   "source": "Meta Newsroom",
+   "category": "instagram",
+   "date": "2026-09-29T13:00:38.000Z"
+  },
+  {
+   "title": "Interview: Firefox&#039;s chief on why he hopes a redesign will help win users from Chrome",
+   "link": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/",
+   "summary": "Mozilla's Ajit Varma explains why a redesign suits the fight for the open web.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Firefox-header-1-1152x648-1790642597.jpg",
+   "source": "Ars Technica",
+   "category": "ai",
+   "date": "2026-09-29T13:00:19.000Z"
+  },
+  {
+   "title": "DriveShelf for Mac Released – Search Unplugged Drives, Cross-Drive Duplicate Finder, Free iPhone Companion",
+   "link": "https://www.cined.com/driveshelf-for-mac-released-search-unplugged-drives-cross-drive-duplicate-finder-free-iphone-companion/",
+   "summary": "Built by Bangkok-based director Sergiy Pudich, DriveShelf is a Mac app that catalogs every external drive you connect, so its contents stay searchable after the drive goes back on the shelf, and it now comes with a free ",
+   "image": "https://www.cined.com/content/uploads/2026/09/DriveShelf-feature-300x169.jpg",
+   "source": "CineD",
+   "category": "video",
+   "date": "2026-09-29T12:46:43.000Z"
+  },
+  {
+   "title": "Imagen challenges the fixed cull-then-edit workflow with its newest update",
+   "link": "https://www.dpreview.com/articles/imagens-intelligent-studio-announcement/",
+   "summary": "The update, rolling out from September 29, collapses three separate workflows into a single non-linear environment — a shift that could change how busy photographers structure their post-production day.",
+   "image": "https://www.dpreview.com/wp-content/uploads/2026/09/IMG-36-001-FTE-SEP-lead.jpg",
+   "source": "DPReview",
+   "category": "photo",
+   "date": "2026-09-29T12:30:00.000Z"
+  },
+  {
+   "title": "Making AI an asset, not an expense",
+   "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
+   "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. Bu",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Cheri-blog.jpg?w=840",
+   "source": "MIT Tech Review",
+   "category": "ai",
+   "date": "2026-09-29T10:43:45.000Z"
+  },
+  {
+   "title": "Vimeo Short Film Grant Returns – $300,000 Prize Pool, Five $60,000 Awards, Panavision Camera Packages",
+   "link": "https://www.cined.com/vimeo-short-film-grant-returns-300000-prize-pool-five-60000-awards-panavision-camera-packages/",
+   "summary": "Vimeo has opened the second edition of its Short Film Grant, doubling the total fund to $300,000 and the individual award to $60,000 for each of five emerging filmmakers. This year’s supporting partners are Panavision, O",
+   "image": "https://www.cined.com/content/uploads/2026/09/Vimeo-Grant-feature-300x169.jpg",
+   "source": "CineD",
+   "category": "video",
+   "date": "2026-09-29T09:38:22.000Z"
+  },
+  {
+   "title": "YouTube CTR, Instagram Reels Structure, and Industry News",
+   "link": "https://www.socialmediaexaminer.com/youtube-ctr-instagram-reels-structure-and-industry-news/",
+   "summary": "Here’s a recap of the most important insights, trends, and updates you need to know about today! Catch up in minutes and go into the rest of the week prepared. In today’s edition: YouTube packaging formula Instagram reel",
+   "image": "https://www.socialmediaexaminer.com/wp-content/uploads/2018/11/NewBack.png",
+   "source": "Social Media Examiner",
+   "category": "instagram",
+   "date": "2026-09-29T09:30:00.000Z"
+  },
+  {
+   "title": "Breaking down Apple’s Reference Image tech that it says “sets a new standard for verifiable” photos",
+   "link": "https://www.dpreview.com/opinion/breaking-down-apples-reference-image-tech-that-it-says-sets-a-new-standard-for-verifiable-photos/",
+   "summary": "The company says existing standards like Content Credentials aren't good enough, so it made its own.",
+   "image": "https://www.dpreview.com/wp-content/uploads/2026/09/reference-dpo1xa7gsdea-large-2x-16x9-Lead-2.jpg",
+   "source": "DPReview",
+   "category": "photo",
+   "date": "2026-09-28T23:36:43.000Z"
+  },
+  {
+   "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+   "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+   "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border cross",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/9.21-Roundtables-Thumbnail-1.png?resize=1200,600",
+   "source": "MIT Tech Review",
+   "category": "ai",
+   "date": "2026-09-28T22:17:07.000Z"
+  },
+  {
+   "title": "When can we say AI made a scientific discovery?",
+   "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+   "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molec",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/science-ai-gene3.jpg?resize=1200,600",
+   "source": "MIT Tech Review",
+   "category": "ai",
+   "date": "2026-09-28T17:03:16.000Z"
+  },
+  {
+   "title": "HONOR Magic9 Pro Max Launches – ARRI Co-Branding, Native LogC3 Recording, Dual 200MP Cameras",
+   "link": "https://www.cined.com/honor-magic9-pro-max-launches-arri-co-branding-native-logc3-recording-dual-200mp-cameras/",
+   "summary": "HONOR has launched the Magic9 Pro Max in China, and for the first time, the ARRI logo sits on the phone itself and on the box. Following the Robot Phone in August, this is the second device from the two companies’ Cinema",
+   "image": "https://www.cined.com/content/uploads/2026/09/HONOR-Magic9-Pro-Max-300x169.jpeg",
+   "source": "CineD",
+   "category": "video",
+   "date": "2026-09-28T13:54:32.000Z"
+  },
+  {
+   "title": "The Viltrox 26mm F2.8 Evo is a small lens big on character",
+   "link": "https://www.dpreview.com/samples/the-viltrox-26mm-f2-8-evo-is-a-small-lens-big-on-character/",
+   "summary": "There are some trade-offs for its price and size.",
+   "image": "https://www.dpreview.com/wp-content/uploads/2026/09/pi_viltrox_af_26mm_evo_on_nikon_z8.jpg",
+   "source": "DPReview",
+   "category": "photo",
+   "date": "2026-09-28T13:00:00.000Z"
+  },
+  {
+   "title": "Sony FX5 Lab Test: Rolling Shutter, Dynamic Range and Exposure Latitude",
+   "link": "https://www.cined.com/sony-fx5-lab-test-rolling-shutter-dynamic-range-and-exposure-latitude/",
+   "summary": "Long anticipated, now a reality: a production version of the new Sony FX5 with final firmware has arrived at our CineD headquarters in Vienna. Time to run it through our standard CineD Lab Test! Curious to hear more? The",
+   "image": "https://www.cined.com/content/uploads/2026/09/Thumbnail_2.1.1-1-300x169.jpg",
+   "source": "CineD",
+   "category": "video",
+   "date": "2026-09-28T11:59:14.000Z"
+  },
+  {
+   "title": "Second Reef CheckMate Products Introduced – Cable Tester, Battery Analyzer &#038; Discharger",
+   "link": "https://www.cined.com/second-reef-checkmate-products-introduced-cable-tester-battery-analyzer-discharger/",
+   "summary": "Launched at IBC 2026 and distributed by Second Reef, the new CheckMate product lineup consists of three tools – a Cable Tester, a Battery Analyzer, and a Battery Discharger – that can help rental houses and productions m",
+   "image": "https://www.cined.com/content/uploads/2026/09/Second-Reef-CheckMate-featured-300x169.jpeg",
+   "source": "CineD",
+   "category": "video",
+   "date": "2026-09-28T11:00:00.000Z"
+  },
+  {
+   "title": "Who’s liable when AI agents go rogue?",
+   "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+   "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cy",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_AIagentsGoingRogue.jpg?resize=1200,600",
+   "source": "MIT Tech Review",
+   "category": "ai",
+   "date": "2026-09-28T08:06:22.000Z"
+  },
+  {
+   "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+   "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
+   "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will foc",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Altec_Poly_2.jpeg",
+   "source": "MIT Tech Review",
+   "category": "ai",
+   "date": "2026-09-25T09:16:25.000Z"
+  },
+  {
+   "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
+   "link": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
+   "summary": "Meta's lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens' safety and mental health. Lawyers suing",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS487_ANTITRUST_2__STK043_META_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "instagram",
+   "date": "2026-09-24T23:50:55.000Z"
+  },
+  {
+   "title": "Why Unpolished Reels Win: An Instagram Growth Strategy for Business",
+   "link": "https://www.socialmediaexaminer.com/why-unpolished-reels-win-an-instagram-growth-strategy-for-business/",
+   "summary": "Wondering how to create Instagram Reels that actually build a loyal following without expensive equipment or hours of editing? Want to know the specific hook formulas, editing techniques, and testing strategies that turn",
+   "image": "https://www.socialmediaexaminer.com/wp-content/uploads/2026/09/SMMP737_PRIMARY.jpg",
+   "source": "Social Media Examiner",
+   "category": "instagram",
+   "date": "2026-09-24T10:00:00.000Z"
+  },
+  {
+   "title": "The AI Hype Index: AI loves cheating",
+   "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+   "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two t",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/09-Hype-thumb.jpg?resize=1200,600",
+   "source": "MIT Tech Review",
+   "category": "ai",
+   "date": "2026-09-23T09:00:00.000Z"
+  },
+  {
+   "title": "Best Time to Post on Instagram in 2026: Data from 9.6 Million Posts",
+   "link": "https://buffer.com/resources/when-is-the-best-time-to-post-on-instagram/",
+   "summary": "We analyzed 9.6 million Instagram posts sent through Buffer to find the best time, day, and post format to help your content get seen.",
+   "image": "https://storage.ghost.io/c/6d/21/6d217297-aa70-41fe-b68d-e29e411dd3ed/content/images/2026/01/best-time-to-post-on-instagram-2026.png",
+   "source": "Buffer",
+   "category": "instagram",
+   "date": "2026-09-23T08:00:00.000Z"
+  },
+  {
+   "title": "Don’t be fooled by this summer of AI hype",
+   "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+   "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face h",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/summer-hype2.jpg?resize=1200,600",
+   "source": "MIT Tech Review",
+   "category": "ai",
+   "date": "2026-09-22T11:04:51.000Z"
+  },
+  {
+   "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+   "link": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
+   "summary": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This ",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Map-thumbnail-16_9-2.png",
+   "source": "MIT Tech Review",
+   "category": "ai",
+   "date": "2026-09-21T12:00:00.000Z"
+  },
+  {
+   "title": "16 free Canva templates to level up your Instagram carousels",
+   "link": "https://later.com/blog/canva-template-inspo/",
+   "summary": "",
+   "image": "",
+   "source": "Later",
+   "category": "instagram",
+   "date": "2026-09-01T03:19:03.000Z"
+  },
+  {
+   "title": "What boosting on Meta actually does, and how to finally prove it",
+   "link": "https://later.com/blog/boosting-on-meta-organic-paid-analytics/",
+   "summary": "Everything social teams need to know about boosting on Instagram and Facebook, now with the data to back up whether it worked.",
+   "image": "",
+   "source": "Later",
+   "category": "instagram",
+   "date": "2026-08-26T14:21:27.000Z"
+  },
+  {
+   "title": "Why audio matters for Instagram Reels engagement, and how scheduling it actually helps",
+   "link": "https://later.com/blog/instagram-reels-audio/",
+   "summary": "Sound isn't a finishing touch on a Reel. It's one of the clearest discovery levers Instagram gives you, and treating it as an afterthought in your workflow costs more reach than most teams realize.",
+   "image": "",
+   "source": "Later",
+   "category": "instagram",
+   "date": "2026-08-02T23:00:16.000Z"
   }
  ]
 }

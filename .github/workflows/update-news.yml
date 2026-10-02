@@ -19,6 +19,8 @@ jobs:
           cache: npm
       - run: npm ci
       - run: node scripts/fetch-news.mjs
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
       - name: Commit if changed
         run: |
           git config user.name "news-bot"

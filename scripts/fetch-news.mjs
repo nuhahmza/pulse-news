@@ -7,7 +7,7 @@ import { XMLParser } from "fast-xml-parser";
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const OUT = path.join(root, "site", "data", "news.json");
 const PER_FEED = 15;
-const MAX_ITEMS = 120;
+const MAX_ITEMS = 200;
 const MAX_AGE_DAYS = 14;
 const UA = "Mozilla/5.0 (compatible; PulseNewsBot/1.0; +https://netlify.app)";
 
@@ -62,7 +62,7 @@ function parseFeed(xml, src) {
   const j = parser.parse(xml);
   const items = [];
   if (j.rss) {
-    for (const it of arr(j.rss.channel?.item).slice(0, PER_FEED)) {
+    for (const it of arr(j.rss.channel?.item).slice(0, src.scan || PER_FEED)) {
       const link = text(it.link).trim();
       items.push({
         title: strip(text(it.title)), link,
@@ -72,7 +72,7 @@ function parseFeed(xml, src) {
       });
     }
   } else if (j.feed) {
-    for (const it of arr(j.feed.entry).slice(0, PER_FEED)) {
+    for (const it of arr(j.feed.entry).slice(0, src.scan || PER_FEED)) {
       const l = arr(it.link).find((x) => !x["@_rel"] || x["@_rel"] === "alternate") || arr(it.link)[0];
       const link = l?.["@_href"] || "";
       items.push({
@@ -83,7 +83,8 @@ function parseFeed(xml, src) {
       });
     }
   }
-  return items.filter((i) => i.title && i.link).map((i) => ({ ...i, source: src.name, category: src.category }));
+  const re = src.filter ? new RegExp(src.filter, "i") : null;
+  return items.filter((i) => i.title && i.link && (!re || re.test(i.title + " " + i.summary))).slice(0, src.keep || PER_FEED).map((i) => ({ ...i, source: src.name, category: src.category, maxAge: src.maxAgeDays || MAX_AGE_DAYS }));
 }
 
 async function pool(list, n, fn) {
@@ -104,11 +105,10 @@ await pool(sources, 5, async (src) => {
 });
 
 // date filter, de-dupe, sort
-const cutoff = Date.now() - MAX_AGE_DAYS * 864e5;
 const seen = new Set();
 all = all
   .map((i) => ({ ...i, ts: Date.parse(i.date) || 0 }))
-  .filter((i) => i.ts && i.ts > cutoff && i.ts < Date.now() + 36e5)
+  .filter((i) => i.ts && i.ts > Date.now() - i.maxAge * 864e5 && i.ts < Date.now() + 36e5)
   .sort((a, b) => b.ts - a.ts)
   .filter((i) => { const k = i.link.split("?")[0]; if (seen.has(k)) return false; seen.add(k); return true; })
   .slice(0, MAX_ITEMS);
@@ -125,6 +125,47 @@ if (out.length === 0) {
   console.error(report.join("\n"));
   console.error("No items fetched; keeping existing news.json");
   process.exit(0);
+}
+
+// Arabic translation (Claude API). Reuses earlier translations; skipped without ANTHROPIC_API_KEY.
+const MODEL = process.env.TRANSLATE_MODEL || "claude-haiku-4-5-20251001";
+let prev = [];
+try { prev = JSON.parse(await readFile(OUT, "utf8")).items || []; } catch {}
+const cache = new Map(prev.filter((p) => p.title_ar).map((p) => [p.link, p]));
+for (const i of out) {
+  const c = cache.get(i.link);
+  if (c) { i.title_ar = c.title_ar; i.summary_ar = c.summary_ar; }
+}
+
+async function translateBatch(batch) {
+  const payload = batch.map((i, n) => ({ id: n, title: i.title, summary: i.summary }));
+  const r = await fetch("https://api.anthropic.com/v1/messages", {
+    method: "POST",
+    headers: { "content-type": "application/json", "x-api-key": process.env.ANTHROPIC_API_KEY, "anthropic-version": "2023-06-01" },
+    body: JSON.stringify({
+      model: MODEL,
+      max_tokens: 8000,
+      system: "You translate news headlines and summaries into clear Modern Standard Arabic. Keep product names, brands and people's names in Latin script where that is customary. Reply with ONLY a JSON array of {id,title,summary} objects, same ids, no commentary.",
+      messages: [{ role: "user", content: JSON.stringify(payload) }],
+    }),
+  });
+  if (!r.ok) throw new Error(`API ${r.status}`);
+  const txt = (await r.json()).content?.[0]?.text || "";
+  const arrJson = JSON.parse(txt.slice(txt.indexOf("["), txt.lastIndexOf("]") + 1));
+  for (const t of arrJson) {
+    if (batch[t.id] && t.title) { batch[t.id].title_ar = t.title; batch[t.id].summary_ar = t.summary || ""; }
+  }
+}
+
+const todo = out.filter((i) => !i.title_ar);
+if (todo.length && process.env.ANTHROPIC_API_KEY) {
+  for (let k = 0; k < todo.length; k += 20) {
+    try { await translateBatch(todo.slice(k, k + 20)); }
+    catch (e) { console.error(`translation batch failed: ${e.message}`); }
+  }
+  console.log(`translated ${todo.filter((i) => i.title_ar).length}/${todo.length} new stories`);
+} else if (todo.length) {
+  console.log("ANTHROPIC_API_KEY not set; skipping Arabic translation");
 }
 
 await mkdir(path.dirname(OUT), { recursive: true });
