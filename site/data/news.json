@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T13:18:04.794Z",
+ "updated": "2026-10-02T13:47:34.807Z",
  "items": [
   {
    "title": "Three firings and a fourth departure shake up OpenAI&#039;s safety team",
@@ -63,6 +63,15 @@
    "source": "The Decoder",
    "category": "ai",
    "date": "2026-10-02T11:15:24.000Z"
+  },
+  {
+   "title": "Nikon's Low-Light Trinity, Tested After Dark",
+   "link": "https://fstoppers.com/gear/nikons-low-light-trinity-tested-after-dark-904891?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "Nikon now has three autofocus f/1.2 primes for its Z mount, a 35mm, a 50mm, and an 85mm, and each one weighs more than a kilogram. If you shoot for yourself instead of for clients, you have to decide whether any of them ",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_1.jpg.webp?itok=al3Wa83L",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-02T11:03:02.000Z"
   },
   {
    "title": "33 Hilarious Photos From the Nikon Comedy Wildlife Awards",
@@ -992,20 +1001,20 @@
    "date": "2026-09-30T15:03:01.000Z"
   },
   {
-   "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
-   "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
-   "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creati",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK070__01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "instagram",
-   "date": "2026-09-30T14:30:00.000Z"
-  },
-  {
    "title": "Instagram rolls out an AI video assistant for creators",
    "link": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
    "summary": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
    "image": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801",
    "source": "TechCrunch",
+   "category": "instagram",
+   "date": "2026-09-30T14:30:00.000Z"
+  },
+  {
+   "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
+   "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+   "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creati",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK070__01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
    "category": "instagram",
    "date": "2026-09-30T14:30:00.000Z"
   },
@@ -1035,15 +1044,6 @@
    "source": "DPReview",
    "category": "photo",
    "date": "2026-09-30T13:57:17.000Z"
-  },
-  {
-   "title": "How to Shape Light in Lightroom After You've Taken the Shot",
-   "link": "https://fstoppers.com/landscapes/how-shape-light-lightroom-after-youve-taken-shot-904853?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "Flat, evenly lit landscape files often sit unused on a hard drive, even when the location itself was beautiful. Lightroom's masking tools let you decide where the light falls after the shutter closes, so a dull frame of ",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/09/cover_30.jpg.webp?itok=FyCMv2nX",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-09-30T13:03:01.000Z"
   },
   {
    "title": "Why my camera stopped shooting with a mostly empty card, and how to avoid it",
