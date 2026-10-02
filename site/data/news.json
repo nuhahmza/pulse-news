@@ -1,6 +1,24 @@
 {
- "updated": "2026-10-02T15:47:40.952Z",
+ "updated": "2026-10-02T16:16:24.088Z",
  "items": [
+  {
+   "title": "Austin Abrams: The Scream King We Need",
+   "link": "https://nofilmschool.com/austin-abrams-scream-king",
+   "summary": "You have seen Austin Abrams be the opening kill, play a bully who is attacked by a scarecrow bully, get put under a witch’s curse, and have mutated zombies leave him blood-smeared and screaming in terror. Abrams’ career ",
+   "image": "https://nofilmschool.com/media-library/austin-abrams-as-bryan-in-the-2026-horror-film-resident-evil.png?id=68005400&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-02T16:00:03.000Z"
+  },
+  {
+   "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
+   "link": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
+   "summary": "Many frontier labs keep their risky research locked away. Trillium Labs wants to show off its work when it comes to self-improvement and model behavior.",
+   "image": "https://media.wired.com/photos/6abfd54ac4eb41b65cf33011/master/pass/Trillium-Labs-Risky-AI-Research-Business-edit.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-10-02T16:00:00.000Z"
+  },
   {
    "title": "The Sony FX5 Delay Might Be Related to an Issue With the Rear LCD",
    "link": "https://petapixel.com/2026/10/02/the-fx5-delay-might-be-related-to-an-issue-with-the-rear-lcd/",
@@ -47,13 +65,13 @@
    "date": "2026-10-02T15:23:56.000Z"
   },
   {
-   "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-   "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-   "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-02T15:00:00.000Z"
+   "title": "What It's Like to Shoot Stills With the Nikon ZR",
+   "link": "https://fstoppers.com/gear/what-its-shoot-stills-nikon-zr-904894?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "The Nikon ZR puts RED's raw video format, 32-bit float audio, and a 4-inch screen into a body with no viewfinder, so most of the conversation around it stays on codecs and cinema workflows. If you shoot both stills and v",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_4.jpg.webp?itok=m0ikBIJY",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-02T15:03:01.000Z"
   },
   {
    "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
@@ -61,6 +79,15 @@
    "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump cancelled the term.",
    "image": "https://media.wired.com/photos/6abe8febd05dc665bd7e9bcd/master/pass/Backchannel-Trump-AI-Business-2297413584.jpg",
    "source": "WIRED",
+   "category": "ai",
+   "date": "2026-10-02T15:00:00.000Z"
+  },
+  {
+   "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+   "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+   "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1200,800",
+   "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-02T15:00:00.000Z"
   },
@@ -74,7 +101,7 @@
    "date": "2026-10-02T14:59:14.000Z"
   },
   {
-   "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI",
+   "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI",
    "link": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
    "summary": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Shield-10-yrs-1-1152x648.jpg",
@@ -128,15 +155,6 @@
    "date": "2026-10-02T13:03:01.000Z"
   },
   {
-   "title": "Three firings and a fourth departure shake up OpenAI&#039;s safety team",
-   "link": "https://the-decoder.com/three-firings-and-a-fourth-departure-shake-up-openais-safety-team/",
-   "summary": "OpenAI has parted ways with three researchers who allegedly leaked confidential information to an outside AI safety organization, according to the Wall Street Journal. The article Three firings and a fourth departure sha",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-1.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-02T12:51:08.000Z"
-  },
-  {
    "title": "FUJIFILM Fujikina NYC 2026 Program Detailed – 85 Add-On Sessions, Movie Stills Talks, Short Film Screening",
    "link": "https://www.cined.com/fujifilm-fujikina-nyc-2026-program-detailed-85-add-on-sessions-movie-stills-talks-short-film-screening/",
    "summary": "FUJIFILM has published the full program for Fujikina NYC 2026, which takes over New York’s Lower East Side from October 16 to 18 with a $10 Experience Pass and 85 bookable add-on sessions. I will be there for CineD, so h",
@@ -180,15 +198,6 @@
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-02T11:36:29.000Z"
-  },
-  {
-   "title": "AI beats licensed accountants on speed and accuracy, but still can&#039;t close the books without supervision",
-   "link": "https://the-decoder.com/ai-beats-licensed-accountants-on-speed-and-accuracy-but-still-cant-close-the-books-without-supervision/",
-   "summary": "According to a Mercor study, current AI models now outperform licensed CPAs on structured accounting tasks in both speed and accuracy. Eighteen months ago, they still lagged far behind. On the more demanding APEX Benchma",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/mercor_accountants.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-02T11:15:24.000Z"
   },
   {
    "title": "Nikon's Low-Light Trinity, Tested After Dark",
@@ -245,24 +254,6 @@
    "date": "2026-10-02T09:30:00.000Z"
   },
   {
-   "title": "Microsoft AI releases new transcription and text-to-speech models for voice agents",
-   "link": "https://the-decoder.com/microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents/",
-   "summary": "Microsoft AI has released MAI-Transcribe-2-Streaming, a new model for real-time transcription. The article Microsoft AI releases new transcription and text-to-speech models for voice agents appeared first on The Decoder ",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/MAI-quotation_marks_swarm_hq-1920x1167-1.webp",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-02T09:20:39.000Z"
-  },
-  {
-   "title": "Businesses are using more AI and paying less for it, Ramp AI Index shows",
-   "link": "https://the-decoder.com/businesses-are-using-more-ai-and-paying-less-for-it-ramp-ai-index-shows/",
-   "summary": "US companies are spending less on AI, according to the latest Ramp AI Index from Ramp economist Ara Kharazian. The article Businesses are using more AI and paying less for it, Ramp AI Index shows appeared first on The De",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/04/fipo-qwen-training-policy-nano-banana-pro.jpg",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-02T09:09:21.000Z"
-  },
-  {
    "title": "Should Wedding Photographers Post Their Prices Online?",
    "link": "https://fstoppers.com/education/should-wedding-photographers-post-their-prices-online-904890?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
    "summary": "A couple finds your portfolio, likes what they see, fills out your contact form, and then waits to hear whether you're free on their date and what you charge. Every hour of that wait gives them time to open another tab, ",
@@ -288,15 +279,6 @@
    "source": "CineD",
    "category": "video",
    "date": "2026-10-02T07:56:41.000Z"
-  },
-  {
-   "title": "Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone",
-   "link": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/",
-   "summary": "Black Forest Labs has released Flux 3 Image, the image side of its Flux 3 model family. It supports multi-step edits without changing other parts of the image, lets users compose scenes with bounding boxes and up to ten ",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/flux_3_image.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-02T07:44:44.000Z"
   },
   {
    "title": "Whatever AI Safety Is, It’s Not This",
@@ -434,15 +416,6 @@
    "date": "2026-10-01T18:14:42.000Z"
   },
   {
-   "title": "Nearly half of test subjects mistook Tavus&#039; AI video avatar for a real person on a one-minute call",
-   "link": "https://the-decoder.com/nearly-half-of-test-subjects-mistook-tavus-ai-video-avatar-for-a-real-person-on-a-one-minute-call/",
-   "summary": "Tavus has introduced Griffin, what the company calls the first \"Human Interaction Model.\" The AI holds video calls in real time, processing facial expressions, tone of voice, and gestures. In a Tavus study, 48 percent of",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/griffin_demo.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-01T18:03:40.000Z"
-  },
-  {
    "title": "Photographer Retraces William the Conqueror’s Route Across England",
    "link": "https://petapixel.com/2026/10/01/photographer-retraces-william-the-conquerors-route-across-england/",
    "summary": "A photographer has retraced the route that William the Conqueror took across England after the Norman duke landed on the southern coast in 1066. [ Read More ]",
@@ -477,15 +450,6 @@
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-01T17:44:52.000Z"
-  },
-  {
-   "title": "Ideogram says its new model can edit part of an image without messing up the rest",
-   "link": "https://the-decoder.com/ideogram-says-its-new-model-can-edit-part-of-an-image-without-messing-up-the-rest/",
-   "summary": "Ideogram's new model Ideogram 4.5 promises to edit only the areas you want while keeping the rest of the image intact. It ships with native 2K resolution starting at 0.8 cents per image, and partners like Runway, Pika, a",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-01T17:33:03.000Z"
   },
   {
    "title": "Film Quote of the Day: Groucho Marx's Best Insult Disguised as a Compliment",
@@ -650,24 +614,6 @@
    "date": "2026-10-01T14:36:50.000Z"
   },
   {
-   "title": "Anthropic brings Claude to civilian agencies as its fight with the Pentagon drags on",
-   "link": "https://the-decoder.com/anthropic-brings-claude-to-civilian-agencies-as-its-fight-with-the-pentagon-drags-on/",
-   "summary": "Anthropic is now offering Claude for Government to US federal and state agencies. The platform runs in a FedRAMP High environment, the strictest US security level for cloud services. Agencies get the same features as ent",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/claude_government.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-01T14:26:54.000Z"
-  },
-  {
-   "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-   "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-   "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/DSC01567.jpg?resize=1200,801",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-01T14:00:00.000Z"
-  },
-  {
    "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
    "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
    "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah.&#160; The idea was to build the world’s biggest data center — a 40,000",
@@ -686,6 +632,15 @@
    "date": "2026-10-01T14:00:00.000Z"
   },
   {
+   "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+   "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+   "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/DSC01567.jpg?resize=1200,801",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-01T14:00:00.000Z"
+  },
+  {
    "title": "Social media image sizes for all networks [October 2026]",
    "link": "https://blog.hootsuite.com/social-media-image-sizes-guide/",
    "summary": "The most recent image sizes for different social media networks, including Instagram, X, Facebook, LinkedIn, TikTok, Bluesky, and more. The post Social media image sizes for all networks [October 2026] appeared first on ",
@@ -693,15 +648,6 @@
    "source": "Hootsuite",
    "category": "instagram",
    "date": "2026-10-01T13:37:09.000Z"
-  },
-  {
-   "title": "Security startup finds more than 13,000 internal company screenshots that AI agents uploaded publicly",
-   "link": "https://the-decoder.com/security-startup-finds-more-than-13000-internal-company-screenshots-that-ai-agents-uploaded-publicly/",
-   "summary": "AI agents quietly posted more than 13,000 internal screenshots from 343 organizations, including Fortune 500 companies, to public GitHub repos. Because the platform didn't offer a protected way to upload them, the agents",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/09/glow_github.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-01T13:19:33.000Z"
   },
   {
    "title": "Sony FX5 Lab Test: New Full-Frame Benchmark &#124; DJI &#038; Insta360 Outship Mirrorless Cameras – Focus Check ep136",
@@ -729,15 +675,6 @@
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-01T13:00:00.000Z"
-  },
-  {
-   "title": "AI beats Stratego&#039;s greatest player, ending one of the last human strongholds in board games",
-   "link": "https://the-decoder.com/ai-beats-strategos-greatest-player-ending-one-of-the-last-human-strongholds-in-board-games/",
-   "summary": "The AI system Ataraxos has decisively beaten the best Stratego player of all time. The board game is a tough test for AI because both sides set up their pieces face down. Google Deepmind fell short in 2023 despite a mult",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/Stratego-Ataraxos-title.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-01T12:58:02.000Z"
   },
   {
    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
@@ -956,15 +893,6 @@
    "date": "2026-09-30T18:25:04.000Z"
   },
   {
-   "title": "The 10 Most Unusual James Bond Villains",
-   "link": "https://nofilmschool.com/most-unusual-james-bond-villains",
-   "summary": "Until about a decade ago, James Bond was pretty unapologetically gimmicky. Villains had goofy names and goofier plans, and M gave Bond ridiculous spy tools to use on his missions. Bond was suave as ever, but sometimes to",
-   "image": "https://nofilmschool.com/media-library/boris-grishenko.jpg?id=68002509&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-09-30T18:15:04.000Z"
-  },
-  {
    "title": "Is Pixieset Photo Editor a Lightroom Alternative for Photographers?",
    "link": "https://fstoppers.com/sponsored/pixieset-photo-editor-lightroom-alternative-photographers-903950?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
    "summary": "For over a decade, Pixieset has built its name on gallery hosting and then expanded into photography business management with Studio Manager. Now it turns its head to tackling what happens in the gap between the shoot an",
@@ -1017,15 +945,6 @@
    "source": "Ars Technica",
    "category": "ai",
    "date": "2026-09-30T15:54:52.000Z"
-  },
-  {
-   "title": "How Many Lightroom Classic Catalogs Do You Actually Need?",
-   "link": "https://fstoppers.com/lightroom/how-many-lightroom-classic-catalogs-actually-need-904854?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "The way you set up your Lightroom Classic catalog decides how fast you can find a shoot from two years ago and how much work your next backup will be. Most people make that call in their first month with the software, lo",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/09/cover_31.jpg.webp?itok=3L3XkBgb",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-09-30T15:03:01.000Z"
   },
   {
    "title": "Instagram rolls out an AI video assistant for creators",
@@ -1152,15 +1071,6 @@
    "source": "Ars Technica",
    "category": "ai",
    "date": "2026-09-29T18:11:09.000Z"
-  },
-  {
-   "title": "Anthropic Says It Discovered a Crispr-Like System. Now What?",
-   "link": "https://www.wired.com/story/anthropic-says-it-discovered-a-crispr-like-system-now-what/",
-   "summary": "“The experiments are still in the queue. The PR is already live,” says one expert.",
-   "image": "https://media.wired.com/photos/6abbc40baa4c41ce1b0d6fa0/master/pass/092926-AI%20Science%20Discovery.jpg",
-   "source": "WIRED",
-   "category": "ai",
-   "date": "2026-09-29T18:03:01.000Z"
   },
   {
    "title": "OM System PEN studio scene: see how much image quality you can carry with you",
