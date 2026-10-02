@@ -1,6 +1,33 @@
 {
- "updated": "2026-10-02T20:45:57.297Z",
+ "updated": "2026-10-02T21:15:21.740Z",
  "items": [
+  {
+   "title": "Sean Parker is rebuilding Stability AI around music",
+   "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+   "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sean-Parker.jpg?w=1024",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-02T21:09:14.000Z"
+  },
+  {
+   "title": "Meta open sources code to let you make Muse AI gadgets",
+   "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+   "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, ad",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-02T21:08:37.000Z"
+  },
+  {
+   "title": "When Officials Talked About Killing Reporters, Ben Klein Made a Movie About It",
+   "link": "https://nofilmschool.com/kill-bury-print-ben-klein",
+   "summary": "In March 2023, the publisher of the McCurtain Gazette in Idabel, Oklahoma, suspected that county officials were conducting business after a public meeting had ended, which would violate the state's Open Meeting Act. So B",
+   "image": "https://nofilmschool.com/media-library/kill-bury-print.jpg?id=68022102&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-02T21:00:03.000Z"
+  },
   {
    "title": "Red Bull Champions the Challenges of Adventure Photography",
    "link": "https://petapixel.com/2026/10/02/red-bull-champions-the-challenges-of-adventure-photography/",
@@ -794,24 +821,6 @@
    "date": "2026-10-01T17:08:49.000Z"
   },
   {
-   "title": "Amazon releases its own Jev clone as decision models flood the web",
-   "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-   "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/William_Stanley_Jevons_portrait_extract.jpg?w=726",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-01T16:49:22.000Z"
-  },
-  {
-   "title": "This New Brightin Star 50mm Lens is Set to Bring Three Switchable Rendering Styles",
-   "link": "https://nofilmschool.com/brightin-star-mf-50mm-f-2-tri-sight-lens-2677975707",
-   "summary": "Everyone loves a good nifty fifty lens . It’s a staple for photographers and videographers alike to keep in their bags and use as a top prime lens option for shots that need that extra personal, cinematic look. However, ",
-   "image": "https://nofilmschool.com/media-library/brightin-star-mf-50mm-f-2-tri-sight-lens.png?id=68021194&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-01T16:45:04.000Z"
-  },
-  {
    "title": "With most information hidden, the game Stratego had stumped AI—until now",
    "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
    "summary": "Adding in a second neural network that guesses the identity of hidden pieces was key.",
@@ -846,15 +855,6 @@
    "source": "Fstoppers",
    "category": "photo",
    "date": "2026-10-01T15:03:02.000Z"
-  },
-  {
-   "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-   "summary": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297767958.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-01T14:36:50.000Z"
   },
   {
    "title": "Why the difference between launch price and street price matters",
