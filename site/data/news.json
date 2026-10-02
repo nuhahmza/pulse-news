@@ -1,6 +1,42 @@
 {
- "updated": "2026-10-02T20:15:08.221Z",
+ "updated": "2026-10-02T20:45:57.297Z",
  "items": [
+  {
+   "title": "Red Bull Champions the Challenges of Adventure Photography",
+   "link": "https://petapixel.com/2026/10/02/red-bull-champions-the-challenges-of-adventure-photography/",
+   "summary": "What does it take to photograph action sports like the Red Bull Rampage from the edge of a cliff? A lot! [ Read More ]",
+   "image": "https://petapixel.com/assets/uploads/2026/10/Red-Bull-Rampage-Gallery-NYC-PetaPixel-Cover.jpg",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-02T20:30:28.000Z"
+  },
+  {
+   "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
+   "link": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+   "summary": "Amazon praised for ending NDAs but slammed for downplaying data center pollution.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2292181016.jpg",
+   "source": "Ars Technica",
+   "category": "ai",
+   "date": "2026-10-02T20:30:27.000Z"
+  },
+  {
+   "title": "Uniting LED Volumes and Live Visual Chaos: Cinematographer Bradford Lipson on 'Rolling Loud'",
+   "link": "https://nofilmschool.com/uniting-led-volumes-and-live-visual-chaos-cinematographer-bradford-lipson-on-rolling-loud",
+   "summary": "How do you film a scripted narrative in the middle of a massive, multi-day music festival featuring tens of thousands of hyped fans, unpredictable weather, and dynamic concert lighting? If you’re director Jeremy Garelick",
+   "image": "https://nofilmschool.com/media-library/rolling-loud.png?id=68039828&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-02T20:30:03.000Z"
+  },
+  {
+   "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+   "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+   "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users w",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-02T20:08:40.000Z"
+  },
   {
    "title": "Wildlife photography’s funniest competition just hit a milestone, and the 2026 finalists are here",
    "link": "https://www.dpreview.com/photography/wildlife-photographys-funniest-competition-just-hit-a-milestone-and-the-2026-finalists-are-here/",
@@ -704,15 +740,6 @@
    "date": "2026-10-01T18:03:40.000Z"
   },
   {
-   "title": "Photographer Retraces William the Conqueror’s Route Across England",
-   "link": "https://petapixel.com/2026/10/01/photographer-retraces-william-the-conquerors-route-across-england/",
-   "summary": "A photographer has retraced the route that William the Conqueror took across England after the Norman duke landed on the southern coast in 1066. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/Peter-Caton-William-the-Conquerer.jpg",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-01T18:00:22.000Z"
-  },
-  {
    "title": "Who's Telling Your Story? The Framing Question Horror Writers Keep Getting Wrong",
    "link": "https://nofilmschool.com/framing-device-horror-screenwriting",
    "summary": "When you are writing a story, there are a few unspoken rules that you agree to. Namely, that you as author are positioning yourself as an observer of some kind (omniscient, most likely) retroactively sharing the events t",
@@ -794,15 +821,6 @@
    "date": "2026-10-01T16:28:04.000Z"
   },
   {
-   "title": "Why Good Lighting Is Never Just One Setup",
-   "link": "https://nofilmschool.com/will-stone-lighting-approach",
-   "summary": "Lighting can be beautiful, but it often comes down to a formula that you can copy yourself in your own cinematography. Lighting tutorials love a formula . Key here, fill there, neg here. Done! However, anyone who's worke",
-   "image": "https://nofilmschool.com/media-library/your-monster.jpg?id=67920764&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-01T16:15:04.000Z"
-  },
-  {
    "title": "The Camera Strap Everyone Else Has to Beat? Peak Design Slide Lite",
    "link": "https://fstoppers.com/gear/camera-strap-everyone-else-beat-peak-design-slide-lite-904397?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
    "summary": "A camera strap is just a camera strap. Right? Peak Design changed that with a Kickstarter back in 2014, and having only undergone one or two subtle changes over the years, it still sets the standard. [ Read More ]",
@@ -837,15 +855,6 @@
    "source": "The Verge",
    "category": "ai",
    "date": "2026-10-01T14:36:50.000Z"
-  },
-  {
-   "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
-   "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
-   "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah.&#160; The idea was to build the world’s biggest data center — a 40,000",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_1001_Oleary.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-01T14:00:00.000Z"
   },
   {
    "title": "Why the difference between launch price and street price matters",
@@ -1233,15 +1242,6 @@
    "source": "CineD",
    "category": "video",
    "date": "2026-09-29T14:29:04.000Z"
-  },
-  {
-   "title": "OpenAI says planned GPT-6.1 is too insecure to release",
-   "link": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
-   "summary": "Similar performance, security trade-offs also seen in current public models.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1822585391-1152x648.jpg",
-   "source": "Ars Technica",
-   "category": "ai",
-   "date": "2026-09-29T14:22:31.000Z"
   },
   {
    "title": "Expanding Instagram’s School Partnership Program to Help Teens Stay Informed",
