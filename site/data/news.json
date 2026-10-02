@@ -1,6 +1,15 @@
 {
- "updated": "2026-10-02T19:16:20.673Z",
+ "updated": "2026-10-02T19:45:42.197Z",
  "items": [
+  {
+   "title": "Anthropic co-founder reportedly told religious leaders he fears having created something that \"suffers perpetually\"",
+   "link": "https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/",
+   "summary": "Since fall 2025, Anthropic has quietly flown in dozens of religious thinkers to talk about whether Claude might be conscious. Co-founder Christopher Olah described the language model as potentially capable of suffering a",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/anthropic_religious_meetings.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-02T19:41:05.000Z"
+  },
   {
    "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
    "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
@@ -846,15 +855,6 @@
    "source": "Hootsuite",
    "category": "instagram",
    "date": "2026-10-01T13:37:09.000Z"
-  },
-  {
-   "title": "Security startup finds more than 13,000 internal company screenshots that AI agents uploaded publicly",
-   "link": "https://the-decoder.com/security-startup-finds-more-than-13000-internal-company-screenshots-that-ai-agents-uploaded-publicly/",
-   "summary": "AI agents quietly posted more than 13,000 internal screenshots from 343 organizations, including Fortune 500 companies, to public GitHub repos. Because the platform didn't offer a protected way to upload them, the agents",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/09/glow_github.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-01T13:19:33.000Z"
   },
   {
    "title": "Sony FX5 Lab Test: New Full-Frame Benchmark &#124; DJI &#038; Insta360 Outship Mirrorless Cameras – Focus Check ep136",
