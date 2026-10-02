@@ -1,6 +1,15 @@
 {
- "updated": "2026-10-02T11:11:19.942Z",
+ "updated": "2026-10-02T11:23:04.745Z",
  "items": [
+  {
+   "title": "AI beats licensed accountants on speed and accuracy, but still can&#039;t close the books without supervision",
+   "link": "https://the-decoder.com/ai-beats-licensed-accountants-on-speed-and-accuracy-but-still-cant-close-the-books-without-supervision/",
+   "summary": "According to a Mercor study, current AI models now outperform licensed CPAs on structured accounting tasks in both speed and accuracy. Eighteen months ago, they still lagged far behind. On the more demanding APEX Benchma",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/mercor_accountants.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-02T11:15:24.000Z"
+  },
   {
    "title": "33 Hilarious Photos From the Nikon Comedy Wildlife Awards",
    "link": "https://petapixel.com/2026/10/02/33-hilarious-photos-from-the-nikon-comedy-wildlife-awards/",
@@ -20,6 +29,15 @@
    "date": "2026-10-02T09:53:23.000Z"
   },
   {
+   "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+   "link": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+   "summary": "While the focus has been on AI agents’ hacking capabilities, a recently patched vulnerability in a ChatGPT app shows that AI software is itself an inviting—and vulnerable—target.",
+   "image": "https://media.wired.com/photos/6abc2c32f3865c0127252ad0/master/pass/GettyImages-2278945913.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-10-02T09:45:00.000Z"
+  },
+  {
    "title": "AI music maker Suno now generates spoken words",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
    "summary": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platfo",
@@ -27,6 +45,33 @@
    "source": "The Verge",
    "category": "ai",
    "date": "2026-10-02T09:42:19.000Z"
+  },
+  {
+   "title": "Health Care Workers Are Tired of Cleaning Up Palantir’s Mess",
+   "link": "https://www.wired.com/story/healthcare-workers-are-tired-of-cleaning-up-palantirs-mess/",
+   "summary": "A hospital giant and radiology network turned to Palantir to streamline scheduling, but nurses and other staff say the new software is causing errors, burnout, and frustration.",
+   "image": "https://media.wired.com/photos/6abeb2ae10b6b4f5a5628f89/master/pass/Palantir-Nurse-Strike-e2fab562-387a-496b-b88c-027860c47584.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-10-02T09:30:00.000Z"
+  },
+  {
+   "title": "Microsoft AI releases new transcription and text-to-speech models for voice agents",
+   "link": "https://the-decoder.com/microsoft-ai-releases-new-transcription-and-text-to-speech-models-for-voice-agents/",
+   "summary": "Microsoft AI has released MAI-Transcribe-2-Streaming, a new model for real-time transcription. The article Microsoft AI releases new transcription and text-to-speech models for voice agents appeared first on The Decoder ",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/MAI-quotation_marks_swarm_hq-1920x1167-1.webp",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-02T09:20:39.000Z"
+  },
+  {
+   "title": "Businesses are using more AI and paying less for it, Ramp AI Index shows",
+   "link": "https://the-decoder.com/businesses-are-using-more-ai-and-paying-less-for-it-ramp-ai-index-shows/",
+   "summary": "US companies are spending less on AI, according to the latest Ramp AI Index from Ramp economist Ara Kharazian. The article Businesses are using more AI and paying less for it, Ramp AI Index shows appeared first on The De",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/04/fipo-qwen-training-policy-nano-banana-pro.jpg",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-02T09:09:21.000Z"
   },
   {
    "title": "Don’t be fooled—LLMs don’t reason",
@@ -45,6 +90,24 @@
    "source": "CineD",
    "category": "video",
    "date": "2026-10-02T07:56:41.000Z"
+  },
+  {
+   "title": "Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone",
+   "link": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/",
+   "summary": "Black Forest Labs has released Flux 3 Image, the image side of its Flux 3 model family. It supports multi-step edits without changing other parts of the image, lets users compose scenes with bounding boxes and up to ten ",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/flux_3_image.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-02T07:44:44.000Z"
+  },
+  {
+   "title": "Whatever AI Safety Is, It’s Not This",
+   "link": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
+   "summary": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
+   "image": "https://media.wired.com/photos/6abd667878587a545496ec2f/master/pass/Model-Behavior-Trump-AI-Business.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-10-01T22:10:42.000Z"
   },
   {
    "title": "Critique the Community: Scary",
@@ -110,6 +173,15 @@
    "date": "2026-10-01T20:11:55.000Z"
   },
   {
+   "title": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
+   "link": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/",
+   "summary": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US midterms.",
+   "image": "https://media.wired.com/photos/6abd98d540aa0c6f065eedf5/master/pass/Uncanny-Valley-Morally-Bound-WH-Accord-Business-2297777029.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-10-01T19:58:31.000Z"
+  },
+  {
    "title": "Award-Winning Photo of City-Dwelling Beavers Celebrates Wildlife’s Strength",
    "link": "https://petapixel.com/2026/10/01/award-winning-photo-of-city-dwelling-beavers-celebrates-wildlifes-strength/",
    "summary": "Polish photographer Jan Wieczorek's striking black-and-white wildlife photo, \"Urban Beavers,\" is this year's Rewilding Europe Award winner. [ Read More ]",
@@ -164,6 +236,15 @@
    "date": "2026-10-01T18:14:42.000Z"
   },
   {
+   "title": "Nearly half of test subjects mistook Tavus&#039; AI video avatar for a real person on a one-minute call",
+   "link": "https://the-decoder.com/nearly-half-of-test-subjects-mistook-tavus-ai-video-avatar-for-a-real-person-on-a-one-minute-call/",
+   "summary": "Tavus has introduced Griffin, what the company calls the first \"Human Interaction Model.\" The AI holds video calls in real time, processing facial expressions, tone of voice, and gestures. In a Tavus study, 48 percent of",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/griffin_demo.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-01T18:03:40.000Z"
+  },
+  {
    "title": "Photographer Retraces William the Conqueror’s Route Across England",
    "link": "https://petapixel.com/2026/10/01/photographer-retraces-william-the-conquerors-route-across-england/",
    "summary": "A photographer has retraced the route that William the Conqueror took across England after the Norman duke landed on the southern coast in 1066. [ Read More ]",
@@ -198,6 +279,15 @@
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-01T17:44:52.000Z"
+  },
+  {
+   "title": "Ideogram says its new model can edit part of an image without messing up the rest",
+   "link": "https://the-decoder.com/ideogram-says-its-new-model-can-edit-part-of-an-image-without-messing-up-the-rest/",
+   "summary": "Ideogram's new model Ideogram 4.5 promises to edit only the areas you want while keeping the rest of the image intact. It ships with native 2K resolution starting at 0.8 cents per image, and partners like Runway, Pika, a",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/ideogram_45.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-01T17:33:03.000Z"
   },
   {
    "title": "Film Quote of the Day: Groucho Marx's Best Insult Disguised as a Compliment",
@@ -362,13 +452,13 @@
    "date": "2026-10-01T14:36:50.000Z"
   },
   {
-   "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-   "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-   "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/DSC01567.jpg?resize=1200,801",
-   "source": "TechCrunch",
+   "title": "Anthropic brings Claude to civilian agencies as its fight with the Pentagon drags on",
+   "link": "https://the-decoder.com/anthropic-brings-claude-to-civilian-agencies-as-its-fight-with-the-pentagon-drags-on/",
+   "summary": "Anthropic is now offering Claude for Government to US federal and state agencies. The platform runs in a FedRAMP High environment, the strictest US security level for cloud services. Agencies get the same features as ent",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/claude_government.png",
+   "source": "The Decoder",
    "category": "ai",
-   "date": "2026-10-01T14:00:00.000Z"
+   "date": "2026-10-01T14:26:54.000Z"
   },
   {
    "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
@@ -376,6 +466,15 @@
    "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah.&#160; The idea was to build the world’s biggest data center — a 40,000",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_1001_Oleary.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-01T14:00:00.000Z"
+  },
+  {
+   "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+   "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+   "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/DSC01567.jpg?resize=1200,801",
+   "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-01T14:00:00.000Z"
   },
@@ -396,6 +495,15 @@
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-01T13:55:31.000Z"
+  },
+  {
+   "title": "Security startup finds more than 13,000 internal company screenshots that AI agents uploaded publicly",
+   "link": "https://the-decoder.com/security-startup-finds-more-than-13000-internal-company-screenshots-that-ai-agents-uploaded-publicly/",
+   "summary": "AI agents quietly posted more than 13,000 internal screenshots from 343 organizations, including Fortune 500 companies, to public GitHub repos. Because the platform didn't offer a protected way to upload them, the agents",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/09/glow_github.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-01T13:19:33.000Z"
   },
   {
    "title": "Sony FX5 Lab Test: New Full-Frame Benchmark &#124; DJI &#038; Insta360 Outship Mirrorless Cameras – Focus Check ep136",
@@ -434,6 +542,15 @@
    "date": "2026-10-01T13:00:00.000Z"
   },
   {
+   "title": "AI beats Stratego&#039;s greatest player, ending one of the last human strongholds in board games",
+   "link": "https://the-decoder.com/ai-beats-strategos-greatest-player-ending-one-of-the-last-human-strongholds-in-board-games/",
+   "summary": "The AI system Ataraxos has decisively beaten the best Stratego player of all time. The board game is a tough test for AI because both sides set up their pieces face down. Google Deepmind fell short in 2023 despite a mult",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/Stratego-Ataraxos-title.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-01T12:58:02.000Z"
+  },
+  {
    "title": "First-Ever Video of a Ghana Cuckooshrike After 13 Years as a ‘Lost’ Bird Species",
    "link": "https://petapixel.com/2026/10/01/first-ever-video-of-a-ghana-cuckooshrike-after-13-years-as-a-lost-bird-species/",
    "summary": "The Ghana Cuckooshrike -- a \"lost\" bird species that hasn't been seen in 13 years -- was filmed for the first time ever. [ Read More ]",
@@ -441,6 +558,15 @@
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-01T12:47:32.000Z"
+  },
+  {
+   "title": "OpenAI says it stopped a campaign to steal its models&#039; reasoning, but the trick still worked on Azure",
+   "link": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure/",
+   "summary": "OpenAI says it stopped a coordinated campaign in which more than 15,000 accounts tried to copy the hidden reasoning of its models. The company ties part of the activity to people connected to Moonshot AI. But researchers",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_gpt_6_stars_astra.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-01T12:05:49.000Z"
   },
   {
    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
@@ -596,6 +722,15 @@
    "date": "2026-09-30T20:41:41.000Z"
   },
   {
+   "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
+   "link": "https://www.wired.com/story/trumps-ai-safety-accord-is-a-fancy-pinky-swear/",
+   "summary": "Six major AI companies signed a voluntary agreement with the White House this week vowing to implement safeguards. It’s unclear how much that matters.",
+   "image": "https://media.wired.com/photos/6abd59726a04d6e6fe37da5a/master/pass/093026-ai-regulations.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-09-30T20:30:09.000Z"
+  },
+  {
    "title": "Apple’s Final Cut Camera Gets a Major Update With a New Design and Support for Variable Aperture",
    "link": "https://nofilmschool.com/final-cut-camera-update-2-4",
    "summary": "While the world anxiously awaits the release of the latest iPhone models, Apple is doing its due diligence to prepare its range of ancillary products to handle the iPhone 18 Pro and its unique shooting capabilities. The ",
@@ -641,6 +776,15 @@
    "date": "2026-09-30T19:31:25.000Z"
   },
   {
+   "title": "The Battle to Be Your Personal AI Agent Is Here",
+   "link": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/",
+   "summary": "OpenAI's Dots and Meta's Muse are vying to be your AI agent of choice. I've tried both—and I suspect you will too.",
+   "image": "https://media.wired.com/photos/6abc30af03c559dbc086f308/master/pass/AI-Lab-AI-Agent-War-Business.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-09-30T19:30:00.000Z"
+  },
+  {
    "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
    "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
    "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
@@ -648,6 +792,15 @@
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-09-30T19:00:57.000Z"
+  },
+  {
+   "title": "There Are Plenty of Reasons to Be Concerned About Bioweapons Development—Even Without AI",
+   "link": "https://www.wired.com/story/you-dont-need-ai-to-be-concerned-about-bioweapons-development-but-it-helps/",
+   "summary": "In her new book on biological warfare, Annie Jacobsen didn’t even discuss AI because scientists can already warp Mother Nature to create extinction-level events.",
+   "image": "https://media.wired.com/photos/6abc561adcf8a088a1995737/master/pass/science_biological_weapons_ai.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-09-30T19:00:00.000Z"
   },
   {
    "title": "Trump plan to combat AI risks hinges on Big Tech pals policing themselves",
@@ -911,6 +1064,15 @@
    "date": "2026-09-29T21:14:49.000Z"
   },
   {
+   "title": "OpenAI Gets Sued Over the Hugging Face Hack",
+   "link": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
+   "summary": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
+   "image": "https://media.wired.com/photos/6abbb935c1a080d8e4e23844/master/pass/GettyImages-2265991617.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-09-29T19:05:00.000Z"
+  },
+  {
    "title": "Here&#039;s what actually happened in OpenAI&#039;s Australian gov&#039;t server hack",
    "link": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
    "summary": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\"",
@@ -918,168 +1080,6 @@
    "source": "Ars Technica",
    "category": "ai",
    "date": "2026-09-29T18:11:09.000Z"
-  },
-  {
-   "title": "OM System PEN studio scene: see how much image quality you can carry with you",
-   "link": "https://www.dpreview.com/articles/om-system-pen-studio-scene-see-how-much-image-quality-you-can-carry-with-you/",
-   "summary": "Studio images and Raw analysis back up the performance we saw when out shooting.",
-   "image": "https://www.dpreview.com/wp-content/uploads/2026/08/PI_OM_System_PEN_01.jpg",
-   "source": "DPReview",
-   "category": "photo",
-   "date": "2026-09-29T16:36:19.000Z"
-  },
-  {
-   "title": "7Artisans’ 109g 18mm F2 is an ultra-light autofocus prime for APS-C Sony cameras",
-   "link": "https://www.dpreview.com/news/7artisans-109g-18mm-f2-is-an-ultra-light-autofocus-prime-for-aps-c-sony-cameras/",
-   "summary": "7Artisans says the $169 pancake lens is the lightest autofocus F2 prime lens available for APS-C cameras.",
-   "image": "https://www.dpreview.com/wp-content/uploads/2026/09/M-PI-7Artisans-Af-18mm-F2-Aps-C-E-mount-16x9-Lead-1.jpg",
-   "source": "DPReview",
-   "category": "photo",
-   "date": "2026-09-29T15:22:59.000Z"
-  },
-  {
-   "title": "Polaroid Mod is an instant camera for playing with motion, light and split frames",
-   "link": "https://www.dpreview.com/news/polaroid-mod-is-an-instant-camera-for-playing-with-motion-light-and-split-frames/",
-   "summary": "A new physical mode dial gives photographers four analog creative effects without requiring a phone or app.",
-   "image": "https://www.dpreview.com/wp-content/uploads/2026/09/M-GN-polaroid-mod-camera-lead-16x9-Lead-1.jpg",
-   "source": "DPReview",
-   "category": "photo",
-   "date": "2026-09-29T14:38:45.000Z"
-  },
-  {
-   "title": "Calibrite ColorChecker Turns 50 – 1976 Macbeth Chart, 24 Patches, Virtual Museum and Challenge",
-   "link": "https://www.cined.com/calibrite-colorchecker-turns-50-1976-macbeth-chart-24-patches-virtual-museum-and-challenge/",
-   "summary": "The ColorChecker, the 24-patch color reference chart that has sat in front of film cameras, digital cinema cameras, and lab test rigs since 1976, is turning 50. Calibrite, which has owned the brand since 2021, has launch",
-   "image": "https://www.cined.com/content/uploads/2026/09/ColorChecker-2-300x169.jpeg",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-09-29T14:29:04.000Z"
-  },
-  {
-   "title": "OpenAI says planned GPT-6.1 is too insecure to release",
-   "link": "https://arstechnica.com/ai/2026/09/openai-says-planned-gpt-6-1-is-too-insecure-to-release/",
-   "summary": "Similar performance, security trade-offs also seen in current public models.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1822585391-1152x648.jpg",
-   "source": "Ars Technica",
-   "category": "ai",
-   "date": "2026-09-29T14:22:31.000Z"
-  },
-  {
-   "title": "Anthropic’s IPO pitch includes a warning about human extinction",
-   "link": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
-   "summary": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/claudebyanthropic-1024x648.jpg",
-   "source": "Ars Technica",
-   "category": "ai",
-   "date": "2026-09-29T14:10:00.000Z"
-  },
-  {
-   "title": "Interview: Firefox&#039;s chief on why he hopes a redesign will help win users from Chrome",
-   "link": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/",
-   "summary": "Mozilla's Ajit Varma explains why a redesign suits the fight for the open web.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Firefox-header-1-1152x648-1790642597.jpg",
-   "source": "Ars Technica",
-   "category": "ai",
-   "date": "2026-09-29T13:00:19.000Z"
-  },
-  {
-   "title": "DriveShelf for Mac Released – Search Unplugged Drives, Cross-Drive Duplicate Finder, Free iPhone Companion",
-   "link": "https://www.cined.com/driveshelf-for-mac-released-search-unplugged-drives-cross-drive-duplicate-finder-free-iphone-companion/",
-   "summary": "Built by Bangkok-based director Sergiy Pudich, DriveShelf is a Mac app that catalogs every external drive you connect, so its contents stay searchable after the drive goes back on the shelf, and it now comes with a free ",
-   "image": "https://www.cined.com/content/uploads/2026/09/DriveShelf-feature-300x169.jpg",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-09-29T12:46:43.000Z"
-  },
-  {
-   "title": "Imagen challenges the fixed cull-then-edit workflow with its newest update",
-   "link": "https://www.dpreview.com/articles/imagens-intelligent-studio-announcement/",
-   "summary": "The update, rolling out from September 29, collapses three separate workflows into a single non-linear environment — a shift that could change how busy photographers structure their post-production day.",
-   "image": "https://www.dpreview.com/wp-content/uploads/2026/09/IMG-36-001-FTE-SEP-lead.jpg",
-   "source": "DPReview",
-   "category": "photo",
-   "date": "2026-09-29T12:30:00.000Z"
-  },
-  {
-   "title": "Making AI an asset, not an expense",
-   "link": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-   "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. Bu",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Cheri-blog.jpg?w=840",
-   "source": "MIT Tech Review",
-   "category": "ai",
-   "date": "2026-09-29T10:43:45.000Z"
-  },
-  {
-   "title": "Vimeo Short Film Grant Returns – $300,000 Prize Pool, Five $60,000 Awards, Panavision Camera Packages",
-   "link": "https://www.cined.com/vimeo-short-film-grant-returns-300000-prize-pool-five-60000-awards-panavision-camera-packages/",
-   "summary": "Vimeo has opened the second edition of its Short Film Grant, doubling the total fund to $300,000 and the individual award to $60,000 for each of five emerging filmmakers. This year’s supporting partners are Panavision, O",
-   "image": "https://www.cined.com/content/uploads/2026/09/Vimeo-Grant-feature-300x169.jpg",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-09-29T09:38:22.000Z"
-  },
-  {
-   "title": "Breaking down Apple’s Reference Image tech that it says “sets a new standard for verifiable” photos",
-   "link": "https://www.dpreview.com/opinion/breaking-down-apples-reference-image-tech-that-it-says-sets-a-new-standard-for-verifiable-photos/",
-   "summary": "The company says existing standards like Content Credentials aren't good enough, so it made its own.",
-   "image": "https://www.dpreview.com/wp-content/uploads/2026/09/reference-dpo1xa7gsdea-large-2x-16x9-Lead-2.jpg",
-   "source": "DPReview",
-   "category": "photo",
-   "date": "2026-09-28T23:36:43.000Z"
-  },
-  {
-   "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-   "link": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-   "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border cross",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/9.21-Roundtables-Thumbnail-1.png?resize=1200,600",
-   "source": "MIT Tech Review",
-   "category": "ai",
-   "date": "2026-09-28T22:17:07.000Z"
-  },
-  {
-   "title": "When can we say AI made a scientific discovery?",
-   "link": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-   "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molec",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/science-ai-gene3.jpg?resize=1200,600",
-   "source": "MIT Tech Review",
-   "category": "ai",
-   "date": "2026-09-28T17:03:16.000Z"
-  },
-  {
-   "title": "HONOR Magic9 Pro Max Launches – ARRI Co-Branding, Native LogC3 Recording, Dual 200MP Cameras",
-   "link": "https://www.cined.com/honor-magic9-pro-max-launches-arri-co-branding-native-logc3-recording-dual-200mp-cameras/",
-   "summary": "HONOR has launched the Magic9 Pro Max in China, and for the first time, the ARRI logo sits on the phone itself and on the box. Following the Robot Phone in August, this is the second device from the two companies’ Cinema",
-   "image": "https://www.cined.com/content/uploads/2026/09/HONOR-Magic9-Pro-Max-300x169.jpeg",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-09-28T13:54:32.000Z"
-  },
-  {
-   "title": "The Viltrox 26mm F2.8 Evo is a small lens big on character",
-   "link": "https://www.dpreview.com/samples/the-viltrox-26mm-f2-8-evo-is-a-small-lens-big-on-character/",
-   "summary": "There are some trade-offs for its price and size.",
-   "image": "https://www.dpreview.com/wp-content/uploads/2026/09/pi_viltrox_af_26mm_evo_on_nikon_z8.jpg",
-   "source": "DPReview",
-   "category": "photo",
-   "date": "2026-09-28T13:00:00.000Z"
-  },
-  {
-   "title": "Sony FX5 Lab Test: Rolling Shutter, Dynamic Range and Exposure Latitude",
-   "link": "https://www.cined.com/sony-fx5-lab-test-rolling-shutter-dynamic-range-and-exposure-latitude/",
-   "summary": "Long anticipated, now a reality: a production version of the new Sony FX5 with final firmware has arrived at our CineD headquarters in Vienna. Time to run it through our standard CineD Lab Test! Curious to hear more? The",
-   "image": "https://www.cined.com/content/uploads/2026/09/Thumbnail_2.1.1-1-300x169.jpg",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-09-28T11:59:14.000Z"
-  },
-  {
-   "title": "Second Reef CheckMate Products Introduced – Cable Tester, Battery Analyzer &#038; Discharger",
-   "link": "https://www.cined.com/second-reef-checkmate-products-introduced-cable-tester-battery-analyzer-discharger/",
-   "summary": "Launched at IBC 2026 and distributed by Second Reef, the new CheckMate product lineup consists of three tools – a Cable Tester, a Battery Analyzer, and a Battery Discharger – that can help rental houses and productions m",
-   "image": "https://www.cined.com/content/uploads/2026/09/Second-Reef-CheckMate-featured-300x169.jpeg",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-09-28T11:00:00.000Z"
   }
  ]
 }
