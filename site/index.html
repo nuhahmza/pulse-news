@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Pulse — AI & Photography News</title>
+  <meta name="description" content="Latest AI, photography and videography news, aggregated automatically from top sources.">
+  <link rel="icon" href="img/placeholder.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=Tajawal:wght@400;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap bar">
+      <div class="brand"><span class="dot"></span><span id="siteName">Pulse</span></div>
+      <input id="q" type="search" autocomplete="off">
+      <button id="langBtn" class="btn" type="button"></button>
+    </div>
+    <div class="wrap">
+      <p id="tag" class="tag"></p>
+      <nav id="tabs" class="tabs"></nav>
+    </div>
+  </header>
+  <main class="wrap">
+    <section id="hero"></section>
+    <section id="grid" class="grid"></section>
+    <p id="msg" class="msg" hidden></p>
+  </main>
+  <footer class="wrap foot"><span id="updated"></span> · Headlines link to the original publishers.</footer>
+  <script type="module" src="app.js"></script>
+</body>
+</html>

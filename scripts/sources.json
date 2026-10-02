@@ -1,0 +1,12 @@
+[
+  { "name": "The Verge",        "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "category": "ai" },
+  { "name": "TechCrunch",       "url": "https://techcrunch.com/category/artificial-intelligence/feed/",     "category": "ai" },
+  { "name": "MIT Tech Review",  "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed", "category": "ai" },
+  { "name": "VentureBeat",      "url": "https://venturebeat.com/category/ai/feed/",                          "category": "ai" },
+  { "name": "Ars Technica",     "url": "https://arstechnica.com/ai/feed/",                                   "category": "ai" },
+  { "name": "PetaPixel",        "url": "https://petapixel.com/feed/",                                        "category": "photo" },
+  { "name": "DPReview",         "url": "https://www.dpreview.com/feeds/news.xml",                            "category": "photo" },
+  { "name": "Fstoppers",        "url": "https://fstoppers.com/rss.xml",                                      "category": "photo" },
+  { "name": "No Film School",   "url": "https://nofilmschool.com/rss.xml",                                   "category": "video" },
+  { "name": "CineD",            "url": "https://www.cined.com/feed/",                                        "category": "video" }
+]
