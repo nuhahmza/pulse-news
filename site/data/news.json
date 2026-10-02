@@ -1,6 +1,42 @@
 {
- "updated": "2026-10-02T14:48:27.660Z",
+ "updated": "2026-10-02T15:18:05.728Z",
  "items": [
+  {
+   "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+   "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+   "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/05/Disrupt-2025-Builders-Stage-Crowd.png?resize=1200,800",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-02T15:00:00.000Z"
+  },
+  {
+   "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
+   "link": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
+   "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump cancelled the term.",
+   "image": "https://media.wired.com/photos/6abe8febd05dc665bd7e9bcd/master/pass/Backchannel-Trump-AI-Business-2297413584.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-10-02T15:00:00.000Z"
+  },
+  {
+   "title": "Save Big on Sigma and Voigtländer E-Mount Lenses",
+   "link": "https://petapixel.com/2026/10/02/save-big-on-sigma-and-voigtlander-e-mount-lenses/",
+   "summary": "One of the greatest strengths of E-mount is how many outstanding E-mount lenses there are. Sony makes a lot of lenses, but there are also a wild number of third-party E-mount lenses available. Right now, many are on disc",
+   "image": "https://petapixel.com/assets/uploads/2026/10/sigma-voigtlander-e-mount-featured.jpg",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-02T14:59:14.000Z"
+  },
+  {
+   "title": "The 7-year-old Nvidia Shield TV is now $100 more expensive thanks to AI",
+   "link": "https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai/",
+   "summary": "Initially launched in 2019, the Nvidia Shield TV Pro now retails for $299.99.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/01/Shield-10-yrs-1-1152x648.jpg",
+   "source": "Ars Technica",
+   "category": "ai",
+   "date": "2026-10-02T14:52:16.000Z"
+  },
   {
    "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
    "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
@@ -569,20 +605,20 @@
    "date": "2026-10-01T14:26:54.000Z"
   },
   {
-   "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-   "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-   "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/DSC01567.jpg?resize=1200,801",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-01T14:00:00.000Z"
-  },
-  {
    "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
    "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
    "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah.&#160; The idea was to build the world’s biggest data center — a 40,000",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_1001_Oleary.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-01T14:00:00.000Z"
+  },
+  {
+   "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+   "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+   "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/DSC01567.jpg?resize=1200,801",
+   "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-01T14:00:00.000Z"
   },
@@ -686,15 +722,6 @@
    "date": "2026-10-01T12:00:00.000Z"
   },
   {
-   "title": "Toledo Museum of Art Acquires 19th Century Photo Series Hailed as Among the Most Important Images Ever",
-   "link": "https://petapixel.com/2026/10/01/toledo-museum-of-art-acquires-19th-century-photo-series-hailed-as-among-the-most-important-images-ever/",
-   "summary": "The Toledo Museum of Art has acquired a landmark 19th century photograph that the museum says ranks among the most important photographic works in history, despite being largely unknown to the public. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/toledo-museum-of-art-acquisition.jpg",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-01T11:53:34.000Z"
-  },
-  {
    "title": "Huawei Launch Event &#8211; Mate90 Mobile Phone Series, Ruiying Z10 1-Inch Sensor Modular Camera, and a DJI Osmo Pocket 4 Collaboration",
    "link": "https://www.cined.com/huawei-launch-event-mate90-mobile-phone-series-ruiying-z10-1-inch-sensor-modular-camera-and-a-dji-osmo-pocket-4-collaboration/",
    "summary": "Huawei has announced the Ruiying Z10, a clip-on camera module with its own 1-inch 50MP sensor and a 24-240mm equivalent f/2.0-4.5 power zoom that mounts to the back of the new Mate 90 Pro Max Collector’s Edition and Mate",
@@ -783,15 +810,6 @@
    "source": "No Film School",
    "category": "video",
    "date": "2026-09-30T21:15:04.000Z"
-  },
-  {
-   "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-   "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-   "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-09-30T21:07:40.000Z"
   },
   {
    "title": "Rosie the Riveter Was the Wrong Woman for Thirty Years, and a Caption Glued to the Back of a Press Print Fixed It",
@@ -1145,15 +1163,6 @@
    "date": "2026-09-29T18:03:01.000Z"
   },
   {
-   "title": "OpenAI’s Dots Are Always-On AI Agents—and Its Answer to Meta’s Muse",
-   "link": "https://www.wired.com/story/openai-dots-always-on-ai-agents-that-proactively-help/",
-   "summary": "These cute agents are designed to connect to your apps and tackle multistep tasks.",
-   "image": "https://media.wired.com/photos/6abbcee9422fade848ea964d/master/pass/Dots%20Hero%20Image.png",
-   "source": "WIRED",
-   "category": "ai",
-   "date": "2026-09-29T17:15:00.000Z"
-  },
-  {
    "title": "OM System PEN studio scene: see how much image quality you can carry with you",
    "link": "https://www.dpreview.com/articles/om-system-pen-studio-scene-see-how-much-image-quality-you-can-carry-with-you/",
    "summary": "Studio images and Raw analysis back up the performance we saw when out shooting.",
@@ -1215,15 +1224,6 @@
    "source": "Meta Newsroom",
    "category": "instagram",
    "date": "2026-09-29T13:00:38.000Z"
-  },
-  {
-   "title": "Interview: Firefox&#039;s chief on why he hopes a redesign will help win users from Chrome",
-   "link": "https://arstechnica.com/gadgets/2026/09/mozillas-head-of-firefox-talks-product-priorities-ai-skepticism-and-browser-choice/",
-   "summary": "Mozilla's Ajit Varma explains why a redesign suits the fight for the open web.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Firefox-header-1-1152x648-1790642597.jpg",
-   "source": "Ars Technica",
-   "category": "ai",
-   "date": "2026-09-29T13:00:19.000Z"
   },
   {
    "title": "DriveShelf for Mac Released – Search Unplugged Drives, Cross-Drive Duplicate Finder, Free iPhone Companion",
