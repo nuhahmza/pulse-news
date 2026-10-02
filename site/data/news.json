@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T12:19:56.550Z",
+ "updated": "2026-10-02T12:50:43.196Z",
  "items": [
   {
    "title": "FUJIFILM Fujikina NYC 2026 Program Detailed – 85 Add-On Sessions, Movie Stills Talks, Short Film Screening",
@@ -9,24 +9,6 @@
    "source": "CineD",
    "category": "video",
    "date": "2026-10-02T12:00:09.000Z"
-  },
-  {
-   "title": "If a data center is camouflaged in the woods, will anyone hate it?",
-   "link": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
-   "summary": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings. But that's changed in recent years, as data centers have ",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268788_Datacenter_biomimicry_PARKIN_2-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-02T12:00:00.000Z"
-  },
-  {
-   "title": "Amazon writes scary blog warning communities not to block data centers",
-   "link": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
-   "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed b",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-02T11:52:20.000Z"
   },
   {
    "title": "Court Orders Man to Be Resentenced After Judge Was Affected by AI Video",
@@ -108,6 +90,15 @@
    "source": "The Decoder",
    "category": "ai",
    "date": "2026-10-02T09:09:21.000Z"
+  },
+  {
+   "title": "Should Wedding Photographers Post Their Prices Online?",
+   "link": "https://fstoppers.com/education/should-wedding-photographers-post-their-prices-online-904890?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "A couple finds your portfolio, likes what they see, fills out your contact form, and then waits to hear whether you're free on their date and what you charge. Every hour of that wait gives them time to open another tab, ",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_0.jpg.webp?itok=MfvTvFXQ",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-02T09:03:01.000Z"
   },
   {
    "title": "Don’t be fooled—LLMs don’t reason",
@@ -497,20 +488,20 @@
    "date": "2026-10-01T14:26:54.000Z"
   },
   {
-   "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-   "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-   "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/DSC01567.jpg?resize=1200,801",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-01T14:00:00.000Z"
-  },
-  {
    "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
    "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
    "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah.&#160; The idea was to build the world’s biggest data center — a 40,000",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_1001_Oleary.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-01T14:00:00.000Z"
+  },
+  {
+   "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+   "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+   "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/DSC01567.jpg?resize=1200,801",
+   "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-01T14:00:00.000Z"
   },
@@ -929,6 +920,15 @@
    "date": "2026-09-30T17:45:03.000Z"
   },
   {
+   "title": "Here’s what AI leaders are saying about Trump’s new safety plan",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+   "summary": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fe",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297777001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-09-30T17:15:49.000Z"
+  },
+  {
    "title": "Why your sense of camera prices might be out-of-date",
    "link": "https://www.dpreview.com/articles/why-your-sense-of-camera-prices-might-be-out-of-date/",
    "summary": "Cameras and lenses can seem more expensive than ever, but a lot of that is out of the manufacturers' hands",
@@ -963,6 +963,15 @@
    "source": "Ars Technica",
    "category": "ai",
    "date": "2026-09-30T15:54:52.000Z"
+  },
+  {
+   "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+   "summary": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises — if you’re willing to trust Meta",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-09-30T15:18:49.000Z"
   },
   {
    "title": "How Many Lightroom Classic Catalogs Do You Actually Need?",
@@ -1053,15 +1062,6 @@
    "source": "CineD",
    "category": "video",
    "date": "2026-09-30T12:55:50.000Z"
-  },
-  {
-   "title": "What Separates a Good Photo From One That Makes You Better",
-   "link": "https://fstoppers.com/education/what-separates-good-photo-one-makes-better-904852?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "You can shoot thousands of frames in a busy wedding season and still struggle to name the few that pushed your work forward. Separating the images that pleased a client from the ones that changed how you shoot is a usefu",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/09/cover_29.jpg.webp?itok=-GyRdoLL",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-09-30T11:03:01.000Z"
   },
   {
    "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
