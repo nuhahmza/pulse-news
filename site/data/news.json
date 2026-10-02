@@ -1,6 +1,15 @@
 {
- "updated": "2026-10-02T12:50:43.196Z",
+ "updated": "2026-10-02T13:18:04.794Z",
  "items": [
+  {
+   "title": "Three firings and a fourth departure shake up OpenAI&#039;s safety team",
+   "link": "https://the-decoder.com/three-firings-and-a-fourth-departure-shake-up-openais-safety-team/",
+   "summary": "OpenAI has parted ways with three researchers who allegedly leaked confidential information to an outside AI safety organization, according to the Wall Street Journal. The article Three firings and a fourth departure sha",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-1.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-02T12:51:08.000Z"
+  },
   {
    "title": "FUJIFILM Fujikina NYC 2026 Program Detailed – 85 Add-On Sessions, Movie Stills Talks, Short Film Screening",
    "link": "https://www.cined.com/fujifilm-fujikina-nyc-2026-program-detailed-85-add-on-sessions-movie-stills-talks-short-film-screening/",
@@ -9,6 +18,33 @@
    "source": "CineD",
    "category": "video",
    "date": "2026-10-02T12:00:09.000Z"
+  },
+  {
+   "title": "AI hallucinations are making entitled customers even worse",
+   "link": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+   "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, and I'll come back, a",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-02T12:00:00.000Z"
+  },
+  {
+   "title": "If a data center is camouflaged in the woods, will anyone hate it?",
+   "link": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+   "summary": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office buildings. But that's changed in recent years, as data centers have ",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268788_Datacenter_biomimicry_PARKIN_2-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-02T12:00:00.000Z"
+  },
+  {
+   "title": "Amazon writes scary blog warning communities not to block data centers",
+   "link": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+   "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed b",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-02T11:52:20.000Z"
   },
   {
    "title": "Court Orders Man to Be Resentenced After Judge Was Affected by AI Video",
@@ -488,20 +524,20 @@
    "date": "2026-10-01T14:26:54.000Z"
   },
   {
-   "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
-   "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
-   "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah.&#160; The idea was to build the world’s biggest data center — a 40,000",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_1001_Oleary.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-01T14:00:00.000Z"
-  },
-  {
    "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
    "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
    "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/DSC01567.jpg?resize=1200,801",
    "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-01T14:00:00.000Z"
+  },
+  {
+   "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
+   "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
+   "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah.&#160; The idea was to build the world’s biggest data center — a 40,000",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_1001_Oleary.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
    "category": "ai",
    "date": "2026-10-01T14:00:00.000Z"
   },
@@ -594,15 +630,6 @@
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-01T12:47:32.000Z"
-  },
-  {
-   "title": "OpenAI says it stopped a campaign to steal its models&#039; reasoning, but the trick still worked on Azure",
-   "link": "https://the-decoder.com/openai-says-it-stopped-a-campaign-to-steal-its-models-reasoning-but-the-trick-still-worked-on-azure/",
-   "summary": "OpenAI says it stopped a coordinated campaign in which more than 15,000 accounts tried to copy the hidden reasoning of its models. The company ties part of the activity to people connected to Moonshot AI. But researchers",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_gpt_6_stars_astra.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-01T12:05:49.000Z"
   },
   {
    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
@@ -884,15 +911,6 @@
    "date": "2026-09-30T18:15:04.000Z"
   },
   {
-   "title": "The AI Tamagotchis are coming",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
-   "summary": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're ap",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/IMG_3046.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-09-30T18:07:38.000Z"
-  },
-  {
    "title": "Is Pixieset Photo Editor a Lightroom Alternative for Photographers?",
    "link": "https://fstoppers.com/sponsored/pixieset-photo-editor-lightroom-alternative-photographers-903950?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
    "summary": "For over a decade, Pixieset has built its name on gallery hosting and then expanded into photography business management with Studio Manager. Now it turns its head to tackling what happens in the gap between the shoot an",
@@ -918,15 +936,6 @@
    "source": "No Film School",
    "category": "video",
    "date": "2026-09-30T17:45:03.000Z"
-  },
-  {
-   "title": "Here’s what AI leaders are saying about Trump’s new safety plan",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
-   "summary": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fe",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297777001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-09-30T17:15:49.000Z"
   },
   {
    "title": "Why your sense of camera prices might be out-of-date",
@@ -965,15 +974,6 @@
    "date": "2026-09-30T15:54:52.000Z"
   },
   {
-   "title": "All the latest news on Meta’s cute, creepy Muse AI agent",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
-   "summary": "Meta launched a new Muse AI agent it claims can help you with everything from firing off emails to buying stuff online. Muse can be surprisingly effective at delivering on those promises — if you’re willing to trust Meta",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-09-30T15:18:49.000Z"
-  },
-  {
    "title": "How Many Lightroom Classic Catalogs Do You Actually Need?",
    "link": "https://fstoppers.com/lightroom/how-many-lightroom-classic-catalogs-actually-need-904854?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
    "summary": "The way you set up your Lightroom Classic catalog decides how fast you can find a shoot from two years ago and how much work your next backup will be. Most people make that call in their first month with the software, lo",
@@ -992,20 +992,20 @@
    "date": "2026-09-30T15:03:01.000Z"
   },
   {
-   "title": "Instagram rolls out an AI video assistant for creators",
-   "link": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
-   "summary": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801",
-   "source": "TechCrunch",
-   "category": "instagram",
-   "date": "2026-09-30T14:30:00.000Z"
-  },
-  {
    "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
    "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
    "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creati",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK070__01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "source": "The Verge",
+   "category": "instagram",
+   "date": "2026-09-30T14:30:00.000Z"
+  },
+  {
+   "title": "Instagram rolls out an AI video assistant for creators",
+   "link": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
+   "summary": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801",
+   "source": "TechCrunch",
    "category": "instagram",
    "date": "2026-09-30T14:30:00.000Z"
   },
