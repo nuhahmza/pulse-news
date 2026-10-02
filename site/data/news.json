@@ -1,6 +1,15 @@
 {
- "updated": "2026-10-02T22:44:30.383Z",
+ "updated": "2026-10-02T23:12:33.645Z",
  "items": [
+  {
+   "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+   "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+   "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-1152x648.jpg",
+   "source": "Ars Technica",
+   "category": "ai",
+   "date": "2026-10-02T23:03:16.000Z"
+  },
   {
    "title": "This Film May Have Saved My Life",
    "link": "https://nofilmschool.com/bil-richardson-filmmaker",
@@ -18,6 +27,15 @@
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-02T21:09:14.000Z"
+  },
+  {
+   "title": "Meta open sources code to let you make Muse AI gadgets",
+   "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+   "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, ad",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_B.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-02T21:08:37.000Z"
   },
   {
    "title": "Frances Benjamin Johnston: The First Female Press Photographer's Impossible Career",
@@ -857,15 +875,6 @@
    "date": "2026-10-01T15:03:02.000Z"
   },
   {
-   "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-   "summary": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2297767958.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-01T14:36:50.000Z"
-  },
-  {
    "title": "Why the difference between launch price and street price matters",
    "link": "https://www.dpreview.com/articles/why-the-difference-between-launch-price-and-street-price-matters/",
    "summary": "Prices are going up, but comparing MSRPs to discounted deals doesn't make things any clearer",
@@ -1197,15 +1206,6 @@
    "source": "WIRED",
    "category": "ai",
    "date": "2026-09-29T19:05:00.000Z"
-  },
-  {
-   "title": "Here&#039;s what actually happened in OpenAI&#039;s Australian gov&#039;t server hack",
-   "link": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
-   "summary": "Without a \"full set of safeguards,\" agent accessed \"system information and source code.\"",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-1840671728-1152x648.jpg",
-   "source": "Ars Technica",
-   "category": "ai",
-   "date": "2026-09-29T18:11:09.000Z"
   },
   {
    "title": "OM System PEN studio scene: see how much image quality you can carry with you",
