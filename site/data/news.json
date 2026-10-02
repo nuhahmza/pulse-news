@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02T10:52:04.509Z",
+ "updated": "2026-10-02T11:11:19.942Z",
  "items": [
   {
    "title": "33 Hilarious Photos From the Nikon Comedy Wildlife Awards",
@@ -362,20 +362,20 @@
    "date": "2026-10-01T14:36:50.000Z"
   },
   {
-   "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
-   "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
-   "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah.&#160; The idea was to build the world’s biggest data center — a 40,000",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_1001_Oleary.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-01T14:00:00.000Z"
-  },
-  {
    "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
    "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
    "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/DSC01567.jpg?resize=1200,801",
    "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-01T14:00:00.000Z"
+  },
+  {
+   "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
+   "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
+   "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah.&#160; The idea was to build the world’s biggest data center — a 40,000",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_1001_Oleary.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
    "category": "ai",
    "date": "2026-10-01T14:00:00.000Z"
   },
