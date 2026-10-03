@@ -1,10 +1,15 @@
-name: Update news
+name: Update news and deploy
 on:
   schedule:
     - cron: "*/30 * * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["site/**", "scripts/**", ".github/workflows/update-news.yml"]
 permissions:
   contents: write
+  pages: write
+  id-token: write
 concurrency:
   group: update-news
   cancel-in-progress: false
@@ -27,3 +32,16 @@ jobs:
           git config user.email "news-bot@users.noreply.github.com"
           git add site/data/news.json
           git diff --staged --quiet || (git commit -m "chore: update news" && git push)
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
