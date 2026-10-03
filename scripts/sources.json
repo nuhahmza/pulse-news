@@ -102,5 +102,94 @@
     "url": "https://buffer.com/resources/rss/",
     "category": "instagram",
     "filter": "instagram|reels"
+  },
+  {
+    "name": "Sprout Social",
+    "url": "https://sproutsocial.com/insights/feed/",
+    "category": "instagram",
+    "filter": "instagram|reels"
+  },
+  {
+    "name": "Metricool",
+    "url": "https://metricool.com/feed/",
+    "category": "instagram",
+    "filter": "instagram|reels"
+  },
+  {
+    "name": "The Verge",
+    "url": "https://www.theverge.com/rss/meta/index.xml",
+    "category": "instagram",
+    "filter": "instagram|reels|threads"
+  },
+  {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/category/social/feed/",
+    "category": "instagram",
+    "filter": "instagram|reels|threads"
+  },
+  {
+    "name": "OpenAI",
+    "url": "https://openai.com/news/rss.xml",
+    "category": "ai",
+    "scan": 40,
+    "keep": 8
+  },
+  {
+    "name": "Google AI",
+    "url": "https://blog.google/technology/ai/rss/",
+    "category": "ai"
+  },
+  {
+    "name": "Hugging Face",
+    "url": "https://huggingface.co/blog/feed.xml",
+    "category": "ai",
+    "scan": 10,
+    "keep": 6
+  },
+  {
+    "name": "ZDNet",
+    "url": "https://www.zdnet.com/topic/artificial-intelligence/rss.xml",
+    "category": "ai",
+    "keep": 10
+  },
+  {
+    "name": "Digital Photography School",
+    "url": "https://digital-photography-school.com/feed/",
+    "category": "photo"
+  },
+  {
+    "name": "Fuji Rumors",
+    "url": "https://www.fujirumors.com/feed/",
+    "category": "photo"
+  },
+  {
+    "name": "Sony Alpha Rumors",
+    "url": "https://www.sonyalpharumors.com/feed/",
+    "category": "photo"
+  },
+  {
+    "name": "Canon Rumors",
+    "url": "https://www.canonrumors.com/feed/",
+    "category": "photo"
+  },
+  {
+    "name": "Nikon Rumors",
+    "url": "https://nikonrumors.com/feed/",
+    "category": "photo"
+  },
+  {
+    "name": "Newsshooter",
+    "url": "https://www.newsshooter.com/feed/",
+    "category": "video"
+  },
+  {
+    "name": "Y.M.Cinema",
+    "url": "https://ymcinema.com/feed/",
+    "category": "video"
+  },
+  {
+    "name": "ProVideo Coalition",
+    "url": "https://www.provideocoalition.com/feed/",
+    "category": "video"
   }
 ]

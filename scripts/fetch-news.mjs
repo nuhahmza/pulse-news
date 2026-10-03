@@ -7,7 +7,7 @@ import { XMLParser } from "fast-xml-parser";
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const OUT = path.join(root, "site", "data", "news.json");
 const PER_FEED = 15;
-const MAX_ITEMS = 200;
+const MAX_ITEMS = 320;
 const MAX_AGE_DAYS = 14;
 const UA = "Mozilla/5.0 (compatible; PulseNewsBot/1.0; +https://netlify.app)";
 
@@ -86,7 +86,7 @@ function parseFeed(xml, src) {
     }
   }
   const re = src.filter ? new RegExp(src.filter, "i") : null;
-  return items.filter((i) => i.title && i.link && (!re || re.test(i.title + " " + i.summary))).slice(0, src.keep || PER_FEED).map((i) => ({ ...i, source: src.name, category: src.category, maxAge: src.maxAgeDays || MAX_AGE_DAYS }));
+  return items.filter((i) => i.title && i.link && (!re || re.test(i.title + " " + i.summary))).slice(0, src.keep || PER_FEED).map((i) => ({ ...i, source: src.name, category: src.category, maxAge: src.maxAgeDays || (src.category === "instagram" ? 45 : MAX_AGE_DAYS) }));
 }
 
 async function pool(list, n, fn) {
