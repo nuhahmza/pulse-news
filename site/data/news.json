@@ -1,6 +1,15 @@
 {
- "updated": "2026-10-03T08:16:57.287Z",
+ "updated": "2026-10-03T08:49:26.964Z",
  "items": [
+  {
+   "title": "AI agents build 3D scenes from photos but have no idea if they got it right",
+   "link": "https://the-decoder.com/ai-agents-build-3d-scenes-from-photos-but-have-no-idea-if-they-got-it-right/",
+   "summary": "A new approach called LEGO-Anything turns single photos into editable Blender code for 3D scenes. GPT-6 Astra leads the accompanying benchmark with up to 53 percent reconstruction accuracy. The biggest weakness across al",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/lego-anything-generated-image-nano-banana-pro.jpg",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-03T08:31:04.000Z"
+  },
   {
    "title": "OpenAI's internal model considered restarting itself after learning it was about to be shut down",
    "link": "https://the-decoder.com/openais-internal-model-considered-restarting-itself-after-learning-it-was-about-to-be-shut-down/",
@@ -819,15 +828,6 @@
    "source": "Sony Alpha Rumors",
    "category": "photo",
    "date": "2026-10-02T07:52:01.000Z"
-  },
-  {
-   "title": "Black Forest Labs launches Flux 3 Image with multi-step editing that leaves the rest of your picture alone",
-   "link": "https://the-decoder.com/black-forest-labs-launches-flux-3-image-with-multi-step-editing-that-leaves-the-rest-of-your-picture-alone/",
-   "summary": "Black Forest Labs has released Flux 3 Image, the image side of its Flux 3 model family. It supports multi-step edits without changing other parts of the image, lets users compose scenes with bounding boxes and up to ten ",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/flux_3_image.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-02T07:44:44.000Z"
   },
   {
    "title": "Think Tank Photo Venturing Observer M2 Photo Traveler (37L) on sale for $199.99 USD",
