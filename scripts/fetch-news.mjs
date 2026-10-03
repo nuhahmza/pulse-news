@@ -86,7 +86,7 @@ function parseFeed(xml, src) {
     }
   }
   const re = src.filter ? new RegExp(src.filter, "i") : null;
-  return items.filter((i) => i.title && i.link && (!re || re.test(i.title + " " + i.summary))).slice(0, src.keep || PER_FEED).map((i) => ({ ...i, source: src.name, category: src.category, maxAge: src.maxAgeDays || (src.category === "instagram" ? 45 : MAX_AGE_DAYS) }));
+  return items.filter((i) => i.title && i.link && (!re || re.test(i.title + " " + i.summary))).slice(0, src.keep || PER_FEED).map((i) => ({ ...i, source: src.name, category: src.category, maxAge: src.maxAgeDays || (src.category === "instagram" || src.category === "tiktok" ? 45 : MAX_AGE_DAYS) }));
 }
 
 async function pool(list, n, fn) {

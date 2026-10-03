@@ -39,7 +39,7 @@ function render() {
   $("q").placeholder = t.search;
   $("langBtn").textContent = t.lang;
   document.title = `${t.site} — AI & Photography News`;
-  $("tabs").innerHTML = ["all", "ai", "photo", "video", "instagram"]
+  $("tabs").innerHTML = ["all", "ai", "photo", "video", "instagram", "tiktok"]
     .map((c) => `<button class="tab" data-c="${c}" aria-pressed="${state.cat === c}">${t[c]}</button>`).join("");
   if (state.updated) $("updated").textContent = `${t.updated}: ${ago(state.updated)}`;
 

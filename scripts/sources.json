@@ -191,5 +191,66 @@
     "name": "ProVideo Coalition",
     "url": "https://www.provideocoalition.com/feed/",
     "category": "video"
+  },
+  {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/tag/tiktok/feed/",
+    "category": "tiktok"
+  },
+  {
+    "name": "The Verge",
+    "url": "https://www.theverge.com/rss/tiktok/index.xml",
+    "category": "tiktok"
+  },
+  {
+    "name": "TechCrunch",
+    "url": "https://techcrunch.com/category/social/feed/",
+    "category": "tiktok",
+    "filter": "tiktok"
+  },
+  {
+    "name": "Social Media Today",
+    "url": "https://www.socialmediatoday.com/feeds/news/",
+    "category": "tiktok",
+    "filter": "tiktok"
+  },
+  {
+    "name": "Social Media Examiner",
+    "url": "https://www.socialmediaexaminer.com/feed/",
+    "category": "tiktok",
+    "filter": "tiktok"
+  },
+  {
+    "name": "Hootsuite",
+    "url": "https://blog.hootsuite.com/feed/",
+    "category": "tiktok",
+    "filter": "tiktok"
+  },
+  {
+    "name": "Buffer",
+    "url": "https://buffer.com/resources/rss/",
+    "category": "tiktok",
+    "filter": "tiktok"
+  },
+  {
+    "name": "Sprout Social",
+    "url": "https://sproutsocial.com/insights/feed/",
+    "category": "tiktok",
+    "filter": "tiktok"
+  },
+  {
+    "name": "Metricool",
+    "url": "https://metricool.com/feed/",
+    "category": "tiktok",
+    "filter": "tiktok"
+  },
+  {
+    "name": "Later",
+    "url": "https://later.com/rss.xml",
+    "category": "tiktok",
+    "filter": "tiktok",
+    "scan": 700,
+    "keep": 40,
+    "maxAgeDays": 60
   }
 ]
