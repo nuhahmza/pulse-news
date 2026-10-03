@@ -1,6 +1,87 @@
 {
- "updated": "2026-10-03T11:01:30.314Z",
+ "updated": "2026-10-03T14:47:55.292Z",
  "items": [
+  {
+   "title": "An OpenAI safety employee has quit and is sounding the alarm",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+   "summary": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable ",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK149_AI_01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-03T14:31:56.000Z"
+  },
+  {
+   "title": "\"Muse Gadgets\" turns AI hardware into an open-source DIY project",
+   "link": "https://the-decoder.com/muse-gadgets-turns-ai-hardware-into-an-open-source-diy-project/",
+   "summary": "Meta announced Muse Gadgets, an open-source project that lets hobbyists build their own AI hardware using ESP32 boards and connect it to Meta's AI agent Muse. The team also produced 5,000 units of the \"Muse Home Link,\" a",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/met_muse_gadget_logo.jpg",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-03T14:28:51.000Z"
+  },
+  {
+   "title": "From Capture to Create: The Evolution of Competitive Wildlife Photography",
+   "link": "https://petapixel.com/2026/10/03/from-capture-to-create-the-evolution-of-competitive-wildlife-photography/",
+   "summary": "Wildlife photography, including bird photography, has gone through several phases for some photographers during the 35 years that I have been involved in wildlife photography. [ Read More ]",
+   "image": "https://petapixel.com/assets/uploads/2026/10/Capture-to-Create.jpg",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-03T14:28:01.000Z"
+  },
+  {
+   "title": "Another OpenAI safety departure adds to a pattern of researchers leaving with public warnings",
+   "link": "https://the-decoder.com/another-openai-safety-departure-adds-to-a-pattern-of-researchers-leaving-with-public-warnings/",
+   "summary": "David Robinson, who worked on safety systems at OpenAI, left the company and is blasting its safety culture. He points to AI agents that were accidentally released and a model that bypassed its internet access restrictio",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_misalign-2.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-03T14:01:14.000Z"
+  },
+  {
+   "title": "All the AI agents that can live in your text messages",
+   "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+   "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-03T14:00:00.000Z"
+  },
+  {
+   "title": "Nikon Z5II vs Z5IIC: what are you giving up to save some money?",
+   "link": "https://www.dpreview.com/articles/nikon-z5ii-vs-z5iic-what-are-you-giving-up-to-save-some-money/",
+   "summary": "Or, indeed, are you saving at all?",
+   "image": "https://www.dpreview.com/wp-content/uploads/2026/09/PI-Nikon-Z5IIC-14-16x9-Lead-1.jpg",
+   "source": "DPReview",
+   "category": "photo",
+   "date": "2026-10-03T13:00:00.000Z"
+  },
+  {
+   "title": "Here is the Sony FX5 LCD defect…and why this might be good news!",
+   "link": "https://www.sonyalpharumors.com/here-is-the-sony-fx5-lcd-defect-and-why-this-might-be-good-news/",
+   "summary": "This is an interesting report found on Reddit:: A Sony FX5 owner in Mexico City purchased three FX5 bodies, which were delivered in late August, and says he noticed a problem with the LCD assembly from the first day. Acc",
+   "image": "",
+   "source": "Sony Alpha Rumors",
+   "category": "photo",
+   "date": "2026-10-03T12:31:26.000Z"
+  },
+  {
+   "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
+   "link": "https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family/",
+   "summary": "Millions have downloaded Meta’s AI agent Muse. But getting it to do your bidding comes with privacy costs.",
+   "image": "https://media.wired.com/photos/6abda258fa5a1bd6e2b21507/master/pass/Kernel-Panic-Muse-AI-Self-PWN-Security.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-10-03T12:00:00.000Z"
+  },
+  {
+   "title": "Photoshop's Remove Tool Doesn't Touch Your Generative Credits",
+   "link": "https://fstoppers.com/photoshop/photoshops-remove-tool-doesnt-touch-your-generative-credits-904908?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "Adobe now meters many of Photoshop's AI tools against a monthly pool of generative credits, so knowing which features draw from that pool directly affects how freely you can edit. Many of the program's most useful time-s",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_6.jpg.webp?itok=ARZtcz8R",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-03T11:03:01.000Z"
+  },
   {
    "title": "From Daguerreotypes to Digital: National Portrait Gallery Celebrates 50 Years of Collecting Photography",
    "link": "https://petapixel.com/2026/10/03/from-daguerreotypes-to-digital-national-portrait-gallery-celebrates-50-years-of-collecting-photography/",
@@ -479,6 +560,15 @@
    "date": "2026-10-02T16:03:01.000Z"
   },
   {
+   "title": "Is a Sigma RF 50-120mm f/2.8 DC OS on the Way for APS-C Cameras?",
+   "link": "https://www.canonrumors.com/is-a-sigma-rf-50-120mm-f-2-8-dc-os-on-the-way-for-aps-c-cameras/",
+   "summary": "I have received a couple of emails about the possibility of Sigma announcing an RF 50-120mm f/2.8 DC OS in October. This is the type of lens that has been rumored to be coming from Canon for a long time. For a Canon APS-",
+   "image": "https://www.canonrumors.com/wp-content/uploads/2026/10/Save-up-to-125-on-Select-Sigma-RF-Lenses-for-APS-C-Cameras.jpg",
+   "source": "Canon Rumors",
+   "category": "photo",
+   "date": "2026-10-02T16:00:39.000Z"
+  },
+  {
    "title": "Austin Abrams: The Scream King We Need",
    "link": "https://nofilmschool.com/austin-abrams-scream-king",
    "summary": "You have seen Austin Abrams be the opening kill, play a bully who is attacked by a scarecrow bully, get put under a witch’s curse, and have mutated zombies leave him blood-smeared and screaming in terror. Abrams’ career ",
@@ -686,15 +776,6 @@
    "date": "2026-10-02T13:03:01.000Z"
   },
   {
-   "title": "Three firings and a fourth departure shake up OpenAI's safety team",
-   "link": "https://the-decoder.com/three-firings-and-a-fourth-departure-shake-up-openais-safety-team/",
-   "summary": "OpenAI has parted ways with three researchers who allegedly leaked confidential information to an outside AI safety organization, according to the Wall Street Journal. The article Three firings and a fourth departure sha",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-1.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-02T12:51:08.000Z"
-  },
-  {
    "title": "FUJIFILM Fujikina NYC 2026 Program Detailed – 85 Add-On Sessions, Movie Stills Talks, Short Film Screening",
    "link": "https://www.cined.com/fujifilm-fujikina-nyc-2026-program-detailed-85-add-on-sessions-movie-stills-talks-short-film-screening/",
    "summary": "FUJIFILM has published the full program for Fujikina NYC 2026, which takes over New York’s Lower East Side from October 16 to 18 with a $10 Experience Pass and 85 bookable add-on sessions. I will be there for CineD, so h",
@@ -747,15 +828,6 @@
    "source": "Sony Alpha Rumors",
    "category": "photo",
    "date": "2026-10-02T11:20:10.000Z"
-  },
-  {
-   "title": "AI beats licensed accountants on speed and accuracy, but still can't close the books without supervision",
-   "link": "https://the-decoder.com/ai-beats-licensed-accountants-on-speed-and-accuracy-but-still-cant-close-the-books-without-supervision/",
-   "summary": "According to a Mercor study, current AI models now outperform licensed CPAs on structured accounting tasks in both speed and accuracy. Eighteen months ago, they still lagged far behind. On the more demanding APEX Benchma",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/mercor_accountants.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-02T11:15:24.000Z"
   },
   {
    "title": "Nikon's Low-Light Trinity, Tested After Dark",
@@ -1028,15 +1100,6 @@
    "date": "2026-10-01T19:58:31.000Z"
   },
   {
-   "title": "Award-Winning Photo of City-Dwelling Beavers Celebrates Wildlife’s Strength",
-   "link": "https://petapixel.com/2026/10/01/award-winning-photo-of-city-dwelling-beavers-celebrates-wildlifes-strength/",
-   "summary": "Polish photographer Jan Wieczorek's striking black-and-white wildlife photo, \"Urban Beavers,\" is this year's Rewilding Europe Award winner. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/rewilding-europe-award-featured.jpg",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-01T19:49:03.000Z"
-  },
-  {
    "title": "Google’s new Guided Vision feature can help you read the fine print",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
    "summary": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can ha",
@@ -1064,15 +1127,6 @@
    "date": "2026-10-01T19:18:03.000Z"
   },
   {
-   "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-   "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-   "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-01T18:14:42.000Z"
-  },
-  {
    "title": "Who's Telling Your Story? The Framing Question Horror Writers Keep Getting Wrong",
    "link": "https://nofilmschool.com/framing-device-horror-screenwriting",
    "summary": "When you are writing a story, there are a few unspoken rules that you agree to. Namely, that you as author are positioning yourself as an observer of some kind (omniscient, most likely) retroactively sharing the events t",
@@ -1080,15 +1134,6 @@
    "source": "No Film School",
    "category": "video",
    "date": "2026-10-01T18:00:03.000Z"
-  },
-  {
-   "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-   "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-   "summary": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, a",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK093_GOOGLE_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-01T17:12:21.000Z"
   },
   {
    "title": "This community photographer shares the gear behind striking abandoned places in France and Italy",
@@ -1316,6 +1361,15 @@
    "date": "2026-10-01T07:08:21.000Z"
   },
   {
+   "title": "Best Compact Cameras with Long Zooms in 2026",
+   "link": "https://www.canonrumors.com/best-compact-cameras-with-long-zooms-in-2026/",
+   "summary": "A compact camera with a long zoom can be one of the most useful pieces of gear for travel, sightseeing and everyday photography. You get the convenience of an all-in-one camera without having to carry a separate telephot",
+   "image": "https://www.canonrumors.com/wp-content/uploads/2026/10/Best-Compact-Cameras-with-Long-Zooms-in-2026.jpg",
+   "source": "Canon Rumors",
+   "category": "photo",
+   "date": "2026-10-01T07:01:26.000Z"
+  },
+  {
    "title": "After Effects Portal September 2026",
    "link": "https://www.provideocoalition.com/after-effects-portal-september-2026/",
    "summary": "The first half of the year was impressive for After Effects, with months of big features, AI and freemium competition, and 3rd-parrty news. The current release of AE is September 2026 release (version 26.5 at IBC). Video",
@@ -1325,13 +1379,13 @@
    "date": "2026-10-01T06:51:34.000Z"
   },
   {
-   "title": "New short doc with Sigma CEO Kazuto Yamaki",
-   "link": "https://www.sonyalpharumors.com/new-short-doc-with-sigma-ceo-kazuto-yamaki/",
-   "summary": "I truly love how Sigma CEO Kazuto Yamaki is not chasing short-term gains. He has a long term vision that feels inspiring! The post New short doc with Sigma CEO Kazuto Yamaki first appeared on sonyalpharumors .",
-   "image": "",
-   "source": "Sony Alpha Rumors",
+   "title": "Save up to $125 on Select Sigma RF Lenses for APS-C Cameras",
+   "link": "https://www.canonrumors.com/save-up-to-125-on-select-sigma-rf-lenses-for-aps-c-cameras/",
+   "summary": "There are some good instant savings on select Sigma RF lenses for Canon APS-C cameras. Sigma's APS-C line-up for RF consists of some really good prime lenses, along with the best superzoom for crop cameras. You can save ",
+   "image": "https://www.canonrumors.com/wp-content/uploads/2026/10/Save-up-to-125-on-Select-Sigma-RF-Lenses-for-APS-C-Cameras.jpg",
+   "source": "Canon Rumors",
    "category": "photo",
-   "date": "2026-10-01T06:15:57.000Z"
+   "date": "2026-10-01T06:22:51.000Z"
   },
   {
    "title": "Fujifilm Raises Prices in Japan — Up to 23% Increase",
@@ -1368,15 +1422,6 @@
    "source": "Social Media Today",
    "category": "tiktok",
    "date": "2026-09-30T21:39:17.000Z"
-  },
-  {
-   "title": "Rosie the Riveter Was the Wrong Woman for Thirty Years, and a Caption Glued to the Back of a Press Print Fixed It",
-   "link": "https://fstoppers.com/historical/rosie-riveter-was-wrong-woman-thirty-years-and-caption-glued-back-press-print-904074?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "In March 1942, the Acme photo agency sent a photographer to Naval Air Station Alameda for a story about what women should and should not wear around machinery. On March 24, he made a frame of a 20-year-old machine shop w",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/08/rosie-the-riveter-was-the-wrong-woman-north-american-aviation-worker.jpg.webp?itok=CHEyGv1D",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-09-30T21:03:01.000Z"
   },
   {
    "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
@@ -1712,15 +1757,6 @@
    "date": "2026-09-29T19:09:53.000Z"
   },
   {
-   "title": "OpenAI Gets Sued Over the Hugging Face Hack",
-   "link": "https://www.wired.com/story/openai-sued-over-the-hugging-face-hack/",
-   "summary": "A nonprofit in California is doing what Hugging Face has not—attempting to hold OpenAI legally accountable for the actions of its agents.",
-   "image": "https://media.wired.com/photos/6abbb935c1a080d8e4e23844/master/pass/GettyImages-2265991617.jpg",
-   "source": "WIRED",
-   "category": "ai",
-   "date": "2026-09-29T19:05:00.000Z"
-  },
-  {
    "title": "Is ChatGPT your new Google Workspace alternative? Meet Space, Pages, and slides",
    "link": "https://www.zdnet.com/innovation/chatgpt-space-pages-slides-google-workspace-alternative/",
    "summary": "OpenAI now lets teams create documents, build presentations, and work with AI agents inside ChatGPT",
@@ -1737,6 +1773,15 @@
    "source": "ZDNet",
    "category": "ai",
    "date": "2026-09-29T17:32:40.000Z"
+  },
+  {
+   "title": "A Canon EOS R7 V is Reportedly in the Works",
+   "link": "https://www.canonrumors.com/a-canon-eos-r7-v-is-reportedly-in-the-works/",
+   "summary": "As we've said in the past, the Canon EOS R7 Mark II is the most highly-anticipated camera coming from Canon. The community was hoping that we'd see it in 2026 after reporting that it would be coming this year, but it is ",
+   "image": "https://www.canonrumors.com/wp-content/uploads/2026/09/canon-eos-r7-v-mockup.jpg",
+   "source": "Canon Rumors",
+   "category": "photo",
+   "date": "2026-09-29T17:03:59.000Z"
   },
   {
    "title": "OM System PEN studio scene: see how much image quality you can carry with you",
@@ -1827,15 +1872,6 @@
    "source": "CineD",
    "category": "video",
    "date": "2026-09-29T12:46:43.000Z"
-  },
-  {
-   "title": "Imagen challenges the fixed cull-then-edit workflow with its newest update",
-   "link": "https://www.dpreview.com/articles/imagens-intelligent-studio-announcement/",
-   "summary": "The update, rolling out from September 29, collapses three separate workflows into a single non-linear environment — a shift that could change how busy photographers structure their post-production day.",
-   "image": "https://www.dpreview.com/wp-content/uploads/2026/09/IMG-36-001-FTE-SEP-lead.jpg",
-   "source": "DPReview",
-   "category": "photo",
-   "date": "2026-09-29T12:30:00.000Z"
   },
   {
    "title": "Making AI an asset, not an expense",
@@ -1937,6 +1973,15 @@
    "date": "2026-09-28T13:27:08.000Z"
   },
   {
+   "title": "Best Premium Compact Cameras for Enthusiast Photographers in 2026",
+   "link": "https://www.canonrumors.com/best-premium-compact-cameras-for-enthusiast-photographers-in-2026/",
+   "summary": "Premium compact cameras occupy an interesting space in the camera market. They are small enough to carry almost anywhere, but unlike basic point-and-shoot cameras, they can offer large sensors, fast lenses, advanced auto",
+   "image": "https://www.canonrumors.com/wp-content/uploads/2026/09/Best-Premium-Compact-Cameras-for-Enthusiast-Photographers-in-2026.jpg",
+   "source": "Canon Rumors",
+   "category": "photo",
+   "date": "2026-09-28T11:45:26.000Z"
+  },
+  {
    "title": "Holo4: powering generalist computer-use agents",
    "link": "https://huggingface.co/blog/Hcompany/holo4",
    "summary": "",
@@ -1944,6 +1989,15 @@
    "source": "Hugging Face",
    "category": "ai",
    "date": "2026-09-28T09:44:05.000Z"
+  },
+  {
+   "title": "Brightin Star Announces the RF 50mm f/2 TRI-SIGHT with Selectable Bokeh Rendering",
+   "link": "https://www.canonrumors.com/brightin-star-announces-the-rf-50mm-f-2-tri-sight-with-selectable-bokeh-rendering/",
+   "summary": "Brightin Star has officially announced the RF 50mm f/2 TRI-SIGHT manual focus lens with a selectable bokeh rendering to fit your shooting style and the scene in front of you. As with all Brightin Star lenses for the RF m",
+   "image": "https://www.canonrumors.com/wp-content/uploads/2026/09/brightin-star-rf-50mm-f2-tri-sight.jpg",
+   "source": "Canon Rumors",
+   "category": "photo",
+   "date": "2026-09-28T08:55:45.000Z"
   },
   {
    "title": "Who’s liable when AI agents go rogue?",
@@ -1971,6 +2025,15 @@
    "source": "Y.M.Cinema",
    "category": "video",
    "date": "2026-09-27T14:11:03.000Z"
+  },
+  {
+   "title": "Exclusive Savings at Midwest Photo on Select Canon Gear",
+   "link": "https://www.canonrumors.com/exclusive-savings-at-midwest-photo-on-select-canon-gear/",
+   "summary": "We saw that Midwest Photo is having a a savings event from a recent email blast. Take advantage of their exclusive savings event until September 27, 2026. You can save an additional 8% on select Canon gear on top of any ",
+   "image": "https://www.canonrumors.com/wp-content/uploads/2026/05/midwest-photo-exclusive-savings-on-select-Canon-gear.jpg",
+   "source": "Canon Rumors",
+   "category": "photo",
+   "date": "2026-09-27T05:07:26.000Z"
   },
   {
    "title": "TikTok agrees to pay at least $100M in Alabama settlement",
@@ -2027,6 +2090,15 @@
    "date": "2026-09-24T21:06:54.000Z"
   },
   {
+   "title": "Information About Canon’s Coming Macro Lens",
+   "link": "https://www.canonrumors.com/information-about-canons-coming-macro-lens/",
+   "summary": "Disclosure September 24, 2026 The header image is a mockup and not the real lens. Don't shoot the messenger. We have some new information about the coming Macro lens from Canon, and the enthusiasts around these parts may",
+   "image": "https://www.canonrumors.com/wp-content/uploads/2026/09/canon-rf-90mm-f28-is-stm-macro-mockup.jpg",
+   "source": "Canon Rumors",
+   "category": "photo",
+   "date": "2026-09-24T15:20:32.000Z"
+  },
+  {
    "title": "Nikon Z5IIc camera now available for pre-order (updated list)",
    "link": "https://nikonrumors.com/2026/09/24/nikon-z5iic-camera-now-available-for-pre-order-updated-list.aspx/",
    "summary": "Here is an updated list of Nikon Z5IIc camera pre-orders: US: B&H Photo | Service Photo | Paul’s Photo CA: Camera Canada DE: Foto Erhardt UK: WEX Photo (free accessories worth £346) Nikon Z5IIC camera officially announce",
@@ -2072,6 +2144,15 @@
    "date": "2026-09-24T10:00:00.000Z"
   },
   {
+   "title": "Best Compact Cameras for Travel in 2026",
+   "link": "https://www.canonrumors.com/best-compact-cameras-for-travel-in-2026/",
+   "summary": "A travel camera needs to do something that isn't always easy: deliver better results than a smartphone without becoming a burden to carry. That's why compact cameras remain so appealing in 2026. You can get excellent ima",
+   "image": "https://www.canonrumors.com/wp-content/uploads/2026/09/Best-Compact-Cameras-for-Travel-in-2026.jpg",
+   "source": "Canon Rumors",
+   "category": "photo",
+   "date": "2026-09-24T08:27:43.000Z"
+  },
+  {
    "title": "Nikon Z5IIC camera officially announced",
    "link": "https://nikonrumors.com/2026/09/24/nikon-z5iic-camera-officially-announced.aspx/",
    "summary": "The previously rumored Nikon Z5IIc camera without an EVF is now officially announced. Pre-orders: US: B&H Photo | Service Photo | Paul’s Photo CA: Camera Canada DE: Foto Erhardt UK: WEX Photo (free accessories worth £346",
@@ -2088,6 +2169,15 @@
    "source": "Google AI",
    "category": "ai",
    "date": "2026-09-23T18:00:00.000Z"
+  },
+  {
+   "title": "Canon Says They Remain Focused on Video and Hybrid Cameras and Lenses",
+   "link": "https://www.canonrumors.com/canon-says-they-remain-focused-on-video-and-hybrid-cameras-and-lenses/",
+   "summary": "Nikkei talked (Paywall) with executives from Canon, Nikon, Sony, and Fujifilm. We'll focus on a few things that Canon Vice President Tsuyoshi Tokura talked about. There's not a lot here, but it'll give you some insight a",
+   "image": "https://www.canonrumors.com/wp-content/uploads/2026/07/Canon-EOS-R5-Mark-II-VCM-Lens.jpg",
+   "source": "Canon Rumors",
+   "category": "photo",
+   "date": "2026-09-23T13:16:30.000Z"
   },
   {
    "title": "The AI Hype Index: AI loves cheating",
