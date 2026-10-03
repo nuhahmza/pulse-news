@@ -1,6 +1,15 @@
 {
- "updated": "2026-10-03T00:21:30.676Z",
+ "updated": "2026-10-03T00:49:27.616Z",
  "items": [
+  {
+   "title": "Meta wants you to build your own Muse gadget",
+   "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+   "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-03T00:45:39.000Z"
+  },
   {
    "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
    "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
@@ -801,15 +810,6 @@
    "source": "No Film School",
    "category": "video",
    "date": "2026-10-01T18:00:03.000Z"
-  },
-  {
-   "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
-   "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
-   "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/10/notebook-getty.jpg?w=1200",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-01T17:50:19.000Z"
   },
   {
    "title": "Ideogram says its new model can edit part of an image without messing up the rest",
