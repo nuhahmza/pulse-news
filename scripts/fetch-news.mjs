@@ -15,10 +15,12 @@ const parser = new XMLParser({ ignoreAttributes: false, attributeNamePrefix: "@_
 const arr = (v) => (v == null ? [] : Array.isArray(v) ? v : [v]);
 const text = (v) => (v == null ? "" : typeof v === "object" ? String(v["#text"] ?? "") : String(v));
 
-const strip = (html) =>
-  html.replace(/<[^>]*>/g, " ").replace(/&nbsp;/g, " ").replace(/&amp;/g, "&").replace(/&#8217;/g, "’")
-      .replace(/&#8216;/g, "‘").replace(/&#8220;|&#8221;/g, '"').replace(/&hellip;|&#8230;/g, "…")
-      .replace(/\s+/g, " ").trim();
+const decode = (t) =>
+  t.replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16)))
+   .replace(/&#(\d+);/g, (_, d) => String.fromCodePoint(+d))
+   .replace(/&nbsp;/g, " ").replace(/&hellip;/g, "…").replace(/&quot;/g, '"').replace(/&apos;/g, "'")
+   .replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&amp;/g, "&");
+const strip = (html) => decode(html.replace(/<[^>]*>/g, " ")).replace(/\s+/g, " ").trim();
 
 async function get(url, ms = 15000) {
   const ctl = new AbortController();
