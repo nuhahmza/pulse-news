@@ -2,6 +2,8 @@ import { I18N } from "./i18n.js";
 
 const PH = "img/placeholder.svg";
 const $ = (id) => document.getElementById(id);
+const CFG = window.PULSE || {};
+const CATS = CFG.cats || ["ai", "photo", "video", "instagram", "tiktok"];
 const state = { lang: "en", cat: "all", q: "", items: [], updated: null, failed: false };
 
 try {
@@ -34,18 +36,19 @@ function render() {
   const t = I18N[state.lang];
   document.documentElement.lang = state.lang;
   document.documentElement.dir = t.dir;
-  $("siteName").textContent = t.site;
-  $("tag").textContent = t.tag;
+  const o = (CFG.text && CFG.text[state.lang]) || {};
+  $("siteName").textContent = o.site || t.site;
+  $("tag").textContent = o.tag || t.tag;
   $("q").placeholder = t.search;
   $("langBtn").textContent = t.lang;
-  document.title = `${t.site} — AI & Photography News`;
-  $("tabs").innerHTML = ["all", "ai", "photo", "video", "instagram", "tiktok"]
+  document.title = CFG.title ? CFG.title[state.lang] : `${t.site} — AI & Photography News`;
+  $("tabs").innerHTML = ["all", ...CATS]
     .map((c) => `<button class="tab" data-c="${c}" aria-pressed="${state.cat === c}">${t[c]}</button>`).join("");
   if (state.updated) $("updated").textContent = `${t.updated}: ${ago(state.updated)}`;
 
   const q = state.q.toLowerCase();
   const list = state.items.filter((i) =>
-    (state.cat === "all" || i.category === state.cat) &&
+    (state.cat === "all" ? CATS.includes(i.category) : i.category === state.cat) &&
     (!q || `${i.title} ${i.summary} ${i.title_ar || ""} ${i.source}`.toLowerCase().includes(q)));
 
   const heroItem = list.find((i) => i.image);

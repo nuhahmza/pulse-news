@@ -1,0 +1,5 @@
+:root{--acc:#FFDC02;--photo:#100F0A;--video:#100F0A}
+.cat.photo,.cat.video{background:#FFDC02;color:#100F0A}
+.tab[aria-pressed=true]{color:#100F0A}
+.dot{box-shadow:0 0 12px #FFDC02}
+.card:hover{border-color:#FFDC02}
