@@ -1,6 +1,42 @@
 {
- "updated": "2026-10-03T18:55:06.683Z",
+ "updated": "2026-10-04T02:31:01.176Z",
  "items": [
+  {
+   "title": "MoviePro 10 for iPhone",
+   "link": "https://www.newsshooter.com/2026/10/03/moviepro-10-for-iphone/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=moviepro-10-for-iphone",
+   "summary": "MoviePro 10 is an independent iPhone camera app that has been around since 2012. Back then, shooting serious video on an iPhone was still relatively unusual, and MoviePro provided tools to make that possible. Fourteen ye",
+   "image": "https://www.newsshooter.com/wp-content/uploads/2026/10/Untitled-Project-740x416.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-04T02:10:32.000Z"
+  },
+  {
+   "title": "The Agent Said It Was Done. The Database Disagreed.",
+   "link": "https://huggingface.co/blog/microsoft/thinkingbox",
+   "summary": "",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/64b8491203124195cd795cad/NStwJm1AafDELVsU4KGwS.png",
+   "source": "Hugging Face",
+   "category": "ai",
+   "date": "2026-10-03T22:56:48.000Z"
+  },
+  {
+   "title": "What Diffraction Actually Is, and Why Photographers Worry About f/16",
+   "link": "https://fstoppers.com/education/what-diffraction-actually-and-why-photographers-worry-about-f16-904091?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "A 24mm lens at f/8 has an opening 3.00 mm across. A 600mm lens at f/8 has one 75 mm across, 25 times wider, and it draws a diffraction pattern on the sky 25 times finer. Both land a blur spot on your sensor exactly 10.7 ",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/08/what-diffraction-actually-is-aperture-blades.jpg.webp?itok=mxMzyt_m",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-03T21:03:01.000Z"
+  },
+  {
+   "title": "Apparently, OpenAI isn't trying to build \"magic intelligence in the sky\" anymore",
+   "link": "https://the-decoder.com/apparently-openai-isnt-trying-to-build-magic-intelligence-in-the-sky-anymore/",
+   "summary": "OpenAI CEO Sam Altman warns against attributing religious power to AI models, calling it a \"real safety issue.\" His comments follow reports on Anthropic's meetings with religious thinkers and a statement by Pope Leo XIV ",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/holy_openai.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-03T18:56:30.000Z"
+  },
   {
    "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
    "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
@@ -459,15 +495,6 @@
    "source": "Ars Technica",
    "category": "ai",
    "date": "2026-10-02T18:39:36.000Z"
-  },
-  {
-   "title": "Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents",
-   "link": "https://the-decoder.com/cloudflare-says-its-new-clef-model-means-humans-no-longer-need-to-be-in-the-loop-for-ai-agents/",
-   "summary": "With Clef and Clef-flash, Cloudflare is challenging TypeSafe AI's Jev decision model. Clef-flash delivers classifications in about 39 milliseconds, making it more than ten times faster than Jev. Both models are built on ",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/07/cloudflare_logo_wall-2.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-02T18:19:51.000Z"
   },
   {
    "title": "This new ChatGPT scam tricks you into installing malware – how to spot the trap",
@@ -1073,15 +1100,6 @@
    "date": "2026-10-02T00:49:58.000Z"
   },
   {
-   "title": "DaVinci Resolve 21.1.1",
-   "link": "https://www.newsshooter.com/2026/10/01/davinci-resolve-21-1-1/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=davinci-resolve-21-1-1",
-   "summary": "Blackmagic Design has released DaVinci Resolve 21.1.1, which adds trim editor improvements for audio clips and multiple edit-point controls. Additionally, there is USAC audio decoding on Windows 11, plus improved control",
-   "image": "https://www.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-02-at-9.22.16.png",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-10-02T00:26:07.000Z"
-  },
-  {
    "title": "Chatham scales its capital markets expertise with OpenAI",
    "link": "https://openai.com/index/chatham-financial",
    "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
@@ -1242,15 +1260,6 @@
    "source": "DPReview",
    "category": "photo",
    "date": "2026-10-01T15:42:11.000Z"
-  },
-  {
-   "title": "A Look at Laowa's New 35mm Macro Lens",
-   "link": "https://fstoppers.com/gear/look-laowas-new-35mm-macro-lens-904879?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "Laowa's ACRIS 35mm f/2.8 1X Macro APO reaches 1:1 magnification at a focal length that keeps the background, the sky, and the setting in the frame while your subject fills the foreground. Wide angle macro is a small nich",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/09/cover_35.jpg.webp?itok=OWTqTrSU",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-10-01T15:03:02.000Z"
   },
   {
    "title": "Thypoch Prepares to Unveil Three New Lenses: New 24-70mm FE and tele zoom coming?",
@@ -1989,15 +1998,6 @@
    "source": "Canon Rumors",
    "category": "photo",
    "date": "2026-09-28T11:45:26.000Z"
-  },
-  {
-   "title": "Holo4: powering generalist computer-use agents",
-   "link": "https://huggingface.co/blog/Hcompany/holo4",
-   "summary": "",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/69fc7e49052f11ab9931b672/yzjxvlmlZKtjASwAYu6bN.jpeg",
-   "source": "Hugging Face",
-   "category": "ai",
-   "date": "2026-09-28T09:44:05.000Z"
   },
   {
    "title": "Brightin Star Announces the RF 50mm f/2 TRI-SIGHT with Selectable Bokeh Rendering",
