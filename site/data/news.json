@@ -1,14 +1,59 @@
 {
- "updated": "2026-10-05T14:21:00.743Z",
+ "updated": "2026-10-05T14:49:41.237Z",
  "items": [
+  {
+   "title": "Eerie Photo Shows How Our Sun Will Die",
+   "link": "https://petapixel.com/2026/10/05/eerie-photo-shows-how-our-sun-will-die/",
+   "summary": "January is widely considered the bleakest month of the year, and astrophotographer Andrew McCarthy, who is putting together his cosmic calendars for 2027, chose the first month to feature an unnerving glimpse into the fu",
+   "image": "https://petapixel.com/assets/uploads/2026/10/Dumbbell-Nebula-Andrew-McCarthy.jpg",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-05T14:44:22.000Z"
+  },
+  {
+   "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+   "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+   "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-05T14:35:09.000Z"
+  },
+  {
+   "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
+   "link": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
+   "summary": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/SB200_Philpot-von-Tobel-Chien-Grayson-Reum.png?resize=1200,675",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-05T14:30:00.000Z"
+  },
+  {
+   "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+   "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+   "summary": "Today, I’m talking with Senator Adam Schiff, a Democrat from California. Sen. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — it’s all the",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_2026-10-05_Schiff.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-05T14:30:00.000Z"
+  },
   {
    "title": "Maven Expands Beyond Filters With Clever New Talon Series Folding Lights",
    "link": "https://petapixel.com/2026/10/05/maven-expands-beyond-filters-with-clever-new-talon-series-folding-lights/",
-   "summary": "Maven is expanding beyond (excellent) magnetic lens filters to develop a new series of folding, highly portable LED lighting products. The pocket-sized Talon lights launch next week on Kickstarter and look very interesti",
+   "summary": "Maven is expanding beyond (excellent) magnetic lens filters with a new series of folding, highly portable LED lighting products. The pocket-sized Talon lights launch next week on Kickstarter and look very interesting. Th",
    "image": "https://petapixel.com/assets/uploads/2026/10/maven-talon-2.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-05T14:20:50.000Z"
+  },
+  {
+   "title": "Aleph Alpha releases Kolibri, an open-weight model that makes the case for European AI sovereignty",
+   "link": "https://the-decoder.com/aleph-alpha-releases-kolibri-an-open-weight-model-that-makes-the-case-for-european-ai-sovereignty/",
+   "summary": "Aleph Alpha has released Kolibri, a German-English mixture-of-experts model with 78 billion parameters, about three billion of which are active per token. Over 21 percent of the training data is German. The model was tra",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/kolibri_aleph_alpha.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-05T14:12:50.000Z"
   },
   {
    "title": "How to Get Photo Prints That Actually Match Your Screen",
@@ -47,6 +92,15 @@
    "date": "2026-10-05T13:47:14.000Z"
   },
   {
+   "title": "Amazon is refusing to take Sony FX5 preorders until the shipment date is confirmed.",
+   "link": "https://www.sonyalpharumors.com/amazon-is-refusing-to-take-sony-fx5-preorders-until-the-shipment-date-is-confirmed/",
+   "summary": "Amazon completely removed the preorder option on the Sony FX5 (click here). They will only bring preorders back once Sony officially confirms the ship date. Other stores list October dates, but those are just guesses. Pr",
+   "image": "",
+   "source": "Sony Alpha Rumors",
+   "category": "photo",
+   "date": "2026-10-05T13:46:03.000Z"
+  },
+  {
    "title": "AI glasses face their first major government crackdown",
    "link": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
    "summary": "Norway wants time to write permanent rules for glasses that can record bystanders.",
@@ -81,6 +135,15 @@
    "source": "The Verge",
    "category": "ai",
    "date": "2026-10-05T13:09:48.000Z"
+  },
+  {
+   "title": "A Manual 50mm That Switches Between Clean, Soft, and Bubbly",
+   "link": "https://fstoppers.com/gear/manual-50mm-switches-between-clean-soft-and-bubbly-904932?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "The Brightin Star 50mm f/2 Tri-Sight is a manual-focus lens that puts three different optical personalities behind one turning ring, so you can switch between a clean normal lens and two softer, bubblier looks without ch",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_15.jpg.webp?itok=X237vNYA",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-05T13:03:01.000Z"
   },
   {
    "title": "Sigma 50-120mmF2.8 APS-C Lens Coming Soon",
@@ -119,7 +182,7 @@
    "date": "2026-10-05T12:19:02.000Z"
   },
   {
-   "title": "How I made a paid Mac app in 11 days with Caude – without writing a single line of code",
+   "title": "How I made a paid Mac app in 11 days with Claude – without writing a single line of code",
    "link": "https://www.zdnet.com/innovation/claude-code-vibe-coding-mac-app/",
    "summary": "Claude helped me vibe-code a Mac app and pass Apple’s review in less than two weeks. Come with me on my journey from idea to purchasable App Store product.",
    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_0057.png",
@@ -162,6 +225,15 @@
    "source": "The Decoder",
    "category": "ai",
    "date": "2026-10-05T11:46:18.000Z"
+  },
+  {
+   "title": "Sony's New 400mm G Master Goes Trackside",
+   "link": "https://fstoppers.com/gear/sonys-new-400mm-g-master-goes-trackside-904931?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "Sony now makes a G Master 400mm lens that weighs under a kilogram, which puts a super-telephoto in the same carrying class as a standard 70-200mm zoom. If you shoot motorsport, wildlife, or field sports without a monopod",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_14.jpg.webp?itok=0AhUne--",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-05T11:03:01.000Z"
   },
   {
    "title": "Rumored Home Security Camera From Apple Won’t Actually Record Video",
@@ -347,7 +419,7 @@
    "title": "Instagram adds AI songs to DMs",
    "link": "https://www.socialmediatoday.com/news/instagram-adds-ai-songs-to-dms/832086/",
    "summary": "Users can leverage artificial intelligence to generate music to share with their friends, echoing a similar paid Snapchat feature.",
-   "image": "",
+   "image": "https://imgproxy.divecdn.com/4c8s5cKB8C7MHoWLCwg7jU9Sl6kuCNz1L6NJczHUtt8/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pZ19tdXNpY19zaGFyaW5nMi5wbmc=.webp",
    "source": "Social Media Today",
    "category": "instagram",
    "date": "2026-10-04T21:23:38.000Z"
@@ -749,15 +821,6 @@
    "date": "2026-10-03T14:28:01.000Z"
   },
   {
-   "title": "Another OpenAI safety departure adds to a pattern of researchers leaving with public warnings",
-   "link": "https://the-decoder.com/another-openai-safety-departure-adds-to-a-pattern-of-researchers-leaving-with-public-warnings/",
-   "summary": "David Robinson, who worked on safety systems at OpenAI, left the company and is blasting its safety culture. He points to AI agents that were accidentally released and a model that bypassed its internet access restrictio",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_misalign-2.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-03T14:01:14.000Z"
-  },
-  {
    "title": "All the AI agents that can live in your text messages",
    "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
    "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
@@ -902,15 +965,6 @@
    "date": "2026-10-02T21:08:37.000Z"
   },
   {
-   "title": "Frances Benjamin Johnston: The First Female Press Photographer's Impossible Career",
-   "link": "https://fstoppers.com/historical/frances-benjamin-johnston-first-female-press-photographers-impossible-career-904090?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "In 1896, a woman settled into a chair in front of the fireplace in her Washington, D.C. studio, hiked her petticoats above the ankle, crossed her legs like a man, and aimed her own camera at herself. One hand held a lit ",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/08/johnston-self-portrait-new-woman-1896.jpg.webp?itok=BmjYzETu",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-10-02T21:03:01.000Z"
-  },
-  {
    "title": "When Officials Talked About Killing Reporters, Ben Klein Made a Movie About It",
    "link": "https://nofilmschool.com/kill-bury-print-ben-klein",
    "summary": "In March 2023, the publisher of the McCurtain Gazette in Idabel, Oklahoma, suspected that county officials were conducting business after a public meeting had ended, which would violate the state's Open Meeting Act. So B",
@@ -918,15 +972,6 @@
    "source": "No Film School",
    "category": "video",
    "date": "2026-10-02T21:00:03.000Z"
-  },
-  {
-   "title": "Red Bull Champions the Challenges of Adventure Photography",
-   "link": "https://petapixel.com/2026/10/02/red-bull-champions-the-challenges-of-adventure-photography/",
-   "summary": "What does it take to photograph action sports like the Red Bull Rampage from the edge of a cliff? A lot! [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/Red-Bull-Rampage-Gallery-NYC-PetaPixel-Cover.jpg",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-02T20:30:28.000Z"
   },
   {
    "title": "Amazon’s $1B plan to combat data center backlash draws more backlash",
@@ -945,15 +990,6 @@
    "source": "No Film School",
    "category": "video",
    "date": "2026-10-02T20:30:03.000Z"
-  },
-  {
-   "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
-   "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-   "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users w",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268759_Mac_Mini_AKrales_0079.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-02T20:08:40.000Z"
   },
   {
    "title": "Wildlife photography’s funniest competition just hit a milestone, and the 2026 finalists are here",
@@ -1037,15 +1073,6 @@
    "date": "2026-10-02T17:56:00.000Z"
   },
   {
-   "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-   "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-   "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297764008.jpg?w=1024",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-02T17:48:16.000Z"
-  },
-  {
    "title": "Film Quote of the Day: The Funniest Last Line from One 1959 Hollywood Classic",
    "link": "https://nofilmschool.com/some-like-it-hot-closing",
    "summary": "Billy Wilder 's Some Like It Hot came out in March 1959 and still shows up on just about every \"best comedy ever\" list. The film finds two musicians on the run from the mob after witnessing a Chicago gang shootout. They ",
@@ -1053,15 +1080,6 @@
    "source": "No Film School",
    "category": "video",
    "date": "2026-10-02T17:45:02.000Z"
-  },
-  {
-   "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-   "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-   "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/TCD26_1-Jas-Khaira_Speaker-16x9-Dark.png?resize=1200,675",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-02T17:32:05.000Z"
   },
   {
    "title": "TTArtisan’s Latest Lens is Just a Lens (and Sometimes That’s a Good Thing)",
@@ -1116,15 +1134,6 @@
    "source": "OpenAI",
    "category": "ai",
    "date": "2026-10-02T16:15:00.000Z"
-  },
-  {
-   "title": "Was This Compact Tripod Just Years Ahead of the Trend?",
-   "link": "https://fstoppers.com/gear/was-compact-tripod-just-years-ahead-trend-904605?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "When this tripod came out years ago, so many of us wanted it to the point that a lot of us forced it to be useful in situations where it wasn’t the best fit. Now that we’ve seen the brand’s other tripod offerings, where ",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/09/img_4959.JPG.webp?itok=u8qON-ga",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-10-02T16:03:01.000Z"
   },
   {
    "title": "Is a Sigma RF 50-120mm f/2.8 DC OS on the Way for APS-C Cameras?",
@@ -1260,15 +1269,6 @@
    "source": "CineD",
    "category": "video",
    "date": "2026-10-02T12:00:09.000Z"
-  },
-  {
-   "title": "Next Sony FX5 delay now official: new shipment start date is November 16",
-   "link": "https://www.sonyalpharumors.com/next-sony-fx5-delay-now-official-new-shipment-start-date-is-november-16/",
-   "summary": "Sees like every month we are getting a new month shipment delay on the FX5! Europeans Sony websites did now change the shipment start to November 16. Regular stores like Adorama and Fotoerhardt still claim the camera wil",
-   "image": "",
-   "source": "Sony Alpha Rumors",
-   "category": "photo",
-   "date": "2026-10-02T11:20:10.000Z"
   },
   {
    "title": "Godox Litemons SR20R Introduced – Full-Color Ring Panel with Smartphone Camera Control and Built-In Battery",
