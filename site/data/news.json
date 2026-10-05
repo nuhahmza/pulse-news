@@ -1,6 +1,33 @@
 {
- "updated": "2026-10-05T13:21:55.473Z",
+ "updated": "2026-10-05T13:49:40.441Z",
  "items": [
+  {
+   "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
+   "summary": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There used to be a single Settings toggle for disabling Apple Int",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/highlights_siri_conversations_endframe__d56qnw2oz22q_large_2x.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-05T13:47:14.000Z"
+  },
+  {
+   "title": "AI glasses face their first major government crackdown",
+   "link": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
+   "summary": "Norway wants time to write permanent rules for glasses that can record bystanders.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/546417470_31238681149113739_395523165946500898_n.jpg",
+   "source": "Ars Technica",
+   "category": "ai",
+   "date": "2026-10-05T13:39:30.000Z"
+  },
+  {
+   "title": "Bringing predictive analytics to the agentic AI era",
+   "link": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+   "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own c",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/MIT_TP_CoverPredictiveAnalyticsV9_9926.png?w=840",
+   "source": "MIT Tech Review",
+   "category": "ai",
+   "date": "2026-10-05T13:29:32.000Z"
+  },
   {
    "title": "Imaging World Show Moves to Cologne in 2027 To Pick Up Where Photokina Left Off",
    "link": "https://petapixel.com/2026/10/05/imaging-world-show-moves-to-cologne-in-2027-to-pick-up-where-photokina-left-off/",
@@ -965,15 +992,6 @@
    "date": "2026-10-02T18:11:27.000Z"
   },
   {
-   "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-   "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace softwa",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSC04281_processed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-02T18:00:00.000Z"
-  },
-  {
    "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
    "link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
    "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.",
@@ -1838,15 +1856,6 @@
    "date": "2026-09-29T21:52:58.000Z"
   },
   {
-   "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
-   "link": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
-   "summary": "The deal, which is expected to close by year's end, is worth $8.2 billion.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/AMD-World-Labs-1152x648-1790711860.jpg",
-   "source": "Ars Technica",
-   "category": "ai",
-   "date": "2026-09-29T21:14:49.000Z"
-  },
-  {
    "title": "LLMjacking can run up your business’ AI bill fast – how to stop it",
    "link": "https://www.zdnet.com/innovation/llmjacking-business-ai-bill-cost-how-to-stop/",
    "summary": "Google analysts warn that stolen AI credentials are being sold underground, and businesses are footing the bill.",
@@ -2216,15 +2225,6 @@
    "date": "2026-09-23T13:16:30.000Z"
   },
   {
-   "title": "The AI Hype Index: AI loves cheating",
-   "link": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
-   "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two t",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/09-Hype-thumb.jpg?resize=1200,600",
-   "source": "MIT Tech Review",
-   "category": "ai",
-   "date": "2026-09-23T09:00:00.000Z"
-  },
-  {
    "title": "Amazon’s 10 Best-Selling Lenses: Canon Takes Six Spots, While Viltrox, Tamron and TTArtisan Gain Ground",
    "link": "https://ymcinema.com/2026/09/23/amazon-top-10-best-selling-lenses-canon-viltrox-tamron/",
    "summary": "Amazon’s current best-selling lens ranking is useful for one simple reason: it shows what photographers are actually buying, not necessarily what manufacturers are promoting as their flagship optics. The biggest name in ",
@@ -2484,15 +2484,6 @@
    "source": "TechCrunch",
    "category": "tiktok",
    "date": "2026-08-21T20:25:21.000Z"
-  },
-  {
-   "title": "Major YouTube creators are facing backlash for accepting AI money",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-   "summary": "Over the past few days, a number of prominent filmmaking content creators including Matti Haapoja and Sam \"Kold\" Kolder have posted videos of themselves demonstrating what's possible with AI platform Higgsfield. The vide",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ai-label_eb9dbb.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "instagram",
-   "date": "2026-08-21T13:37:52.000Z"
   },
   {
    "title": "Why audio matters for Instagram Reels engagement, and how scheduling it actually helps",
