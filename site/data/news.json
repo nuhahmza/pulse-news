@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T01:16:48.953Z",
+ "updated": "2026-10-05T01:45:55.137Z",
  "items": [
   {
    "title": "TP-Link WiFi 8 Devices",
@@ -9,6 +9,33 @@
    "source": "Newsshooter",
    "category": "video",
    "date": "2026-10-05T01:10:49.000Z"
+  },
+  {
+   "title": "Instagram tests read-only mode",
+   "link": "https://www.socialmediatoday.com/news/instagram-tests-read-only-mode/832087/",
+   "summary": "The feature would allow users to view profiles but would not enable liking, messaging or following.",
+   "image": "https://imgproxy.divecdn.com/zjXYO0BAHfR9aL9zU6alILLk8PhrQ3hocnwU0XMJjwY/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pZ19yZWFkX29ueTIucG5n.webp",
+   "source": "Social Media Today",
+   "category": "instagram",
+   "date": "2026-10-04T21:27:24.000Z"
+  },
+  {
+   "title": "Instagram adds AI songs to DMs",
+   "link": "https://www.socialmediatoday.com/news/instagram-adds-ai-songs-to-dms/832086/",
+   "summary": "Users can generate lyrics and music to share AI-generated tracks with their friends, echoing a similar paid Snapchat feature.",
+   "image": "https://imgproxy.divecdn.com/4c8s5cKB8C7MHoWLCwg7jU9Sl6kuCNz1L6NJczHUtt8/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pZ19tdXNpY19zaGFyaW5nMi5wbmc=.webp",
+   "source": "Social Media Today",
+   "category": "instagram",
+   "date": "2026-10-04T21:23:38.000Z"
+  },
+  {
+   "title": "Instagram adds Threads sharing sticker for Stories",
+   "link": "https://www.socialmediatoday.com/news/instagram-adds-threads-sharing-sticker-for-stories/832085/",
+   "summary": "The feature allows users to add previously liked or saved posts to a Stories frame, replicating a similar quote post update.",
+   "image": "https://imgproxy.divecdn.com/vA9dqvZcMHUrLQfs00vX55eKwJ-pC8gXL_LBuuvx8V4/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JbnN0YV91cGRhdGUuZ2lm.webp",
+   "source": "Social Media Today",
+   "category": "instagram",
+   "date": "2026-10-04T21:18:35.000Z"
   },
   {
    "title": "Nearly Every JPEG on Earth Runs on Math a Reviewer Called Too Simple to Fund in 1972",
@@ -1199,9 +1226,9 @@
    "date": "2026-10-02T00:00:00.000Z"
   },
   {
-   "title": "TikTok U.S. reports generating $81B in economic value",
+   "title": "TikTok US reports generating $81B in economic value",
    "link": "https://www.socialmediatoday.com/news/tiktok-us-reports-generating-81b-in-economic-value/831978/",
-   "summary": "A new study commissioned by the app outlined its impact on jobs, small businesses and consumer learning opportunities.",
+   "summary": "A study commissioned by the app outlined its impact on jobs, small businesses and consumer learning opportunities.",
    "image": "https://imgproxy.divecdn.com/ILEEM5TXPhKsi71bfHHdlZqX5syjNlmlWTtPapr9yJo/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfdXNfcmVwb3J0Mi5wbmc=.webp",
    "source": "Social Media Today",
    "category": "tiktok",
@@ -1458,24 +1485,6 @@
    "source": "OpenAI",
    "category": "ai",
    "date": "2026-10-01T00:00:00.000Z"
-  },
-  {
-   "title": "Instagram adds option to boost livestreams",
-   "link": "https://www.socialmediatoday.com/news/instagram-adds-option-to-boost-livestreams/831842/",
-   "summary": "Creators can now use an in-app feature to increase engagement of their live videos.",
-   "image": "https://imgproxy.divecdn.com/QJxUTJVUqdA1thzGnMU6UlqwhD40tPhtD7csMiqTvys/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pZ19sb2dvMi5wbmc=.webp",
-   "source": "Social Media Today",
-   "category": "instagram",
-   "date": "2026-09-30T22:05:28.000Z"
-  },
-  {
-   "title": "TikTok hosts launch of David Geffen Galleries",
-   "link": "https://www.socialmediatoday.com/news/tiktok-hosts-launch-of-david-geffen-galleries/831839/",
-   "summary": "The app expanded its Museums Come Alive series by partnering with the Los Angeles County Museum of Art to showcase its Egyptian collection.",
-   "image": "https://imgproxy.divecdn.com/bTwUgNW7bDpBsG-qm9WlineqKcBxf29l57csY5UUH44/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfbXVzZXVtc19jb21lX2FsaXZlLnBuZw==.webp",
-   "source": "Social Media Today",
-   "category": "tiktok",
-   "date": "2026-09-30T21:39:17.000Z"
   },
   {
    "title": "Trump’s AI Safety ‘Accord’ Is a Fancy Pinky-Swear",
