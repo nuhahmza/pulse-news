@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-05T23:13:55.538Z",
+ "updated": "2026-10-05T23:42:12.776Z",
  "items": [
   {
-   "title": "Gemini Call for Me might tell your mom you’re running late",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-   "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK tear",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Photos-of-Phone-7.jpg?quality=90&strip=all&crop=0%2C10.731298651824%2C100%2C78.537402696352&w=1200",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-05T23:09:55.000Z"
+   "title": "How 'SNL' Editors Turn 36 Hours of Footage Into a Finished Sketch",
+   "link": "https://nofilmschool.com/how-snl-editors-turn-36-hours-of-footage-into-a-finished-sketch",
+   "summary": "Saturday Night Live’s prerecorded sketches can go from first footage to national broadcast in roughly 36 hours. In this episode of the No Film School Podcast , host GG Hawkins talks with SNL editors Christopher Salerno a",
+   "image": "https://nofilmschool.com/media-library/snl.png?id=68056683&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-05T23:37:22.000Z"
   },
   {
    "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
@@ -695,6 +695,15 @@
    "date": "2026-10-05T10:00:11.000Z"
   },
   {
+   "title": "Our minds aren’t equipped to handle AI",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+   "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry.",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268726_Cognitive_hotdogs_PENEKOI_115fb1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-05T10:00:00.000Z"
+  },
+  {
    "title": "Building advertising for the way people use AI",
    "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
    "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
@@ -1206,15 +1215,6 @@
    "source": "No Film School",
    "category": "video",
    "date": "2026-10-02T19:30:03.000Z"
-  },
-  {
-   "title": "Mind Over Machete: The 5 Smartest Slasher Villains in Horror History",
-   "link": "https://nofilmschool.com/smartest-slasher-villains",
-   "summary": "I was in a debate in my group chat the other day about which one of us could survive a horror movie. I feel like I could do okay, but we talked more about some of the smart villains in slasher movies; he's less well, I t",
-   "image": "https://nofilmschool.com/media-library/smartest-slasher-villains.jpg?id=68039312&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-02T19:03:06.000Z"
   },
   {
    "title": "US arrests tech CEO accused of smuggling $300M in Nvidia chips into China",
