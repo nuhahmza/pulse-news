@@ -1,6 +1,15 @@
 {
- "updated": "2026-10-05T22:43:42.109Z",
+ "updated": "2026-10-05T23:13:55.538Z",
  "items": [
+  {
+   "title": "Gemini Call for Me might tell your mom you’re running late",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+   "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK tear",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Photos-of-Phone-7.jpg?quality=90&strip=all&crop=0%2C10.731298651824%2C100%2C78.537402696352&w=1200",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-05T23:09:55.000Z"
+  },
   {
    "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
    "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
@@ -425,20 +434,20 @@
    "date": "2026-10-05T14:35:09.000Z"
   },
   {
-   "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
-   "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
-   "summary": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — it’s all there. I re",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_2026-10-05_Schiff.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-05T14:30:00.000Z"
-  },
-  {
    "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
    "link": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
    "summary": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/SB200_Philpot-von-Tobel-Chien-Grayson-Reum.png?resize=1200,675",
    "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-05T14:30:00.000Z"
+  },
+  {
+   "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+   "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+   "summary": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — it’s all there. I re",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_2026-10-05_Schiff.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
    "category": "ai",
    "date": "2026-10-05T14:30:00.000Z"
   },
@@ -684,15 +693,6 @@
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-05T10:00:11.000Z"
-  },
-  {
-   "title": "Our minds aren’t equipped to handle AI",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
-   "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry.",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268726_Cognitive_hotdogs_PENEKOI_115fb1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-05T10:00:00.000Z"
   },
   {
    "title": "Building advertising for the way people use AI",
