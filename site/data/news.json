@@ -1,6 +1,60 @@
 {
- "updated": "2026-10-05T14:49:41.237Z",
+ "updated": "2026-10-05T15:19:14.977Z",
  "items": [
+  {
+   "title": "OpenAI launches visual ads that appear alongside image generation results",
+   "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+   "summary": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/new-chatgpt-ads-format-and-measurement-inline-01.webp?w=1200",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-05T15:14:24.000Z"
+  },
+  {
+   "title": "DJI SDR Transmission 2 Field Tested – Three-Camera Video Village, Obstruction Test in a Car, Range Test on the Water",
+   "link": "https://www.cined.com/dji-sdr-transmission-2-field-tested-three-camera-video-village-obstruction-test-in-a-car-range-test-on-the-water/",
+   "summary": "Six transceivers, three cameras, a moving car, a rented boat and a spectrum analyzer in the middle of Vienna. We put DJI’s second-generation SDR Transmission through a real multi-camera shoot to see whether the headline ",
+   "image": "https://www.cined.com/content/uploads/2026/10/DJI-SDR-Transmission-2-featured-image-FINAL-CineD-300x169.jpg",
+   "source": "CineD",
+   "category": "video",
+   "date": "2026-10-05T15:03:45.000Z"
+  },
+  {
+   "title": "The new SANDISK Extreme PRO® SDXC™ UHS-II V60 and V90 Cards now have higher capacities — here’s what that means for wedding videographers",
+   "link": "https://www.dpreview.com/articles/sandisks-extreme-pro-sd-cards-now-go-up-to-2tb-with-faster-speeds-for-8k-shooter/",
+   "summary": "The V60 and V90 UHS-II cards add the highest capacity the lineup has offered, alongside write speed gains aimed at professional video workflows demanding sustained throughput.",
+   "image": "https://www.dpreview.com/wp-content/uploads/2026/09/SDK-26-002-FTE-SEP-lead.jpg",
+   "source": "DPReview",
+   "category": "photo",
+   "date": "2026-10-05T15:03:11.000Z"
+  },
+  {
+   "title": "The Fujinon XF50-140mm F2.8 II is Shrinking, Loses Tripod Collar — But Hopefully Fujifilm Isn’t Taking Lens Downsizing Too Far",
+   "link": "https://www.fujirumors.com/the-fujinon-xf50-140mm-f2-8-ii-is-shrinking-loses-tripod-collar-but-hopefully-fujifilm-isnt-taking-lens-downsizing-too-far/",
+   "summary": "Trusted sources have given us an interesting update in regards to the Fujinon XF 50-140mm f/2.8 MKII. They told us it will be much smaller than the current XF50-140mmF2.8. In fact, it will be so small, that there won’t b",
+   "image": "https://www.fujirumors.com/wp-content/uploads/2026/10/XF50-140mmF2.8-II-tripod-mount-Kopie.jpeg",
+   "source": "Fuji Rumors",
+   "category": "photo",
+   "date": "2026-10-05T15:01:33.000Z"
+  },
+  {
+   "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+   "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+   "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-05T15:00:00.000Z"
+  },
+  {
+   "title": "Our approach to EU text provenance rules",
+   "link": "https://openai.com/index/eu-text-provenance",
+   "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+   "image": "",
+   "source": "OpenAI",
+   "category": "ai",
+   "date": "2026-10-05T15:00:00.000Z"
+  },
   {
    "title": "Eerie Photo Shows How Our Sun Will Die",
    "link": "https://petapixel.com/2026/10/05/eerie-photo-shows-how-our-sun-will-die/",
@@ -137,15 +191,6 @@
    "date": "2026-10-05T13:09:48.000Z"
   },
   {
-   "title": "A Manual 50mm That Switches Between Clean, Soft, and Bubbly",
-   "link": "https://fstoppers.com/gear/manual-50mm-switches-between-clean-soft-and-bubbly-904932?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "The Brightin Star 50mm f/2 Tri-Sight is a manual-focus lens that puts three different optical personalities behind one turning ring, so you can switch between a clean normal lens and two softer, bubblier looks without ch",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_15.jpg.webp?itok=X237vNYA",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-10-05T13:03:01.000Z"
-  },
-  {
    "title": "Sigma 50-120mmF2.8 APS-C Lens Coming Soon",
    "link": "https://www.fujirumors.com/sigma-50-120mmf2-8-aps-c-lens-coming-soon/",
    "summary": "According to L-Rumors, Sigma will soon launch the Sigma 50-120mm f/2.8. It’s rumored to be will be “very compact”. Sigma already offers the incredibly compact Sigma 10-18mm f/2.8 and Sigma 18-50mm f/2.8. With the Sigma 5",
@@ -225,15 +270,6 @@
    "source": "The Decoder",
    "category": "ai",
    "date": "2026-10-05T11:46:18.000Z"
-  },
-  {
-   "title": "Sony's New 400mm G Master Goes Trackside",
-   "link": "https://fstoppers.com/gear/sonys-new-400mm-g-master-goes-trackside-904931?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "Sony now makes a G Master 400mm lens that weighs under a kilogram, which puts a super-telephoto in the same carrying class as a standard 70-200mm zoom. If you shoot motorsport, wildlife, or field sports without a monopod",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_14.jpg.webp?itok=0AhUne--",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-10-05T11:03:01.000Z"
   },
   {
    "title": "Rumored Home Security Camera From Apple Won’t Actually Record Video",
@@ -902,15 +938,6 @@
    "date": "2026-10-03T09:03:01.000Z"
   },
   {
-   "title": "New Firmware for Fringer EF-GFX Pro, NF-GFX, EF-FX Pro III/II, EF-FX Ultra and EF-FX II",
-   "link": "https://www.fujirumors.com/new-firmware-for-fringer-ef-gfx-pro-nf-gfx-ef-fx-pro-iii-ii-ef-fx-ultra-and-ef-fx-ii/",
-   "summary": "Fringer has released new firmware for Fringer EF-GFX Pro, NF-GFX, EF-FX Pro III/II, EF-FX Ultra, EF-FX II and EF-NZ II/I. The new firmware includes numerous improvements, including fixes for compatibility issues with rec",
-   "image": "https://www.fujirumors.com/wp-content/uploads/2026/10/Fringer-scaled.jpeg",
-   "source": "Fuji Rumors",
-   "category": "photo",
-   "date": "2026-10-03T05:46:33.000Z"
-  },
-  {
    "title": "iPhone 18 Pro Max can’t call or text on AT&T? Apple will replace it for free",
    "link": "https://www.zdnet.com/tech/iphone-18-pro-max-att-no-service-free-replacement/",
    "summary": "Some iPhone 18 Pro Max phones on AT&T are stuck in SOS mode. Two updates can prevent it, but affected phones need replacing.",
@@ -963,6 +990,15 @@
    "source": "The Verge",
    "category": "ai",
    "date": "2026-10-02T21:08:37.000Z"
+  },
+  {
+   "title": "Frances Benjamin Johnston: The First Female Press Photographer's Impossible Career",
+   "link": "https://fstoppers.com/historical/frances-benjamin-johnston-first-female-press-photographers-impossible-career-904090?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "In 1896, a woman settled into a chair in front of the fireplace in her Washington, D.C. studio, hiked her petticoats above the ankle, crossed her legs like a man, and aimed her own camera at herself. One hand held a lit ",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/08/johnston-self-portrait-new-woman-1896.jpg.webp?itok=BmjYzETu",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-02T21:03:01.000Z"
   },
   {
    "title": "When Officials Talked About Killing Reporters, Ben Klein Made a Movie About It",
@@ -1055,24 +1091,6 @@
    "date": "2026-10-02T18:18:57.000Z"
   },
   {
-   "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-   "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-   "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
-   "image": "https://techcrunch.com/wp-content/uploads/2022/07/CMC_1580.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-02T18:11:27.000Z"
-  },
-  {
-   "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-   "link": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it/",
-   "summary": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-02T17:56:00.000Z"
-  },
-  {
    "title": "Film Quote of the Day: The Funniest Last Line from One 1959 Hollywood Classic",
    "link": "https://nofilmschool.com/some-like-it-hot-closing",
    "summary": "Billy Wilder 's Some Like It Hot came out in March 1959 and still shows up on just about every \"best comedy ever\" list. The film finds two musicians on the run from the mob after witnessing a Chicago gang shootout. They ",
@@ -1134,6 +1152,15 @@
    "source": "OpenAI",
    "category": "ai",
    "date": "2026-10-02T16:15:00.000Z"
+  },
+  {
+   "title": "Was This Compact Tripod Just Years Ahead of the Trend?",
+   "link": "https://fstoppers.com/gear/was-compact-tripod-just-years-ahead-trend-904605?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "When this tripod came out years ago, so many of us wanted it to the point that a lot of us forced it to be useful in situations where it wasn’t the best fit. Now that we’ve seen the brand’s other tripod offerings, where ",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/09/img_4959.JPG.webp?itok=u8qON-ga",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-02T16:03:01.000Z"
   },
   {
    "title": "Is a Sigma RF 50-120mm f/2.8 DC OS on the Way for APS-C Cameras?",
@@ -1775,15 +1802,6 @@
    "date": "2026-09-30T13:49:09.000Z"
   },
   {
-   "title": "Why my camera stopped shooting with a mostly empty card, and how to avoid it",
-   "link": "https://www.dpreview.com/learn/why-my-camera-stopped-shooting-with-a-mostly-empty-card-and-how-to-avoid-it/",
-   "summary": "A “Frame No. Full” warning was a reminder that camera file numbering can follow both a body and its memory cards across shoots.",
-   "image": "https://www.dpreview.com/wp-content/uploads/2026/09/PI-fujifilm-x-e5-battery-slot-16x9-1.jpg",
-   "source": "DPReview",
-   "category": "photo",
-   "date": "2026-09-30T13:00:00.000Z"
-  },
-  {
    "title": "RAW Supersampler Aims to Reduce Nikon Raw File Sizes While Keeping a Native Raw Workflow",
    "link": "https://www.cined.com/raw-supersampler-aims-to-reduce-nikon-raw-file-sizes-while-keeping-a-native-raw-workflow/",
    "summary": "RAW Supersampler is a new macOS application designed to reduce the storage and transfer requirements of Nikon raw video while keeping footage in a native raw workflow. It supports NEV and R3D-NE files from the Nikon ZR, ",
@@ -1827,15 +1845,6 @@
    "source": "CineD",
    "category": "video",
    "date": "2026-09-30T10:25:44.000Z"
-  },
-  {
-   "title": "Helping small businesses put AI to work",
-   "link": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-   "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
-   "image": "",
-   "source": "OpenAI",
-   "category": "ai",
-   "date": "2026-09-30T10:00:00.000Z"
   },
   {
    "title": "DJI and Insta360 Now Ship More Than Twice as Many Cameras as the Mirrorless Industry – What the Numbers Can (and Can’t) Tell Us",
@@ -1944,15 +1953,6 @@
    "source": "Digital Photography School",
    "category": "photo",
    "date": "2026-09-29T12:48:08.000Z"
-  },
-  {
-   "title": "DriveShelf for Mac Released – Search Unplugged Drives, Cross-Drive Duplicate Finder, Free iPhone Companion",
-   "link": "https://www.cined.com/driveshelf-for-mac-released-search-unplugged-drives-cross-drive-duplicate-finder-free-iphone-companion/",
-   "summary": "Built by Bangkok-based director Sergiy Pudich, DriveShelf is a Mac app that catalogs every external drive you connect, so its contents stay searchable after the drive goes back on the shelf, and it now comes with a free ",
-   "image": "https://www.cined.com/content/uploads/2026/09/DriveShelf-feature-300x169.jpg",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-09-29T12:46:43.000Z"
   },
   {
    "title": "Making AI an asset, not an expense",
