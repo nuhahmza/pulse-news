@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-05T10:18:40.733Z",
+ "updated": "2026-10-05T10:48:06.254Z",
  "items": [
   {
    "title": "Sonnet Solo10G T5: a 10 Gigabit Ethernet Thunderbolt 5 adapter",
@@ -20,6 +20,24 @@
    "date": "2026-10-05T10:00:11.000Z"
   },
   {
+   "title": "Our minds aren’t equipped to handle AI",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+   "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry.",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268726_Cognitive_hotdogs_PENEKOI_115fb1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-05T10:00:00.000Z"
+  },
+  {
+   "title": "Building advertising for the way people use AI",
+   "link": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+   "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+   "image": "",
+   "source": "OpenAI",
+   "category": "ai",
+   "date": "2026-10-05T10:00:00.000Z"
+  },
+  {
    "title": "FUJIFILM Raises Camera Prices in Japan by up to 15% – GFX100 II, X100VI, and X-E5 Affected",
    "link": "https://www.cined.com/fujifilm-raises-camera-prices-in-japan-by-up-to-15-gfx100-ii-x100vi-and-x-e5-affected/",
    "summary": "FUJIFILM has raised prices in its home market. Since October 1, 2026, the GFX100 II, GFX100S II, GFX100RF, X100VI, X-E5, and X-T50 cost between 6 and 15 percent more in Japan, with instax cameras climbing by as much as 2",
@@ -36,6 +54,15 @@
    "source": "ProVideo Coalition",
    "category": "video",
    "date": "2026-10-05T09:40:25.000Z"
+  },
+  {
+   "title": "Why Your Rim Light Looks Weaker Every Time You Raise the Fill",
+   "link": "https://fstoppers.com/lighting/why-your-rim-light-looks-weaker-every-time-raise-fill-904930?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "Rim light and fill light pull against each other in a high-key portrait: brighten one, and the other suddenly looks weak. Getting the two to share the frame is what separates a bright, clean beauty shot from one that loo",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_13.jpg.webp?itok=AbvrcYT8",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-05T09:03:01.000Z"
   },
   {
    "title": "Erling Haaland Sues Airline Over Photo Edit Featuring His Hairstyle",
@@ -63,6 +90,15 @@
    "source": "CineD",
    "category": "video",
    "date": "2026-10-05T07:59:30.000Z"
+  },
+  {
+   "title": "New EU deals: Up to 19% off on Sony cameras and lenses and new 3000 Euro cashback!",
+   "link": "https://www.sonyalpharumors.com/new-eu-deals-up-to-19-off-on-sony-cameras-and-lenses-and-new-3000-euro-cashback/",
+   "summary": "There are new limited time deals in Europe: Up to 19% off at Fotoerhardt. New 300 Euro Sony cashback deals at Fotokoch, Fotoerhardt, Calumet, Leistenscheider, WexUK. New rebates and deals at Amazon DE, Amazon UK, Amazon ",
+   "image": "",
+   "source": "Sony Alpha Rumors",
+   "category": "photo",
+   "date": "2026-10-05T06:52:01.000Z"
   },
   {
    "title": "Litepanels adds new kits & accessories to the Astra IP Range",
@@ -171,6 +207,15 @@
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-04T20:08:34.000Z"
+  },
+  {
+   "title": "Here is the Sony FX5 LCD defect…and why this might be good news!",
+   "link": "https://www.sonyalpharumors.com/here-is-the-sony-fx5-lcd-defect-and-why-this-might-be-good-news/",
+   "summary": "This is an interesting report found on Reddit:: A Sony FX5 owner in Mexico City purchased three FX5 bodies, which were delivered in late August, and says he noticed a problem with the LCD assembly from the first day. Acc",
+   "image": "",
+   "source": "Sony Alpha Rumors",
+   "category": "photo",
+   "date": "2026-10-04T19:31:26.000Z"
   },
   {
    "title": "Sony India promoting the FX series with AI generated image full of errors",
@@ -558,15 +603,6 @@
    "source": "DPReview",
    "category": "photo",
    "date": "2026-10-03T13:00:00.000Z"
-  },
-  {
-   "title": "Here is the Sony FX5 LCD defect…and why this might be good news!",
-   "link": "https://www.sonyalpharumors.com/here-is-the-sony-fx5-lcd-defect-and-why-this-might-be-good-news/",
-   "summary": "This is an interesting report found on Reddit:: A Sony FX5 owner in Mexico City purchased three FX5 bodies, which were delivered in late August, and says he noticed a problem with the LCD assembly from the first day. Acc",
-   "image": "",
-   "source": "Sony Alpha Rumors",
-   "category": "photo",
-   "date": "2026-10-03T12:31:26.000Z"
   },
   {
    "title": "Muse Creates Detailed Profiles of All Your Friends and Family",
@@ -1082,15 +1118,6 @@
    "date": "2026-10-02T15:16:21.000Z"
   },
   {
-   "title": "What It's Like to Shoot Stills With the Nikon ZR",
-   "link": "https://fstoppers.com/gear/what-its-shoot-stills-nikon-zr-904894?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "The Nikon ZR puts RED's raw video format, 32-bit float audio, and a 4-inch screen into a body with no viewfinder, so most of the conversation around it stays on codecs and cinema workflows. If you shoot both stills and v",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_4.jpg.webp?itok=m0ikBIJY",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-10-02T15:03:01.000Z"
-  },
-  {
    "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
    "link": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
    "summary": "For years these billionaires gushed obsessively about AI. But they meekly went along when Trump canceled the term.",
@@ -1163,15 +1190,6 @@
    "date": "2026-10-02T12:00:09.000Z"
   },
   {
-   "title": "AI hallucinations are making entitled customers even worse",
-   "link": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
-   "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will tell me they have a shellfish allergy, and I'll come back, a",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS536_AI_HALLUCINATION_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-02T12:00:00.000Z"
-  },
-  {
    "title": "Next Sony FX5 delay now official: new shipment start date is November 16",
    "link": "https://www.sonyalpharumors.com/next-sony-fx5-delay-now-official-new-shipment-start-date-is-november-16/",
    "summary": "Sees like every month we are getting a new month shipment delay on the FX5! Europeans Sony websites did now change the shipment start to November 16. Regular stores like Adorama and Fotoerhardt still claim the camera wil",
@@ -1233,15 +1251,6 @@
    "source": "CineD",
    "category": "video",
    "date": "2026-10-02T07:56:41.000Z"
-  },
-  {
-   "title": "New EU deals: Up to 19% off on Sony cameras and lenses and new 3000 Euro cashback!",
-   "link": "https://www.sonyalpharumors.com/new-eu-deals-up-to-19-off-on-sony-cameras-and-lenses-and-new-3000-euro-cashback/",
-   "summary": "There are new limited time deals in Europe: Up to 19% off at Fotoerhardt. New 300 Euro Sony cashback deals at Fotokoch, Fotoerhardt, Calumet, Leistenscheider, WexUK. New rebates and deals at Amazon DE, Amazon UK, Amazon ",
-   "image": "",
-   "source": "Sony Alpha Rumors",
-   "category": "photo",
-   "date": "2026-10-02T07:52:01.000Z"
   },
   {
    "title": "Sony Tidbits…",
@@ -1944,15 +1953,6 @@
    "source": "Y.M.Cinema",
    "category": "video",
    "date": "2026-09-29T10:38:32.000Z"
-  },
-  {
-   "title": "DevDay 2026 Recap",
-   "link": "https://openai.com/index/devday-2026-recap",
-   "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-   "image": "",
-   "source": "OpenAI",
-   "category": "ai",
-   "date": "2026-09-29T10:00:00.000Z"
   },
   {
    "title": "YouTube CTR, Instagram Reels Structure, and Industry News",
