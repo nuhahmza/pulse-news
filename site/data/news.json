@@ -1,6 +1,15 @@
 {
- "updated": "2026-10-05T08:19:30.462Z",
+ "updated": "2026-10-05T08:49:11.832Z",
  "items": [
+  {
+   "title": "People really hate AI, so why can’t they get enough?",
+   "link": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+   "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/ai-relationship3.jpg?resize=1200,600",
+   "source": "MIT Tech Review",
+   "category": "ai",
+   "date": "2026-10-05T08:00:00.000Z"
+  },
   {
    "title": "Vivo X500 Pro Launching – 4K 120fps 10-Bit Log, 4K 240fps Slow Motion, New Sony LYTIA 610 Co-Developed Sensor",
    "link": "https://www.cined.com/vivo-x500-pro-launching-4k-120fps-10-bit-log-4k-240fps-slow-motion-new-sony-lytia-610-co-developed-sensor/",
@@ -76,7 +85,7 @@
   {
    "title": "Instagram adds AI songs to DMs",
    "link": "https://www.socialmediatoday.com/news/instagram-adds-ai-songs-to-dms/832086/",
-   "summary": "Users can leverage artificial intelligence to generate music to share with their friends, echoing a similar paid Snapchat feature.",
+   "summary": "Users can generate lyrics and music to share AI-generated tracks with their friends, echoing a similar paid Snapchat feature.",
    "image": "https://imgproxy.divecdn.com/4c8s5cKB8C7MHoWLCwg7jU9Sl6kuCNz1L6NJczHUtt8/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pZ19tdXNpY19zaGFyaW5nMi5wbmc=.webp",
    "source": "Social Media Today",
    "category": "instagram",
@@ -85,7 +94,7 @@
   {
    "title": "Instagram adds Threads sharing sticker for Stories",
    "link": "https://www.socialmediatoday.com/news/instagram-adds-threads-sharing-sticker-for-stories/832085/",
-   "summary": "The feature allows users to add previously liked or saved Threads posts to a Stories frame.",
+   "summary": "The feature allows users to add previously liked or saved posts to a Stories frame, replicating a similar quote post update.",
    "image": "https://imgproxy.divecdn.com/vA9dqvZcMHUrLQfs00vX55eKwJ-pC8gXL_LBuuvx8V4/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JbnN0YV91cGRhdGUuZ2lm.webp",
    "source": "Social Media Today",
    "category": "instagram",
@@ -2250,15 +2259,6 @@
    "source": "TechCrunch",
    "category": "tiktok",
    "date": "2026-09-22T14:00:00.000Z"
-  },
-  {
-   "title": "Don’t be fooled by this summer of AI hype",
-   "link": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
-   "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face h",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/summer-hype2.jpg?resize=1200,600",
-   "source": "MIT Tech Review",
-   "category": "ai",
-   "date": "2026-09-22T11:04:51.000Z"
   },
   {
    "title": "Weekly Nikon news flash #904",
