@@ -1,6 +1,33 @@
 {
- "updated": "2026-10-05T18:20:03.275Z",
+ "updated": "2026-10-05T18:51:37.180Z",
  "items": [
+  {
+   "title": "Film Quote of the Day: The James Bond Line That Delivered a Perfect Insult",
+   "link": "https://nofilmschool.com/dr-no-quote",
+   "summary": "It's hard to believe that the James Bond franchise started 64 years ago with 1962's Dr. No. As a James Bond fan, I've loved rewatching these movies over the years. These movies have always been binge-watches for me. I st",
+   "image": "https://nofilmschool.com/media-library/dr-no-quote.jpg?id=68054079&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-05T18:30:04.000Z"
+  },
+  {
+   "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+   "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+   "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-05T18:29:00.000Z"
+  },
+  {
+   "title": "Reka AI's omni-model Rho-1 handles text, images, video, and robot control in a single model",
+   "link": "https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/",
+   "summary": "Reka AI's Rho-1 is a 19-billion-parameter omni-model that processes and generates text, images, video, and robot control actions in a single neural network. Trained on 320 H100 GPUs in about three months, it uses a fract",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/rho1_images.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-05T18:26:05.000Z"
+  },
   {
    "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
@@ -884,15 +911,6 @@
    "date": "2026-10-04T09:03:01.000Z"
   },
   {
-   "title": "Chinese AI models parrot state doctrine or refuse to answer on sensitive topics",
-   "link": "https://the-decoder.com/chinese-ai-models-parrot-state-doctrine-or-refuse-to-answer-on-sensitive-topics/",
-   "summary": "Chinese AI models often follow the party line on politically sensitive questions, according to an Aleph Alpha study that rated only 17 to 41 percent of answers as balanced. Aleph Alpha sells \"sovereign AI\" to governments",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/09/aleph_alpha_china_benchmark.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-04T08:47:52.000Z"
-  },
-  {
    "title": "Canon EOS R8 Mark II Gets a Firm Amazon Delivery Date: October 21",
    "link": "https://ymcinema.com/2026/10/04/canon-eos-r8-mark-ii-amazon-delivery-date-october-21/",
    "summary": "Amazon has updated its listing for the Canon EOS R8 Mark II with something prospective buyers have been waiting for: a firm delivery date. The camera is now listed for release on October 20, 2026, with Prime delivery sch",
@@ -1064,15 +1082,6 @@
    "date": "2026-10-03T01:43:56.000Z"
   },
   {
-   "title": "Meta wants your next gadget to be Muse-infused",
-   "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-   "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-03T00:45:39.000Z"
-  },
-  {
    "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
    "link": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
    "summary": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
@@ -1242,15 +1251,6 @@
    "source": "Canon Rumors",
    "category": "photo",
    "date": "2026-10-02T16:00:39.000Z"
-  },
-  {
-   "title": "Austin Abrams: The Scream King We Need",
-   "link": "https://nofilmschool.com/austin-abrams-scream-king",
-   "summary": "You have seen Austin Abrams be the opening kill, play a bully who is attacked by a scarecrow bully, get put under a witch’s curse, and have mutated zombies leave him blood-smeared and screaming in terror. Abrams’ career ",
-   "image": "https://nofilmschool.com/media-library/austin-abrams-as-bryan-in-the-2026-horror-film-resident-evil.png?id=68005400&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-02T16:00:03.000Z"
   },
   {
    "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
