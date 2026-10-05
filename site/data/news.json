@@ -1,6 +1,24 @@
 {
- "updated": "2026-10-05T15:48:58.139Z",
+ "updated": "2026-10-05T16:17:48.258Z",
  "items": [
+  {
+   "title": "Anthropic is quietly becoming America's biggest corporate donor ahead of its mega IPO",
+   "link": "https://the-decoder.com/anthropic-is-quietly-becoming-americas-biggest-corporate-donor-ahead-of-its-mega-ipo/",
+   "summary": "Anthropic employees donated $540 million in 2025 alone, nearly five times as much as the next-largest Fortune 500 donors, thanks to a company program that tops up every stock donation with extra shares and triples contri",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/07/claude_logo_money.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-05T16:00:12.000Z"
+  },
+  {
+   "title": "Connecting AI agents to enterprise knowledge",
+   "link": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+   "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in ",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/Neo4j-Report-2026-cover.png",
+   "source": "MIT Tech Review",
+   "category": "ai",
+   "date": "2026-10-05T15:47:52.000Z"
+  },
   {
    "title": "The Most Popular Cinema Cameras of Fall 2026",
    "link": "https://ymcinema.com/2026/10/05/most-popular-cinema-cameras-fall-2026/",
@@ -94,7 +112,7 @@
   {
    "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
    "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
-   "summary": "Today, I’m talking with Senator Adam Schiff, a Democrat from California. Sen. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — it’s all the",
+   "summary": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — it’s all there. I re",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DCD_2026-10-05_Schiff.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "source": "The Verge",
    "category": "ai",
@@ -443,6 +461,15 @@
    "date": "2026-10-05T04:33:28.000Z"
   },
   {
+   "title": "EmTech Future 2026: When AI Meets Everything",
+   "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+   "summary": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fiel",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/EFT_On-Demad_WEB.png",
+   "source": "MIT Tech Review",
+   "category": "ai",
+   "date": "2026-10-05T04:00:00.000Z"
+  },
+  {
    "title": "Voigtlander Nokton 23mmF1.2 and 35mmF1.2 Silver Version Available for Preorder",
    "link": "https://www.fujirumors.com/voigtlander-nokton-23mmf1-2-and-35mmf1-2-silver-version-available-for-preorder/",
    "summary": "You can now preorder the silver version of the 23 and 35 Nokton lenses. Voigtlander NOKTON 23mm F1.2 X silver BHphoto Voigtlander NOKTON 35mm F1.2 X silver BHphoto On Amazon you should first to get it at Voigtlander USA ",
@@ -473,7 +500,7 @@
    "title": "Instagram adds Threads sharing sticker for Stories",
    "link": "https://www.socialmediatoday.com/news/instagram-adds-threads-sharing-sticker-for-stories/832085/",
    "summary": "The feature allows users to add previously liked or saved Threads posts to a Stories frame.",
-   "image": "",
+   "image": "https://imgproxy.divecdn.com/vA9dqvZcMHUrLQfs00vX55eKwJ-pC8gXL_LBuuvx8V4/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JbnN0YV91cGRhdGUuZ2lm.webp",
    "source": "Social Media Today",
    "category": "instagram",
    "date": "2026-10-04T21:18:35.000Z"
@@ -846,15 +873,6 @@
    "source": "The Verge",
    "category": "ai",
    "date": "2026-10-03T14:31:56.000Z"
-  },
-  {
-   "title": "\"Muse Gadgets\" turns AI hardware into an open-source DIY project",
-   "link": "https://the-decoder.com/muse-gadgets-turns-ai-hardware-into-an-open-source-diy-project/",
-   "summary": "Meta announced Muse Gadgets, an open-source project that lets hobbyists build their own AI hardware using ESP32 boards and connect it to Meta's AI agent Muse. The team also produced 5,000 units of the \"Muse Home Link,\" a",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/met_muse_gadget_logo.jpg",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-03T14:28:51.000Z"
   },
   {
    "title": "From Capture to Create: The Evolution of Competitive Wildlife Photography",
@@ -2054,15 +2072,6 @@
    "date": "2026-09-28T08:55:45.000Z"
   },
   {
-   "title": "Who’s liable when AI agents go rogue?",
-   "link": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
-   "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cy",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_AIagentsGoingRogue.jpg?resize=1200,600",
-   "source": "MIT Tech Review",
-   "category": "ai",
-   "date": "2026-09-28T08:06:22.000Z"
-  },
-  {
    "title": "Weekly Nikon news flash #905",
    "link": "https://nikonrumors.com/2026/09/27/weekly-nikon-news-flash-905.aspx/",
    "summary": "→ The Chinese company Cloud Workshop announed new decorative covers for the Nikon AF-S Nikkor 35mm f/1.4G F-mount lens and Viltrox F-Z + Fringer NF-GFX adapters (see original post). → The current Nikon UK deals will end ",
@@ -2115,15 +2124,6 @@
    "source": "Nikon Rumors",
    "category": "photo",
    "date": "2026-09-26T08:54:00.000Z"
-  },
-  {
-   "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-   "link": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-   "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will foc",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Altec_Poly_2.jpeg",
-   "source": "MIT Tech Review",
-   "category": "ai",
-   "date": "2026-09-25T09:16:25.000Z"
   },
   {
    "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
