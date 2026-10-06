@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06T23:14:16.313Z",
+ "updated": "2026-10-06T23:43:54.270Z",
  "items": [
   {
    "title": "How Greig Fraser Brought ‘Project Hail Mary’ to Life: Cameras, Aspect Ratios, and In-Camera Magic",
@@ -13,7 +13,7 @@
   {
    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
    "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-   "summary": "The startup crossed over $1 million in anualized revenue within two months of its post-pivot launch.",
+   "summary": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Melius.jpg?resize=1200,800",
    "source": "TechCrunch",
    "category": "ai",
@@ -194,7 +194,7 @@
    "title": "TikTok highlights creator recs for Halloween travel",
    "link": "https://www.socialmediatoday.com/news/tiktok-highlights-creator-recs-for-halloween-travel/832289/",
    "summary": "The app is focusing on popular #FilmTok and #BookTok locations and suggesting vacation ideas tied to spooky themes and the fall season.",
-   "image": "https://imgproxy.divecdn.com/IzqlHAT0s9CEnu5TtglGCwtiAQ4EnAv1NzB1ChL6CXs/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfaGFsbG93ZWVuX3V3VjVnTEUucG5n.webp",
+   "image": "",
    "source": "Social Media Today",
    "category": "tiktok",
    "date": "2026-10-06T18:45:24.000Z"
@@ -329,7 +329,7 @@
    "title": "Elon Musk’s xAI Blocks Minnesota’s Landmark Ban on AI Nudification Apps",
    "link": "https://petapixel.com/2026/10/06/elon-musks-xai-blocks-minnesotas-landmark-ban-on-ai-nudification-apps/",
    "summary": "Elon Musk's company xAI has successfully blocked Minnesota's landmark ban on AI nudification apps and websites that create explicit images of people, mostly women, without consent. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/elon-musk-minnesota-lawsuit-ban.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-06T16:21:14.000Z"
@@ -893,15 +893,6 @@
    "date": "2026-10-06T05:51:07.000Z"
   },
   {
-   "title": "Apple Mac mini with M4 Pro Chip on sale for $1,999 USD",
-   "link": "https://www.newsshooter.com/2026/10/05/apple-mac-mini-with-m4-pro-chip-on-sale-for-1999-usd/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=apple-mac-mini-with-m4-pro-chip-on-sale-for-1999-usd",
-   "summary": "The Apple Mac mini with M4 Pro Chip is on sale for $1,999 USD, which is. a discount of $200 USD. The Apple Mac mini is less than half the size of the previous Mac mini. The compact Mac mini has a small footprint in your ",
-   "image": "https://www.newsshooter.com/wp-content/uploads/2026/10/Mac-Mini-740x416.jpg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-10-06T05:46:28.000Z"
-  },
-  {
    "title": "Iconic Movie Scenes That Almost Didn't Make the Cut",
    "link": "https://nofilmschool.com/iconic-movie-scenes-that-almost-didnt-make-the-cut",
    "summary": "It can be difficult to predict in the editing room which sequences or moments are going to resonate with audiences the most once the final cut is released. That means, naturally, that there have certainly been more than ",
@@ -945,6 +936,15 @@
    "source": "No Film School",
    "category": "video",
    "date": "2026-10-06T04:08:19.000Z"
+  },
+  {
+   "title": "SmallRig Autumn Savings: Up to 30% Off Tripods, V-Mount Batteries, Lighting and Cages on Amazon",
+   "link": "https://www.newsshooter.com/2026/10/05/smallrig-autumn-savings-up-to-30-off-tripods-v-mount-batteries-lighting-and-cages-on-amazon/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=smallrig-autumn-savings-up-to-30-off-tripods-v-mount-batteries-lighting-and-cages-on-amazon",
+   "summary": "Sponsored Article SmallRig Autumn Savings runs from October 6 through October 15, 2026 on Amazon, with up to 30% off selected filmmaking and photography gear. The promotion covers tripods and monopods, V-mount batteries ",
+   "image": "https://www.newsshooter.com/wp-content/uploads/2026/10/smallrig-autumn-savings-2026-hero.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-06T03:00:00.000Z"
   },
   {
    "title": "Aperty From Skylum Is a Goner in November",
