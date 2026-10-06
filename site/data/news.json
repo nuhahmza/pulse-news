@@ -1,6 +1,15 @@
 {
- "updated": "2026-10-06T06:52:01.628Z",
+ "updated": "2026-10-06T07:17:28.254Z",
  "items": [
+  {
+   "title": "Cohere pitches North 2 as the enterprise AI control room that works with any model",
+   "link": "https://the-decoder.com/cohere-pitches-north-2-as-the-enterprise-ai-control-room-that-works-with-any-model/",
+   "summary": "Cohere turned its enterprise platform into a control center for AI agents with North 2, handling multi-step workflows on their own and retaining context across sessions. The article Cohere pitches North 2 as the enterpri",
+   "image": "https://the-decoder.com/wp-content/uploads/2024/06/cohere_logo.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-06T06:58:19.000Z"
+  },
   {
    "title": "Sony FX3 Drops to Its Lowest Amazon Price of 2026 During Prime Big Deal Days",
    "link": "https://ymcinema.com/2026/10/06/sony-fx3-lowest-amazon-price-2026-prime-big-deal-days/",
@@ -1089,15 +1098,6 @@
    "source": "Sony Alpha Rumors",
    "category": "photo",
    "date": "2026-10-04T12:59:17.000Z"
-  },
-  {
-   "title": "Google researchers find a way to keep self-improving AI agents from memorizing their tests",
-   "link": "https://the-decoder.com/google-researchers-find-a-way-to-keep-self-improving-ai-agents-from-memorizing-their-tests/",
-   "summary": "Self-improving AI agents tend to memorize their test tasks, so their gains shrink or disappear on new ones. RRSI, a new method from Google researchers, reins in this effect and lifts scores on unseen benchmarks by up to ",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/rrsi-google-generated-image-nano-banana-pro.jpg",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-04T12:40:37.000Z"
   },
   {
    "title": "Can a Better Process Lead to Better Landscape Photos?",
