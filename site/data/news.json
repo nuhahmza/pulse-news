@@ -1,6 +1,24 @@
 {
- "updated": "2026-10-06T20:46:14.766Z",
+ "updated": "2026-10-06T21:15:18.296Z",
  "items": [
+  {
+   "title": "Nikon Z8 hits its lowest price yet: The Prime Big Deal Days camera deals worth a look",
+   "link": "https://www.dpreview.com/news/nikon-z8-hits-its-lowest-price-yet-the-prime-big-deal-days-camera-deals-worth-a/",
+   "summary": "Nikon's Z8 and Sony's 50mm F1.4 GM are at the lowest prices we've seen. Memory cards and SSDs are discounted too, but still cost far more than they did a year ago.",
+   "image": "https://www.dpreview.com/wp-content/uploads/2026/10/Amazon-Prime-Big-Deals-Day-2026-When-October-6-7-16x9-Lead-1.jpg",
+   "source": "DPReview",
+   "category": "photo",
+   "date": "2026-10-06T20:56:43.000Z"
+  },
+  {
+   "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
+   "link": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+   "summary": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chatgpt-icon-1152x648-1789154124.jpg",
+   "source": "Ars Technica",
+   "category": "ai",
+   "date": "2026-10-06T20:50:32.000Z"
+  },
   {
    "title": "How AI decision models could change content moderation",
    "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
@@ -9,6 +27,15 @@
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-06T20:35:20.000Z"
+  },
+  {
+   "title": "Film Quote of the Day: Why 'Contact' Understood Human Connection Better Than Any Sci-Fi Movie",
+   "link": "https://nofilmschool.com/contact-film-quotes",
+   "summary": "What's out there in the deepest annals of space? Are there people? And will they ever send us a message? Maybe they're already here. These are the questions posed by Carl Sagan in his novel Contact , which Robert Zemecki",
+   "image": "https://nofilmschool.com/media-library/contact-quote.jpg?id=68133764&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-06T20:30:04.000Z"
   },
   {
    "title": "The 7 Best Michael Douglas Movies",
@@ -239,7 +266,7 @@
    "title": "Curiosity Rover Celebrates Its 5,000th Day on Mars With Panorama of Sandy Ridge",
    "link": "https://petapixel.com/2026/10/06/curiosity-rover-celebrates-its-5000th-day-on-mars-with-panorama-of-sandy-ridge/",
    "summary": "NASA’s Curiosity rover has marked 5,000 Martian days on the Red Planet with a new panorama captured from a sandy ridge known as “Chocolatal.” [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/Mars-Curiosity-5000-Sol-Panorama.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-06T16:13:37.000Z"
@@ -518,7 +545,7 @@
    "title": "A 1988 Depeche Mode Photo Has Turned This Prague Bridge Into a Tourist Hot Spot",
    "link": "https://petapixel.com/2026/10/06/a-1988-depeche-mode-photo-has-turned-this-prague-bridge-into-a-tourist-hot-spot/",
    "summary": "A Prague bridge has become a popular photo spot for Depeche Mode fans, with tourists lining up daily to recreate an iconic 1988 photograph of the band. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/depeche-mode-bridge-feature.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-06T12:58:25.000Z"
@@ -1017,15 +1044,6 @@
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-05T18:54:30.000Z"
-  },
-  {
-   "title": "Film Quote of the Day: The James Bond Line That Delivered a Perfect Insult",
-   "link": "https://nofilmschool.com/dr-no-quote",
-   "summary": "It's hard to believe that the James Bond franchise started 64 years ago with 1962's Dr. No. As a James Bond fan, I've loved rewatching these movies over the years. These movies have always been binge-watches for me. I st",
-   "image": "https://nofilmschool.com/media-library/dr-no-quote.jpg?id=68054079&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-05T18:30:04.000Z"
   },
   {
    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
@@ -1973,15 +1991,6 @@
    "date": "2026-09-30T16:45:20.000Z"
   },
   {
-   "title": "Google's early attempt to pay websites for AI answers is struggling",
-   "link": "https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny/",
-   "summary": "Many sites see just one-tenth of one percent of their advertising revenue from AI payments.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/google-logo-big-g-grooves-1152x648.jpg",
-   "source": "Ars Technica",
-   "category": "ai",
-   "date": "2026-09-30T16:03:48.000Z"
-  },
-  {
    "title": "Your iPhone just got a hidden anti-scam upgrade in iOS 27: How to enable it",
    "link": "https://www.zdnet.com/tech/ios-27-impersonation-risk-detection-security-feature/",
    "summary": "New with iOS 27 (and iPadOS 27) is a setting called Impersonation Risk Detection that aims to warn you of suspicious activity that could trap you in a scam.",
@@ -2007,15 +2016,6 @@
    "source": "The Verge",
    "category": "instagram",
    "date": "2026-09-30T14:30:00.000Z"
-  },
-  {
-   "title": "Laowa says its new 35mm F2.8 macro lens is the first of its kind",
-   "link": "https://www.dpreview.com/news/laowa-35mm-2p8-macro-lens-announcement-autofocus/",
-   "summary": "The full-frame lens for mirrorless systems provides up to 1x reproduction and has autofocus.",
-   "image": "https://www.dpreview.com/wp-content/uploads/2026/09/m-pi-laowa-35mm-2p8-macro-badge-16x9-Lead-1.jpg",
-   "source": "DPReview",
-   "category": "photo",
-   "date": "2026-09-30T14:00:00.000Z"
   },
   {
    "title": "Used Canon Full-Frame Cameras on Amazon: EOS RP Starts at $616, R5 at $2,385",
