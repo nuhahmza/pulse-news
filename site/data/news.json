@@ -1,6 +1,15 @@
 {
- "updated": "2026-10-06T22:44:24.507Z",
+ "updated": "2026-10-06T23:14:16.313Z",
  "items": [
+  {
+   "title": "How Greig Fraser Brought ‘Project Hail Mary’ to Life: Cameras, Aspect Ratios, and In-Camera Magic",
+   "link": "https://nofilmschool.com/project-hail-mary-cinematography",
+   "summary": "One of the movies I find myself constantly rewatching is Project Hail Mary . I feel like it perfectly adapted Andy Weir's amazing book and brought it to life on the big screen. Directors Phil Lord and Christopher Miller ",
+   "image": "https://nofilmschool.com/media-library/project-hail-mary-cinematography.jpg?id=68248173&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-06T23:00:02.000Z"
+  },
   {
    "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
    "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
@@ -27,6 +36,15 @@
    "source": "Fuji Rumors",
    "category": "photo",
    "date": "2026-10-06T21:28:27.000Z"
+  },
+  {
+   "title": "Every Color Space You Edit In Was Defined by the Eyes of 17 People in 1920s England",
+   "link": "https://fstoppers.com/education/every-color-space-edit-was-defined-eyes-17-people-1920s-england-904135?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "In a darkened room at Imperial College in London in the late 1920s, ten people looked at a small split circle of light, about the width of a thumbnail held at arm's length. Half the circle carried a single wavelength; th",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/08/every-color-space-came-from-17-pairs-of-eyes-prism-dispersion.jpg.webp?itok=ZnNHzs4Y",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-06T21:03:02.000Z"
   },
   {
    "title": "The Austin Film Festival Announces Full 2026 Lineup and Schedule of Screenwriting Programs",
@@ -383,7 +401,7 @@
    "title": "Wedding Photographer Must Pay Nearly $2M to Couples Who Never Got Their Pictures",
    "link": "https://petapixel.com/2026/10/06/wedding-photographer-must-pay-nearly-2m-to-couples-who-never-got-their-pictures/",
    "summary": "A wedding photographer has been ordered to pay $1.7 million after leaving hundreds of customers without the services they paid for. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2024/12/sad-bride3.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-06T15:43:23.000Z"
@@ -648,6 +666,15 @@
    "source": "The Decoder",
    "category": "ai",
    "date": "2026-10-06T12:11:22.000Z"
+  },
+  {
+   "title": "How Jump Trading is scaling quant research with ChatGPT",
+   "link": "https://openai.com/index/jump-trading",
+   "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
+   "image": "",
+   "source": "OpenAI",
+   "category": "ai",
+   "date": "2026-10-06T12:00:00.000Z"
   },
   {
    "title": "Sharing AI progress in mathematics",
@@ -1010,15 +1037,6 @@
    "date": "2026-10-05T20:14:57.000Z"
   },
   {
-   "title": "When Courtroom Dramas Dominated Hollywood",
-   "link": "https://nofilmschool.com/when-courtroom-dramas-dominated-hollywood",
-   "summary": "I went to see Coyote v. Acme the other week, and I was explaining to my wife that it wasn't just crazy that we got a Looney Tunes movie; it was even crazier that we got a courtroom drama. Because aside from that Netflix ",
-   "image": "https://nofilmschool.com/media-library/when-courtroom-dramas-dominated-hollywood.jpg?id=68054148&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-05T20:00:04.000Z"
-  },
-  {
    "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
    "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
    "summary": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflec",
@@ -1377,15 +1395,6 @@
    "source": "Fstoppers",
    "category": "photo",
    "date": "2026-10-04T16:03:01.000Z"
-  },
-  {
-   "title": "Is It Time to Upgrade Your Camera?",
-   "link": "https://fstoppers.com/gear/it-time-upgrade-your-camera-904923?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "A shelf full of older camera bodies brings its own kind of guilt: they still work, they still make good pictures, and they almost never leave the house. Choosing whether to keep shooting a camera like the Fujifilm X-H1 o",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_12.jpg.webp?itok=Io05w_9M",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-10-04T15:03:01.000Z"
   },
   {
    "title": "Save Your Photos Month: community images from each 48-hour mini-challenge",
@@ -1755,15 +1764,6 @@
    "source": "DPReview",
    "category": "photo",
    "date": "2026-10-01T17:08:49.000Z"
-  },
-  {
-   "title": "The eternal complement",
-   "link": "https://openai.com/index/the-eternal-complement",
-   "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-   "image": "",
-   "source": "OpenAI",
-   "category": "ai",
-   "date": "2026-10-01T17:00:00.000Z"
   },
   {
    "title": "With most information hidden, the game Stratego had stumped AI—until now",
