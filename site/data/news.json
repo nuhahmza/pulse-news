@@ -1,6 +1,24 @@
 {
- "updated": "2026-10-06T18:17:33.150Z",
+ "updated": "2026-10-06T18:50:20.061Z",
  "items": [
+  {
+   "title": "Wikimedia confirms OpenAI's rogue AI agents edited wikis, tried to compromise tools, and hammered its infrastructure",
+   "link": "https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/",
+   "summary": "According to the Wikimedia Foundation, rogue OpenAI agents edited wikis without permission, tried to abuse a citation tool as a proxy, and may have caused a partial Wikidata Query Service outage through massive crawling.",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_wiki_kraken-2.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-06T18:29:35.000Z"
+  },
+  {
+   "title": "Hark releases an AI personal assistant with a focus on privacy",
+   "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+   "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Hark-Panels.png?resize=1200,675",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-06T18:22:45.000Z"
+  },
   {
    "title": "Use Gemini for free? You’ll soon be limited to its weakest AI model",
    "link": "https://www.zdnet.com/innovation/google-ai-free-model-access-limited/",
@@ -54,6 +72,15 @@
    "source": "No Film School",
    "category": "video",
    "date": "2026-10-06T17:00:03.000Z"
+  },
+  {
+   "title": "Sony FX5 delayed again: Europe now lists November 16 ship date",
+   "link": "https://www.newsshooter.com/2026/10/06/sony-fx5-delayed-again-europe-now-lists-november-16-ship-date/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sony-fx5-delayed-again-europe-now-lists-november-16-ship-date",
+   "summary": "The Sony FX5 has slipped again. Sony’s own direct-to-consumer stores in Europe, including the UK, France and Germany, now list November 16, 2026 as the first ship date for the FX5. That is one month later than the Octobe",
+   "image": "https://www.newsshooter.com/wp-content/uploads/2026/10/FX5-delayNewsshooter-Thumbnails.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-06T16:58:24.000Z"
   },
   {
    "title": "This Chinese Micro Four Thirds Camera Seen at IFA Is Real Weird",
@@ -542,6 +569,15 @@
    "date": "2026-10-06T10:21:25.000Z"
   },
   {
+   "title": "Advancing computer use with Ironclad",
+   "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
+   "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+   "image": "",
+   "source": "OpenAI",
+   "category": "ai",
+   "date": "2026-10-06T10:00:00.000Z"
+  },
+  {
    "title": "Another Canon RF 90mm f/2.8 IS STM Macro Design Has Appeared",
    "link": "https://www.canonrumors.com/another-canon-rf-90mm-f-2-8-is-stm-macro-design-has-appeared/",
    "summary": "We reported recently that Canon would be releasing an RF 90mm f/2.8 IS STM Macro lens, it will not be an L lens, as the RF 100mm f/2.8L IS USM Macro already exists. We have also seen designs for a 90mm macro lens from a ",
@@ -630,6 +666,42 @@
    "source": "Hugging Face",
    "category": "ai",
    "date": "2026-10-06T06:44:39.000Z"
+  },
+  {
+   "title": "Save $1,000 USD on the Nikon Z8 Mirrorless Camera",
+   "link": "https://www.newsshooter.com/2026/10/05/save-1000-usd-on-the-nikon-z8-mirrorless-camera/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=save-1000-usd-on-the-nikon-z8-mirrorless-camera",
+   "summary": "For a limited time, you can save $1,000 USD on the Nikon Z8 Mirrorless Camera and purchase it for $3,296.25 USD. The Nikon Z8 is a compact, lightweight camera housing much of the technology from the Z9 but in a sleeker, ",
+   "image": "https://www.newsshooter.com/wp-content/uploads/2026/10/Z8-740x416.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-06T06:04:16.000Z"
+  },
+  {
+   "title": "Pelican Vault V300 Case with Padded Dividers (Gray, 18.7L) on sale for $59.95 USD",
+   "link": "https://www.newsshooter.com/2026/10/05/pelican-vault-v300-case-with-padded-dividers-gray-18-7l-on-sale-for-59-95-usd/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=pelican-vault-v300-case-with-padded-dividers-gray-18-7l-on-sale-for-59-95-usd",
+   "summary": "The Pelican Vault V300 Case with Padded Dividers (Gray, 18.7L) is on sale for $59.95 USD, which is a discount of $60 USD. The Pelican Vault V300 Case with Padded Dividers is crush- and dustproof, weather-resistant, and f",
+   "image": "https://www.newsshooter.com/wp-content/uploads/2026/10/Pelican-740x416.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-06T05:57:19.000Z"
+  },
+  {
+   "title": "Shure VP83 LensHopper Camera-Mount Shotgun Microphone on sale for $39 USD",
+   "link": "https://www.newsshooter.com/2026/10/05/shure-vp83-lenshopper-camera-mount-shotgun-microphone-on-sale-for-39-usd/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=shure-vp83-lenshopper-camera-mount-shotgun-microphone-on-sale-for-39-usd",
+   "summary": "The Shure VP83 LensHopper Camera-Mount Shotgun Microphone is on sale for $39 USD, which is a big discount of $180 USD. The Shure VP83 LensHopper camera-mount shotgun microphone for better sound, less noise, and more focu",
+   "image": "https://www.newsshooter.com/wp-content/uploads/2026/10/Shure-740x416.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-06T05:51:07.000Z"
+  },
+  {
+   "title": "Apple Mac mini with M4 Pro Chip on sale for $1,999 USD",
+   "link": "https://www.newsshooter.com/2026/10/05/apple-mac-mini-with-m4-pro-chip-on-sale-for-1999-usd/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=apple-mac-mini-with-m4-pro-chip-on-sale-for-1999-usd",
+   "summary": "The Apple Mac mini with M4 Pro Chip is on sale for $1,999 USD, which is. a discount of $200 USD. The Apple Mac mini is less than half the size of the previous Mac mini. The compact Mac mini has a small footprint in your ",
+   "image": "https://www.newsshooter.com/wp-content/uploads/2026/10/Mac-Mini-740x416.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-06T05:46:28.000Z"
   },
   {
    "title": "Iconic Movie Scenes That Almost Didn't Make the Cut",
@@ -902,15 +974,6 @@
    "date": "2026-10-05T18:29:00.000Z"
   },
   {
-   "title": "Reka AI's omni-model Rho-1 handles text, images, video, and robot control in a single model",
-   "link": "https://the-decoder.com/reka-ais-omni-model-rho-1-handles-text-images-video-and-robot-control-in-a-single-model/",
-   "summary": "Reka AI's Rho-1 is a 19-billion-parameter omni-model that processes and generates text, images, video, and robot control actions in a single neural network. Trained on 320 H100 GPUs in about three months, it uses a fract",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/rho1_images.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-05T18:26:05.000Z"
-  },
-  {
    "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
    "summary": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approache",
@@ -1053,15 +1116,6 @@
    "source": "OpenAI",
    "category": "ai",
    "date": "2026-10-05T15:00:00.000Z"
-  },
-  {
-   "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
-   "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-   "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-05T14:35:09.000Z"
   },
   {
    "title": "Full-frame but not the whole picture: there isn’t a one-size fits all format",
@@ -1818,15 +1872,6 @@
    "source": "Canon Rumors",
    "category": "photo",
    "date": "2026-10-01T06:22:51.000Z"
-  },
-  {
-   "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-   "link": "https://openai.com/index/the-den-family-social",
-   "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-   "image": "",
-   "source": "OpenAI",
-   "category": "ai",
-   "date": "2026-10-01T00:00:00.000Z"
   },
   {
    "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
