@@ -1,6 +1,24 @@
 {
- "updated": "2026-10-06T22:15:39.276Z",
+ "updated": "2026-10-06T22:44:24.507Z",
  "items": [
+  {
+   "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+   "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+   "summary": "The startup crossed over $1 million in anualized revenue within two months of its post-pivot launch.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Melius.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-06T22:34:03.000Z"
+  },
+  {
+   "title": "Aaron Sorkin Explains What AI Gets Wrong About Storytelling",
+   "link": "https://nofilmschool.com/aaron-sorkin-explains-ai-gets-wrong-storytelling",
+   "summary": "I was trying to think of a more famous screenwriter in modern Hollywood than Aaron Sorkin, and I came up with nothing. The guy has been making movies and TV shows we love since the early 90s, and he gives a great sound b",
+   "image": "https://nofilmschool.com/media-library/aaron-sorkin-on-why-ai-will-fail-the-power-of-dialogue-and-storytelling-truth-vs-fact.webp?id=68278315&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-06T22:30:48.000Z"
+  },
   {
    "title": "BHphoto Answers to Amazon Prime Deals with Its Own Big 2 Days Only Deals",
    "link": "https://www.fujirumors.com/bhphoto-answers-to-amazon-prime-deals-with-its-own-big-2-days-only-deals/",
@@ -9,6 +27,15 @@
    "source": "Fuji Rumors",
    "category": "photo",
    "date": "2026-10-06T21:28:27.000Z"
+  },
+  {
+   "title": "The Austin Film Festival Announces Full 2026 Lineup and Schedule of Screenwriting Programs",
+   "link": "https://nofilmschool.com/austin-film-festival-2026-schedule",
+   "summary": "As a local Austinite, I can be a bit biased toward festivals in my own backyard. Still, even with that in mind, the Austin Film Festival is a top festival on the circuit thanks in part to its deep roster and diverse rang",
+   "image": "https://nofilmschool.com/media-library/austin-film-festival-2026-schedule.jpg?id=68273672&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-06T21:00:04.000Z"
   },
   {
    "title": "Nikon Z8 hits its lowest price yet: the best deals on camera gear during Amazon’s Prime Big Deal Days",
@@ -293,7 +320,7 @@
    "title": "Curiosity Rover Celebrates Its 5,000th Day on Mars With Panorama of Sandy Ridge",
    "link": "https://petapixel.com/2026/10/06/curiosity-rover-celebrates-its-5000th-day-on-mars-with-panorama-of-sandy-ridge/",
    "summary": "NASA’s Curiosity rover has marked 5,000 Martian days on the Red Planet with a new panorama captured from a sandy ridge known as “Chocolatal.” [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/Mars-Curiosity-5000-Sol-Panorama.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-06T16:13:37.000Z"
@@ -356,7 +383,7 @@
    "title": "Wedding Photographer Must Pay Nearly $2M to Couples Who Never Got Their Pictures",
    "link": "https://petapixel.com/2026/10/06/wedding-photographer-must-pay-nearly-2m-to-couples-who-never-got-their-pictures/",
    "summary": "A wedding photographer has been ordered to pay $1.7 million after leaving hundreds of customers without the services they paid for. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2024/12/sad-bride3.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-06T15:43:23.000Z"
@@ -621,6 +648,15 @@
    "source": "The Decoder",
    "category": "ai",
    "date": "2026-10-06T12:11:22.000Z"
+  },
+  {
+   "title": "Sharing AI progress in mathematics",
+   "link": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+   "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub.",
+   "image": "",
+   "source": "OpenAI",
+   "category": "ai",
+   "date": "2026-10-06T12:00:00.000Z"
   },
   {
    "title": "Now live: Amazon US prime deals!",
@@ -992,15 +1028,6 @@
    "date": "2026-10-05T19:33:53.000Z"
   },
   {
-   "title": "Digger Ending Explained",
-   "link": "https://nofilmschool.com/digger-ending-explained",
-   "summary": "Despite not having a strong opening box office weekend, Alejandro Iñárritu's Digger is still the talk of the town and online . The social satire about how our obsession with fossil fuels will end the world as we know it ",
-   "image": "https://nofilmschool.com/media-library/digger-ending-explained.webp?id=68052860&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-05T19:30:03.000Z"
-  },
-  {
    "title": "All the drama around AI’s takeover of mathematics",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
    "summary": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of",
@@ -1026,15 +1053,6 @@
    "source": "The Verge",
    "category": "ai",
    "date": "2026-10-05T19:05:19.000Z"
-  },
-  {
-   "title": "Blackmagic Cloud Store is Adding Support for Mac OS Golden Gate to All Models",
-   "link": "https://nofilmschool.com/blackmagic-cloud-store-update-2-1-1",
-   "summary": "We've got a quick news hit to start the week: Blackmagic Design has announced a minor but notable update to Blackmagic Cloud Store , with version 2.1.1 now out. This update pretty much just does one thing: it adds suppor",
-   "image": "https://nofilmschool.com/media-library/blackmagic-cloud-store-update-2-1-1.jpg?id=68052841&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-05T19:00:03.000Z"
   },
   {
    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
@@ -1071,15 +1089,6 @@
    "source": "Nikon Rumors",
    "category": "photo",
    "date": "2026-10-05T17:29:39.000Z"
-  },
-  {
-   "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-   "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-   "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/hgh_web-1.png?resize=1200,920",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-05T17:29:22.000Z"
   },
   {
    "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
@@ -1764,15 +1773,6 @@
    "source": "Ars Technica",
    "category": "ai",
    "date": "2026-10-01T16:28:04.000Z"
-  },
-  {
-   "title": "How Albertsons Companies is reimagining retail from the inside out",
-   "link": "https://openai.com/index/albertsons-reimagining-retail",
-   "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-   "image": "",
-   "source": "OpenAI",
-   "category": "ai",
-   "date": "2026-10-01T16:00:00.000Z"
   },
   {
    "title": "Nocs Provisions’ $179 debut camera pairs film presets with a rugged design",
