@@ -1,6 +1,15 @@
 {
- "updated": "2026-10-06T20:15:59.809Z",
+ "updated": "2026-10-06T20:46:14.766Z",
  "items": [
+  {
+   "title": "How AI decision models could change content moderation",
+   "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+   "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agents-chatbots-GettyImages-2243730029.jpg?resize=1200,675",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-06T20:35:20.000Z"
+  },
   {
    "title": "The 7 Best Michael Douglas Movies",
    "link": "https://nofilmschool.com/michael-douglas-best-movies",
@@ -167,7 +176,7 @@
    "title": "Sony FX5 delayed again: Europe now lists November 16 ship date",
    "link": "https://www.newsshooter.com/2026/10/06/sony-fx5-delayed-again-europe-now-lists-november-16-ship-date/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sony-fx5-delayed-again-europe-now-lists-november-16-ship-date",
    "summary": "The Sony FX5 has slipped again. Sony’s own direct-to-consumer stores in Europe, including the UK, France and Germany, now list November 16, 2026 as the first ship date for the FX5. That is one month later than the Octobe",
-   "image": "https://www.newsshooter.com/wp-content/uploads/2026/10/FX5-delayNewsshooter-Thumbnails.jpg",
+   "image": "https://www.newsshooter.com/wp-content/uploads/2026/10/FX5_.jpeg",
    "source": "Newsshooter",
    "category": "video",
    "date": "2026-10-06T16:58:24.000Z"
@@ -230,7 +239,7 @@
    "title": "Curiosity Rover Celebrates Its 5,000th Day on Mars With Panorama of Sandy Ridge",
    "link": "https://petapixel.com/2026/10/06/curiosity-rover-celebrates-its-5000th-day-on-mars-with-panorama-of-sandy-ridge/",
    "summary": "NASA’s Curiosity rover has marked 5,000 Martian days on the Red Planet with a new panorama captured from a sandy ridge known as “Chocolatal.” [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/Mars-Curiosity-5000-Sol-Panorama.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-06T16:13:37.000Z"
@@ -293,7 +302,7 @@
    "title": "Wedding Photographer Must Pay Nearly $2M to Couples Who Never Got Their Pictures",
    "link": "https://petapixel.com/2026/10/06/wedding-photographer-must-pay-nearly-2m-to-couples-who-never-got-their-pictures/",
    "summary": "A wedding photographer has been ordered to pay $1.7 million after leaving hundreds of customers without the services they paid for. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2024/12/sad-bride3.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-06T15:43:23.000Z"
@@ -436,7 +445,7 @@
   {
    "title": "Fujifilm X-T6: Here is When It’s Coming",
    "link": "https://www.fujirumors.com/fujifilm-x-t6-here-is-when-its-coming/",
-   "summary": "→ In Short: It’s Coming in This Month The Fujifilm X-T6 was supposed to be announced on September 4. However, due to components shortage, it had to be delayed and ultimately we only got the Fujinon XF 400mmF4.5 on Septem",
+   "summary": "The Fujifilm X-T6 was supposed to be announced on September 4. However, due to components shortage, it had to be delayed and ultimately we only got the Fujinon XF 400mmF4.5 on September 4. Many, me included, did fear tha",
    "image": "",
    "source": "Fuji Rumors",
    "category": "photo",
@@ -509,7 +518,7 @@
    "title": "A 1988 Depeche Mode Photo Has Turned This Prague Bridge Into a Tourist Hot Spot",
    "link": "https://petapixel.com/2026/10/06/a-1988-depeche-mode-photo-has-turned-this-prague-bridge-into-a-tourist-hot-spot/",
    "summary": "A Prague bridge has become a popular photo spot for Depeche Mode fans, with tourists lining up daily to recreate an iconic 1988 photograph of the band. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/depeche-mode-bridge-feature.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-06T12:58:25.000Z"
@@ -1071,15 +1080,6 @@
    "source": "The Verge",
    "category": "ai",
    "date": "2026-10-05T16:44:21.000Z"
-  },
-  {
-   "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-   "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-   "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/09/ai-avatar-simpleshow-2154151760.jpg?resize=1200,826",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-05T16:43:35.000Z"
   },
   {
    "title": "Review of the SmallRig 25L Outdoor Camera Backpack",
@@ -2313,15 +2313,6 @@
    "source": "Buffer",
    "category": "instagram",
    "date": "2026-09-23T08:00:00.000Z"
-  },
-  {
-   "title": "The Nikon Z5IIC camera is rumored to be cheaper than the Z5II",
-   "link": "https://nikonrumors.com/2026/09/22/the-nikon-z5iic-camera-is-rumored-to-be-cheaper-than-the-z5ii.aspx/",
-   "summary": "The Nikon Z5IIC camera is rumored to be cheaper than the Nikon Z5II ($1,697) and significantly cheaper than the Sony a7C II ($2,498): Full-frame 24 MP sensor IBIS Based on the existing Nikon Z5II Most components will be ",
-   "image": "https://nikonrumors.com/wp-content/uploads/2026/09/Rumored-Nikon-Z5IIC-camera-mockup-550x387.jpeg",
-   "source": "Nikon Rumors",
-   "category": "photo",
-   "date": "2026-09-22T20:24:34.000Z"
   },
   {
    "title": "TikTok’s US arm joins Lantern, a cross-platform child safety initiative",
