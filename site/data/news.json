@@ -1,6 +1,51 @@
 {
- "updated": "2026-10-06T19:45:04.077Z",
+ "updated": "2026-10-06T20:15:59.809Z",
  "items": [
+  {
+   "title": "The 7 Best Michael Douglas Movies",
+   "link": "https://nofilmschool.com/michael-douglas-best-movies",
+   "summary": "Michael Douglas is an actor and producer you probably know already. The son of legendary actor and filmmaker Kirk Douglas, Michael has won numerous awards, including two Academy Awards, five Golden Globe Awards, a Primet",
+   "image": "https://nofilmschool.com/media-library/wonder-boys.jpg?id=68167973&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-06T20:07:37.000Z"
+  },
+  {
+   "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+   "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+   "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1148109686.jpg?resize=1200,687",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-06T20:00:30.000Z"
+  },
+  {
+   "title": "The next hurdle for AI agents: getting websites to let them in",
+   "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+   "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agent-bots-GettyImages-2243729307.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-06T19:56:50.000Z"
+  },
+  {
+   "title": "Google claims EmbeddingGemma 2 outperforms rival embedding models twice its size",
+   "link": "https://the-decoder.com/google-claims-embeddinggemma-2-outperforms-rival-embedding-models-twice-its-size/",
+   "summary": "Google released EmbeddingGemma 2, an open model with 740 million parameters that converts text, images, video, audio, and code into vectors. It runs on-device, needs only about 191 MB of RAM, and outperforms some competi",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_blue.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-06T19:47:27.000Z"
+  },
+  {
+   "title": "Instagram Comment to DM Automation: Turning Comments Into Conversations",
+   "link": "https://metricool.com/instagram-comment-to-dm-automation-turning-comments-into-conversations/",
+   "summary": "Turn Instagram comments into conversations with Instagram comment to DM automation. Discover how Metricool Flows can automate repetitive interactions and keep your social workflow moving.",
+   "image": "https://metricool.com/wp-content/uploads/feature-image-twoitems-1791315308879.webp",
+   "source": "Metricool",
+   "category": "instagram",
+   "date": "2026-10-06T19:47:13.000Z"
+  },
   {
    "title": "Save Up to 30% on SmallRig Photo and Video Gear This October",
    "link": "https://petapixel.com/2026/10/06/save-up-to-30-on-smallrig-photo-and-video-gear-this-october/",
@@ -185,7 +230,7 @@
    "title": "Curiosity Rover Celebrates Its 5,000th Day on Mars With Panorama of Sandy Ridge",
    "link": "https://petapixel.com/2026/10/06/curiosity-rover-celebrates-its-5000th-day-on-mars-with-panorama-of-sandy-ridge/",
    "summary": "NASA’s Curiosity rover has marked 5,000 Martian days on the Red Planet with a new panorama captured from a sandy ridge known as “Chocolatal.” [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/Mars-Curiosity-5000-Sol-Panorama.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-06T16:13:37.000Z"
@@ -248,7 +293,7 @@
    "title": "Wedding Photographer Must Pay Nearly $2M to Couples Who Never Got Their Pictures",
    "link": "https://petapixel.com/2026/10/06/wedding-photographer-must-pay-nearly-2m-to-couples-who-never-got-their-pictures/",
    "summary": "A wedding photographer has been ordered to pay $1.7 million after leaving hundreds of customers without the services they paid for. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2024/12/sad-bride3.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-06T15:43:23.000Z"
@@ -686,15 +731,6 @@
    "date": "2026-10-06T08:01:32.000Z"
   },
   {
-   "title": "Cohere pitches North 2 as the enterprise AI control room that works with any model",
-   "link": "https://the-decoder.com/cohere-pitches-north-2-as-the-enterprise-ai-control-room-that-works-with-any-model/",
-   "summary": "Cohere turned its enterprise platform into a control center for AI agents with North 2, handling multi-step workflows on their own and retaining context across sessions. The article Cohere pitches North 2 as the enterpri",
-   "image": "https://the-decoder.com/wp-content/uploads/2024/06/cohere_logo.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-06T06:58:19.000Z"
-  },
-  {
    "title": "Sony FX3 Drops to Its Lowest Amazon Price of 2026 During Prime Big Deal Days",
    "link": "https://ymcinema.com/2026/10/06/sony-fx3-lowest-amazon-price-2026-prime-big-deal-days/",
    "summary": "Amazon’s Prime Big Deal Days has brought a notable price drop to Sony’s Cinema Line. The Sony FX3A is now listed at $3,998, marking its lowest Amazon price of 2026 according to the retailer’s own price-history indication",
@@ -1001,15 +1037,6 @@
    "date": "2026-10-05T18:08:39.000Z"
   },
   {
-   "title": "This iPhone Camera App is Another Solid Pro Shooting Option for Mobile Filmmakers",
-   "link": "https://nofilmschool.com/moviepro-iphone-camera-app",
-   "summary": "Despite Apple announcing its first-ever foldable iPhone model with the new Duo , the company that took over the smartphone game years ago and ushered in a new era of mobile content and filmmaking is having a bit of a mom",
-   "image": "https://nofilmschool.com/media-library/moviepro-iphone-camera-app.png?id=68053037&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-05T18:00:04.000Z"
-  },
-  {
    "title": "Nikkei interview with Nikon: focus on investing in next-generation image processors, image sensors, and video cameras, launching an engine and software platform",
    "link": "https://nikonrumors.com/2026/10/05/nikkei-interview-with-nikon-focus-on-investing-in-next-generation-image-processors-image-sensors-and-video-cameras-launching-an-engine-and-software-platform.aspx/",
    "summary": "The Japanese Nikkei Shimbun has published an interview article with executives from Nikon, Canon, Sony, and Fujifilm. Here is the summary of the interview with Nikon (the article is behind a paywall): According to the in",
@@ -1082,15 +1109,6 @@
    "date": "2026-10-05T15:43:57.000Z"
   },
   {
-   "title": "OpenAI launches visual ads that appear alongside image generation results",
-   "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-   "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/new-chatgpt-ads-format-and-measurement-inline-01.webp?w=1200",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-05T15:14:24.000Z"
-  },
-  {
    "title": "DJI SDR Transmission 2 Field Tested – Three-Camera Video Village, Obstruction Test in a Car, Range Test on the Water",
    "link": "https://www.cined.com/dji-sdr-transmission-2-field-tested-three-camera-video-village-obstruction-test-in-a-car-range-test-on-the-water/",
    "summary": "Six transceivers, three cameras, a moving car, a rented boat and a spectrum analyzer in the middle of Vienna. We put DJI’s second-generation SDR Transmission through a real multi-camera shoot to see whether the headline ",
@@ -1116,15 +1134,6 @@
    "source": "Fstoppers",
    "category": "photo",
    "date": "2026-10-05T15:03:02.000Z"
-  },
-  {
-   "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-   "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-   "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/09/Disrupt-2025-AI-Stage.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-05T15:00:00.000Z"
   },
   {
    "title": "Our approach to EU text provenance rules",
