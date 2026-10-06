@@ -1,6 +1,51 @@
 {
- "updated": "2026-10-06T15:46:37.013Z",
+ "updated": "2026-10-06T16:18:00.786Z",
  "items": [
+  {
+   "title": "Curiosity Rover Celebrates Its 5,000th Day on Mars With Panorama of Sandy Ridge",
+   "link": "https://petapixel.com/2026/10/06/curiosity-rover-celebrates-its-5000th-day-on-mars-with-panorama-of-sandy-ridge/",
+   "summary": "NASA’s Curiosity rover has marked 5,000 Martian days on the Red Planet with a new panorama captured from a sandy ridge known as “Chocolatal.” [ Read More ]",
+   "image": "https://petapixel.com/assets/uploads/2026/10/Mars-Curiosity-5000-Sol-Panorama.jpg",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-06T16:13:37.000Z"
+  },
+  {
+   "title": "Canon Shows off a Lens Design with a Drop-In Teleconverter Slot",
+   "link": "https://www.canonrumors.com/canon-shows-off-lens-design-with-a-drop-in-teleconverter-slot/",
+   "summary": "Canon continues to work away at “big white” lens designs. This patent isn't so much about a specific lens and more about what the design shows. Canon is working on a way to have a drop-in teleconverter. Japan Patent JP 2",
+   "image": "https://www.canonrumors.com/wp-content/uploads/2026/04/Canon-RF-600mm-f4-l-is-usm-1.4x-mockup.jpg",
+   "source": "Canon Rumors",
+   "category": "photo",
+   "date": "2026-10-06T16:08:30.000Z"
+  },
+  {
+   "title": "Insurers brace for millions in claims as AI agents spin out of control",
+   "link": "https://the-decoder.com/insurers-brace-for-millions-in-claims-as-ai-agents-spin-out-of-control/",
+   "summary": "Insurers are bracing for millions in claims from rogue AI agents, and executives like OpenAI's Sam Altman and Anthropic's Dario Amodei could be personally on the hook for the fallout. The article Insurers brace for milli",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/ai_insurance_claims.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-06T16:06:46.000Z"
+  },
+  {
+   "title": "Recreate the Feel of Classic Film Shooting With These 35mm External Optical Viewfinders",
+   "link": "https://nofilmschool.com/smallrig-35mm-external-optical-viewfinders",
+   "summary": "If you’re into analog photography and shooting but have been forced to embrace the digital camera life and workflow because of budgets, resources, or job constraints, this might be a fun little add-on that brings a bit o",
+   "image": "https://nofilmschool.com/media-library/smallrig-35mm-external-optical-viewfinders.png?id=68061334&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-06T16:00:04.000Z"
+  },
+  {
+   "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+   "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+   "summary": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-06T16:00:00.000Z"
+  },
   {
    "title": "Wedding Photographer Must Pay Nearly $2M to Couples Who Never Got Their Pictures",
    "link": "https://petapixel.com/2026/10/06/wedding-photographer-must-pay-nearly-2m-to-couples-who-never-got-their-pictures/",
@@ -596,7 +641,7 @@
    "date": "2026-10-05T21:19:25.000Z"
   },
   {
-   "title": "Social media platforms resist U.K. safety disclosures",
+   "title": "Social media platforms resist UK safety disclosures",
    "link": "https://www.socialmediatoday.com/news/social-media-platforms-resist-uk-safety-disclosures/832199/",
    "summary": "Meta, TikTok and X are challenging requests from digital regulator Ofcom asking for detailed ​content moderation metrics, per Reuters.",
    "image": "https://imgproxy.divecdn.com/ZpAX-t0ZiDYes1R2yhHlTvZVUv_dLs2j3XlsEB4kQhI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy02MzMzMDczOTAuanBn.webp",
@@ -848,15 +893,6 @@
    "date": "2026-10-05T16:55:42.000Z"
   },
   {
-   "title": "The 'Digger' Twist Is Actually 90 Years Old",
-   "link": "https://nofilmschool.com/digger-brecht-alienation-effect",
-   "summary": "\"Digger here got us into this mess, and Digger's gonna dig us out again.\" Tom Cruise's new movie, written and directed by Alejandro Iñárritu, released last week, to some acclaim, some confusion, and maybe a few walkouts ",
-   "image": "https://nofilmschool.com/media-library/john-goodman-tom-cruise-and-alejandro-g-inarritu-in-digger.webp?id=68049057&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-05T16:44:22.000Z"
-  },
-  {
    "title": "Sam Altman says ‘some bad things’ will happen, but AI is totally worth it",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
    "summary": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO pointed to hacks, scams, and \"other bad things\" as costs society should ex",
@@ -873,15 +909,6 @@
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-05T16:43:35.000Z"
-  },
-  {
-   "title": "Most Americans want AI development to slow down or stop entirely, new poll finds",
-   "link": "https://the-decoder.com/most-americans-want-ai-development-to-slow-down-or-stop-entirely-new-poll-finds/",
-   "summary": "According to a Quinnipiac University poll, 77 percent of Americans want to slow down or stop AI development until its safety has been verified. 86 percent support independent safety standards, and 74 percent have little ",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/03/us_flag_wireframe.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-05T16:37:08.000Z"
   },
   {
    "title": "Review of the SmallRig 25L Outdoor Camera Backpack",
@@ -1008,24 +1035,6 @@
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-05T14:20:50.000Z"
-  },
-  {
-   "title": "How to Get Photo Prints That Actually Match Your Screen",
-   "link": "https://petapixel.com/2026/10/05/how-to-get-photo-prints-that-actually-match-your-screen/",
-   "summary": "Trust me, just like you, I've had my share of bad prints, especially when I was first starting photography. The color would come out all wrong, the tone wouldn't match what I saw on screen, and the whole thing was frustr",
-   "image": "https://petapixel.com/assets/uploads/2026/10/How-to-Get-Photo-Prints-That-Actually-Match-Your-Screen.jpg",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-05T14:01:10.000Z"
-  },
-  {
-   "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-   "link": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-   "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/01/Disrupt-2024-main-stage.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-05T14:00:00.000Z"
   },
   {
    "title": "Full-frame but not the whole picture: there isn’t a one-size fits all format",
@@ -1215,15 +1224,6 @@
    "source": "Social Media Today",
    "category": "instagram",
    "date": "2026-10-04T21:27:24.000Z"
-  },
-  {
-   "title": "Instagram adds AI songs to DMs",
-   "link": "https://www.socialmediatoday.com/news/instagram-adds-ai-songs-to-dms/832086/",
-   "summary": "Users can leverage artificial intelligence to generate music to share with their friends, echoing a similar paid Snapchat feature.",
-   "image": "https://imgproxy.divecdn.com/4c8s5cKB8C7MHoWLCwg7jU9Sl6kuCNz1L6NJczHUtt8/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pZ19tdXNpY19zaGFyaW5nMi5wbmc=.webp",
-   "source": "Social Media Today",
-   "category": "instagram",
-   "date": "2026-10-04T21:23:38.000Z"
   },
   {
    "title": "Nearly Every JPEG on Earth Runs on Math a Reviewer Called Too Simple to Fund in 1972",
@@ -2268,15 +2268,6 @@
    "source": "Social Media Examiner",
    "category": "instagram",
    "date": "2026-09-24T10:00:00.000Z"
-  },
-  {
-   "title": "Best Compact Cameras for Travel in 2026",
-   "link": "https://www.canonrumors.com/best-compact-cameras-for-travel-in-2026/",
-   "summary": "A travel camera needs to do something that isn't always easy: deliver better results than a smartphone without becoming a burden to carry. That's why compact cameras remain so appealing in 2026. You can get excellent ima",
-   "image": "https://www.canonrumors.com/wp-content/uploads/2026/09/Best-Compact-Cameras-for-Travel-in-2026.jpg",
-   "source": "Canon Rumors",
-   "category": "photo",
-   "date": "2026-09-24T08:27:43.000Z"
   },
   {
    "title": "Nikon Z5IIC camera officially announced",
