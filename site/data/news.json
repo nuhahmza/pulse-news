@@ -1,6 +1,51 @@
 {
- "updated": "2026-10-06T17:14:58.868Z",
+ "updated": "2026-10-06T17:46:01.606Z",
  "items": [
+  {
+   "title": "This Firework-Like Supernova Remnant Is the Result of an Explosion People Saw 845 Years Ago",
+   "link": "https://petapixel.com/2026/10/06/this-firework-like-supernova-remnant-is-the-result-of-an-explosion-people-saw-845-years-ago/",
+   "summary": "Scientists using the Gemini North telescope in Hawai'i captured a new photo of Pa 30, a supernova remnant believed to be the remains of a supernova that people witnessed in August 1181. [ Read More ]",
+   "image": "https://petapixel.com/assets/uploads/2026/10/image-2.jpg",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-06T17:44:01.000Z"
+  },
+  {
+   "title": "Microsoft publishes Nobel economist's bearish AI forecast of just 1.5% GDP growth over a decade",
+   "link": "https://the-decoder.com/microsoft-publishes-nobel-economists-bearish-ai-forecast-of-just-1-5-gdp-growth-over-a-decade/",
+   "summary": "Microsoft published a bearish AI outlook from Nobel economist Daron Acemoglu. He predicts about 1.5 percent GDP growth over ten years and at most five percent of jobs replaced. Bigger models won't move the needle, he arg",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/microsoft_human_touch.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-06T17:31:51.000Z"
+  },
+  {
+   "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
+   "link": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
+   "summary": "“There's a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
+   "image": "https://media.wired.com/photos/6ac4301373c1ba905b24e9bd/master/pass/science_openai_mathematicians_weird.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-10-06T17:28:33.000Z"
+  },
+  {
+   "title": "OM System PEN full review: somewhat throwback, for better and worse",
+   "link": "https://www.dpreview.com/reviews/om-system-pen-review/",
+   "summary": "OM System adds a hint of PEN-F to the E-P7 formula, to charming effect",
+   "image": "https://www.dpreview.com/wp-content/uploads/2026/08/PEN-16x9-Lead-2.jpg",
+   "source": "DPReview",
+   "category": "photo",
+   "date": "2026-10-06T17:28:24.000Z"
+  },
+  {
+   "title": "Get Swirly With This New Joseph Petzval Métamorphose Art Lens From Lomography",
+   "link": "https://nofilmschool.com/lomography-joseph-petzval-metamorphose-35-f-1-8-lens",
+   "summary": "If you’re looking for a fun, swirly lens to bring unique looks to your next shot, look no further than the vertiginous, stretched optical warp of this new Joseph Petzval Métamorphose 35 f/1.8 lens from Lomography. About ",
+   "image": "https://nofilmschool.com/media-library/lomography-joseph-petzval-metamorphose-35-f-1-8-lens.jpg?id=68061101&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-06T17:00:03.000Z"
+  },
   {
    "title": "Sony FX5 delayed again: Europe now lists November 16 ship date",
    "link": "https://www.newsshooter.com/2026/10/06/sony-fx5-delayed-again-europe-now-lists-november-16-ship-date/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sony-fx5-delayed-again-europe-now-lists-november-16-ship-date",
@@ -40,7 +85,7 @@
   {
    "title": "How to Write a Screenplay Hollywood Can Sell",
    "link": "https://nofilmschool.com/hollywood-best-script-myth",
-   "summary": "Every screenwriter has had a moment like this. You're watching something on a streamer or on YouTube, and you think, This is kind of mediocre . Maybe you’re not even trying to be mean. But you think about the scripts sit",
+   "summary": "Every screenwriter has had a moment like this. You're watching something on a streamer or on YouTube, and you think, This is kind of mediocre . Maybe you're not even trying to be mean. But you think about the scripts sit",
    "image": "https://nofilmschool.com/media-library/weapons.jpg?id=68056581&width=980",
    "source": "No Film School",
    "category": "video",
@@ -716,7 +761,7 @@
    "title": "TikTok outlines US election preparations",
    "link": "https://www.socialmediatoday.com/news/tiktok-outlines-us-election-preparations/832201/",
    "summary": "The app stressed its security and reliability ahead of the potentially divisive November midterms.",
-   "image": "https://imgproxy.divecdn.com/tDp1XhZhpuyrlJ-yA2UF4uex-J3iltojOxlhExxLH9g/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfdXNfZWxlY3Rpb24yLnBuZw==.webp",
+   "image": "",
    "source": "Social Media Today",
    "category": "tiktok",
    "date": "2026-10-05T21:22:31.000Z"
@@ -920,24 +965,6 @@
    "date": "2026-10-05T18:00:04.000Z"
   },
   {
-   "title": "OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide",
-   "link": "https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/",
-   "summary": "OpenAI is adding invisible textGrain watermarks to ChatGPT in the EU, but unlike Anthropic, it will let API customers worldwide opt out. Tests show detection rates as high as 95 percent, dropping to 17 percent when a qua",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_chatgpt_text_detection-2.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-05T17:32:42.000Z"
-  },
-  {
-   "title": "Vivo Unveils a New Sony-Partnered Smartphone With Some Wild Video Specs and Features",
-   "link": "https://nofilmschool.com/vivo-x500-pro",
-   "summary": "While Apple continues to get most of the headlines here in the US (mostly due to the novelty of announcing its first foldable iPhone with the Duo, as well as the promising 18 Pro iPhone models with their variable apertur",
-   "image": "https://nofilmschool.com/media-library/vivo-x500-pro.png?id=68053296&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-05T17:30:05.000Z"
-  },
-  {
    "title": "Nikkei interview with Nikon: focus on investing in next-generation image processors, image sensors, and video cameras, launching an engine and software platform",
    "link": "https://nikonrumors.com/2026/10/05/nikkei-interview-with-nikon-focus-on-investing-in-next-generation-image-processors-image-sensors-and-video-cameras-launching-an-engine-and-software-platform.aspx/",
    "summary": "The Japanese Nikkei Shimbun has published an interview article with executives from Nikon, Canon, Sony, and Fujifilm. Here is the summary of the interview with Nikon (the article is behind a paywall): According to the in",
@@ -954,15 +981,6 @@
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-05T17:29:22.000Z"
-  },
-  {
-   "title": "I Have a Confession to Make About My Landscape Photography",
-   "link": "https://petapixel.com/2026/10/05/i-have-a-confession-to-make-about-my-landscape-photography/",
-   "summary": "Foliage season is in full swing here in New England, and so far, my wide-angle lens has spent far more time in my bag than attached to my camera. My name is Jeremy, and I'm addicted to telephoto lenses for landscape phot",
-   "image": "https://petapixel.com/assets/uploads/2026/10/telephoto-landscapes-featured.jpg",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-05T17:22:43.000Z"
   },
   {
    "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
@@ -1667,15 +1685,6 @@
    "date": "2026-10-02T00:00:00.000Z"
   },
   {
-   "title": "Whatever AI Safety Is, It’s Not This",
-   "link": "https://www.wired.com/story/whatever-ai-safety-looks-like-its-not-this/",
-   "summary": "Asking AI companies to self-regulate is a great way to pretend like you’ve accomplished something.",
-   "image": "https://media.wired.com/photos/6abd667878587a545496ec2f/master/pass/Model-Behavior-Trump-AI-Business.jpg",
-   "source": "WIRED",
-   "category": "ai",
-   "date": "2026-10-01T22:10:42.000Z"
-  },
-  {
    "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
    "link": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
    "summary": "The court acknowledges AI search comes with consequences, but it's not an antitrust issue.",
@@ -1980,15 +1989,6 @@
    "source": "DPReview",
    "category": "photo",
    "date": "2026-09-30T14:00:00.000Z"
-  },
-  {
-   "title": "The first moments that inspired our community to become photographers",
-   "link": "https://www.dpreview.com/articles/the-first-moments-that-inspired-our-community-to-become-photographers/",
-   "summary": "From a bakery-run detour to a wedding album that fell flat, the DPReview community shares the moments that got them hooked. What was yours?",
-   "image": "https://www.dpreview.com/wp-content/uploads/2026/09/DNR-C-GN-Olimba-Hyaena-Olimba-ZA-6866-MASTER-TDll-Hyaena-2019-.jpg",
-   "source": "DPReview",
-   "category": "photo",
-   "date": "2026-09-30T13:57:17.000Z"
   },
   {
    "title": "Used Canon Full-Frame Cameras on Amazon: EOS RP Starts at $616, R5 at $2,385",
