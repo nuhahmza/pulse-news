@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T10:17:17.024Z",
+ "updated": "2026-10-07T10:47:38.901Z",
  "items": [
   {
    "title": "AFP Photographers Attacked by Settlers in the West Bank, Leaving One Hospitalized",
@@ -20,15 +20,6 @@
    "date": "2026-10-07T09:00:00.000Z"
   },
   {
-   "title": "OpenAI dumps 372 AI-generated math proofs on GitHub, telling the academic world to keep up",
-   "link": "https://the-decoder.com/openai-dumps-372-ai-generated-math-proofs-on-github-telling-the-academic-world-to-keep-up/",
-   "summary": "OpenAI has published 372 AI-generated mathematical results on GitHub, including Lean formalizations for machine verification. Each result consumed about three hours of ChatGPT Pro compute on average. But 25 Fields Medal ",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_logo_numbers.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-07T08:54:43.000Z"
-  },
-  {
    "title": "Your Next Great Read Might Be Certified ‘Organic’",
    "link": "https://www.wired.com/story/organic-literature-books-by-people-stamp-ai/",
    "summary": "Amid a sea of AI writing slop, a new stamp for “organic literature” will help readers to pick out books authored by real, corn-fed, free-range humans.",
@@ -47,7 +38,7 @@
    "date": "2026-10-07T06:53:53.000Z"
   },
   {
-   "title": "Ending tonight: Last chance to save big on Amazon Prime Day Deals!",
+   "title": "Ending tonight: Last chance to save big on European Amazon Prime Day Deals!",
    "link": "https://www.sonyalpharumors.com/ending-tonight-last-chance-to-save-big-on-amazon-prime-day-deals/",
    "summary": "The European deals will end at midnight at Amazon DE, Amazon UK, Amazon FR, Amazon IT, Amazon ES, Amazon NL and other Amazon EU stores. Same at Amazon US and Amazon Canada. Some special mentions: Amazon Germany: All came",
    "image": "",
@@ -182,15 +173,6 @@
    "date": "2026-10-06T19:56:50.000Z"
   },
   {
-   "title": "Google claims EmbeddingGemma 2 outperforms rival embedding models twice its size",
-   "link": "https://the-decoder.com/google-claims-embeddinggemma-2-outperforms-rival-embedding-models-twice-its-size/",
-   "summary": "Google released EmbeddingGemma 2, an open model with 740 million parameters that converts text, images, video, audio, and code into vectors. It runs on-device, needs only about 191 MB of RAM, and outperforms some competi",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_blue.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-06T19:47:27.000Z"
-  },
-  {
    "title": "Instagram Comment to DM Automation: Turning Comments Into Conversations",
    "link": "https://metricool.com/instagram-comment-to-dm-automation-turning-comments-into-conversations/",
    "summary": "Turn Instagram comments into conversations with Instagram comment to DM automation. Discover how Metricool Flows can automate repetitive interactions and keep your social workflow moving.",
@@ -209,19 +191,10 @@
    "date": "2026-10-06T19:42:39.000Z"
   },
   {
-   "title": "Google's new image model Nano Banana 2.1 generates better images for less money",
-   "link": "https://the-decoder.com/googles-new-image-model-nano-banana-2-1-generates-better-images-for-less-money/",
-   "summary": "Google's new Nano Banana 2.1 image model uses Gemini 3.6 Flash and beats the previous Pro model in some benchmarks at a lower cost. But its predecessor also scored well in tests, while Pro often produced better images in",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/06/gemini_nano_banana_2.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-06T19:29:42.000Z"
-  },
-  {
    "title": "Photographer Brings Speed to Life Through Jaw-Dropping Plane Photos",
    "link": "https://petapixel.com/2026/10/06/photographer-brings-speed-to-life-through-jaw-dropping-plane-photos/",
    "summary": "Italian photographer Simone Marulli is at the very apex of aviation photography. PetaPixel spoke to Marulli about his incredible photos of planes, including commercial airliners and fighter jets alike. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/simone-marulli-featured.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-06T19:25:12.000Z"
@@ -239,7 +212,7 @@
    "title": "Meta tests Reels-first Facebook feed in India",
    "link": "https://www.socialmediatoday.com/news/meta-tests-reels-first-facebook-feed-in-india/832295/",
    "summary": "The company, which is experimenting with the option on Instagram, is expanding its trials of the feature before expanding it to more countries.",
-   "image": "https://imgproxy.divecdn.com/H_uLETPFWqeIVBOn-11TJmVKu6Kt3S_FZkadB2pk2u8/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mYl9yZWVsc19mZWVkMi5wbmc=.webp",
+   "image": "",
    "source": "Social Media Today",
    "category": "instagram",
    "date": "2026-10-06T18:53:54.000Z"
@@ -261,15 +234,6 @@
    "source": "Social Media Today",
    "category": "tiktok",
    "date": "2026-10-06T18:45:24.000Z"
-  },
-  {
-   "title": "Wikimedia confirms OpenAI's rogue AI agents edited wikis, tried to compromise tools, and hammered its infrastructure",
-   "link": "https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/",
-   "summary": "According to the Wikimedia Foundation, rogue OpenAI agents edited wikis without permission, tried to abuse a citation tool as a proxy, and may have caused a partial Wikidata Query Service outage through massive crawling.",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_wiki_kraken-2.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-06T18:29:35.000Z"
   },
   {
    "title": "Hark releases an AI personal assistant with a focus on privacy",
@@ -299,15 +263,6 @@
    "date": "2026-10-06T17:44:01.000Z"
   },
   {
-   "title": "Microsoft publishes Nobel economist's bearish AI forecast of just 1.5% GDP growth over a decade",
-   "link": "https://the-decoder.com/microsoft-publishes-nobel-economists-bearish-ai-forecast-of-just-1-5-gdp-growth-over-a-decade/",
-   "summary": "Microsoft published a bearish AI outlook from Nobel economist Daron Acemoglu. He predicts about 1.5 percent GDP growth over ten years and at most five percent of jobs replaced. Bigger models won't move the needle, he arg",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/microsoft_human_touch.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-06T17:31:51.000Z"
-  },
-  {
    "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
    "link": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
    "summary": "“There’s a perception of mobster behavior” from leading AI companies, one mathematician tells WIRED as OpenAI prepares to release more than 100 new solutions to unsolved problems.",
@@ -335,19 +290,10 @@
    "date": "2026-10-06T17:00:03.000Z"
   },
   {
-   "title": "Sony FX5 delayed again: Europe now lists November 16 ship date",
-   "link": "https://www.newsshooter.com/2026/10/06/sony-fx5-delayed-again-europe-now-lists-november-16-ship-date/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sony-fx5-delayed-again-europe-now-lists-november-16-ship-date",
-   "summary": "The Sony FX5 has slipped again. Sony’s own direct-to-consumer stores in Europe, including the UK, France and Germany, now list November 16, 2026 as the first ship date for the FX5. That is one month later than the Octobe",
-   "image": "https://www.newsshooter.com/wp-content/uploads/2026/10/FX5_.jpeg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-10-06T16:58:24.000Z"
-  },
-  {
    "title": "This Chinese Micro Four Thirds Camera Seen at IFA Is Real Weird",
    "link": "https://petapixel.com/2026/10/06/this-chinese-micro-four-thirds-camera-seen-at-ifa-is-real-weird/",
    "summary": "Earlier this year, Chinese imaging technology company Shenzhen Sonida Digital Technology Co. Ltd. (Sonida) officially joined the Micro Four Thirds system and said it was making a Micro Four Thirds camera and lens. A few ",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/nbd-camera-featured.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-06T16:55:33.000Z"
@@ -414,15 +360,6 @@
    "source": "Canon Rumors",
    "category": "photo",
    "date": "2026-10-06T16:08:30.000Z"
-  },
-  {
-   "title": "Insurers brace for millions in claims as AI agents spin out of control",
-   "link": "https://the-decoder.com/insurers-brace-for-millions-in-claims-as-ai-agents-spin-out-of-control/",
-   "summary": "Insurers are bracing for millions in claims from rogue AI agents, and executives like OpenAI's Sam Altman and Anthropic's Dario Amodei could be personally on the hook for the fallout. The article Insurers brace for milli",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/ai_insurance_claims.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-06T16:06:46.000Z"
   },
   {
    "title": "Peak Design Everyday Backpack V3 Review",
@@ -542,15 +479,6 @@
    "date": "2026-10-06T15:00:46.000Z"
   },
   {
-   "title": "Sony FX5 Delayed Again – Sony Europe Now Lists November 16 as Shipping Date",
-   "link": "https://www.cined.com/sony-fx5-delayed-again-sony-europe-now-lists-november-16-as-shipping-date/",
-   "summary": "The Sony FX5 has slipped by another month in Europe. Sony’s own online stores in the UK, France and Germany now list November 16 as the shipping date, replacing the previous October 16 target. In the US, B&H continues to",
-   "image": "https://www.cined.com/content/uploads/2026/07/Sony-FX5-featured-1-300x169.jpg",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-10-06T14:57:44.000Z"
-  },
-  {
    "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
    "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
    "summary": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
@@ -567,15 +495,6 @@
    "source": "Hootsuite",
    "category": "instagram",
    "date": "2026-10-06T14:18:58.000Z"
-  },
-  {
-   "title": "Mistral Large 4 is Europe's trillion-parameter answer to US models that refuse security work",
-   "link": "https://the-decoder.com/mistral-large-4-is-said-to-be-the-most-powerful-open-ai-model-from-europe-and-the-u-s/",
-   "summary": "Mistral's Large 4 is the company's biggest model yet, with one trillion parameters trained on its own European infrastructure. In the independent Intelligence Index, the model makes a big leap forward but still falls wel",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/06/mistral-logo-wall-nano-banana-pro-scaled.jpg",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-06T14:18:08.000Z"
   },
   {
    "title": "Pinterest’s AI now turns beauty Pins into action plans",
@@ -635,7 +554,7 @@
    "title": "Shoten’s Debut ‘Tribute’ Lens Honors the World’s First f/1.1 Lens",
    "link": "https://petapixel.com/2026/10/06/shotens-debut-tribute-lens-honors-the-worlds-first-f-1-1-lens/",
    "summary": "Shoten Koubou's first interchangeable lens, the Shoten Tribute 01 -- LTM 50mm f/1.1, is a gorgeous new lens for Leica M-Mount. At around 115,000 yen, or about $730, it's a modern twist on a classic Japanese-made portrait",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/shoten-50mm-f11-featured.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-06T13:09:28.000Z"
@@ -659,15 +578,6 @@
    "date": "2026-10-06T13:03:01.000Z"
   },
   {
-   "title": "SmallRig Autumn Sale – Up to 30% Off TRIBEX Tripods, V-Mount Batteries, and Sony FX5 Cages",
-   "link": "https://www.cined.com/smallrig-autumn-sale-up-to-30-off-tribex-tripods-v-mount-batteries-and-sony-fx5-cages/",
-   "summary": "The SmallRig Autumn Sale brings discounts of up to 30% on tripods, batteries, lights, phone rigs, and camera cages. Several of the products are relatively new, including the Nano power banks, the iPhone 18 Pro Max cage, ",
-   "image": "https://www.cined.com/content/uploads/2026/10/SmallRig_Autumn-Savings_1920x1080-300x169.jpg",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-10-06T13:01:20.000Z"
-  },
-  {
    "title": "Mistral’s new Le Chonk model brings AI cybersecurity to your business – and you control it",
    "link": "https://www.zdnet.com/innovation/mistral-le-chonk-ai-cybersecurity-business/",
    "summary": "Open models are vying to become the everyman defense solution for a growing swarm of agent breaches.",
@@ -684,15 +594,6 @@
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-06T12:58:25.000Z"
-  },
-  {
-   "title": "South Korea bets $3.49 billion on building a homegrown frontier AI model to rival China's best",
-   "link": "https://the-decoder.com/south-korea-bets-3-49-billion-on-building-a-homegrown-frontier-ai-model-to-rival-chinas-best/",
-   "summary": "South Korea wants to develop a homegrown frontier model through government-backed equity investments of 4.7 trillion won ($3.49 billion). The article South Korea bets $3.49 billion on building a homegrown frontier AI mod",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/01/south_korea_flag_wall.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-06T12:54:31.000Z"
   },
   {
    "title": "Facebook tests going Reels-first in India",
@@ -722,15 +623,6 @@
    "date": "2026-10-06T12:21:53.000Z"
   },
   {
-   "title": "Reflection's Beam becomes the most capable open-weight model built outside China",
-   "link": "https://the-decoder.com/reflections-beam-becomes-the-most-capable-open-weight-model-built-outside-china/",
-   "summary": "Reflection has released Beam, its first open-weight model. The mixture-of-experts system activates just 23 billion of its 501 billion parameters per token and aims to match GLM 5.2 on coding and reasoning while using thr",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/reflection-beam-01-hero.jpg",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-06T12:11:22.000Z"
-  },
-  {
    "title": "How Jump Trading is scaling quant research with ChatGPT",
    "link": "https://openai.com/index/jump-trading",
    "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
@@ -758,15 +650,6 @@
    "date": "2026-10-06T11:54:18.000Z"
   },
   {
-   "title": "Researchers stretch LeCun's JEPA AI into a universal world model that works from physics to biology",
-   "link": "https://the-decoder.com/researchers-stretch-lecuns-jepa-ai-into-a-universal-world-model-that-works-from-physics-to-biology/",
-   "summary": "Researchers at PhAI Labs have expanded Yann LeCun's JEPA architecture to work across seven fields, from robotics to biomedicine. The effort also produced a liver cancer treatment candidate that showed promise in lab test",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/jepa-anything-world-model-generated-image-nano-banana-pro.jpg",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-06T11:43:42.000Z"
-  },
-  {
    "title": "Does the 2012 Fujifilm XF 18mm f/2 R Still Hold Up?",
    "link": "https://fstoppers.com/gear/does-2012-fujifilm-xf-18mm-f2-r-still-hold-904942?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
    "summary": "The Fujifilm XF 18mm f/2 R came out in 2012, which makes it one of the oldest lenses still in Fujifilm's lineup and an easy one to dismiss next to newer glass. If you shoot street or family life on an X-series body, know",
@@ -774,15 +657,6 @@
    "source": "Fstoppers",
    "category": "photo",
    "date": "2026-10-06T11:03:01.000Z"
-  },
-  {
-   "title": "Lomography Joseph Petzval Métamorphose 35 f/1.8 Announced – Seven Bokeh Levels, Stretching Optical Warp",
-   "link": "https://www.cined.com/lomography-joseph-petzval-metamorphose-35-f-1-8-announced-seven-bokeh-levels-stretching-optical-warp/",
-   "summary": "Lomography has announced the Joseph Petzval Métamorphose 35 f/1.8 Focus-Coupled Bokeh Control Art Lens, a manual full-frame prime for Sony E, Canon RF, and Nikon Z mirrorless cameras. Its seven-level bokeh control ring m",
-   "image": "https://www.cined.com/content/uploads/2026/10/petzval-35-metamorphose__front__feature-300x169.jpg",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-10-06T10:54:40.000Z"
   },
   {
    "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
@@ -875,17 +749,8 @@
    "date": "2026-10-06T08:17:20.000Z"
   },
   {
-   "title": "Imaging World Moves to Cologne for 2027 – Koelnmesse Takes Over, photokina Name Returns",
-   "link": "https://www.cined.com/imaging-world-moves-to-cologne-for-2027-koelnmesse-takes-over-photokina-name-returns/",
-   "summary": "The Imaging World festival is leaving Nuremberg after two editions. From 2027, Koelnmesse will run it in Cologne as “Imaging World inspired by photokina”, bringing the photokina name back to its old home six years after ",
-   "image": "https://www.cined.com/content/uploads/2026/10/Imaging-World-moves-to-Cologne-300x169.jpeg",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-10-06T08:01:32.000Z"
-  },
-  {
-   "title": "Sony FX3 Drops to Its Lowest Amazon Price of 2026 During Prime Big Deal Days",
-   "link": "https://ymcinema.com/2026/10/06/sony-fx3-lowest-amazon-price-2026-prime-big-deal-days/",
+   "title": "Sony FX3 Drops to $3,998 on Amazon: Its Lowest Price of 2026",
+   "link": "https://ymcinema.com/2026/10/06/sony-fx3-3998-lowest-price-2026/",
    "summary": "Amazon’s Prime Big Deal Days has brought a notable price drop to Sony’s Cinema Line. The Sony FX3A is now listed at $3,998, marking its lowest Amazon price of 2026 according to the retailer’s own price-history indication",
    "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4e6.png",
    "source": "Y.M.Cinema",
@@ -900,33 +765,6 @@
    "source": "Hugging Face",
    "category": "ai",
    "date": "2026-10-06T06:44:39.000Z"
-  },
-  {
-   "title": "Save $1,000 USD on the Nikon Z8 Mirrorless Camera",
-   "link": "https://www.newsshooter.com/2026/10/05/save-1000-usd-on-the-nikon-z8-mirrorless-camera/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=save-1000-usd-on-the-nikon-z8-mirrorless-camera",
-   "summary": "For a limited time, you can save $1,000 USD on the Nikon Z8 Mirrorless Camera and purchase it for $3,296.25 USD. The Nikon Z8 is a compact, lightweight camera housing much of the technology from the Z9 but in a sleeker, ",
-   "image": "https://www.newsshooter.com/wp-content/uploads/2026/10/Z8-740x416.jpg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-10-06T06:04:16.000Z"
-  },
-  {
-   "title": "Pelican Vault V300 Case with Padded Dividers (Gray, 18.7L) on sale for $59.95 USD",
-   "link": "https://www.newsshooter.com/2026/10/05/pelican-vault-v300-case-with-padded-dividers-gray-18-7l-on-sale-for-59-95-usd/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=pelican-vault-v300-case-with-padded-dividers-gray-18-7l-on-sale-for-59-95-usd",
-   "summary": "The Pelican Vault V300 Case with Padded Dividers (Gray, 18.7L) is on sale for $59.95 USD, which is a discount of $60 USD. The Pelican Vault V300 Case with Padded Dividers is crush- and dustproof, weather-resistant, and f",
-   "image": "https://www.newsshooter.com/wp-content/uploads/2026/10/Pelican-740x416.jpg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-10-06T05:57:19.000Z"
-  },
-  {
-   "title": "Shure VP83 LensHopper Camera-Mount Shotgun Microphone on sale for $39 USD",
-   "link": "https://www.newsshooter.com/2026/10/05/shure-vp83-lenshopper-camera-mount-shotgun-microphone-on-sale-for-39-usd/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=shure-vp83-lenshopper-camera-mount-shotgun-microphone-on-sale-for-39-usd",
-   "summary": "The Shure VP83 LensHopper Camera-Mount Shotgun Microphone is on sale for $39 USD, which is a big discount of $180 USD. The Shure VP83 LensHopper camera-mount shotgun microphone for better sound, less noise, and more focu",
-   "image": "https://www.newsshooter.com/wp-content/uploads/2026/10/Shure-740x416.jpg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-10-06T05:51:07.000Z"
   },
   {
    "title": "Iconic Movie Scenes That Almost Didn't Make the Cut",
@@ -972,15 +810,6 @@
    "source": "No Film School",
    "category": "video",
    "date": "2026-10-06T04:08:19.000Z"
-  },
-  {
-   "title": "SmallRig Autumn Savings: Up to 30% Off Tripods, V-Mount Batteries, Lighting and Cages on Amazon",
-   "link": "https://www.newsshooter.com/2026/10/05/smallrig-autumn-savings-up-to-30-off-tripods-v-mount-batteries-lighting-and-cages-on-amazon/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=smallrig-autumn-savings-up-to-30-off-tripods-v-mount-batteries-lighting-and-cages-on-amazon",
-   "summary": "Sponsored Article SmallRig Autumn Savings runs from October 6 through October 15, 2026 on Amazon, with up to 30% off selected filmmaking and photography gear. The promotion covers tripods and monopods, V-mount batteries ",
-   "image": "https://www.newsshooter.com/wp-content/uploads/2026/10/smallrig-autumn-savings-2026-hero.jpg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-10-06T03:00:00.000Z"
   },
   {
    "title": "Aperty From Skylum Is a Goner in November",
@@ -1172,15 +1001,6 @@
    "date": "2026-10-05T15:43:57.000Z"
   },
   {
-   "title": "DJI SDR Transmission 2 Field Tested – Three-Camera Video Village, Obstruction Test in a Car, Range Test on the Water",
-   "link": "https://www.cined.com/dji-sdr-transmission-2-field-tested-three-camera-video-village-obstruction-test-in-a-car-range-test-on-the-water/",
-   "summary": "Six transceivers, three cameras, a moving car, a rented boat and a spectrum analyzer in the middle of Vienna. We put DJI’s second-generation SDR Transmission through a real multi-camera shoot to see whether the headline ",
-   "image": "https://www.cined.com/content/uploads/2026/10/DJI-SDR-Transmission-2-featured-image-FINAL-03-300x169.jpg",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-10-05T15:03:45.000Z"
-  },
-  {
    "title": "The new SANDISK Extreme PRO® SDXC™ UHS-II V60 and V90 Cards now have higher capacities — here’s what that means for wedding videographers",
    "link": "https://www.dpreview.com/articles/sandisks-extreme-pro-sd-cards-now-go-up-to-2tb-with-faster-speeds-for-8k-shooter/",
    "summary": "The V60 and V90 UHS-II cards add the highest capacity the lineup has offered, alongside write speed gains aimed at professional video workflows demanding sustained throughput.",
@@ -1325,15 +1145,6 @@
    "date": "2026-10-05T10:00:00.000Z"
   },
   {
-   "title": "FUJIFILM Raises Camera Prices in Japan by up to 15% – GFX100 II, X100VI, and X-E5 Affected",
-   "link": "https://www.cined.com/fujifilm-raises-camera-prices-in-japan-by-up-to-15-gfx100-ii-x100vi-and-x-e5-affected/",
-   "summary": "FUJIFILM has raised prices in its home market. Since October 1, 2026, the GFX100 II, GFX100S II, GFX100RF, X100VI, X-E5, and X-T50 cost between 6 and 15 percent more in Japan, with instax cameras climbing by as much as 2",
-   "image": "https://www.cined.com/content/uploads/2026/10/FUJIFILM-Price-increase-2-300x169.jpeg",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-10-05T09:41:56.000Z"
-  },
-  {
    "title": "NiSi combines VND and polarizer in one True Color filter",
    "link": "https://www.provideocoalition.com/nisi-combines-vnd-and-polarizer-in-one-true-color-filter/",
    "summary": "Photographers will love it, but it’s also a bonus for filmmakers, as the 1 to 5 stop range makes it easier to maintain a chosen shutter speed and aperture as ambient light changes. A variable ND and a polarizer solve two",
@@ -1359,15 +1170,6 @@
    "source": "MIT Tech Review",
    "category": "ai",
    "date": "2026-10-05T08:00:00.000Z"
-  },
-  {
-   "title": "Vivo X500 Pro Launching – 4K 120fps 10-Bit Log, 4K 240fps Slow Motion, New Sony LYTIA 610 Co-Developed Sensor",
-   "link": "https://www.cined.com/vivo-x500-pro-launching-4k-120fps-10-bit-log-4k-240fps-slow-motion-new-sony-lytia-610-co-developed-sensor/",
-   "summary": "Vivo has launched the X500 Pro in China, a compact 6.36in flagship that carries the same video feature list as the larger X500 Pro Max and debuts a main sensor developed together with Sony. The company claims 17EV of dyn",
-   "image": "https://www.cined.com/content/uploads/2026/10/Vivo-X500-Pro-2-300x169.jpeg",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-10-05T07:59:30.000Z"
   },
   {
    "title": "New EU deals: Up to 19% off on Sony cameras and lenses and new 3000 Euro cashback!",
@@ -1658,15 +1460,6 @@
    "date": "2026-10-02T14:00:53.000Z"
   },
   {
-   "title": "Sunlight in Disguise – Ways to Approach Day-for-Night Scenes",
-   "link": "https://www.cined.com/sunlight-in-disguise-ways-to-approach-day-for-night-scenes/",
-   "summary": "Day-for-night is one of cinema’s magic tricks: shoot a scene in broad daylight, and make it look as if it is the middle of the night. It is also one of the hardest. Sounds simple on paper, but oh-so-tricky to execute cor",
-   "image": "https://www.cined.com/content/uploads/2026/10/Day_for_night-feature_image-300x169.jpg",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-10-02T13:58:09.000Z"
-  },
-  {
    "title": "Equipment failure isn’t an option, says Bantaray, who uses AJA gear",
    "link": "https://www.provideocoalition.com/equipment-failure-isnt-an-option-says-bantaray-who-uses-aja-gear/",
    "summary": "Bantaray Mobile Sports Production delivers niche sports to growing audiences with AJA, having built a mobile production pipeline to support the increasing demand. From track and field to pickleball, niche sports are find",
@@ -1674,24 +1467,6 @@
    "source": "ProVideo Coalition",
    "category": "video",
    "date": "2026-10-02T13:33:43.000Z"
-  },
-  {
-   "title": "FUJIFILM Fujikina NYC 2026 Program Detailed – 85 Add-On Sessions, Movie Stills Talks, Short Film Screening",
-   "link": "https://www.cined.com/fujifilm-fujikina-nyc-2026-program-detailed-85-add-on-sessions-movie-stills-talks-short-film-screening/",
-   "summary": "FUJIFILM has published the full program for Fujikina NYC 2026, which takes over New York’s Lower East Side from October 16 to 18 with a $10 Experience Pass and 85 bookable add-on sessions. I will be there for CineD, so h",
-   "image": "https://www.cined.com/content/uploads/2026/10/fujikina-hero-NYC-featured-300x169.jpg",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-10-02T12:00:09.000Z"
-  },
-  {
-   "title": "Godox Litemons SR20R Introduced – Full-Color Ring Panel with Smartphone Camera Control and Built-In Battery",
-   "link": "https://www.cined.com/godox-litemons-sr20r-introduced-full-color-ring-panel-with-smartphone-camera-control-and-built-in-battery/",
-   "summary": "Godox has introduced the Litemons SR20R, a full-color LED panel with a ring-shaped light surface that places a smartphone or small camera in the middle of the fixture. Buttons on the panel operate the phone’s native came",
-   "image": "https://www.cined.com/content/uploads/2026/09/Godox-Litemons-SR20R-300x169.jpeg",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-10-02T09:53:23.000Z"
   },
   {
    "title": "Instagram Updates and News 2026",
@@ -1710,15 +1485,6 @@
    "source": "MIT Tech Review",
    "category": "ai",
    "date": "2026-10-02T08:00:00.000Z"
-  },
-  {
-   "title": "Sony FX5 – Newly Added to Camera Database",
-   "link": "https://www.cined.com/camera-database/?camera=FX5#new_tab",
-   "summary": "New in the CineD Camera Database: Sony FX5 – check and compare Lab Test data and Recording Modes & Times.",
-   "image": "https://www.cined.com/content/uploads/2026/09/sony-fx5_new-in-database-300x169.jpg",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-10-02T07:56:41.000Z"
   },
   {
    "title": "Top Apps for Instagram Messages: Enhance Your DM Management",
@@ -1811,24 +1577,6 @@
    "date": "2026-10-01T13:30:00.000Z"
   },
   {
-   "title": "Sony FX5 Lab Test: New Full-Frame Benchmark | DJI & Insta360 Outship Mirrorless Cameras – Focus Check ep136",
-   "link": "https://www.cined.com/sony-fx5-lab-test-new-full-frame-benchmark-dji-insta360-outship-mirrorless-cameras-focus-check-ep136/",
-   "summary": "DJI shipped more than 10 million handheld cameras in 2025 – more than every CIPA member company combined – mirrorless, DSLR and compact included. Add Insta360 and the two Chinese companies ship more than twice as many ca",
-   "image": "https://www.cined.com/content/uploads/2026/10/Focus-Check-ep136-featured_s-300x169.jpeg",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-10-01T13:17:56.000Z"
-  },
-  {
-   "title": "Trending Songs on TikTok Right Now: Updated Weekly!",
-   "link": "https://metricool.com/tiktok-songs/",
-   "summary": "Here's a look at the top 10 trending songs on TikTok and how you might use them for your brand's content.",
-   "image": "https://metricool.com/wp-content/uploads/chansons-tiktok-e1766501772338.webp",
-   "source": "Metricool",
-   "category": "tiktok",
-   "date": "2026-10-01T12:39:06.000Z"
-  },
-  {
    "title": "Huawei Mate 90 Pro Max: Collector’s Edition gets a 24-240mm module",
    "link": "https://www.provideocoalition.com/huawei-mate-90-pro-max-collectors-edition-gets-a-24-240mm-module/",
    "summary": "The Ruiying Z10 camera accessory designed for the Collector’s Edition features a 50MP sensor 1-inch type sensor paired with a 24–240mm f/2.0-4.5 lens, for 10x of continuous optical zoom. At the Mobile World Congress, in ",
@@ -1838,15 +1586,6 @@
    "date": "2026-10-01T11:09:12.000Z"
   },
   {
-   "title": "Huawei Launch Event – Mate90 Mobile Phone Series, Ruiying Z10 1-Inch Sensor Modular Camera, and a DJI Osmo Pocket 4 Collaboration",
-   "link": "https://www.cined.com/huawei-launch-event-mate90-mobile-phone-series-ruiying-z10-1-inch-sensor-modular-camera-and-a-dji-osmo-pocket-4-collaboration/",
-   "summary": "Huawei has announced the Ruiying Z10, a clip-on camera module with its own 1-inch 50MP sensor and a 24-240mm equivalent f/2.0-4.5 power zoom that mounts to the back of the new Mate 90 Pro Max Collector’s Edition and Mate",
-   "image": "https://www.cined.com/content/uploads/2026/10/Huawei-2-300x169.jpeg",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-10-01T11:04:28.000Z"
-  },
-  {
    "title": "Who owns AI risk at work? Business and tech leaders can’t agree, PwC survey finds",
    "link": "https://www.zdnet.com/innovation/pwc-digital-trust-insights-2027-ai-risk-responsibility/",
    "summary": "PwC research highlights a growing need for someone to own AI. Is an AI chief the answer?",
@@ -1854,24 +1593,6 @@
    "source": "ZDNet",
    "category": "ai",
    "date": "2026-10-01T09:00:00.000Z"
-  },
-  {
-   "title": "Apple Final Cut Camera 2.4 and Final Cut Pro 12.4 Released – iPhone 18 Pro Aperture Control, Clean SDI Out, Cinematic Refocus in Post",
-   "link": "https://www.cined.com/apple-final-cut-camera-2-4-and-final-cut-pro-12-4-released-iphone-18-pro-aperture-control-clean-sdi-out-cinematic-refocus-in-post/",
-   "summary": "Apple has released Final Cut Camera 2.4, a ground-up redesign of its free capture app that adds manual control of the iPhone 18 Pro’s variable aperture, plus aperture priority and shutter priority modes. With iOS 27, the",
-   "image": "https://www.cined.com/content/uploads/2026/10/Apple-Final-Cut-Camera-variable-aperture-300x169.jpg",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-10-01T08:55:30.000Z"
-  },
-  {
-   "title": "Panasonic LUMIX S9 Firmware 2.1 Brings 4K60 in MP4 Lite Mode, Expanded Lens Fn Button Functions, and More",
-   "link": "https://www.cined.com/panasonic-lumix-s9-firmware-2-1-brings-4k60-in-mp4-lite-mode-expanded-lens-fn-button-functions-and-more/",
-   "summary": "Panasonic’s upcoming LUMIX S9 firmware version 2.1 adds new MP4 (Lite) recording options, including 4K 60p/50p and Full HD frame rates up to 120p, giving users more flexibility for lightweight video workflows and slow mo",
-   "image": "https://www.cined.com/content/uploads/2026/09/Lumix-S9-fw-update-fetured-300x169.jpg",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-10-01T08:04:29.000Z"
   },
   {
    "title": "Canon Keeps Developing Its Gimbal Camera: Now It Has Intelligent Cooling",
