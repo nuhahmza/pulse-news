@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07T04:16:50.802Z",
+ "updated": "2026-10-07T04:49:25.898Z",
  "items": [
   {
    "title": "OpenAI drops another batch of mathematical breakthroughs",
@@ -184,7 +184,7 @@
   {
    "title": "Meta tests Reels-first Facebook feed in India",
    "link": "https://www.socialmediatoday.com/news/meta-tests-reels-first-facebook-feed-in-india/832295/",
-   "summary": "The company, which is also experimenting with the option on Instagram, is expanding its trial of the feature before bringing it to more countries.",
+   "summary": "The company, which is experimenting with the option on Instagram, is expanding its trials of the feature before expanding it to more countries.",
    "image": "https://imgproxy.divecdn.com/H_uLETPFWqeIVBOn-11TJmVKu6Kt3S_FZkadB2pk2u8/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9mYl9yZWVsc19mZWVkMi5wbmc=.webp",
    "source": "Social Media Today",
    "category": "instagram",
@@ -200,10 +200,10 @@
    "date": "2026-10-06T18:45:39.000Z"
   },
   {
-   "title": "TikTok highlights creator recommendations for Halloween travel",
-   "link": "https://www.socialmediatoday.com/news/tiktok-highlights-creator-recommendations-for-halloween-travel/832289/",
+   "title": "TikTok highlights creator recs for Halloween travel",
+   "link": "https://www.socialmediatoday.com/news/tiktok-highlights-creator-recs-for-halloween-travel/832289/",
    "summary": "The app is focusing on popular #FilmTok and #BookTok locations and suggesting vacation ideas tied to spooky themes and the fall season.",
-   "image": "https://imgproxy.divecdn.com/IzqlHAT0s9CEnu5TtglGCwtiAQ4EnAv1NzB1ChL6CXs/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfaGFsbG93ZWVuX3V3VjVnTEUucG5n.webp",
+   "image": "",
    "source": "Social Media Today",
    "category": "tiktok",
    "date": "2026-10-06T18:45:24.000Z"
@@ -347,7 +347,7 @@
    "title": "Curiosity Rover Celebrates Its 5,000th Day on Mars With Panorama of Sandy Ridge",
    "link": "https://petapixel.com/2026/10/06/curiosity-rover-celebrates-its-5000th-day-on-mars-with-panorama-of-sandy-ridge/",
    "summary": "NASA’s Curiosity rover has marked 5,000 Martian days on the Red Planet with a new panorama captured from a sandy ridge known as “Chocolatal.” [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/Mars-Curiosity-5000-Sol-Panorama.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-06T16:13:37.000Z"
