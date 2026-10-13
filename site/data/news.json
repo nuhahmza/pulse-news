@@ -1,6 +1,15 @@
 {
- "updated": "2026-10-13T09:19:24.679Z",
+ "updated": "2026-10-13T09:49:41.795Z",
  "items": [
+  {
+   "title": "AI labs are buying data from dead startups to train their models",
+   "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
+   "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives ",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AI-Death_Redamonti_MIT-thumb.jpg?resize=1200,600",
+   "source": "MIT Tech Review",
+   "category": "ai",
+   "date": "2026-10-13T09:00:00.000Z"
+  },
   {
    "title": "How to Schedule Instagram Reels with Metricool",
    "link": "https://metricool.com/schedule-reels-with-metricool/",
@@ -401,7 +410,7 @@
    "title": "Hidden Snow Leopard Cubs Among Winners of International Photography Awards",
    "link": "https://petapixel.com/2026/10/12/hidden-snow-leopard-cubs-among-winners-of-international-photography-awards/",
    "summary": "The Siena Awards Photo Festival is a sweeping image competition that touches on many different styles, disciplines, and genres of photography. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/Siena-Photo-Awards-2026.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-12T16:04:02.000Z"
@@ -536,7 +545,7 @@
    "title": "Apple, Content Authenticity, and the War to Prove What’s Real",
    "link": "https://petapixel.com/2026/10/12/apple-content-authenticity-and-the-war-to-prove-whats-real/",
    "summary": "It is now easier than ever to type a few words into an AI generator and create a photorealistic image of something that never happened. So, when a photo goes viral, how do we prove that it is actually real? How do we pro",
-   "image": "https://petapixel.com/assets/uploads/2026/10/the-war-to-prove-whats-real-2.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-12T14:01:37.000Z"
@@ -2180,15 +2189,6 @@
    "date": "2026-10-02T15:00:00.000Z"
   },
   {
-   "title": "Don’t be fooled—LLMs don’t reason",
-   "link": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
-   "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked s",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/2llm-go.jpg?resize=1200,600",
-   "source": "MIT Tech Review",
-   "category": "ai",
-   "date": "2026-10-02T08:00:00.000Z"
-  },
-  {
    "title": "What even is a ‘microdrama’?",
    "link": "https://www.theverge.com/entertainment/1003297/microdramas-neighbours-epis-roseberry-reelshort-dramabox-vertical-video",
    "summary": "On Monday, Variety reported that RoseBerry Media is recutting episodes of the Australian soap opera Neighbours \"into microdramas.\" These clips will be available on Epis, a short-form vertical video streaming platform. Th",
@@ -2349,15 +2349,6 @@
    "source": "TechCrunch",
    "category": "tiktok",
    "date": "2026-09-15T14:42:37.000Z"
-  },
-  {
-   "title": "The best brands on Instagram in 2026 (so far)",
-   "link": "https://sproutsocial.com/insights/best-brands-on-instagram/",
-   "summary": "We’re back with another installment of the Social Futures Report—a series where we compile and analyze social media posts and campaigns inspiring us, and Read more... The post The best brands on Instagram in 2026 (so far",
-   "image": "https://media.sproutsocial.com/uploads/2026/09/nike-cristiano-ronaldo-world-cup-1024x756.jpg",
-   "source": "Sprout Social",
-   "category": "instagram",
-   "date": "2026-09-14T19:33:54.000Z"
   },
   {
    "title": "Instagram’s latest feature lets you add tagged posts to your profile grid",
