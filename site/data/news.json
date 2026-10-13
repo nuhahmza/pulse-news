@@ -1,6 +1,42 @@
 {
- "updated": "2026-10-13T10:51:07.575Z",
+ "updated": "2026-10-13T11:18:43.658Z",
  "items": [
+  {
+   "title": "Anthropic says it cut Claude reasoning token theft by up to 99% in fight against industrial-scale distillation",
+   "link": "https://the-decoder.com/anthropic-says-it-cut-claude-reasoning-token-theft-by-up-to-99-in-fight-against-industrial-scale-distillation/",
+   "summary": "Anthropic says it has cut the extraction of Claude's internal reasoning tokens by 90 to 99 percent. The company links the large-scale distillation attacks to Chinese companies Zhipu and Moonshot, and has already banned t",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/anthropic_distillation_defense.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-13T11:06:46.000Z"
+  },
+  {
+   "title": "Sony FX5 Ranks No. 1 on Amazon Despite Being Unavailable to Buy",
+   "link": "https://ymcinema.com/2026/10/13/sony-fx5-number-one-amazon-unavailable/",
+   "summary": "The Sony FX5 has reached the No. 1 New Release position in Amazon‘s Professional Grade Video Cameras category. There’s just one problem: The camera is unavailable to buy, and Amazon doesn’t know when it will return. It’s",
+   "image": "https://ymcinema.com/wp-content/uploads/2026/10/Sony-FX5-Ranks-No.-1-on-Amazon-Despite-Being-Unavailable-to-Buy.002.webp",
+   "source": "Y.M.Cinema",
+   "category": "video",
+   "date": "2026-10-13T11:05:31.000Z"
+  },
+  {
+   "title": "Wikipedians Believed AI Would Come and Go. They Were Wrong",
+   "link": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
+   "summary": "In a world of AI Overviews, Wikipedia usage declines. But the real loss may be far more existential than website traffic.",
+   "image": "https://media.wired.com/photos/6acd26155e2bb341ef93eb39/master/pass/10122026_BE_Wikepidia_v2.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-10-13T11:00:00.000Z"
+  },
+  {
+   "title": "Tamron brings versatile 20-40mm F2.8 to Nikon Z",
+   "link": "https://www.provideocoalition.com/tamron-brings-versatile-20-40mm-f2-8-to-nikon-z/",
+   "summary": "Designed as a flexible everyday lens, the 20-40mm F2.8 covers a useful range from ultra-wide to a more natural perspective. On an APS-C camera it turns into a 30-60mm lens. Already well established in its Sony E-mount ve",
+   "image": "https://www.provideocoalition.com/wp-content/uploads/tamron2040_002.jpg",
+   "source": "ProVideo Coalition",
+   "category": "video",
+   "date": "2026-10-13T10:57:18.000Z"
+  },
   {
    "title": "Magnetic Accessories Can Affect Your iPhone Camera",
    "link": "https://petapixel.com/2026/10/13/magnetic-accessories-can-affect-your-iphone-camera/",
@@ -18,6 +54,15 @@
    "source": "The Decoder",
    "category": "ai",
    "date": "2026-10-13T10:33:28.000Z"
+  },
+  {
+   "title": "Character.AI files for bankruptcy",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+   "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or rolepla",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK278_character_ai_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-13T10:32:23.000Z"
   },
   {
    "title": "Leica LUX camera grip for the iPhone now in silver finish",
@@ -95,7 +140,7 @@
    "title": "Man is Reunited With Parents’ 1950s Wedding Photo Album After Search",
    "link": "https://petapixel.com/2026/10/13/man-is-reunited-with-parents-1950s-wedding-photo-album-after-search/",
    "summary": "A man in the U.K. has been reunited with his parents' wedding album from 1957 after it was found abandoned outside a city centre cafe and traced to his late parents by a local historian. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/Son-Reunited-With-Parents-Wedding-Photos2.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-13T08:58:15.000Z"
@@ -284,7 +329,7 @@
    "title": "How Getty’s Bankruptcy Affects Photographers: Payments, Contracts, and Next Steps",
    "link": "https://petapixel.com/2026/10/12/how-gettys-bankruptcy-affects-photographers-payments-contracts-and-next-steps/",
    "summary": "Today, Getty Images announced a restructuring agreement and said it plans to begin a prepackaged Chapter 11 process in the coming weeks. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/How-Gettys-Bankruptcy-Affects-Photographers-Payments-Contracts-and-Next-Steps.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-12T19:10:49.000Z"
@@ -338,7 +383,7 @@
    "title": "Even Photographers Who Preordered the OM System PEN Might Wait Until Next Spring To Get It",
    "link": "https://petapixel.com/2026/10/12/even-photographers-who-preordered-the-om-system-pen-might-wait-until-next-spring-to-get-it/",
    "summary": "The OM System PEN is expected to begin shipping to customers this week, but per OM Digital Solutions (OMDS) in Japan, not everyone will be able to get their hands on it at launch. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/DSC_0181-2048x1366-1.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-12T18:13:18.000Z"
@@ -464,7 +509,7 @@
    "title": "Getty Going Private as the Beleaguered Stock Photo Brand Files for Bankruptcy",
    "link": "https://petapixel.com/2026/10/12/getty-going-private-as-the-beleaguered-stock-photo-brand-files-for-bankruptcy/",
    "summary": "Getty has announced that it has secured the necessary financing to take the company private. This comes after the New York Stock Exchange (NYSE) suspended trading in its shares and started the process of delisting the co",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2025/01/The-Getty-Shutterstock-Merger-is-Just-the-Next-Step-in-a-Race-to-the-Bottom.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-12T16:10:13.000Z"
@@ -599,7 +644,7 @@
    "title": "Nicolas Cage Refused to Sign an AI Waiver From Amazon",
    "link": "https://petapixel.com/2026/10/12/nicolas-cage-refused-to-sign-an-ai-waiver-from-amazon/",
    "summary": "Nicolas Cage says he is unwilling to allow artificial intelligence to be used in his performances, revealing that he declined to sign an AI waiver while working on the Prime Video series Spider-Noir. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/Nicolas-Cage.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-12T14:22:45.000Z"
@@ -918,15 +963,6 @@
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-11T14:00:00.000Z"
-  },
-  {
-   "title": "AI agents overstate their results and remain far from autonomous research, study finds",
-   "link": "https://the-decoder.com/ai-agents-overstate-their-results-and-remain-far-from-autonomous-research-study-finds/",
-   "summary": "Epoch AI and Anthropic independently found the same thing: current AI models like GPT-5.6 Sol and Claude Fable 5 can run experiments but lack scientific self-criticism and genuine creative thinking. At best, Sol reached ",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/ai_researcher.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-11T13:44:32.000Z"
   },
   {
    "title": "Why Raising the Blacks Can Make a Lightroom Sunset Glow",
@@ -1251,15 +1287,6 @@
    "source": "ZDNet",
    "category": "ai",
    "date": "2026-10-09T19:10:12.000Z"
-  },
-  {
-   "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-   "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-09T19:09:44.000Z"
   },
   {
    "title": "AI disqualification yields new Nikon Small World in Motion winner",
@@ -1676,15 +1703,6 @@
    "date": "2026-10-08T10:47:15.000Z"
   },
   {
-   "title": "Tristan Harris’ Tech Nonprofit Is Laying Off Most Staff and Going ‘Founder-Led’",
-   "link": "https://www.wired.com/story/tristan-harris-tech-nonprofit-is-laying-off-most-staff-and-going-founder-led/",
-   "summary": "The Center for Humane Technology helped spark a movement against excessive screen time, but internal tensions over its direction and strategy have simmered for years, sources tell WIRED.",
-   "image": "https://media.wired.com/photos/6ac02e534880260b81233f30/master/pass/Tristan-Harris-2274181207.jpg",
-   "source": "WIRED",
-   "category": "ai",
-   "date": "2026-10-08T09:30:00.000Z"
-  },
-  {
    "title": "AI breakthroughs in robotics won’t change your life any time soon",
    "link": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
    "summary": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped li",
@@ -1937,15 +1955,6 @@
    "date": "2026-10-07T12:00:00.000Z"
   },
   {
-   "title": "Matysiak paints “Motor City” in neon with Astera",
-   "link": "https://www.provideocoalition.com/matysiak-paints-motor-city-in-neon-with-astera/",
-   "summary": "Cinematographer John Matysiak brings a vivid breathlessness to the near-wordless film “Motor City”, with Astera lights and VFX tricks used to recreate the magic. Starring Alan Ritchson, Ben Foster, and Shailene Woodley, ",
-   "image": "https://www.provideocoalition.com/wp-content/uploads/motorcityastera001.jpg",
-   "source": "ProVideo Coalition",
-   "category": "video",
-   "date": "2026-10-07T11:20:10.000Z"
-  },
-  {
    "title": "Nikon Z6 II Drops 26% to $1,297 During Amazon Prime Big Deal Days",
    "link": "https://ymcinema.com/2026/10/07/nikon-z6-ii-prime-big-deal-days-1297/",
    "summary": "Amazon has cut the price of the Nikon Z6 II to $1,296.95 during Prime Big Deal Days, bringing Nikon’s second-generation full-frame mirrorless camera well below its $1,749.95 list price. The body-only deal represents a 26",
@@ -2151,15 +2160,6 @@
    "source": "MIT Tech Review",
    "category": "ai",
    "date": "2026-10-05T04:00:00.000Z"
-  },
-  {
-   "title": "Canon EOS R8 Mark II Gets a Firm Amazon Delivery Date: October 21",
-   "link": "https://ymcinema.com/2026/10/04/canon-eos-r8-mark-ii-amazon-delivery-date-october-21/",
-   "summary": "Amazon has updated its listing for the Canon EOS R8 Mark II with something prospective buyers have been waiting for: a firm delivery date. The camera is now listed for release on October 20, 2026, with Prime delivery sch",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4e6.png",
-   "source": "Y.M.Cinema",
-   "category": "video",
-   "date": "2026-10-04T07:01:57.000Z"
   },
   {
    "title": "The Agent Said It Was Done. The Database Disagreed.",
