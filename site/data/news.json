@@ -1,14 +1,50 @@
 {
- "updated": "2026-10-13T16:51:32.821Z",
+ "updated": "2026-10-13T17:17:21.137Z",
  "items": [
   {
-   "title": "Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
-   "summary": "Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark - quickly spread. The ",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2263775227.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
+   "title": "Machine learning pioneer Michael I. Jordan dismantles AI doom rhetoric as \"grand moralizing performance\"",
+   "link": "https://the-decoder.com/machine-learning-pioneer-michael-i-jordan-dismantles-ai-doom-rhetoric-as-grand-moralizing-performance/",
+   "summary": "Michael I. Jordan, described by Science as \"the most influential computer scientist,\" considers warnings about superintelligence pure science fiction. He calls the resignations of young AI researchers a \"grand moralizing",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/paris_AI_doomer.png",
+   "source": "The Decoder",
    "category": "ai",
-   "date": "2026-10-13T16:42:51.000Z"
+   "date": "2026-10-13T17:12:41.000Z"
+  },
+  {
+   "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+   "link": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+   "summary": "",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/YxGx9U6yV6_mumklCyMsE.png",
+   "source": "Hugging Face",
+   "category": "ai",
+   "date": "2026-10-13T17:05:48.000Z"
+  },
+  {
+   "title": "Google wants to host your personal vibe-coded apps in the Play Store",
+   "link": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
+   "summary": "Google plans to help turn those personal AI-generated apps into wide releases.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/play-store-1152x648.jpg",
+   "source": "Ars Technica",
+   "category": "ai",
+   "date": "2026-10-13T17:00:39.000Z"
+  },
+  {
+   "title": "Google Play now supports private, vibe-coded apps built just for you",
+   "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+   "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/PersonalApps_desktop_16x9_Static.png?resize=1200,675",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-13T17:00:00.000Z"
+  },
+  {
+   "title": "Google lets you make personal Android apps for free now – with just prompts",
+   "link": "https://www.zdnet.com/tech/custom-android-apps-google-ai-studio/",
+   "summary": "It just got a whole lot easier to vibe code the exact Android app you need – no developer experience required.",
+   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Play-Store.jpg",
+   "source": "ZDNet",
+   "category": "ai",
+   "date": "2026-10-13T17:00:00.000Z"
   },
   {
    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
@@ -680,7 +716,7 @@
    "title": "820 Ebony/Jet: Inside Chicago’s First Black-Owned Building",
    "link": "https://petapixel.com/2026/10/12/inside-chicagos-first-black-owned-building-is-like-scenes-from-the-shining/",
    "summary": "“It was a very unique project, to be sure.” With these words, Barbara Karant, a Chicago-based photographer specializing in architecture and interior design, as well as an author and educator, summarizes her immersion in ",
-   "image": "https://petapixel.com/assets/uploads/2026/10/Inside-Chicagos-First-Black-Owned-Building-Is-Like-Scenes-from-The-Shining.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-12T18:59:45.000Z"
@@ -869,7 +905,7 @@
    "title": "Hidden Snow Leopard Cubs Among Winners of International Photography Awards",
    "link": "https://petapixel.com/2026/10/12/hidden-snow-leopard-cubs-among-winners-of-international-photography-awards/",
    "summary": "The Siena Awards Photo Festival is a sweeping image competition that touches on many different styles, disciplines, and genres of photography. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/Siena-Photo-Awards-2026.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-12T16:04:02.000Z"
@@ -1037,15 +1073,6 @@
    "date": "2026-10-12T13:00:00.000Z"
   },
   {
-   "title": "Anthropic's Andrej Karpathy says \"the external world has seen the preview\" of what AI can actually do",
-   "link": "https://the-decoder.com/anthropics-andrej-karpathy-says-the-external-world-has-seen-the-preview-of-what-ai-can-actually-do/",
-   "summary": "Andrej Karpathy, co-founder of OpenAI and now at Anthropic, sees a widening knowledge gap in AI. About 75 percent of the world's population has barely touched LLMs. Roughly 5,000 people, meanwhile, have access to interna",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/expo_growth.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-12T12:51:21.000Z"
-  },
-  {
    "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
    "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
    "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps a",
@@ -1172,15 +1199,6 @@
    "date": "2026-10-11T19:28:57.000Z"
   },
   {
-   "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-   "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-   "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/09/Perplexity-Disrupt-Stage-2024.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-11T19:00:00.000Z"
-  },
-  {
    "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
    "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking w",
@@ -1296,6 +1314,15 @@
    "source": "Y.M.Cinema",
    "category": "video",
    "date": "2026-10-11T06:45:48.000Z"
+  },
+  {
+   "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+   "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of ",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-10T22:10:17.000Z"
   },
   {
    "title": "How the Bayer Filter Works, and Why Your Camera Sensor Is Colorblind",
@@ -1667,15 +1694,6 @@
    "date": "2026-10-08T19:30:00.000Z"
   },
   {
-   "title": "Got a Microsoft 365 subscription? Your storage is about to shrink",
-   "link": "https://www.zdnet.com/tech/microsoft-365-subscription-storage-limits/",
-   "summary": "Today, shared Microsoft 365 plans include 1 TB of OneDrive cloud storage for every family member. Microsoft is about to shrink that allotment dramatically.",
-   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2274012942-2.jpg",
-   "source": "ZDNet",
-   "category": "ai",
-   "date": "2026-10-08T18:56:22.000Z"
-  },
-  {
    "title": "2026 TikTok News: The Definitive Timeline for Creators",
    "link": "https://metricool.com/tiktok-news/",
    "summary": "TikTok has grown significantly since the very first days of the network in 2016, to one of the most-used social media platforms today. Learn about the evolution of TikTok's network history here!",
@@ -1955,15 +1973,6 @@
    "date": "2026-10-07T17:17:29.000Z"
   },
   {
-   "title": "Multimodal open d1 decision models for the edge",
-   "link": "https://huggingface.co/blog/LiquidAI/open-d1",
-   "summary": "",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/hLsllw4zhC04cVGiV69v0.png",
-   "source": "Hugging Face",
-   "category": "ai",
-   "date": "2026-10-07T16:54:33.000Z"
-  },
-  {
    "title": "Paramount and Warner Bros. Merger Closes as Skydance – Layoffs Signaled, 30 Theatrical Releases a Year Promised",
    "link": "https://www.cined.com/paramount-and-warner-bros-merger-closes-as-skydance-layoffs-signaled-30-theatrical-releases-a-year-promised/",
    "summary": "The Paramount Warner Bros. merger is done. On Tuesday, October 6, Paramount completed its acquisition of Warner Bros. Discovery in a deal valued at around 110 billion USD including debt, and the combined company now oper",
@@ -1989,15 +1998,6 @@
    "source": "Ars Technica",
    "category": "ai",
    "date": "2026-10-07T14:12:37.000Z"
-  },
-  {
-   "title": "Google rolls out improved SynthID AI content detector, now available globally",
-   "link": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
-   "summary": "The new SynthID website can now identify AI content from Google, OpenAI, and more.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/synthid-fingerprint-1152x648.jpg",
-   "source": "Ars Technica",
-   "category": "ai",
-   "date": "2026-10-07T14:00:08.000Z"
   },
   {
    "title": "Introducing Falcon ASR",
@@ -2286,15 +2286,6 @@
    "source": "The Verge",
    "category": "instagram",
    "date": "2026-09-30T14:30:00.000Z"
-  },
-  {
-   "title": "A Canon EOS R7 V is Reportedly in the Works",
-   "link": "https://www.canonrumors.com/a-canon-eos-r7-v-is-reportedly-in-the-works/",
-   "summary": "As we've said in the past, the Canon EOS R7 Mark II is the most highly-anticipated camera coming from Canon. The community was hoping that we'd see it in 2026 after reporting that it would be coming this year, but it is ",
-   "image": "https://www.canonrumors.com/wp-content/uploads/2026/09/canon-eos-r7-v-mockup.jpg",
-   "source": "Canon Rumors",
-   "category": "photo",
-   "date": "2026-09-29T17:03:59.000Z"
   },
   {
    "title": "YouTube CTR, Instagram Reels Structure, and Industry News",
