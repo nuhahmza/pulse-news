@@ -1,6 +1,24 @@
 {
- "updated": "2026-10-13T11:49:48.582Z",
+ "updated": "2026-10-13T12:23:44.166Z",
  "items": [
+  {
+   "title": "A Pocket Camera at the Venice Film Festival – What DJI Wants With the Osmo Pocket 4P",
+   "link": "https://www.cined.com/a-pocket-camera-at-the-venice-film-festival-what-dji-wants-with-the-osmo-pocket-4p/",
+   "summary": "DJI brought the Osmo Pocket 4P to the Venice Film Festival, screened four short films shot on it, and put three working cinematographers on stage to discuss them. I was in the room, and in our new video I explain what th",
+   "image": "https://www.cined.com/content/uploads/2026/10/Venice-Osmo-Pocket-4P-300x169.jpg",
+   "source": "CineD",
+   "category": "video",
+   "date": "2026-10-13T11:53:15.000Z"
+  },
+  {
+   "title": "Dutch tax authorities cancel Microsoft 365 cloud rollout – and turn toward open source",
+   "link": "https://www.zdnet.com/business/dutch-tax-authorities-cancel-microsoft-365-cloud-rollout/",
+   "summary": "Another European move toward digital sovereignty has curtailed adopting the US workplace suite.",
+   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1222986158.jpg",
+   "source": "ZDNet",
+   "category": "ai",
+   "date": "2026-10-13T11:50:35.000Z"
+  },
   {
    "title": "Anthropic says it cut Claude reasoning token theft by up to 99% in fight against industrial-scale distillation",
    "link": "https://the-decoder.com/anthropic-says-it-cut-claude-reasoning-token-theft-by-up-to-99-in-fight-against-industrial-scale-distillation/",
@@ -54,15 +72,6 @@
    "source": "The Decoder",
    "category": "ai",
    "date": "2026-10-13T10:33:28.000Z"
-  },
-  {
-   "title": "Character.AI files for bankruptcy",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-   "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or rolepla",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK278_character_ai_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-13T10:32:23.000Z"
   },
   {
    "title": "Leica LUX camera grip for the iPhone now in silver finish",
@@ -347,7 +356,7 @@
    "title": "Inside Chicago’s First Black-Owned Building Is Like Scenes from ‘The Shining’",
    "link": "https://petapixel.com/2026/10/12/inside-chicagos-first-black-owned-building-is-like-scenes-from-the-shining/",
    "summary": "“It was a very unique project, to be sure.” With these words, Barbara Karant, a Chicago-based photographer specializing in architecture and interior design, as well as an author and educator, summarizes her immersion in ",
-   "image": "https://petapixel.com/assets/uploads/2026/10/Inside-Chicagos-First-Black-Owned-Building-Is-Like-Scenes-from-The-Shining.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-12T18:59:45.000Z"
@@ -536,7 +545,7 @@
    "title": "Hidden Snow Leopard Cubs Among Winners of International Photography Awards",
    "link": "https://petapixel.com/2026/10/12/hidden-snow-leopard-cubs-among-winners-of-international-photography-awards/",
    "summary": "The Siena Awards Photo Festival is a sweeping image competition that touches on many different styles, disciplines, and genres of photography. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/Siena-Photo-Awards-2026.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-12T16:04:02.000Z"
@@ -1289,6 +1298,15 @@
    "date": "2026-10-09T19:10:12.000Z"
   },
   {
+   "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+   "summary": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_5.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-09T19:09:44.000Z"
+  },
+  {
    "title": "AI disqualification yields new Nikon Small World in Motion winner",
    "link": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
    "summary": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
@@ -1658,15 +1676,6 @@
    "date": "2026-10-08T14:00:00.000Z"
   },
   {
-   "title": "Yelp, who? 4 ways Google Maps can help you find your next meal – and order it",
-   "link": "https://www.zdnet.com/tech/google-maps-features-restaurants-dining-food-ordering/",
-   "summary": "There’s more to Google Maps’ dining tools than reviews and directions – and a few are worth a look before your next night out.",
-   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2110547962.jpg",
-   "source": "ZDNet",
-   "category": "ai",
-   "date": "2026-10-08T12:00:07.000Z"
-  },
-  {
    "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
    "link": "https://openai.com/index/pollo-ai",
    "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
@@ -2034,15 +2043,6 @@
    "source": "Y.M.Cinema",
    "category": "video",
    "date": "2026-10-06T13:09:10.000Z"
-  },
-  {
-   "title": "SmallRig Autumn Sale – Up to 30% Off TRIBEX Tripods, V-Mount Batteries, and Sony FX5 Cages",
-   "link": "https://www.cined.com/smallrig-autumn-sale-up-to-30-off-tribex-tripods-v-mount-batteries-and-sony-fx5-cages/",
-   "summary": "The SmallRig Autumn Sale brings discounts of up to 30% on tripods, batteries, lights, phone rigs, and camera cages. Several of the products are relatively new, including the Nano power banks, the iPhone 18 Pro Max cage, ",
-   "image": "https://www.cined.com/content/uploads/2026/10/SmallRig_Autumn-Savings_1920x1080-300x169.jpg",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-10-06T13:01:20.000Z"
   },
   {
    "title": "Facebook tests going Reels-first in India",
