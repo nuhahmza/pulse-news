@@ -1,6 +1,24 @@
 {
- "updated": "2026-10-13T13:58:05.278Z",
+ "updated": "2026-10-13T14:25:12.836Z",
  "items": [
+  {
+   "title": "Apple and LG Bring Connected Cameras To Your Home",
+   "link": "https://petapixel.com/2026/10/13/apple-and-lg-bring-connected-cameras-to-your-home/",
+   "summary": "At its \"Welcome Home\" event today, Apple announced its new \"Apple Home Collection,\" including smart door locks, thermostats, temperature sensors, and cameras. [ Read More ]",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-13T14:01:41.000Z"
+  },
+  {
+   "title": "TechCrunch Disrupt 2026: Day 1",
+   "link": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
+   "summary": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at the startup epicente",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/10/Battlefield-crowd.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-13T14:00:00.000Z"
+  },
   {
    "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
    "link": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
@@ -74,20 +92,20 @@
    "date": "2026-10-13T13:00:39.000Z"
   },
   {
-   "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-   "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-   "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-13T13:00:00.000Z"
-  },
-  {
    "title": "Apple launches HomeView, its first smart display for the home",
    "link": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
    "summary": "It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous. The HomeView puts a small, vibrant screen atop a spe",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-lineup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-13T13:00:00.000Z"
+  },
+  {
+   "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+   "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+   "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800",
+   "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-13T13:00:00.000Z"
   },
@@ -461,7 +479,7 @@
    "date": "2026-10-12T19:10:49.000Z"
   },
   {
-   "title": "Inside Chicago’s First Black-Owned Building Is Like Scenes from ‘The Shining’",
+   "title": "820 Ebony/Jet: Inside Chicago’s First Black-Owned Building",
    "link": "https://petapixel.com/2026/10/12/inside-chicagos-first-black-owned-building-is-like-scenes-from-the-shining/",
    "summary": "“It was a very unique project, to be sure.” With these words, Barbara Karant, a Chicago-based photographer specializing in architecture and interior design, as well as an author and educator, summarizes her immersion in ",
    "image": "",
@@ -767,15 +785,6 @@
    "date": "2026-10-12T14:30:22.000Z"
   },
   {
-   "title": "Nicolas Cage Refused to Sign an AI Waiver From Amazon",
-   "link": "https://petapixel.com/2026/10/12/nicolas-cage-refused-to-sign-an-ai-waiver-from-amazon/",
-   "summary": "Nicolas Cage says he is unwilling to allow artificial intelligence to be used in his performances, revealing that he declined to sign an AI waiver while working on the Prime Video series Spider-Noir. [ Read More ]",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-12T14:22:45.000Z"
-  },
-  {
    "title": "SG-Image AF 35mm f/1.4 Review: Following the Path of The Legendary XF35mm F1.4 R",
    "link": "https://www.fujirumors.com/sg-image-af-35mm-f-1-4-review-following-the-path-of-the-legendary-xf35mm-f1-4-r/",
    "summary": "Back in early September we reported about the following new SG-image lenses for Fujifilm X mount: SG-Image AF 18mm F2.2 SG-Image AF 35mm F1.4 retro style SG-Image AF 35mm F2.2 Well, you can now order the SG-Image AF 35mm",
@@ -1053,15 +1062,6 @@
    "source": "Fuji Rumors",
    "category": "photo",
    "date": "2026-10-11T14:41:14.000Z"
-  },
-  {
-   "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-   "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-   "summary": "Voice AI often misses important points for its context layer, and causes the whole pipeline to break.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-10-at-2.42.28-PM.jpg?resize=1200,624",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-11T14:00:00.000Z"
   },
   {
    "title": "Why Raising the Blacks Can Make a Lightroom Sunset Glow",
