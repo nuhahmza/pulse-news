@@ -1,6 +1,33 @@
 {
- "updated": "2026-10-13T20:27:19.941Z",
+ "updated": "2026-10-13T21:03:12.395Z",
  "items": [
+  {
+   "title": "Add a Dovetail Mounting Bracket to Your Tilta Hydra Electronic Suction Cup Setups With This Quick Add-On",
+   "link": "https://nofilmschool.com/tilta-baby-pin-mounting-bracket-for-electronic-suction-cup",
+   "summary": "While not a major announcement on par with a new cinema camera or earth-shattering video AI model or anything, Tilta has quietly introduced a tiny new baby pin stud that unlocks more flexibility for one of its most popul",
+   "image": "https://nofilmschool.com/media-library/tilta-baby-pin-mounting-bracket-for-electronic-suction-cup.png?id=68422992&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-13T21:00:04.000Z"
+  },
+  {
+   "title": "Film Quote of the Day: The Quietest Line About Blind Obedience in 'Pan's Labyrinth'",
+   "link": "https://nofilmschool.com/pan-s-labyrinth-quote",
+   "summary": "I was a senior in high school when Guillermo del Toro’s 2006 masterpiece, Pan’s Labyrinth ( El laberinto del fauno ), came out. I remember going to the movies to see it, and having no idea I had to read subtitles. It too",
+   "image": "https://nofilmschool.com/media-library/pan-s-labyrinth-quote.jpg?id=68424186&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-13T20:39:29.000Z"
+  },
+  {
+   "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+   "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+   "summary": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-13T20:36:44.000Z"
+  },
   {
    "title": "Tamron to announce a new 16-50mm f/2.8 APS-C lens for Nikon Z-mount",
    "link": "https://nikonrumors.com/2026/10/13/tamron-to-announced-a-new-16-50mm-f-2-8-aps-c-lens-for-nikon-z-mount.aspx/",
@@ -9,15 +36,6 @@
    "source": "Nikon Rumors",
    "category": "photo",
    "date": "2026-10-13T20:10:16.000Z"
-  },
-  {
-   "title": "Shopify opens its catalog up to more AI agents",
-   "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
-   "summary": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-13T19:42:42.000Z"
   },
   {
    "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
@@ -36,15 +54,6 @@
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-13T19:25:57.000Z"
-  },
-  {
-   "title": "Xbox is officially embracing the chaos of AI-powered game ports",
-   "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
-   "summary": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new ex",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/xboxlabshed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-13T19:00:48.000Z"
   },
   {
    "title": "How a DP Shot a 2026 Horror Feature on a MiniDV Camcorder",
@@ -218,20 +227,20 @@
    "date": "2026-10-13T17:00:39.000Z"
   },
   {
-   "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-   "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-   "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/PersonalApps_desktop_16x9_Static.png?resize=1200,675",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-13T17:00:00.000Z"
-  },
-  {
    "title": "Google makes it easier to launch your vibe-coded apps",
    "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
    "summary": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch perso",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-13T17:00:00.000Z"
+  },
+  {
+   "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+   "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+   "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/PersonalApps_desktop_16x9_Static.png?resize=1200,675",
+   "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-13T17:00:00.000Z"
   },
@@ -524,20 +533,20 @@
    "date": "2026-10-13T13:00:39.000Z"
   },
   {
-   "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-   "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-   "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-13T13:00:00.000Z"
-  },
-  {
    "title": "Apple launches HomeView, its first smart display for the home",
    "link": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
    "summary": "It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous. The HomeView puts a small, vibrant screen atop a spe",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-lineup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-13T13:00:00.000Z"
+  },
+  {
+   "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+   "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+   "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800",
+   "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-13T13:00:00.000Z"
   },
@@ -648,6 +657,15 @@
    "source": "The Decoder",
    "category": "ai",
    "date": "2026-10-13T10:33:28.000Z"
+  },
+  {
+   "title": "Character.AI files for bankruptcy",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+   "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or rolepla",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK278_character_ai_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-13T10:32:23.000Z"
   },
   {
    "title": "Leica LUX camera grip for the iPhone now in silver finish",
@@ -857,15 +875,6 @@
    "date": "2026-10-12T22:25:03.000Z"
   },
   {
-   "title": "5 Hugh Jackman Movies That Proved He Was More Than Wolverine",
-   "link": "https://nofilmschool.com/hugh-jackman-movies",
-   "summary": "I think most of the world recognizes Hugh Jackman as Wolverine. He's just so amazing in that role, and from the moment he graced our screens, it was like this epic perfection in casting. But the problem with being one of",
-   "image": "https://nofilmschool.com/media-library/hugh-jackman-movies.jpg?id=68417051&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-12T21:55:02.000Z"
-  },
-  {
    "title": "Enhance Old, Low-Quality Footage and Photos: An All-in-One Workflow with VideoProc",
    "link": "https://petapixel.com/2026/10/12/enhance-old-low-quality-footage-and-photos-an-all-in-one-workflow-with-videoproc/",
    "summary": "As photographers and videographers, we all encounter images and footage that fall short of what we envisioned -- a noisy low-light shot, an older 1080p clip from a DSLR viewed on a 4K timeline, or a tightly cropped photo",
@@ -873,15 +882,6 @@
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-12T21:30:31.000Z"
-  },
-  {
-   "title": "Another Popular DJI Drone Set to Be Sunsetted as Support for the Phantom 4 Pro V2.0 to End Soon",
-   "link": "https://nofilmschool.com/dji-phantom-4-pro-v2-0-support-ended",
-   "summary": "It’s always sad news when any camera or video product is sunsetted. Not only does it mean some popular gear that is likely still being used to create films, videos, or other projects is set to be retired, but it also jus",
-   "image": "https://nofilmschool.com/media-library/dji-phantom-4-pro-v2-0-ends.jpg?id=68416512&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-12T21:20:35.000Z"
   },
   {
    "title": "The Psychology of Hating Photos of Yourself, Explained by the Mirror Problem",
@@ -968,7 +968,7 @@
    "title": "Woman Claims Camera Repair Shop Stole Her Grandma’s Rolleiflex",
    "link": "https://petapixel.com/2026/10/12/woman-claims-camera-repair-shop-stole-her-grandmas-rolleiflex/",
    "summary": "A woman in Los Angeles has accused a camera repair store of stealing or tampering with her grandmother's Rolleiflex camera. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/Woman-Claims-Store-Stole-Camera.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-12T18:03:44.000Z"
@@ -1037,6 +1037,15 @@
    "date": "2026-10-12T17:00:27.000Z"
   },
   {
+   "title": "Meta has some Wonder Full new AI models",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+   "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go t",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-12T17:00:00.000Z"
+  },
+  {
    "title": "It’s a Real Shame the OnePlus 16 Is Launching Only in China",
    "link": "https://petapixel.com/2026/10/12/its-a-real-shame-the-oneplus-16-is-launching-only-in-china/",
    "summary": "OnePlus may be dead in most of the world, including the United States and Europe, but that doesn't mean the company is done making interesting smartphones. In fact, quite the contrary: the OnePlus 16, just unveiled in Ch",
@@ -1071,15 +1080,6 @@
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-12T15:45:00.000Z"
-  },
-  {
-   "title": "Microsoft president says UK is best placed to drive AI regulation",
-   "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-   "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
-   "image": "https://techcrunch.com/wp-content/uploads/2018/10/GettyImages-1039496404.jpg?w=1024",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-12T15:31:19.000Z"
   },
   {
    "title": "Great news, everyone: Sony is shipping our repaired FX5 units to the first customers!",
