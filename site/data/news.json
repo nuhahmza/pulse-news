@@ -1,6 +1,60 @@
 {
- "updated": "2026-10-13T17:48:32.983Z",
+ "updated": "2026-10-13T18:23:12.270Z",
  "items": [
+  {
+   "title": "Arri Film Lab 1.5 Aims To Emulate Even More Analog Cinema Formats",
+   "link": "https://petapixel.com/2026/10/13/arri-film-lab-1-5-aims-to-emulate-even-more-analog-cinema-formats/",
+   "summary": "Nearly a year ago, Arri, one of the biggest names in cinema, launched Film Lab. It's an OpenFX plugin for industry-standard video editing and color grading workflows that promises to bring a filmic, analog look to digita",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-13T18:15:10.000Z"
+  },
+  {
+   "title": "GoPro’s New MISSION 1 Cameras Just Got a Major Photography Upgrade",
+   "link": "https://nofilmschool.com/gopro-mission-1-series-photography-update",
+   "summary": "One of the year's more unique and intriguing non-AI storylines has been GoPro’s further foray into cinema-camera-esque development with its new MISSION 1 series . While these new, compact, powerful, and affordable MISSIO",
+   "image": "https://nofilmschool.com/media-library/gopro-mission-1-series-photography-update.jpg?id=68423125&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-13T18:15:06.000Z"
+  },
+  {
+   "title": "Facebook is giving users more control over their algorithm",
+   "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
+   "summary": "Facebook is the latest social media platform to give users greater control over the algorithm that determines what appears in their feeds. Meta announced the launch of its new AI-powered feature, “Your Algorithm,” on Tue",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/YourAlgorithm-FB.png?w=1200",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-13T18:05:24.000Z"
+  },
+  {
+   "title": "Gemini 4 Argon is now available worldwide as Google's most capable frontier model",
+   "link": "https://the-decoder.com/gemini-4-argon-is-now-available-worldwide-as-googles-most-capable-frontier-model/",
+   "summary": "Google is making Gemini 4 Argon available worldwide through its API, the Gemini app, and Google Antigravity. The frontier model is aggressively priced but trails Anthropic's Claude Opus 5.5 and Meta's Muse Wonder Full in",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_4_argon.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-13T18:00:49.000Z"
+  },
+  {
+   "title": "I don’t miss the camera on the Ray-Ban Meta Audio glasses",
+   "link": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
+   "summary": "The other day I whizzed past several people while running in the park, my playlist blasting at full volume. The next morning, I smiled at a barista while ordering a caramel apple-flavored matcha latte. Afterward, I sat o",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/rayban_meta_audio_12.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-13T18:00:00.000Z"
+  },
+  {
+   "title": "The 10 Greatest Dad Movies Ever Made",
+   "link": "https://nofilmschool.com/greatest-dad-movies",
+   "summary": "Now that I have a kid, I'm ready to enter my sweatpants-and-afternoon-snooze era. You know, the Saturday position many dads take, where they put on basic cable, relax on their only day off, maybe after cutting the grass,",
+   "image": "https://nofilmschool.com/media-library/greatest-dad-movies-ever-made.jpg?id=68418727&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-13T17:55:04.000Z"
+  },
   {
    "title": "Linus Torvalds is using AI to develop Linux kernel code now",
    "link": "https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch/",
@@ -31,7 +85,7 @@
   {
    "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
    "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-   "summary": "Pluto Security has raised $42 million Jump Capital, TLV Partners, Ansa Capital and angel investors.",
+   "summary": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their system",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot_20261013_211032.png?resize=1200,815",
    "source": "TechCrunch",
    "category": "ai",
@@ -74,20 +128,20 @@
    "date": "2026-10-13T17:00:39.000Z"
   },
   {
+   "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+   "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+   "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/PersonalApps_desktop_16x9_Static.png?resize=1200,675",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-13T17:00:00.000Z"
+  },
+  {
    "title": "Google makes it easier to launch your vibe-coded apps",
    "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
    "summary": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch perso",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-13T17:00:00.000Z"
-  },
-  {
-   "title": "Google Play now supports private, vibe-coded apps built just for you",
-   "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-   "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/PersonalApps_desktop_16x9_Static.png?resize=1200,675",
-   "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-13T17:00:00.000Z"
   },
@@ -110,7 +164,7 @@
    "date": "2026-10-13T16:42:51.000Z"
   },
   {
-   "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+   "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
    "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
    "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/Satlyt_Team_Group-Portrait_Steps.jpg?resize=1200,800",
@@ -380,20 +434,20 @@
    "date": "2026-10-13T13:00:39.000Z"
   },
   {
-   "title": "Apple launches HomeView, its first smart display for the home",
-   "link": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
-   "summary": "It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous. The HomeView puts a small, vibrant screen atop a spe",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-lineup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-13T13:00:00.000Z"
-  },
-  {
    "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
    "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
    "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800",
    "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-13T13:00:00.000Z"
+  },
+  {
+   "title": "Apple launches HomeView, its first smart display for the home",
+   "link": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
+   "summary": "It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous. The HomeView puts a small, vibrant screen atop a spe",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-lineup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
    "category": "ai",
    "date": "2026-10-13T13:00:00.000Z"
   },
@@ -893,15 +947,6 @@
    "date": "2026-10-12T17:45:44.000Z"
   },
   {
-   "title": "Why 'The Terror' Is the Perfect Horror Series to Watch After Netflix's 'Below'",
-   "link": "https://nofilmschool.com/the-terror-watch-after-below",
-   "summary": "If you know me in real life, you've probably had to sit through me bringing up one of my constant hyperfixations—the Franklin Expedition of 1845, a real-life British expedition that ended in disaster for its two ships, T",
-   "image": "https://nofilmschool.com/media-library/the-terror-tobias-menzies.jpg?id=34065000&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-12T17:30:04.000Z"
-  },
-  {
    "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
    "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
    "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
@@ -929,15 +974,6 @@
    "date": "2026-10-12T17:00:00.000Z"
   },
   {
-   "title": "A New 7-inch Cine Monitor is Here With an Ultra-Bright 2,800-Nit Display and Plenty of Connectivity",
-   "link": "https://nofilmschool.com/swit-k7",
-   "summary": "Another new touchscreen cine monitor has arrived and, like the rest of the crowded market, it looks well-designed, capable of a wide range of uses, and packed with versatile connectivity. Can this new SWIT K7 stand out a",
-   "image": "https://nofilmschool.com/media-library/swit-k7.webp?id=68416426&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-12T16:59:17.000Z"
-  },
-  {
    "title": "It’s a Real Shame the OnePlus 16 Is Launching Only in China",
    "link": "https://petapixel.com/2026/10/12/its-a-real-shame-the-oneplus-16-is-launching-only-in-china/",
    "summary": "OnePlus may be dead in most of the world, including the United States and Europe, but that doesn't mean the company is done making interesting smartphones. In fact, quite the contrary: the OnePlus 16, just unveiled in Ch",
@@ -963,15 +999,6 @@
    "source": "The Decoder",
    "category": "ai",
    "date": "2026-10-12T16:10:00.000Z"
-  },
-  {
-   "title": "Hidden Snow Leopard Cubs Among Winners of International Photography Awards",
-   "link": "https://petapixel.com/2026/10/12/hidden-snow-leopard-cubs-among-winners-of-international-photography-awards/",
-   "summary": "The Siena Awards Photo Festival is a sweeping image competition that touches on many different styles, disciplines, and genres of photography. [ Read More ]",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-12T16:04:02.000Z"
   },
   {
    "title": "Feeling Stuck? Here's How to Jumpstart Your Creativity in Photography",
@@ -1073,24 +1100,6 @@
    "date": "2026-10-12T14:08:12.000Z"
   },
   {
-   "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-   "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
-   "summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping w",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/02/TCD26_24Hours-16X9-Dark.png?resize=1200,675",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-12T14:00:00.000Z"
-  },
-  {
-   "title": "White House reverses course and restores UK AI Safety Institute's access to frontier models",
-   "link": "https://the-decoder.com/white-house-reverses-course-and-restores-uk-ai-safety-institutes-access-to-frontier-models/",
-   "summary": "The White House has reversed course and restored the UK's AI Security Institute's early access to AI models from Anthropic, Google DeepMind, and OpenAI. In September, the Trump administration had told the companies to st",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/aisi_us_access.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-12T13:14:54.000Z"
-  },
-  {
    "title": "Lighting Chrome Golf Clubs Is Harder Than It Looks",
    "link": "https://fstoppers.com/education/lighting-chrome-golf-clubs-harder-it-looks-905024?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
    "summary": "Polished golf clubs reflect everything around them, so a light that flatters one club can leave the one beside it flat and glaring. Shiny, curved metal is one of the hardest subjects to light, and the decisions that solv",
@@ -1107,15 +1116,6 @@
    "source": "CineD",
    "category": "video",
    "date": "2026-10-12T13:00:16.000Z"
-  },
-  {
-   "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-   "link": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-   "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference system\" for Microsoft's products and services. Maia 300 not only improves the cost and efficiency of runn",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Maia-300-prototype-chip-03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-12T13:00:00.000Z"
   },
   {
    "title": "Google’s new Fitbit Edge solves my biggest gripe with the Pixel Watch",
@@ -2367,6 +2367,15 @@
    "source": "TechCrunch",
    "category": "tiktok",
    "date": "2026-09-15T14:42:37.000Z"
+  },
+  {
+   "title": "The best brands on Instagram in 2026 (so far)",
+   "link": "https://sproutsocial.com/insights/best-brands-on-instagram/",
+   "summary": "We’re back with another installment of the Social Futures Report—a series where we compile and analyze social media posts and campaigns inspiring us, and Read more... The post The best brands on Instagram in 2026 (so far",
+   "image": "https://media.sproutsocial.com/uploads/2026/09/nike-cristiano-ronaldo-world-cup-1024x756.jpg",
+   "source": "Sprout Social",
+   "category": "instagram",
+   "date": "2026-09-14T19:33:54.000Z"
   },
   {
    "title": "Instagram’s latest feature lets you add tagged posts to your profile grid",
