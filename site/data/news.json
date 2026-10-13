@@ -1,6 +1,51 @@
 {
- "updated": "2026-10-13T13:29:19.316Z",
+ "updated": "2026-10-13T13:58:05.278Z",
  "items": [
+  {
+   "title": "DLSS 5 gets toned down for its Hogwarts Legacy debut next month",
+   "link": "https://www.theverge.com/news/1009904/dlss-5-hogwarts-legacy-changes-improvements",
+   "summary": "When Nvidia originally showed off DLSS 5 earlier this year, the technology immediately got branded as gen AI for video games. To gamers, Nvidia had lost the plot. I personally couldn't get over how faces were transformed",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/06/STK083_NVIDIA_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-13T13:55:45.000Z"
+  },
+  {
+   "title": "SpaceXSI bundles X Premium, Grok and Cursor into one subscription",
+   "link": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+   "summary": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
+   "image": "https://techcrunch.com/wp-content/uploads/2023/07/x-twitter.jpg?resize=1200,550",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-13T13:50:19.000Z"
+  },
+  {
+   "title": "Panasonic LUMIX S9 Firmware 2.1 Now Available – 4K60 in MP4 (Lite), More Lens Fn Options, and LUMIX Flow Support",
+   "link": "https://www.cined.com/panasonic-lumix-s9-firmware-2-1-now-available-4k60-in-mp4-lite-more-lens-fn-options-and-lumix-flow-support/",
+   "summary": "The LUMIX S9 firmware 2.1 update is now available to download. It adds 4K 50/60p and Full HD 120p/100p/60p/50p recording to the lightweight MP4 (Lite) format, adds more Lens Fn options, and brings the compact full-frame ",
+   "image": "https://www.cined.com/content/uploads/2026/10/Panasonic-LUMIX-S9-Firmware-2.1-300x169.jpeg",
+   "source": "CineD",
+   "category": "video",
+   "date": "2026-10-13T13:48:16.000Z"
+  },
+  {
+   "title": "TTArtisan’s Tiny $99 Pancake Lens Weighs Less Than a Camera Battery",
+   "link": "https://petapixel.com/2026/10/13/ttartisans-tiny-99-pancake-lens-weighs-less-than-a-camera-battery/",
+   "summary": "TTArtisan has announced a new ultra-compact pancake prime lens, the AF 24mm f/3.8 Mini, for full-frame Sony E-mount cameras. [ Read More ]",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-13T13:36:16.000Z"
+  },
+  {
+   "title": "TTArtisan AF 24mm F3.8– a full-frame Sony E-mount AF lens for less than $100 USD",
+   "link": "https://www.newsshooter.com/2026/10/13/ttartisan-af-24mm-f3-8-a-full-frame-sony-e-mount-af-lens-for-less-than-100-usd/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=ttartisan-af-24mm-f3-8-a-full-frame-sony-e-mount-af-lens-for-less-than-100-usd",
+   "summary": "The TTArtisan AF 24mm F3.8 is a new full-frame Sony E-mount AF lens that can be purchased for under $100 USD. It is a very small and compact, pancake-style prime lens that would be a decent option for use with gimbals, e",
+   "image": "https://www.newsshooter.com/wp-content/uploads/2026/10/Pancake-740x416.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-13T13:30:44.000Z"
+  },
   {
    "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
    "link": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
@@ -29,20 +74,20 @@
    "date": "2026-10-13T13:00:39.000Z"
   },
   {
-   "title": "Apple launches HomeView, its first smart display for the home",
-   "link": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
-   "summary": "It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous. The HomeView puts a small, vibrant screen atop a spe",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-lineup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-13T13:00:00.000Z"
-  },
-  {
    "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
    "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
    "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800",
    "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-13T13:00:00.000Z"
+  },
+  {
+   "title": "Apple launches HomeView, its first smart display for the home",
+   "link": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
+   "summary": "It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous. The HomeView puts a small, vibrant screen atop a spe",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-lineup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
    "category": "ai",
    "date": "2026-10-13T13:00:00.000Z"
   },
@@ -333,15 +378,6 @@
    "source": "No Film School",
    "category": "video",
    "date": "2026-10-13T00:46:31.000Z"
-  },
-  {
-   "title": "Tilta’s new EVF Extension Kit for Sony FX5",
-   "link": "https://www.newsshooter.com/2026/10/12/tiltas-new-evf-extension-kit-for-sony-fx5/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=tiltas-new-evf-extension-kit-for-sony-fx5",
-   "summary": "Tilta’s new EVF Extension Kit for Sony FX5 is now available to pre-order, and you can save 10% up until the 23rd of October, 2026. We first saw a sneak peek of the EVF Extension Kit at IBC 2026 last month in Amsterdam. T",
-   "image": "https://www.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-13-at-9.07.36.png",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-10-13T00:29:08.000Z"
   },
   {
    "title": "14 Years Ago, Ben Affleck Turned an Almost Unfilmable True Story Into an Oscar Winner",
@@ -749,15 +785,6 @@
    "date": "2026-10-12T14:08:12.000Z"
   },
   {
-   "title": "Apple, Content Authenticity, and the War to Prove What’s Real",
-   "link": "https://petapixel.com/2026/10/12/apple-content-authenticity-and-the-war-to-prove-whats-real/",
-   "summary": "It is now easier than ever to type a few words into an AI generator and create a photorealistic image of something that never happened. So, when a photo goes viral, how do we prove that it is actually real? How do we pro",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-12T14:01:37.000Z"
-  },
-  {
    "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
    "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
    "summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping w",
@@ -1118,15 +1145,6 @@
    "date": "2026-10-10T22:10:17.000Z"
   },
   {
-   "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-   "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-   "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
-   "image": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-10T21:47:51.000Z"
-  },
-  {
    "title": "How the Bayer Filter Works, and Why Your Camera Sensor Is Colorblind",
    "link": "https://fstoppers.com/education/how-bayer-filter-works-and-why-your-camera-sensor-colorblind-904186?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
    "summary": "Every photosite on your camera's sensor is colorblind. A 61-megapixel full frame sensor is a grid of roughly 61 million tiny light meters, and each one reports a single number: how much light it collected during the expo",
@@ -1179,15 +1197,6 @@
    "source": "The Verge",
    "category": "ai",
    "date": "2026-10-10T14:41:16.000Z"
-  },
-  {
-   "title": "AI agent makers are promising privacy — will they deliver?",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-   "summary": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veil",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25299205/STK453_Privacy_D_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-10T13:00:00.000Z"
   },
   {
    "title": "AI Is Getting Really Good at Messing With Cybercriminals",
@@ -2016,15 +2025,6 @@
    "source": "Canon Rumors",
    "category": "photo",
    "date": "2026-10-06T16:08:30.000Z"
-  },
-  {
-   "title": "Sony FX5 Delayed Again – Sony Europe Now Lists November 16 as Shipping Date",
-   "link": "https://www.cined.com/sony-fx5-delayed-again-sony-europe-now-lists-november-16-as-shipping-date/",
-   "summary": "The Sony FX5 has slipped by another month in Europe. Sony’s own online stores in the UK, France and Germany now list November 16 as the shipping date, replacing the previous October 16 target. In the US, B&H continues to",
-   "image": "https://www.cined.com/content/uploads/2026/07/Sony-FX5-featured-1-300x169.jpg",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-10-06T14:57:44.000Z"
   },
   {
    "title": "160+ Instagram username ideas for 2026 (+ AI generator)",
