@@ -1,11 +1,56 @@
 {
- "updated": "2026-10-13T15:51:19.508Z",
+ "updated": "2026-10-13T16:19:07.306Z",
  "items": [
+  {
+   "title": "Your Algorithm, Your Words: New Ways to Shape What You See on Facebook",
+   "link": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/",
+   "summary": "We’re introducing new AI-powered tools that help you shape what you see in Feed and Reels by telling us what you’re interested in, in your own words. The post Your Algorithm, Your Words: New Ways to Shape What You See on",
+   "image": "https://about.fb.com/wp-content/uploads/2026/10/Your-Algorithm_Your-Words_New-Ways-to-Shape-What-You-See-on-Facebook_Header.jpg?fit=1920%2C1080",
+   "source": "Meta Newsroom",
+   "category": "instagram",
+   "date": "2026-10-13T16:00:29.000Z"
+  },
+  {
+   "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
+   "link": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
+   "summary": "Developers will get 50 percent discounted API rates through November.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/Gemini-4-Argon-1152x648.jpg",
+   "source": "Ars Technica",
+   "category": "ai",
+   "date": "2026-10-13T16:00:02.000Z"
+  },
+  {
+   "title": "Google finally releases Gemini 4 Argon",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+   "summary": "After months sitting on the sidelines of the frontier AI race, Google has finally launched its long-awaited Gemini 4 Argon model, claiming it can compete with the best the industry has to offer. Google says Argon deliver",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-13T16:00:00.000Z"
+  },
+  {
+   "title": "Gemini 4 Argon: Built to solve your hardest problems",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+   "summary": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp",
+   "source": "Google AI",
+   "category": "ai",
+   "date": "2026-10-13T16:00:00.000Z"
+  },
+  {
+   "title": "Apple’s smart home event: All 7 devices, prices, and release dates",
+   "link": "https://www.zdnet.com/uncategorized/apple-smart-home-event-homeview-homepod-mini-new-apple-tv/",
+   "summary": "Apple’s “Welcome Home” event featured all the new smart home hardware coming to the Apple lineup.",
+   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/HV.jpg",
+   "source": "ZDNet",
+   "category": "ai",
+   "date": "2026-10-13T15:37:27.000Z"
+  },
   {
    "title": "4 upgrades HomePod Mini 2 has over its 6-year-old predecessor",
    "link": "https://www.zdnet.com/home-and-office/upgrades-homepod-mini-2026-has-over-predecessor/",
    "summary": "HomePod mini 2 is here, and there are four major upgrades that separate it from the first generation.",
-   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/08eaef99-0def-4b6f-9a5a-20d6f1ef46ef.jpg",
+   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/HomePod-Mini-2-2.jpg",
    "source": "ZDNet",
    "category": "ai",
    "date": "2026-10-13T15:28:12.000Z"
@@ -45,6 +90,15 @@
    "source": "ProVideo Coalition",
    "category": "video",
    "date": "2026-10-13T15:15:58.000Z"
+  },
+  {
+   "title": "Epic shifts to ‘AI-accelerated development’ for upcoming Disney game",
+   "link": "https://www.theverge.com/games/1010097/epic-games-disney-project-ai-coding-art",
+   "summary": "Epic Games plans to use AI to generate code and art for an unannounced Disney game, which is now delayed from its original March release window, according to a report from Bloomberg. The project's developers have been gi",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23932925/acastro_STK108__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-13T15:12:59.000Z"
   },
   {
    "title": "NASA Perseverance Mars Rover Sets New Record for Off-World Distance Driven",
@@ -200,20 +254,20 @@
    "date": "2026-10-13T13:00:39.000Z"
   },
   {
-   "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-   "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-   "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-13T13:00:00.000Z"
-  },
-  {
    "title": "Apple launches HomeView, its first smart display for the home",
    "link": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
    "summary": "It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous. The HomeView puts a small, vibrant screen atop a spe",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-lineup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-13T13:00:00.000Z"
+  },
+  {
+   "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+   "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+   "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800",
+   "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-13T13:00:00.000Z"
   },
@@ -1244,15 +1298,6 @@
    "date": "2026-10-10T21:03:01.000Z"
   },
   {
-   "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-   "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
-   "summary": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/distrokid_logo_og_image.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-10T18:52:07.000Z"
-  },
-  {
    "title": "Thypoch AF 23mm f/1.4 Announcement in October and Shipping November",
    "link": "https://www.fujirumors.com/thypoch-af-23mm-f-1-4-announcement-in-october-and-shipping-november/",
    "summary": "Just a few days ago, the first images of the Thypoch AF23mm f/1.4 have been shared here. In that article we saw the lens with the silver aperture ring (and notch), and we told you that the final version would be all-blac",
@@ -1260,15 +1305,6 @@
    "source": "Fuji Rumors",
    "category": "photo",
    "date": "2026-10-10T17:59:19.000Z"
-  },
-  {
-   "title": "Anthropic is cutting off its internal evaluations from the internet",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-   "summary": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model act",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-10T14:41:16.000Z"
   },
   {
    "title": "AI Is Getting Really Good at Messing With Cybercriminals",
@@ -1640,15 +1676,6 @@
    "date": "2026-10-08T18:29:59.000Z"
   },
   {
-   "title": "Regulators are trying to protect you from being fired by AI – here’s how",
-   "link": "https://www.zdnet.com/innovation/how-state-regulators-protect-you-fired-by-ai/",
-   "summary": "Regulating AI at work is happening slowly, but it’s still stuck at the state level.",
-   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2160633261.jpg",
-   "source": "ZDNet",
-   "category": "ai",
-   "date": "2026-10-08T17:05:53.000Z"
-  },
-  {
    "title": "New York accuses TikTok of serving users ‘placebo’ safety features",
    "link": "https://www.theverge.com/tech/1008112/new-york-tiktok-lawsuit-placebo-safety-features",
    "summary": "New York is alleging that thousands of TikTok users, including kids and teens, were unknowingly given \"ghost\" versions of the platform's safety features rather than the working versions. Reuters reports the allegation is",
@@ -2016,15 +2043,6 @@
    "source": "OpenAI",
    "category": "ai",
    "date": "2026-10-07T07:00:00.000Z"
-  },
-  {
-   "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
-   "link": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
-   "summary": "Like other solutions, it is not especially reliable, and it's easy to circumvent.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/chatgpt-icon-1152x648-1789154124.jpg",
-   "source": "Ars Technica",
-   "category": "ai",
-   "date": "2026-10-06T20:50:32.000Z"
   },
   {
    "title": "Nikon USA fall rebates for October",
