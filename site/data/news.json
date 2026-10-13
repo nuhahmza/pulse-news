@@ -1,6 +1,33 @@
 {
- "updated": "2026-10-13T16:19:07.306Z",
+ "updated": "2026-10-13T16:51:32.821Z",
  "items": [
+  {
+   "title": "Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
+   "summary": "Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark - quickly spread. The ",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2263775227.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-13T16:42:51.000Z"
+  },
+  {
+   "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+   "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+   "summary": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/Satlyt_Team_Group-Portrait_Steps.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-13T16:30:00.000Z"
+  },
+  {
+   "title": "Canon EOS R6 Mark III & EOS R6 V Receive Minor Bug Fix Firmware Update",
+   "link": "https://www.canonrumors.com/canon-eos-r6-mark-iii-eos-r6-v-receive-minor-bug-fix-firmware-update/",
+   "summary": "Canon has released firmware version 1.1.2 for both the Canon EOS R6 Mark III and EOS R6 V. This update fixes a bug with image recording. We haven't heard about this issue, so hopefully it has been something that only a f",
+   "image": "https://www.canonrumors.com/wp-content/uploads/2026/10/canon-eos-r6-mark-iii-and-eos-r6-v.jpg",
+   "source": "Canon Rumors",
+   "category": "photo",
+   "date": "2026-10-13T16:29:49.000Z"
+  },
   {
    "title": "Your Algorithm, Your Words: New Ways to Shape What You See on Facebook",
    "link": "https://about.fb.com/news/2026/10/introducing-your-algorithm-facebook/",
@@ -254,20 +281,20 @@
    "date": "2026-10-13T13:00:39.000Z"
   },
   {
-   "title": "Apple launches HomeView, its first smart display for the home",
-   "link": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
-   "summary": "It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous. The HomeView puts a small, vibrant screen atop a spe",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-lineup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-13T13:00:00.000Z"
-  },
-  {
    "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
    "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
    "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800",
    "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-13T13:00:00.000Z"
+  },
+  {
+   "title": "Apple launches HomeView, its first smart display for the home",
+   "link": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
+   "summary": "It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous. The HomeView puts a small, vibrant screen atop a spe",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-lineup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
    "category": "ai",
    "date": "2026-10-13T13:00:00.000Z"
   },
@@ -653,7 +680,7 @@
    "title": "820 Ebony/Jet: Inside Chicago’s First Black-Owned Building",
    "link": "https://petapixel.com/2026/10/12/inside-chicagos-first-black-owned-building-is-like-scenes-from-the-shining/",
    "summary": "“It was a very unique project, to be sure.” With these words, Barbara Karant, a Chicago-based photographer specializing in architecture and interior design, as well as an author and educator, summarizes her immersion in ",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/Inside-Chicagos-First-Black-Owned-Building-Is-Like-Scenes-from-The-Shining.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-12T18:59:45.000Z"
@@ -842,7 +869,7 @@
    "title": "Hidden Snow Leopard Cubs Among Winners of International Photography Awards",
    "link": "https://petapixel.com/2026/10/12/hidden-snow-leopard-cubs-among-winners-of-international-photography-awards/",
    "summary": "The Siena Awards Photo Festival is a sweeping image competition that touches on many different styles, disciplines, and genres of photography. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/Siena-Photo-Awards-2026.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-12T16:04:02.000Z"
@@ -1172,15 +1199,6 @@
    "date": "2026-10-11T17:19:06.000Z"
   },
   {
-   "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-   "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-   "summary": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/9-DSCF1649.jpg?resize=800,1200",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-11T16:52:33.000Z"
-  },
-  {
    "title": "Night Photography: Turn Everyday Places Into Art",
    "link": "https://fstoppers.com/education/night-photography-turn-everyday-places-art-904777?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
    "summary": "We have all driven past the same location a hundred times during the day and never once pulled over to reach for the camera: the gas station, the empty parking lots, a small business on Main Street. Travel through there ",
@@ -1278,15 +1296,6 @@
    "source": "Y.M.Cinema",
    "category": "video",
    "date": "2026-10-11T06:45:48.000Z"
-  },
-  {
-   "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-   "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of ",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-10T22:10:17.000Z"
   },
   {
    "title": "How the Bayer Filter Works, and Why Your Camera Sensor Is Colorblind",
@@ -2367,15 +2376,6 @@
    "source": "TechCrunch",
    "category": "tiktok",
    "date": "2026-09-15T14:42:37.000Z"
-  },
-  {
-   "title": "The best brands on Instagram in 2026 (so far)",
-   "link": "https://sproutsocial.com/insights/best-brands-on-instagram/",
-   "summary": "We’re back with another installment of the Social Futures Report—a series where we compile and analyze social media posts and campaigns inspiring us, and Read more... The post The best brands on Instagram in 2026 (so far",
-   "image": "https://media.sproutsocial.com/uploads/2026/09/nike-cristiano-ronaldo-world-cup-1024x756.jpg",
-   "source": "Sprout Social",
-   "category": "instagram",
-   "date": "2026-09-14T19:33:54.000Z"
   },
   {
    "title": "Instagram’s latest feature lets you add tagged posts to your profile grid",
