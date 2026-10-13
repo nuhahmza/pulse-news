@@ -1,6 +1,42 @@
 {
- "updated": "2026-10-13T23:00:01.556Z",
+ "updated": "2026-10-13T23:28:43.168Z",
  "items": [
+  {
+   "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+   "link": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
+   "summary": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
+   "image": "https://media.wired.com/photos/6aceab66cc5b61e4cd2bfb17/master/pass/Man-Arrested-for-Listening-Device-in-OpenAI-Office-Security.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-10-13T23:17:59.000Z"
+  },
+  {
+   "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+   "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+   "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-13T23:13:31.000Z"
+  },
+  {
+   "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+   "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+   "summary": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588036568_e00e978a62_k.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-13T23:05:34.000Z"
+  },
+  {
+   "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+   "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+   "summary": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2247792889.jpg?resize=1200,788",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-13T23:00:00.000Z"
+  },
   {
    "title": "Cerebras CEO pushes back on AI doomsday warnings",
    "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
@@ -623,15 +659,6 @@
    "date": "2026-10-13T13:00:00.000Z"
   },
   {
-   "title": "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-   "link": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/",
-   "summary": "The startup will sell some of its assets to Disney for $20 million.",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-22-at-1.24.23PM.png?resize=1200,672",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-13T12:23:42.000Z"
-  },
-  {
    "title": "Higgsfield takes AI video from 1 minute to over 10",
    "link": "https://openai.com/index/higgsfield-longer-videos-voice",
    "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
@@ -740,20 +767,20 @@
    "date": "2026-10-13T10:03:14.000Z"
   },
   {
-   "title": "Open models have real benefits. Do they outweigh the risks?",
-   "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-   "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic re",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_openaimodels.jpg?resize=1200,600",
-   "source": "MIT Tech Review",
-   "category": "ai",
-   "date": "2026-10-13T10:00:00.000Z"
-  },
-  {
    "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
    "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
    "summary": "Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle.",
    "image": "https://media.wired.com/photos/6ac83144109df86817f42ae5/master/pass/Politics_TheBiggestPro-AISuperPacHasBeenFunneling.gif",
    "source": "WIRED",
+   "category": "ai",
+   "date": "2026-10-13T10:00:00.000Z"
+  },
+  {
+   "title": "Open models have real benefits. Do they outweigh the risks?",
+   "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+   "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic re",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_openaimodels.jpg?resize=1200,600",
+   "source": "MIT Tech Review",
    "category": "ai",
    "date": "2026-10-13T10:00:00.000Z"
   },
@@ -1019,15 +1046,6 @@
    "date": "2026-10-12T17:58:54.000Z"
   },
   {
-   "title": "Meta releases its first frontier model, Muse Wonder",
-   "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-   "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-12-at-1.09.43-PM.jpg?resize=1200,676",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-12T17:56:56.000Z"
-  },
-  {
    "title": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
    "link": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/",
    "summary": "Musk, we find your lack of security disturbing.",
@@ -1053,15 +1071,6 @@
    "source": "ZDNet",
    "category": "ai",
    "date": "2026-10-12T17:45:44.000Z"
-  },
-  {
-   "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-   "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-   "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/06/Pic-8.jpg?resize=1200,675",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-12T17:19:14.000Z"
   },
   {
    "title": "Muse Wonder Puts Meta Back at the AI Frontier",
@@ -1719,15 +1728,6 @@
    "source": "DPReview",
    "category": "photo",
    "date": "2026-10-08T23:15:21.000Z"
-  },
-  {
-   "title": "Inside Elon Musk’s Midterm Spending Spree",
-   "link": "https://www.wired.com/story/uncanny-valley-podcast-inside-elon-musks-midterm-spending-spree/",
-   "summary": "This week on “Uncanny Valley,” we discuss where Elon Musk’s PAC is spending millions, the latest ideology Trump claims is dangerous, and the backlash against the designer behind Muse’s logo.",
-   "image": "https://media.wired.com/photos/6ac6cf6962b0c903a0cf2363/master/pass/Uncanny-Valley-Elon-Spending-Business-2297775036.jpg",
-   "source": "WIRED",
-   "category": "ai",
-   "date": "2026-10-08T21:14:12.000Z"
   },
   {
    "title": "2026 TikTok News: The Definitive Timeline for Creators",
