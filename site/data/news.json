@@ -1,6 +1,33 @@
 {
- "updated": "2026-10-13T19:00:06.351Z",
+ "updated": "2026-10-13T19:34:44.018Z",
  "items": [
+  {
+   "title": "There’s a ‘Bluey’ Photography Game and It Might Actually Be Good",
+   "link": "https://petapixel.com/2026/10/13/theres-a-bluey-photography-game-and-it-might-actually-be-good/",
+   "summary": "Kids love Bluey, enjoy games, and sometimes really like photography. Now it's possible to combine all three of these things in a single experience: the Bluey Happy Snaps video game for Nintendo Switch, Nintendo Switch 2,",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-13T19:25:57.000Z"
+  },
+  {
+   "title": "Xbox is officially embracing the chaos of AI-powered game ports",
+   "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+   "summary": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new ex",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/xboxlabshed.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-13T19:00:48.000Z"
+  },
+  {
+   "title": "How a DP Shot a 2026 Horror Feature on a MiniDV Camcorder",
+   "link": "https://nofilmschool.com/shooting-feature-on-minidv-camcorder",
+   "summary": "Cinematographer Ryan Thomas shot Casey Donahue's feature debut on two borrowed DVX100Bs. Panasonic's DVX100 line was the indie workhorse of the early 2000s, and the original model was the first small camcorder to record ",
+   "image": "https://nofilmschool.com/media-library/my-love-for-you-is-deep-but-the-devil-loves-me-deeper.jpg?id=68417767&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-13T19:00:03.000Z"
+  },
   {
    "title": "406 scientists demand AI models be cut off from the internet immediately",
    "link": "https://the-decoder.com/406-scientists-demand-ai-models-be-cut-off-from-the-internet-immediately/",
@@ -164,20 +191,20 @@
    "date": "2026-10-13T17:00:39.000Z"
   },
   {
-   "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-   "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-   "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/PersonalApps_desktop_16x9_Static.png?resize=1200,675",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-13T17:00:00.000Z"
-  },
-  {
    "title": "Google makes it easier to launch your vibe-coded apps",
    "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
    "summary": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch perso",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-13T17:00:00.000Z"
+  },
+  {
+   "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+   "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+   "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/PersonalApps_desktop_16x9_Static.png?resize=1200,675",
+   "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-13T17:00:00.000Z"
   },
@@ -470,20 +497,20 @@
    "date": "2026-10-13T13:00:39.000Z"
   },
   {
-   "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-   "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-   "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-13T13:00:00.000Z"
-  },
-  {
    "title": "Apple launches HomeView, its first smart display for the home",
    "link": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
    "summary": "It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous. The HomeView puts a small, vibrant screen atop a spe",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-lineup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-13T13:00:00.000Z"
+  },
+  {
+   "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+   "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+   "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800",
+   "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-13T13:00:00.000Z"
   },
@@ -504,6 +531,15 @@
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-13T12:23:42.000Z"
+  },
+  {
+   "title": "Higgsfield takes AI video from 1 minute to over 10",
+   "link": "https://openai.com/index/higgsfield-longer-videos-voice",
+   "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+   "image": "",
+   "source": "OpenAI",
+   "category": "ai",
+   "date": "2026-10-13T12:00:00.000Z"
   },
   {
    "title": "A Pocket Camera at the Venice Film Festival – What DJI Wants With the Osmo Pocket 4P",
@@ -614,20 +650,20 @@
    "date": "2026-10-13T10:03:14.000Z"
   },
   {
-   "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
-   "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
-   "summary": "Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle.",
-   "image": "https://media.wired.com/photos/6ac83144109df86817f42ae5/master/pass/Politics_TheBiggestPro-AISuperPacHasBeenFunneling.gif",
-   "source": "WIRED",
-   "category": "ai",
-   "date": "2026-10-13T10:00:00.000Z"
-  },
-  {
    "title": "Open models have real benefits. Do they outweigh the risks?",
    "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic re",
    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_openaimodels.jpg?resize=1200,600",
    "source": "MIT Tech Review",
+   "category": "ai",
+   "date": "2026-10-13T10:00:00.000Z"
+  },
+  {
+   "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
+   "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
+   "summary": "Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle.",
+   "image": "https://media.wired.com/photos/6ac83144109df86817f42ae5/master/pass/Politics_TheBiggestPro-AISuperPacHasBeenFunneling.gif",
+   "source": "WIRED",
    "category": "ai",
    "date": "2026-10-13T10:00:00.000Z"
   },
@@ -893,15 +929,6 @@
    "date": "2026-10-12T18:48:29.000Z"
   },
   {
-   "title": "Film Quote of the Day: The Funniest Warning About John Wayne’s Gunslinger in 'Angel and the Badman'",
-   "link": "https://nofilmschool.com/angel-and-the-badman-quote",
-   "summary": "John Wayne has been in so many rugged Westerns that he became synonymous with gunfights and tense heroes. But the first Western he actually produced and starred in came with themes of pacifism and a lot of dry humor. Tha",
-   "image": "https://nofilmschool.com/media-library/because-bustin-through-doors-with-quirt-evans-on-the-other-side-ain-t-my-idea-of-a-healthy-pastime.webp?id=68416886&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-12T18:30:03.000Z"
-  },
-  {
    "title": "Anthropic's Claude AI submitted false murder tip to Philadelphia police",
    "link": "https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/",
    "summary": "“I may have information regarding this case,\" Claude AI told Philly police.",
@@ -992,15 +1019,6 @@
    "date": "2026-10-12T17:00:27.000Z"
   },
   {
-   "title": "Meta has some Wonder Full new AI models",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-   "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go t",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-12T17:00:00.000Z"
-  },
-  {
    "title": "It’s a Real Shame the OnePlus 16 Is Launching Only in China",
    "link": "https://petapixel.com/2026/10/12/its-a-real-shame-the-oneplus-16-is-launching-only-in-china/",
    "summary": "OnePlus may be dead in most of the world, including the United States and Europe, but that doesn't mean the company is done making interesting smartphones. In fact, quite the contrary: the OnePlus 16, just unveiled in Ch",
@@ -1008,15 +1026,6 @@
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-12T16:37:48.000Z"
-  },
-  {
-   "title": "Getty Going Private as the Beleaguered Stock Photo Brand Files for Bankruptcy",
-   "link": "https://petapixel.com/2026/10/12/getty-going-private-as-the-beleaguered-stock-photo-brand-files-for-bankruptcy/",
-   "summary": "Getty has announced that it has secured the necessary financing to take the company private. This comes after the New York Stock Exchange (NYSE) suspended trading in its shares and started the process of delisting the co",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-12T16:10:13.000Z"
   },
   {
    "title": "Clearing chat history helps AI agents find better solutions",
@@ -2043,15 +2052,6 @@
    "source": "Y.M.Cinema",
    "category": "video",
    "date": "2026-10-07T10:48:02.000Z"
-  },
-  {
-   "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-   "link": "https://openai.com/index/radisson",
-   "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
-   "image": "",
-   "source": "OpenAI",
-   "category": "ai",
-   "date": "2026-10-07T07:00:00.000Z"
   },
   {
    "title": "Nikon USA fall rebates for October",
