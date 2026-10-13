@@ -1,6 +1,33 @@
 {
- "updated": "2026-10-13T19:34:44.018Z",
+ "updated": "2026-10-13T20:27:19.941Z",
  "items": [
+  {
+   "title": "Tamron to announce a new 16-50mm f/2.8 APS-C lens for Nikon Z-mount",
+   "link": "https://nikonrumors.com/2026/10/13/tamron-to-announced-a-new-16-50mm-f-2-8-aps-c-lens-for-nikon-z-mount.aspx/",
+   "summary": "Tamron will announce a new 16-50mm f/2.8 APS-C lens for Nikon Z-mount in a few hours (as previously reported) – the information has already leaked online: Check for pre-orders of the new lens at: B&H Photo | Foto Erhardt",
+   "image": "https://nikonrumors.com/wp-content/uploads/2025/01/Tamron-logo-550x323.jpeg",
+   "source": "Nikon Rumors",
+   "category": "photo",
+   "date": "2026-10-13T20:10:16.000Z"
+  },
+  {
+   "title": "Shopify opens its catalog up to more AI agents",
+   "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+   "summary": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2225304503.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-13T19:42:42.000Z"
+  },
+  {
+   "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+   "link": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+   "summary": "AI leaders joined whistleblowers and security leaders at a sweeping parliamentary session, while a few hundred meters away Britain’s spy chief warned AI could be used to create new bioweapons.",
+   "image": "https://media.wired.com/photos/6ace48fd005dc85af95e36ae/master/pass/101326-Big%20Four%20UK%20parliment.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-10-13T19:35:29.000Z"
+  },
   {
    "title": "There’s a ‘Bluey’ Photography Game and It Might Actually Be Good",
    "link": "https://petapixel.com/2026/10/13/theres-a-bluey-photography-game-and-it-might-actually-be-good/",
@@ -191,20 +218,20 @@
    "date": "2026-10-13T17:00:39.000Z"
   },
   {
-   "title": "Google makes it easier to launch your vibe-coded apps",
-   "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
-   "summary": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch perso",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-13T17:00:00.000Z"
-  },
-  {
    "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
    "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
    "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/PersonalApps_desktop_16x9_Static.png?resize=1200,675",
    "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-13T17:00:00.000Z"
+  },
+  {
+   "title": "Google makes it easier to launch your vibe-coded apps",
+   "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
+   "summary": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch perso",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
    "category": "ai",
    "date": "2026-10-13T17:00:00.000Z"
   },
@@ -497,20 +524,20 @@
    "date": "2026-10-13T13:00:39.000Z"
   },
   {
-   "title": "Apple launches HomeView, its first smart display for the home",
-   "link": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
-   "summary": "It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous. The HomeView puts a small, vibrant screen atop a spe",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-lineup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-13T13:00:00.000Z"
-  },
-  {
    "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
    "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
    "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800",
    "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-13T13:00:00.000Z"
+  },
+  {
+   "title": "Apple launches HomeView, its first smart display for the home",
+   "link": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
+   "summary": "It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous. The HomeView puts a small, vibrant screen atop a spe",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-lineup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
    "category": "ai",
    "date": "2026-10-13T13:00:00.000Z"
   },
@@ -621,15 +648,6 @@
    "source": "The Decoder",
    "category": "ai",
    "date": "2026-10-13T10:33:28.000Z"
-  },
-  {
-   "title": "Character.AI files for bankruptcy",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-   "summary": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or rolepla",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK278_character_ai_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-13T10:32:23.000Z"
   },
   {
    "title": "Leica LUX camera grip for the iPhone now in silver finish",
@@ -950,7 +968,7 @@
    "title": "Woman Claims Camera Repair Shop Stole Her Grandma’s Rolleiflex",
    "link": "https://petapixel.com/2026/10/12/woman-claims-camera-repair-shop-stole-her-grandmas-rolleiflex/",
    "summary": "A woman in Los Angeles has accused a camera repair store of stealing or tampering with her grandmother's Rolleiflex camera. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/Woman-Claims-Store-Stole-Camera.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-12T18:03:44.000Z"
@@ -1703,15 +1721,6 @@
    "date": "2026-10-08T21:14:12.000Z"
   },
   {
-   "title": "She Designed Meta’s New AI Logo. Then Came the Hate",
-   "link": "https://www.wired.com/story/she-designed-metas-new-ai-logo-then-came-the-hate/",
-   "summary": "Jessica Hische knew working for Meta might upset some people. But she didn’t anticipate just how angry they would get.",
-   "image": "https://media.wired.com/photos/6ac690e71275a2452d67fafd/master/pass/Model-Behavior-Artist-Behind-Meta-Muse-Logo-Business.jpg",
-   "source": "WIRED",
-   "category": "ai",
-   "date": "2026-10-08T19:30:00.000Z"
-  },
-  {
    "title": "2026 TikTok News: The Definitive Timeline for Creators",
    "link": "https://metricool.com/tiktok-news/",
    "summary": "TikTok has grown significantly since the very first days of the network in 2016, to one of the most-used social media platforms today. Learn about the evolution of TikTok's network history here!",
@@ -2259,15 +2268,6 @@
    "source": "Canon Rumors",
    "category": "photo",
    "date": "2026-10-01T06:22:51.000Z"
-  },
-  {
-   "title": "Venus Optics announced the Laowa ACRIS AF 35mm f/2.8 1X Macro APO lens for Nikon Z-mount",
-   "link": "https://nikonrumors.com/2026/09/30/venus-optics-announced-the-laowa-acris-af-35mm-f-2-8-1x-macro-apo-lens-for-nikon-z-mount.aspx/",
-   "summary": "Venus Optics officially announced the previously reported Laowa ACRIS 35mm f/2.8 1X Macro APO autofocus full-frame lens for Nikon Z-mount. Orders are now open at the Laowa online store (coming soon to B&H Photo). Key fea",
-   "image": "https://nikonrumors.com/wp-content/uploads/2026/09/Venus-Optics-Laowa-ACRIS-AF-35mm-f2.8-1X-Macro-APO-lens-for-Nikon-Z-mount-10-532x550.jpg",
-   "source": "Nikon Rumors",
-   "category": "photo",
-   "date": "2026-09-30T17:13:23.000Z"
   },
   {
    "title": "Instagram rolls out an AI video assistant for creators",
