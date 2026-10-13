@@ -1,6 +1,42 @@
 {
- "updated": "2026-10-13T17:17:21.137Z",
+ "updated": "2026-10-13T17:48:32.983Z",
  "items": [
+  {
+   "title": "Linus Torvalds is using AI to develop Linux kernel code now",
+   "link": "https://www.zdnet.com/innovation/linus-torvalds-uses-ai-to-write-linux-kernel-patch/",
+   "summary": "The move is a turning point in the developer’s relationship with AI and Linux.",
+   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Screenshot-2026-10-13-at-1.27.55-PM.png",
+   "source": "ZDNet",
+   "category": "ai",
+   "date": "2026-10-13T17:30:46.000Z"
+  },
+  {
+   "title": "Why Horror Is the Most Consistently Profitable Genre in Box Office History",
+   "link": "https://nofilmschool.com/horror-box-office",
+   "summary": "One of my buddies sold a horror spec for a few hundred thousand dollars last week and was shocked at the number. When he told me, he thought they were kidding; I told him he deserved it, not just because it was a great s",
+   "image": "https://nofilmschool.com/media-library/obsession.jpg?id=66870724&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-13T17:30:13.000Z"
+  },
+  {
+   "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+   "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+   "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing at TechCrunch Disrupt's",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-13T17:30:00.000Z"
+  },
+  {
+   "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+   "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
+   "summary": "Pluto Security has raised $42 million Jump Capital, TLV Partners, Ansa Capital and angel investors.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot_20261013_211032.png?resize=1200,815",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-13T17:18:25.000Z"
+  },
   {
    "title": "Machine learning pioneer Michael I. Jordan dismantles AI doom rhetoric as \"grand moralizing performance\"",
    "link": "https://the-decoder.com/machine-learning-pioneer-michael-i-jordan-dismantles-ai-doom-rhetoric-as-grand-moralizing-performance/",
@@ -20,6 +56,15 @@
    "date": "2026-10-13T17:05:48.000Z"
   },
   {
+   "title": "Facebook will let you customize your feed algorithm using AI",
+   "link": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
+   "summary": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right away\" after you make updates using the ne",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/meta-your-algorithm-facebook.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-13T17:01:31.000Z"
+  },
+  {
    "title": "Google wants to host your personal vibe-coded apps in the Play Store",
    "link": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/",
    "summary": "Google plans to help turn those personal AI-generated apps into wide releases.",
@@ -27,6 +72,15 @@
    "source": "Ars Technica",
    "category": "ai",
    "date": "2026-10-13T17:00:39.000Z"
+  },
+  {
+   "title": "Google makes it easier to launch your vibe-coded apps",
+   "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
+   "summary": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch perso",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-13T17:00:00.000Z"
   },
   {
    "title": "Google Play now supports private, vibe-coded apps built just for you",
@@ -45,6 +99,15 @@
    "source": "ZDNet",
    "category": "ai",
    "date": "2026-10-13T17:00:00.000Z"
+  },
+  {
+   "title": "Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
+   "summary": "Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark - quickly spread. The ",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2263775227.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-13T16:42:51.000Z"
   },
   {
    "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
@@ -317,20 +380,20 @@
    "date": "2026-10-13T13:00:39.000Z"
   },
   {
-   "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-   "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-   "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-13T13:00:00.000Z"
-  },
-  {
    "title": "Apple launches HomeView, its first smart display for the home",
    "link": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
    "summary": "It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous. The HomeView puts a small, vibrant screen atop a spe",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-lineup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-13T13:00:00.000Z"
+  },
+  {
+   "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+   "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+   "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800",
+   "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-13T13:00:00.000Z"
   },
@@ -1001,15 +1064,6 @@
    "date": "2026-10-12T14:55:59.000Z"
   },
   {
-   "title": "ARRI’s Film Lab Adds 8mm, 16mm, and 65mm Film Looks With This Major Update",
-   "link": "https://nofilmschool.com/arri-film-lab-update-1-5",
-   "summary": "While not a full step update (as in a version 1 to a version 2), this 1.5 version update for ARRI Film Lab is quite significant nonetheless. This major update to ARRI’s popular license-based OpenFX plugin should greatly ",
-   "image": "https://nofilmschool.com/media-library/arri-film-lab-update-1-5.jpg?id=68416221&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-12T14:30:22.000Z"
-  },
-  {
    "title": "SG-Image AF 35mm f/1.4 Review: Following the Path of The Legendary XF35mm F1.4 R",
    "link": "https://www.fujirumors.com/sg-image-af-35mm-f-1-4-review-following-the-path-of-the-legendary-xf35mm-f1-4-r/",
    "summary": "Back in early September we reported about the following new SG-image lenses for Fujifilm X mount: SG-Image AF 18mm F2.2 SG-Image AF 35mm F1.4 retro style SG-Image AF 35mm F2.2 Well, you can now order the SG-Image AF 35mm",
@@ -1071,15 +1125,6 @@
    "source": "ZDNet",
    "category": "ai",
    "date": "2026-10-12T13:00:00.000Z"
-  },
-  {
-   "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-   "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-   "summary": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps a",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Ambi-by-Mistlabs.jpeg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-12T12:47:59.000Z"
   },
   {
    "title": "Amazon has over 1 million robot workers. What’s next for human employees?",
@@ -1163,15 +1208,6 @@
    "date": "2026-10-12T06:31:55.000Z"
   },
   {
-   "title": "Will the HomeView be Apple’s first smart home success?",
-   "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-   "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
-   "image": "https://techcrunch.com/wp-content/uploads/2021/11/homepod.jpg?resize=1200,854",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-11T21:14:40.000Z"
-  },
-  {
    "title": "The Strange Story of the Kodak Disc, the Worst Camera Kodak Ever Shipped",
    "link": "https://fstoppers.com/film/strange-story-kodak-disc-worst-camera-kodak-ever-shipped-904187?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
    "summary": "In 1982, Kodak sold roughly 8 million disc cameras in a single year, and its president told shareholders the disc system would be \"the new engine that will drive this industry forward.\" Inside those flat little bodies sa",
@@ -1197,15 +1233,6 @@
    "source": "Nikon Rumors",
    "category": "photo",
    "date": "2026-10-11T19:28:57.000Z"
-  },
-  {
-   "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-   "summary": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking w",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2297269621.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-11T18:33:56.000Z"
   },
   {
    "title": "Lav Mic Handle, a generic accessory to convert your lav/transmitter mic into a proper handheld",
@@ -1280,15 +1307,6 @@
    "date": "2026-10-11T11:03:02.000Z"
   },
   {
-   "title": "Learning to use local AI is exciting, overwhelming, and frustrating",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
-   "summary": "I'm embarking on a journey I've so far been hesitant to go on: actually using AI on the regular. Giving my most personal data to cloud services has been a major hold up for me, but it's increasingly possible to run power",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/100926_Asus_TUF_A14_Hermes_local_AI_ADiBenedetto_0001.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-11T11:00:00.000Z"
-  },
-  {
    "title": "PetaPixel: Just How Similar Are Sony’s New Telephoto Primes, After All?",
    "link": "https://www.sonyalpharumors.com/petapixel-just-how-similar-are-sonys-new-telephoto-primes-after-all/",
    "summary": "Sony FE 400mm f/4.5 GM OSS at BHphoto, Amazon, Adorama, Fotokoch, FotoErhardt, FotoKöster, FotoLeistenscheider, Calumet, Clifton, WexUK, ParkUK. Sony FE 600mm f/6.3 GM OSS at BHphoto, Amazon, Adorama, Fotokoch, FotoErhar",
@@ -1314,15 +1332,6 @@
    "source": "Y.M.Cinema",
    "category": "video",
    "date": "2026-10-11T06:45:48.000Z"
-  },
-  {
-   "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-   "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of ",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK178_Satya_Nadella_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-10T22:10:17.000Z"
   },
   {
    "title": "How the Bayer Filter Works, and Why Your Camera Sensor Is Colorblind",
@@ -1458,15 +1467,6 @@
    "source": "Ars Technica",
    "category": "ai",
    "date": "2026-10-09T18:44:06.000Z"
-  },
-  {
-   "title": "‘I use AI to do the things that I’m bad at’: Linus Torvalds on why it works for him",
-   "link": "https://www.zdnet.com/tech/linus-torvalds-ai-coding-programming/",
-   "summary": "The Linux creator calls vibe coding ‘a wonderful way to find joy in programming,’ but not for running Linux development. (Finding bugs is OK.)",
-   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Linus.jpg",
-   "source": "ZDNet",
-   "category": "ai",
-   "date": "2026-10-09T17:53:18.000Z"
   },
   {
    "title": "We Need to Talk About Blackout",
