@@ -1,6 +1,42 @@
 {
- "updated": "2026-10-13T18:23:12.270Z",
+ "updated": "2026-10-13T19:00:06.351Z",
  "items": [
+  {
+   "title": "406 scientists demand AI models be cut off from the internet immediately",
+   "link": "https://the-decoder.com/406-scientists-demand-ai-models-be-cut-off-from-the-internet-immediately/",
+   "summary": "406 scientists, including Geoffrey Hinton, Yoshua Bengio, and Stuart Russell, are demanding that companies immediately disconnect AI models from the internet. Their open letter responds to incidents where AI systems brok",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/08/cybersecurity_kraken.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-13T18:50:44.000Z"
+  },
+  {
+   "title": "Do You Have a Sony E-Mount Camera and $100? You Might Want to Check This New Lens Out",
+   "link": "https://nofilmschool.com/ttartisan-af-24mm-f3-8-mini-full-frame-pancake-lens",
+   "summary": "Now that's a camera lens price we can get behind. While you can always search for used and other non-mainstream brands for cheaper lenses, if you’re looking for a specific type of full-frame, wide-angle lens for your pro",
+   "image": "https://nofilmschool.com/media-library/ttartisan-af-24mm-f3-8-mini-full-frame-pancake-lens.jpg?id=68422720&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-13T18:35:04.000Z"
+  },
+  {
+   "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
+   "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
+   "summary": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/founders-sara-tomas-full.jpg?w=828",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-13T18:30:00.000Z"
+  },
+  {
+   "title": "Disney offers $20M for Character.AI’s scandal-plagued chatbot tech",
+   "link": "https://arstechnica.com/tech-policy/2026/10/disney-offers-20m-for-character-ais-scandal-plagued-chatbot-tech/",
+   "summary": "Disney may acquire tech from one of the first chatbot makers linked to child suicide.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-1167281066-1024x648.jpg",
+   "source": "Ars Technica",
+   "category": "ai",
+   "date": "2026-10-13T18:23:33.000Z"
+  },
   {
    "title": "Arri Film Lab 1.5 Aims To Emulate Even More Analog Cinema Formats",
    "link": "https://petapixel.com/2026/10/13/arri-film-lab-1-5-aims-to-emulate-even-more-analog-cinema-formats/",
@@ -22,7 +58,7 @@
   {
    "title": "Facebook is giving users more control over their algorithm",
    "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-   "summary": "Facebook is the latest social media platform to give users greater control over the algorithm that determines what appears in their feeds. Meta announced the launch of its new AI-powered feature, “Your Algorithm,” on Tue",
+   "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/YourAlgorithm-FB.png?w=1200",
    "source": "TechCrunch",
    "category": "ai",
@@ -76,7 +112,7 @@
   {
    "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
    "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-   "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing at TechCrunch Disrupt's",
+   "summary": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield ",
    "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
    "source": "TechCrunch",
    "category": "ai",
@@ -578,20 +614,20 @@
    "date": "2026-10-13T10:03:14.000Z"
   },
   {
-   "title": "Open models have real benefits. Do they outweigh the risks?",
-   "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-   "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic re",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_openaimodels.jpg?resize=1200,600",
-   "source": "MIT Tech Review",
-   "category": "ai",
-   "date": "2026-10-13T10:00:00.000Z"
-  },
-  {
    "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
    "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
    "summary": "Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle.",
    "image": "https://media.wired.com/photos/6ac83144109df86817f42ae5/master/pass/Politics_TheBiggestPro-AISuperPacHasBeenFunneling.gif",
    "source": "WIRED",
+   "category": "ai",
+   "date": "2026-10-13T10:00:00.000Z"
+  },
+  {
+   "title": "Open models have real benefits. Do they outweigh the risks?",
+   "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+   "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic re",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_openaimodels.jpg?resize=1200,600",
+   "source": "MIT Tech Review",
    "category": "ai",
    "date": "2026-10-13T10:00:00.000Z"
   },
@@ -893,15 +929,6 @@
    "date": "2026-10-12T18:03:44.000Z"
   },
   {
-   "title": "A Step-by-Step Guide to Actually Getting Actors for Your Project",
-   "link": "https://nofilmschool.com/attach-actor-indie-film",
-   "summary": "You've got the script. Maybe you know where to get a camera. You have somewhere that will let you shoot. Now you need someone to say your words on camera, and maybe you know an actor already—but what if they're not a fit",
-   "image": "https://nofilmschool.com/media-library/la-la-land.jpg?id=68404758&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-12T18:00:03.000Z"
-  },
-  {
    "title": "Sakana AI's self-improving model gets better at solving and judging, but can't catch its own blind spots",
    "link": "https://the-decoder.com/sakana-ais-self-improving-model-gets-better-at-solving-and-judging-but-cant-catch-its-own-blind-spots/",
    "summary": "Sakana AI's MASS method lets one language model improve itself by solving tasks, judging results, and refining workflows, reaching a win rate of nearly 70 percent against the base model after two rounds. But when the mod",
@@ -1028,15 +1055,6 @@
    "date": "2026-10-12T15:31:19.000Z"
   },
   {
-   "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-   "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-   "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Blueprints-AI-Founder1.jpg?resize=1200,799",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-12T15:27:59.000Z"
-  },
-  {
    "title": "Great news, everyone: Sony is shipping our repaired FX5 units to the first customers!",
    "link": "https://www.sonyalpharumors.com/great-news-folks-sony-is-sending-our-repaired-fx5-to-early-customers/",
    "summary": "You may recall that Sony shipped a very small batch of the Sony FX5 back in August. Some of these units had an LCD defect that Sony has now had to fix. The good news is that we have received numerous reports from owners ",
@@ -1044,15 +1062,6 @@
    "source": "Sony Alpha Rumors",
    "category": "photo",
    "date": "2026-10-12T15:25:48.000Z"
-  },
-  {
-   "title": "Microsoft plans to scale its own Maia AI chips to gigawatt levels by 2027",
-   "link": "https://the-decoder.com/microsoft-plans-to-scale-its-own-maia-ai-chips-to-gigawatt-levels-by-2027/",
-   "summary": "Microsoft will make its in-house Azure Maia chips the main AI inference system across its products starting in 2027, deploying them at multi-gigawatt scale. The upcoming Maia 300 should deliver 40 percent more tokens per",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/microsoft_mai_300.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-12T15:24:03.000Z"
   },
   {
    "title": "Marshall to show award-winning solutions at NAB New York",
@@ -1991,15 +2000,6 @@
    "date": "2026-10-07T15:26:00.000Z"
   },
   {
-   "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
-   "link": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
-   "summary": "Mistral says Le Chonk can rival top closed models while remaining open-weight.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/12/mistral_header_2-1152x648.jpg",
-   "source": "Ars Technica",
-   "category": "ai",
-   "date": "2026-10-07T14:12:37.000Z"
-  },
-  {
    "title": "Introducing Falcon ASR",
    "link": "https://huggingface.co/blog/tiiuae/falcon-asr",
    "summary": "",
@@ -2367,15 +2367,6 @@
    "source": "TechCrunch",
    "category": "tiktok",
    "date": "2026-09-15T14:42:37.000Z"
-  },
-  {
-   "title": "The best brands on Instagram in 2026 (so far)",
-   "link": "https://sproutsocial.com/insights/best-brands-on-instagram/",
-   "summary": "We’re back with another installment of the Social Futures Report—a series where we compile and analyze social media posts and campaigns inspiring us, and Read more... The post The best brands on Instagram in 2026 (so far",
-   "image": "https://media.sproutsocial.com/uploads/2026/09/nike-cristiano-ronaldo-world-cup-1024x756.jpg",
-   "source": "Sprout Social",
-   "category": "instagram",
-   "date": "2026-09-14T19:33:54.000Z"
   },
   {
    "title": "Instagram’s latest feature lets you add tagged posts to your profile grid",
