@@ -1,6 +1,42 @@
 {
- "updated": "2026-10-13T09:49:41.795Z",
+ "updated": "2026-10-13T10:19:08.807Z",
  "items": [
+  {
+   "title": "RUMOR: Tamron 16-50mm f/2.8 APS-C lens Coming Tomorrow",
+   "link": "https://www.fujirumors.com/rumor-tamron-16-50mm-f-2-8-aps-c-lens-coming-tomorrow/",
+   "summary": "SonyAlphaRumors has just leaked the first image of the Tamron 16-50mm f/2.8 lens for APS-C, which will be announced tomorrow, October 14. The closest competitors to it will be the Fujinon XF16-55mmF2.8 II and especially ",
+   "image": "https://www.fujirumors.com/wp-content/uploads/2026/10/Tamron.jpeg",
+   "source": "Fuji Rumors",
+   "category": "photo",
+   "date": "2026-10-13T10:03:14.000Z"
+  },
+  {
+   "title": "Open models have real benefits. Do they outweigh the risks?",
+   "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+   "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic re",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_openaimodels.jpg?resize=1200,600",
+   "source": "MIT Tech Review",
+   "category": "ai",
+   "date": "2026-10-13T10:00:00.000Z"
+  },
+  {
+   "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
+   "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
+   "summary": "Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle.",
+   "image": "https://media.wired.com/photos/6ac83144109df86817f42ae5/master/pass/Politics_TheBiggestPro-AISuperPacHasBeenFunneling.gif",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-10-13T10:00:00.000Z"
+  },
+  {
+   "title": "Nikon released NX Tether Version 2.6.1 and Wireless Transmitter Utility Version 1.16.1",
+   "link": "https://nikonrumors.com/2026/10/13/nikon-released-nx-tether-version-2-6-1-and-wireless-transmitter-utility-version-1-16-1.aspx/",
+   "summary": "Nikon released NX Tether Version 2.6.1 and Wireless Transmitter Utility Version 1.16.1: Nikon NX Tether Version 2.6.1: Tether Profile Version 13.0 Added support for the Z5IIC. Imaging Recipe selection is now available fo",
+   "image": "https://nikonrumors.com/wp-content/uploads/2023/10/Nikon-NX-Tether.png",
+   "source": "Nikon Rumors",
+   "category": "photo",
+   "date": "2026-10-13T09:59:23.000Z"
+  },
   {
    "title": "AI labs are buying data from dead startups to train their models",
    "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
@@ -1469,15 +1505,6 @@
    "date": "2026-10-08T18:56:22.000Z"
   },
   {
-   "title": "Thypoch AF 23mm f/1.4 Sculptor Unveiled with Notched Aperture Ring",
-   "link": "https://www.fujirumors.com/thypoch-af-23mm-f-1-4-sculptor-unveiled-with-notched-aperture-ring/",
-   "summary": "Thypoch unveiled the Thypoch AF 23mm f/1.4 Sculptor lens, the first AF lens for Thypoch for Fujifilm and now we also have the first images and specs thanks to the French site Phototrend. Now, there are many native and th",
-   "image": "https://www.fujirumors.com/wp-content/uploads/2026/10/Bildschirmfoto-2026-10-08-um-13.36.28-150x150.jpg",
-   "source": "Fuji Rumors",
-   "category": "photo",
-   "date": "2026-10-08T18:44:52.000Z"
-  },
-  {
    "title": "2026 TikTok News: The Definitive Timeline for Creators",
    "link": "https://metricool.com/tiktok-news/",
    "summary": "TikTok has grown significantly since the very first days of the network in 2016, to one of the most-used social media platforms today. Learn about the evolution of TikTok's network history here!",
@@ -1782,15 +1809,6 @@
    "source": "Ars Technica",
    "category": "ai",
    "date": "2026-10-07T21:56:42.000Z"
-  },
-  {
-   "title": "These Researchers Made AI Drive a Toyota Corolla to Get In-N-Out",
-   "link": "https://www.wired.com/story/ai-is-driving-cars-now-oh-boy/",
-   "summary": "Three engineers put GPT, Claude, and Grok in charge of a real car. Only one of them was successful.",
-   "image": "https://media.wired.com/photos/6ac54e80213cd6c84b19e900/master/pass/AI-Lab-Researchers-Got-an-LLM-to-Drive-a-Toyota-Business.jpg",
-   "source": "WIRED",
-   "category": "ai",
-   "date": "2026-10-07T18:45:00.000Z"
   },
   {
    "title": "Fraudster jailed for using 10K bots and AI songs to outstream Taylor Swift",
@@ -2169,15 +2187,6 @@
    "source": "Canon Rumors",
    "category": "photo",
    "date": "2026-10-02T16:00:39.000Z"
-  },
-  {
-   "title": "Redefining enterprise intelligence with autonomous AI",
-   "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
-   "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI in",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/Uniphore-Report-2026-UPDATE-cover.png",
-   "source": "MIT Tech Review",
-   "category": "ai",
-   "date": "2026-10-02T15:49:04.000Z"
   },
   {
    "title": "The latest AI news we announced in September 2026",
