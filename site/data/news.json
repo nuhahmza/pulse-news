@@ -1,6 +1,33 @@
 {
- "updated": "2026-10-13T14:53:09.857Z",
+ "updated": "2026-10-13T15:20:24.402Z",
  "items": [
+  {
+   "title": "They war-gamed dimming the Sun. It went even worse than you think.",
+   "link": "https://arstechnica.com/science/2026/10/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
+   "summary": "Solar geoengineering simulation shows what happens when geopolitics takes over.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-516604291-1024x648.jpg",
+   "source": "Ars Technica",
+   "category": "ai",
+   "date": "2026-10-13T15:17:59.000Z"
+  },
+  {
+   "title": "TALON Pocket-Sized Folding LED Lights Launched",
+   "link": "https://www.fujirumors.com/talon-pocket-sized-folding-led-lights-launched/",
+   "summary": "Popular YouTuber Michael The Maven has launched many very successful Kickstarter campaigns in the past. Now he launched his new Talon lights campaign on Kickstarter, an extremly compact, portable and foldable light that ",
+   "image": "https://www.fujirumors.com/wp-content/uploads/2026/10/Talon-Lights.jpg",
+   "source": "Fuji Rumors",
+   "category": "photo",
+   "date": "2026-10-13T15:16:05.000Z"
+  },
+  {
+   "title": "Tool Tip Tuesday for Adobe Premiere: Grab the best Moments in the Transcript Panel with Paper Edit",
+   "link": "https://www.provideocoalition.com/tool-tip-tuesday-for-adobe-premiere-grab-the-best-moments-in-the-transcript-panel-with-paper-edit/",
+   "summary": "Welcome to Tool Tip Tuesday for Adobe Premiere on ProVideo Coalition Premiere 26.5 (September) added Paper Edit to the Text panel. I never want to edit again without a transcript. I was first introduced to transcript edi",
+   "image": "https://www.provideocoalition.com/wp-content/uploads/Paper-Edit-cover-page-518x400.png",
+   "source": "ProVideo Coalition",
+   "category": "video",
+   "date": "2026-10-13T15:15:58.000Z"
+  },
   {
    "title": "NASA Perseverance Mars Rover Sets New Record for Off-World Distance Driven",
    "link": "https://petapixel.com/2026/10/13/nasa-perseverance-mars-rover-sets-new-record-for-off-world-distance-driven/",
@@ -36,6 +63,15 @@
    "source": "The Decoder",
    "category": "ai",
    "date": "2026-10-13T14:37:53.000Z"
+  },
+  {
+   "title": "Apple’s $299 HomeView smart hub is here: 8 highlights, including the wall model",
+   "link": "https://www.zdnet.com/home-and-office/apple-homeview-smart-home-hub-features-price/",
+   "summary": "As an Apple Home user, here’s what stands out about Apple’s new smart home hub – and what I want to test firsthand.",
+   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/111_472967.jpg",
+   "source": "ZDNet",
+   "category": "ai",
+   "date": "2026-10-13T14:31:03.000Z"
   },
   {
    "title": "Apple and LG Bring Connected Cameras To Your Home",
@@ -146,20 +182,20 @@
    "date": "2026-10-13T13:00:39.000Z"
   },
   {
-   "title": "Apple launches HomeView, its first smart display for the home",
-   "link": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
-   "summary": "It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous. The HomeView puts a small, vibrant screen atop a spe",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-lineup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-13T13:00:00.000Z"
-  },
-  {
    "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
    "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
    "summary": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/amex-GettyImages-171311164.jpg?resize=1200,800",
    "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-13T13:00:00.000Z"
+  },
+  {
+   "title": "Apple launches HomeView, its first smart display for the home",
+   "link": "https://www.theverge.com/tech/1009704/apple-homeview-smart-display-first-look",
+   "summary": "It's finally here: Apple's long-rumored smart display, the Apple HomeView, has arrived. I got a first look at the device in New York City this week, and it's gorgeous. The HomeView puts a small, vibrant screen atop a spe",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-HomeView-lineup.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
    "category": "ai",
    "date": "2026-10-13T13:00:00.000Z"
   },
@@ -590,7 +626,7 @@
    "title": "Even Photographers Who Preordered the OM System PEN Might Wait Until Next Spring To Get It",
    "link": "https://petapixel.com/2026/10/12/even-photographers-who-preordered-the-om-system-pen-might-wait-until-next-spring-to-get-it/",
    "summary": "The OM System PEN is expected to begin shipping to customers this week, but per OM Digital Solutions (OMDS) in Japan, not everyone will be able to get their hands on it at launch. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/DSC_0181-2048x1366-1.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-12T18:13:18.000Z"
@@ -734,7 +770,7 @@
    "title": "Hidden Snow Leopard Cubs Among Winners of International Photography Awards",
    "link": "https://petapixel.com/2026/10/12/hidden-snow-leopard-cubs-among-winners-of-international-photography-awards/",
    "summary": "The Siena Awards Photo Festival is a sweeping image competition that touches on many different styles, disciplines, and genres of photography. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/Siena-Photo-Awards-2026.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-12T16:04:02.000Z"
@@ -1316,15 +1352,6 @@
    "date": "2026-10-09T19:43:50.000Z"
   },
   {
-   "title": "650 of You Are Getting Fujifilm Rumors Faster Than Anyone Else — And Here’s How You Can Too",
-   "link": "https://www.fujirumors.com/650-of-you-are-getting-fujifilm-rumors-faster-than-anyone-else-and-heres-how-you-can-too/",
-   "summary": "The Fastest Way to Get Rumors There are 650 fellow FujiRumors readers, who know about rumors before anyone else: and it’s those of you, who decided to join the FujiRumors WhatsApp Channel. And it’s as simple as that: eve",
-   "image": "https://www.fujirumors.com/wp-content/uploads/2026/10/WhatsApp-Follow.jpg",
-   "source": "Fuji Rumors",
-   "category": "photo",
-   "date": "2026-10-09T19:34:17.000Z"
-  },
-  {
    "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
    "link": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
    "summary": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
@@ -1829,15 +1856,6 @@
    "date": "2026-10-08T07:00:00.000Z"
   },
   {
-   "title": "Microsoft’s new Surface Laptop Ultra finally has a starting price (you should sit down)",
-   "link": "https://www.zdnet.com/tech/microsoft-surface-laptop-ultra-preorder-starting-price/",
-   "summary": "The Surface Laptop Ultra is an AI powerhouse, with Nvidia’s new RTX Spark chip and up to 128GB of unified memory – and it’s priced for power users.",
-   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC05850.jpg",
-   "source": "ZDNet",
-   "category": "ai",
-   "date": "2026-10-08T04:21:00.000Z"
-  },
-  {
    "title": "Tamron is bringing its fast 20-40mm zoom to Z-mount",
    "link": "https://www.dpreview.com/news/tamron-20-40mm-2p8-comes-to-z-mount-nikon-shooters/",
    "summary": "Nikon users are getting another option",
@@ -1964,15 +1982,6 @@
    "date": "2026-10-07T12:45:31.000Z"
   },
   {
-   "title": "Latin America: A commercial region with no possible equivalent name",
-   "link": "https://www.provideocoalition.com/latin-america-a-commercial-region-with-no-possible-equivalent-name/",
-   "summary": "I have some friends and colleagues who detest the name Latin America or its matching name in Castilian, Latinoamérica. They often ask me, «Allan, why don’t you use the term Hispanoamérica, Iberoamérica, or Castellanoamér",
-   "image": "https://www.provideocoalition.com/wp-content/uploads/Latin_America_orthographic_projection.jpg",
-   "source": "ProVideo Coalition",
-   "category": "video",
-   "date": "2026-10-07T12:36:24.000Z"
-  },
-  {
    "title": "Helping teens learn, plan, and shape the future of AI",
    "link": "https://openai.com/index/teens-learn-and-plan",
    "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
@@ -2061,15 +2070,6 @@
    "source": "TechCrunch",
    "category": "instagram",
    "date": "2026-10-06T12:38:53.000Z"
-  },
-  {
-   "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-   "link": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
-   "summary": "The reports of OpenAI agents harming third-party sites keep coming.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agentic-hacking-1152x648.jpg",
-   "source": "Ars Technica",
-   "category": "ai",
-   "date": "2026-10-06T12:21:53.000Z"
   },
   {
    "title": "Another Canon RF 90mm f/2.8 IS STM Macro Design Has Appeared",
@@ -2270,15 +2270,6 @@
    "date": "2026-09-29T17:03:59.000Z"
   },
   {
-   "title": "Expanding Instagram’s School Partnership Program to Help Teens Stay Informed",
-   "link": "https://about.fb.com/news/2026/09/expanding-instagram-school-partnership-program-help-teens-stay-informed/",
-   "summary": "We're expanding our School Partnership Program to give verified school partners, verified students, and parents new features to stay connected and informed. The post Expanding Instagram’s School Partnership Program to He",
-   "image": "https://about.fb.com/wp-content/uploads/2026/09/Expanding-Instagrams-School-Partnership-Program-to-Help-Teens-Stay-Informed_Header.jpg?fit=1920%2C1080",
-   "source": "Meta Newsroom",
-   "category": "instagram",
-   "date": "2026-09-29T13:00:38.000Z"
-  },
-  {
    "title": "YouTube CTR, Instagram Reels Structure, and Industry News",
    "link": "https://www.socialmediaexaminer.com/youtube-ctr-instagram-reels-structure-and-industry-news/",
    "summary": "Here’s a recap of the most important insights, trends, and updates you need to know about today! Catch up in minutes and go into the rest of the week prepared. In today’s edition: YouTube packaging formula Instagram reel",
@@ -2358,15 +2349,6 @@
    "source": "TechCrunch",
    "category": "tiktok",
    "date": "2026-09-15T14:42:37.000Z"
-  },
-  {
-   "title": "The best brands on Instagram in 2026 (so far)",
-   "link": "https://sproutsocial.com/insights/best-brands-on-instagram/",
-   "summary": "We’re back with another installment of the Social Futures Report—a series where we compile and analyze social media posts and campaigns inspiring us, and Read more... The post The best brands on Instagram in 2026 (so far",
-   "image": "https://media.sproutsocial.com/uploads/2026/09/nike-cristiano-ronaldo-world-cup-1024x756.jpg",
-   "source": "Sprout Social",
-   "category": "instagram",
-   "date": "2026-09-14T19:33:54.000Z"
   },
   {
    "title": "Instagram’s latest feature lets you add tagged posts to your profile grid",
