@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-14T04:29:03.829Z",
+ "updated": "2026-10-14T05:03:57.236Z",
  "items": [
   {
    "title": "'Mother Mary' Ending Explained: What is the Red Shroud?",
@@ -23,7 +23,7 @@
    "title": "Tamron 16-50mm f/2.8 A Lens Gives APS-C Photographers Cause To Celebrate",
    "link": "https://petapixel.com/2026/10/13/tamron-16-50mm-f-2-8-a-lens-gives-aps-c-photographers-cause-to-celebrate/",
    "summary": "Tamron has announced a new 16-50mm f/2.8 A (Model B091) zoom lens for APS-C mirrorless cameras, promising a compact, versatile, fast option for Sony, Canon, Nikon, and Fujifilm APS-C camera owners. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/tamron-1650-f28-a-featured.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-14T04:01:42.000Z"
@@ -41,7 +41,7 @@
    "title": "Fujifilm’s Instax Square Lineup Gets a Well-Rounded, Moodier New Camera",
    "link": "https://petapixel.com/2026/10/13/fujifilms-instax-square-lineup-gets-a-well-rounded-moodier-new-camera/",
    "summary": "Fujifilm has announced the Instax Square 2 instant camera, the latest addition to the company's popular, iconic Instax Square family of products. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/instax-SQUARE-2_stills-6.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-14T02:00:47.000Z"
@@ -239,7 +239,7 @@
    "title": "There’s a ‘Bluey’ Photography Game and It Might Actually Be Good",
    "link": "https://petapixel.com/2026/10/13/theres-a-bluey-photography-game-and-it-might-actually-be-good/",
    "summary": "Kids love Bluey, enjoy games, and sometimes really like photography. Now it's possible to combine all three of these things in a single experience: the Bluey Happy Snaps video game for Nintendo Switch, Nintendo Switch 2,",
-   "image": "https://petapixel.com/assets/uploads/2026/10/Screenshot-2026-10-13-at-15.16.37-2.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-13T19:25:57.000Z"
@@ -302,7 +302,7 @@
    "title": "Arri Film Lab 1.5 Aims To Emulate Even More Analog Cinema Formats",
    "link": "https://petapixel.com/2026/10/13/arri-film-lab-1-5-aims-to-emulate-even-more-analog-cinema-formats/",
    "summary": "Nearly a year ago, Arri, one of the biggest names in cinema, launched Film Lab. It's an OpenFX plugin for industry-standard video editing and color grading workflows that promises to bring a filmic, analog look to digita",
-   "image": "https://petapixel.com/assets/uploads/2026/10/5-arri-film-lab-50D-65mm-classic.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-13T18:15:10.000Z"
@@ -434,20 +434,20 @@
    "date": "2026-10-13T17:00:39.000Z"
   },
   {
-   "title": "Google makes it easier to launch your vibe-coded apps",
-   "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
-   "summary": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch perso",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-13T17:00:00.000Z"
-  },
-  {
    "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
    "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
    "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/PersonalApps_desktop_16x9_Static.png?resize=1200,675",
    "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-13T17:00:00.000Z"
+  },
+  {
+   "title": "Google makes it easier to launch your vibe-coded apps",
+   "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
+   "summary": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch perso",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
    "category": "ai",
    "date": "2026-10-13T17:00:00.000Z"
   },
@@ -653,7 +653,7 @@
    "title": "Apple and LG Bring Connected Cameras To Your Home",
    "link": "https://petapixel.com/2026/10/13/apple-and-lg-bring-connected-cameras-to-your-home/",
    "summary": "At its \"Welcome Home\" event today, Apple announced its new \"Apple Home Collection,\" including smart door locks, thermostats, temperature sensors, and cameras. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/Apple-Home-Collection-lifestyle-02-261013.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-13T14:01:41.000Z"
@@ -734,7 +734,7 @@
    "title": "Member of the Public Snaps Photo of Rare Melanistic Gray Fox",
    "link": "https://petapixel.com/2026/10/13/member-of-the-public-snaps-photo-of-rare-melanistic-gray-fox/",
    "summary": "After the Michigan Department of Natural Resources (DNR) put out a request this summer asking for sightings of gray foxes, it was surprised when it received a photo of an ultra-rare variation. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/melanistic-gray-fox.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-13T13:21:24.000Z"
@@ -761,7 +761,7 @@
    "title": "GoPro’s Mission 1 Series Updated to Make Them Better Photo Cameras",
    "link": "https://petapixel.com/2026/10/13/gopros-mission-1-series-updated-to-make-them-better-photo-cameras/",
    "summary": "GoPro has announced a free update for the entire Mission 1 Series of cameras that boosts the system's photography capabilities, promising zero-lag shutter response and continuous 50-megapixel burst capture. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/GoPros-Mission-1-Series-Updated-to-Make-Them-Better-Photo-Cameras.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-13T13:00:39.000Z"
@@ -959,7 +959,7 @@
    "title": "Man is Reunited With Parents’ 1950s Wedding Photo Album After Search",
    "link": "https://petapixel.com/2026/10/13/man-is-reunited-with-parents-1950s-wedding-photo-album-after-search/",
    "summary": "A man in the U.K. has been reunited with his parents' wedding album from 1957 after it was found abandoned outside a city centre cafe and traced to his late parents by a local historian. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/Son-Reunited-With-Parents-Wedding-Photos2.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-13T08:58:15.000Z"
@@ -1076,7 +1076,7 @@
    "title": "How Getty’s Bankruptcy Affects Photographers: Payments, Contracts, and Next Steps",
    "link": "https://petapixel.com/2026/10/12/how-gettys-bankruptcy-affects-photographers-payments-contracts-and-next-steps/",
    "summary": "Today, Getty Images announced a restructuring agreement and said it plans to begin a prepackaged Chapter 11 process in the coming weeks. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/How-Gettys-Bankruptcy-Affects-Photographers-Payments-Contracts-and-Next-Steps.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-12T19:10:49.000Z"
