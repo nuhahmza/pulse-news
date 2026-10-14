@@ -1,6 +1,24 @@
 {
- "updated": "2026-10-14T08:30:49.133Z",
+ "updated": "2026-10-14T09:29:57.171Z",
  "items": [
+  {
+   "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
+   "link": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
+   "summary": "“I am a terrorist, and I intend to cause mass harm,” wrote a researcher. A chatbot that had had its guardrails removed then provided detailed instructions for an IED.",
+   "image": "https://media.wired.com/photos/6aceaa51eba493f958015701/master/pass/politics_ai_guardrails_removed_terrorist.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-10-14T09:00:00.000Z"
+  },
+  {
+   "title": "Getty Images to File for Bankruptcy Protection – Debt Cut, Private Ownership, No Change for Contributors",
+   "link": "https://www.cined.com/getty-images-to-file-for-bankruptcy-protection-debt-cut-private-ownership-no-change-for-contributors/",
+   "summary": "Getty Images, the world’s largest licensor of stock photos and footage, will file for bankruptcy protection in the US to restructure its debt and leave the stock market. The Getty family and Koch Equity Development will ",
+   "image": "https://www.cined.com/content/uploads/2026/10/Getty-Images-300x169.jpeg",
+   "source": "CineD",
+   "category": "video",
+   "date": "2026-10-14T08:52:48.000Z"
+  },
   {
    "title": "13 Trending Sounds on Instagram in October 2026 (+ How to Use Them)",
    "link": "https://buffer.com/resources/trending-audio-instagram/",
@@ -180,6 +198,15 @@
    "source": "Newsshooter",
    "category": "video",
    "date": "2026-10-14T00:32:42.000Z"
+  },
+  {
+   "title": "The EU’s next chapter in AI is agentic",
+   "link": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+   "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+   "image": "",
+   "source": "OpenAI",
+   "category": "ai",
+   "date": "2026-10-14T00:00:00.000Z"
   },
   {
    "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
@@ -533,20 +560,20 @@
    "date": "2026-10-13T17:00:39.000Z"
   },
   {
-   "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-   "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-   "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/PersonalApps_desktop_16x9_Static.png?resize=1200,675",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-13T17:00:00.000Z"
-  },
-  {
    "title": "Google makes it easier to launch your vibe-coded apps",
    "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
    "summary": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch perso",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-13T17:00:00.000Z"
+  },
+  {
+   "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+   "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+   "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/PersonalApps_desktop_16x9_Static.png?resize=1200,675",
+   "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-13T17:00:00.000Z"
   },
@@ -1703,15 +1730,6 @@
    "date": "2026-10-09T10:02:59.000Z"
   },
   {
-   "title": "Even ‘Law & Order’ Is Terrified of AI",
-   "link": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
-   "summary": "In its 26th season premiere, the procedural legal drama paints a damning picture of power-mad AI CEOs.",
-   "image": "https://media.wired.com/photos/6ac6842a2962a868125e6095/master/pass/Law-and-Order-Anti-AI-Culture-NUP_210197_00214.jpg",
-   "source": "WIRED",
-   "category": "ai",
-   "date": "2026-10-09T10:00:00.000Z"
-  },
-  {
    "title": "The 2026 5DayDeal Photography Bundle is now available",
    "link": "https://nikonrumors.com/2026/10/09/the-2026-5daydeal-photography-bundle-is-now-available.aspx/",
    "summary": "The 2026 5DayDeal Photography Bundle is now available. As in previous years, you will get a package of photography tools at a drastically reduced price ($1,500+ worth of pro-level courses, tools, and creative assets for ",
@@ -1727,15 +1745,6 @@
    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/0924SP1.jpg?w=840",
    "source": "MIT Tech Review",
    "category": "ai",
-   "date": "2026-10-09T09:00:00.000Z"
-  },
-  {
-   "title": "Meta Business Agent: How Meta’s AI Agent Handles Customer Conversations on WhatsApp, Instagram, and Messenger",
-   "link": "https://metricool.com/meta-business-agent/",
-   "summary": "Meta Business Agent is an AI agent that answers your customers on WhatsApp, Messenger, and your website, from product questions to bookings. Learn how to set it up, train it, and decide if it fits the way your business h",
-   "image": "https://metricool.com/wp-content/uploads/meta-business-agent-1.webp",
-   "source": "Metricool",
-   "category": "instagram",
    "date": "2026-10-09T09:00:00.000Z"
   },
   {
@@ -1982,20 +1991,20 @@
    "date": "2026-10-08T00:00:24.000Z"
   },
   {
-   "title": "Disrupting AI-enabled “false front” operations",
-   "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-   "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-   "image": "",
-   "source": "OpenAI",
-   "category": "ai",
-   "date": "2026-10-08T00:00:00.000Z"
-  },
-  {
    "title": "The model that didn't exist, so you made it yourself",
    "link": "https://huggingface.co/blog/building-with-ml-intern",
    "summary": "",
    "image": "https://huggingface.co/blog/assets/building-with-ml-intern/thumbnail.png",
    "source": "Hugging Face",
+   "category": "ai",
+   "date": "2026-10-08T00:00:00.000Z"
+  },
+  {
+   "title": "Disrupting AI-enabled “false front” operations",
+   "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+   "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+   "image": "",
+   "source": "OpenAI",
    "category": "ai",
    "date": "2026-10-08T00:00:00.000Z"
   },
@@ -2016,15 +2025,6 @@
    "source": "Ars Technica",
    "category": "ai",
    "date": "2026-10-07T17:57:39.000Z"
-  },
-  {
-   "title": "Paramount and Warner Bros. Merger Closes as Skydance – Layoffs Signaled, 30 Theatrical Releases a Year Promised",
-   "link": "https://www.cined.com/paramount-and-warner-bros-merger-closes-as-skydance-layoffs-signaled-30-theatrical-releases-a-year-promised/",
-   "summary": "The Paramount Warner Bros. merger is done. On Tuesday, October 6, Paramount completed its acquisition of Warner Bros. Discovery in a deal valued at around 110 billion USD including debt, and the combined company now oper",
-   "image": "https://www.cined.com/content/uploads/2026/10/Paramount-and-Warner-Bros.-Merger-300x169-1.jpeg",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-10-07T15:49:35.000Z"
   },
   {
    "title": "Canon’s 800mm RF Lens Drops 25% to $899 During Prime Big Deal Days",
@@ -2052,15 +2052,6 @@
    "source": "Hugging Face",
    "category": "ai",
    "date": "2026-10-07T12:45:31.000Z"
-  },
-  {
-   "title": "Helping teens learn, plan, and shape the future of AI",
-   "link": "https://openai.com/index/teens-learn-and-plan",
-   "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-   "image": "",
-   "source": "OpenAI",
-   "category": "ai",
-   "date": "2026-10-07T12:00:00.000Z"
   },
   {
    "title": "Introducing Playground: Create and play custom games",
