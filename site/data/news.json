@@ -1,6 +1,24 @@
 {
- "updated": "2026-10-14T01:29:46.899Z",
+ "updated": "2026-10-14T02:02:44.272Z",
  "items": [
+  {
+   "title": "Fujifilm’s Instax Square Lineup Gets a Well-Rounded, Moodier New Camera",
+   "link": "https://petapixel.com/2026/10/13/fujifilms-instax-square-lineup-gets-a-well-rounded-moodier-new-camera/",
+   "summary": "Fujifilm has announced the Instax Square 2 instant camera, the latest addition to the company's popular, iconic Instax Square family of products. [ Read More ]",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-14T02:00:47.000Z"
+  },
+  {
+   "title": "The Instax Square 2 gives instant film shooters a switch to change the mood",
+   "link": "https://www.dpreview.com/news/the-instax-square-2-gives-instant-film-shooters-a-switch-to-change-the-mood/",
+   "summary": "There's also a new \"Soft Haze\" film to go alongside it for even dreamier vibes.",
+   "image": "https://www.dpreview.com/wp-content/uploads/2026/10/instax-SQUARE-2-stills-2-16x9-Lead-1.jpg",
+   "source": "DPReview",
+   "category": "photo",
+   "date": "2026-10-14T02:00:00.000Z"
+  },
   {
    "title": "Getty Images files for Bankruptcy",
    "link": "https://www.newsshooter.com/2026/10/13/getty-images-files-for-bankruptcy/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=getty-images-files-for-bankruptcy",
@@ -185,7 +203,7 @@
    "title": "There’s a ‘Bluey’ Photography Game and It Might Actually Be Good",
    "link": "https://petapixel.com/2026/10/13/theres-a-bluey-photography-game-and-it-might-actually-be-good/",
    "summary": "Kids love Bluey, enjoy games, and sometimes really like photography. Now it's possible to combine all three of these things in a single experience: the Bluey Happy Snaps video game for Nintendo Switch, Nintendo Switch 2,",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/Screenshot-2026-10-13-at-15.16.37-2.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-13T19:25:57.000Z"
@@ -380,20 +398,20 @@
    "date": "2026-10-13T17:00:39.000Z"
   },
   {
-   "title": "Google makes it easier to launch your vibe-coded apps",
-   "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
-   "summary": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch perso",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-13T17:00:00.000Z"
-  },
-  {
    "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
    "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
    "summary": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/PersonalApps_desktop_16x9_Static.png?resize=1200,675",
    "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-13T17:00:00.000Z"
+  },
+  {
+   "title": "Google makes it easier to launch your vibe-coded apps",
+   "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
+   "summary": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch perso",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007893/acastro_STK112_android_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
    "category": "ai",
    "date": "2026-10-13T17:00:00.000Z"
   },
@@ -1080,15 +1098,6 @@
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-12T18:13:18.000Z"
-  },
-  {
-   "title": "Woman Claims Camera Repair Shop Stole Her Grandma’s Rolleiflex",
-   "link": "https://petapixel.com/2026/10/12/woman-claims-camera-repair-shop-stole-her-grandmas-rolleiflex/",
-   "summary": "A woman in Los Angeles has accused a camera repair store of stealing or tampering with her grandmother's Rolleiflex camera. [ Read More ]",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-12T18:03:44.000Z"
   },
   {
    "title": "Sakana AI's self-improving model gets better at solving and judging, but can't catch its own blind spots",
@@ -1932,15 +1941,6 @@
    "link": "https://www.dpreview.com/news/sigmas-50-120mm-f2-8-os-dc-is-an-aps-c-legend-in-the-making-for-just-799/",
    "summary": "Fast 75-180mm equiv lens is coming to most of the popular lens mounts and is smaller than you can believe",
    "image": "https://www.dpreview.com/wp-content/uploads/2026/10/PI-Sigma_50-120mm_F2p8_OS_DC.jpg",
-   "source": "DPReview",
-   "category": "photo",
-   "date": "2026-10-08T07:00:00.000Z"
-  },
-  {
-   "title": "Z-mount is getting its first Sigma zoom lens: a 16-300mm for APS-C",
-   "link": "https://www.dpreview.com/news/sigma-16-300mm-f3p5-6p7-for-z-mount-aps-c-zoom-announced/",
-   "summary": "Sigma has announced that it’s bringing its 16-300mm F3.5-6.7 DC OS (24-450mm equiv.) APS-C lens to Z-mount. While it may not be the most exciting addition to the lineup – Nikon APS-C shooters have already had access to a",
-   "image": "https://www.dpreview.com/wp-content/uploads/2020/06/0230340961-Sigma-16-300mm-F3.5-6.7-DC-OS-lens-4x3.jpeg",
    "source": "DPReview",
    "category": "photo",
    "date": "2026-10-08T07:00:00.000Z"
