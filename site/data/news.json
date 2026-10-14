@@ -1,6 +1,15 @@
 {
- "updated": "2026-10-14T09:29:57.171Z",
+ "updated": "2026-10-14T10:06:40.413Z",
  "items": [
+  {
+   "title": "Men Can’t Stop Faking How Much They Know About AI",
+   "link": "https://www.wired.com/story/men-cant-stop-faking-how-much-they-know-about-ai/",
+   "summary": "More than half of the men surveyed in a new Harvard study claimed to recognize AI leaders who were, in fact, totally fictional.",
+   "image": "https://media.wired.com/photos/6ace9af8b7c3e684c0712364/master/pass/Men-Cant-Stop-Lying-About-AI-Business938329806.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-10-14T09:30:00.000Z"
+  },
   {
    "title": "AI Models Can Be Easily Modified to Assist Terrorist and Extremist Activity",
    "link": "https://www.wired.com/story/ai-models-can-be-easily-modified-to-assist-terrorist-and-extremist-activity/",
@@ -31,7 +40,7 @@
   {
    "title": "Tamron announced a new 16-50mm f/2.8 APS-C lens for Nikon Z-mount",
    "link": "https://nikonrumors.com/2026/10/14/tamron-announced-a-new-16-50mm-f-2-8-aps-c-lens-for-nikon-z-mount.aspx/",
-   "summary": "Tamron announced the previously reported 16-50mm f/2.8 APS-C lens for Nikon Z-mount: Pre-orders should open soon at: B&H Photo | Foto Erhardt | WEX Photo. Here are the technical details: Product Features 1. Standard Zoom",
+   "summary": "Tamron announced the previously reported 16-50mm f/2.8 APS-C lens for Nikon Z-mount: Pre-orders should open soon at: B&H Photo | Foto Erhardt | WEX Photo. This is the 14th Tamron lens for Nikon Z-mount: Here are the tech",
    "image": "https://nikonrumors.com/wp-content/uploads/2026/10/TAMRON-16-50mm-F2.8-A-550x410.jpg",
    "source": "Nikon Rumors",
    "category": "photo",
@@ -1019,20 +1028,20 @@
    "date": "2026-10-13T10:03:14.000Z"
   },
   {
-   "title": "Open models have real benefits. Do they outweigh the risks?",
-   "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
-   "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic re",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_openaimodels.jpg?resize=1200,600",
-   "source": "MIT Tech Review",
-   "category": "ai",
-   "date": "2026-10-13T10:00:00.000Z"
-  },
-  {
    "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
    "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
    "summary": "Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle.",
    "image": "https://media.wired.com/photos/6ac83144109df86817f42ae5/master/pass/Politics_TheBiggestPro-AISuperPacHasBeenFunneling.gif",
    "source": "WIRED",
+   "category": "ai",
+   "date": "2026-10-13T10:00:00.000Z"
+  },
+  {
+   "title": "Open models have real benefits. Do they outweigh the risks?",
+   "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
+   "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic re",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_openaimodels.jpg?resize=1200,600",
+   "source": "MIT Tech Review",
    "category": "ai",
    "date": "2026-10-13T10:00:00.000Z"
   },
@@ -1586,15 +1595,6 @@
    "date": "2026-10-09T19:43:50.000Z"
   },
   {
-   "title": "Book Publishers Are Quietly Using More AI. Staff Are Revolting",
-   "link": "https://www.wired.com/story/book-publishers-are-quietly-using-more-ai-staff-are-revolting/",
-   "summary": "Workers at three major publishing houses tell WIRED that LLMs are being used for publicity, cover art, back cover copy, and emails, as some execs push junior staff to champion the tech.",
-   "image": "https://media.wired.com/photos/6ac81c8de30ca6995f7d2b30/master/pass/Publishers-Using-AI-Staff-Pissed-Culture-962637114.jpg",
-   "source": "WIRED",
-   "category": "ai",
-   "date": "2026-10-09T19:28:49.000Z"
-  },
-  {
    "title": "4 ways Amazon’s new Alexa tablets eclipse the Fire line – starting with Google Play",
    "link": "https://www.zdnet.com/tech/amazon-new-alexa-tablets-google-play-store/",
    "summary": "Amazon just upped its game with new Android tablets for entertainment and work.",
@@ -1991,20 +1991,20 @@
    "date": "2026-10-08T00:00:24.000Z"
   },
   {
-   "title": "The model that didn't exist, so you made it yourself",
-   "link": "https://huggingface.co/blog/building-with-ml-intern",
-   "summary": "",
-   "image": "https://huggingface.co/blog/assets/building-with-ml-intern/thumbnail.png",
-   "source": "Hugging Face",
-   "category": "ai",
-   "date": "2026-10-08T00:00:00.000Z"
-  },
-  {
    "title": "Disrupting AI-enabled “false front” operations",
    "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
    "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
    "image": "",
    "source": "OpenAI",
+   "category": "ai",
+   "date": "2026-10-08T00:00:00.000Z"
+  },
+  {
+   "title": "The model that didn't exist, so you made it yourself",
+   "link": "https://huggingface.co/blog/building-with-ml-intern",
+   "summary": "",
+   "image": "https://huggingface.co/blog/assets/building-with-ml-intern/thumbnail.png",
+   "source": "Hugging Face",
    "category": "ai",
    "date": "2026-10-08T00:00:00.000Z"
   },
