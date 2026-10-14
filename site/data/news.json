@@ -1,6 +1,42 @@
 {
- "updated": "2026-10-14T12:00:34.915Z",
+ "updated": "2026-10-14T13:10:46.013Z",
  "items": [
+  {
+   "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+   "link": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+   "summary": "\"Small weight-based replicators\" could usher in a new generation of computer worms.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-caution-threat-1152x648.jpg",
+   "source": "Ars Technica",
+   "category": "ai",
+   "date": "2026-10-14T12:55:06.000Z"
+  },
+  {
+   "title": "Apple Stores to Push iPhone Duo Demonstrations",
+   "link": "https://petapixel.com/2026/10/14/apple-stores-to-push-iphone-duo-demonstrations/",
+   "summary": "Apple is preparing an extensive in-store demonstration campaign ahead of the October 23 launch of the iPhone Duo, its first foldable iPhone. [ Read More ]",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-14T12:54:23.000Z"
+  },
+  {
+   "title": "Alleged OpenAI spy vibe-coded a surveillance device using his wife's chatbot account",
+   "link": "https://the-decoder.com/alleged-openai-spy-vibe-coded-a-surveillance-device-using-his-wifes-chatbot-account/",
+   "summary": "A Saudi national working as an engineer at OpenAI was arrested for allegedly planting an audio recording device, wrapped in toilet paper, inside the company's executive conference room. According to the indictment, he bu",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/08/openai_ultrafast.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-14T12:37:05.000Z"
+  },
+  {
+   "title": "Fujifilm Instax SQUARE 2 and Soft Haze Film Announced",
+   "link": "https://www.fujirumors.com/fujifilm-instax-square-2-and-soft-haze-film-announced/",
+   "summary": "The Fujifilm Instax Square 2 has just been announced along with a new Insant Soft Haze film. Fujifilm Instax Square 2 BHphoto / Amazon / Adorama Insant Soft Haze Film BHphoto / Amazon / Adorama First Looks & Press Releas",
+   "image": "https://www.fujirumors.com/wp-content/uploads/2026/10/Instax-Square-2-1.jpg",
+   "source": "Fuji Rumors",
+   "category": "photo",
+   "date": "2026-10-14T12:02:24.000Z"
+  },
   {
    "title": "Tamron Officially Announces the RF 16-50mm f/2.8 A for APS-C",
    "link": "https://www.canonrumors.com/tamron-officially-announces-the-rf-16-50mm-f-2-8-a-for-aps-c/",
@@ -212,7 +248,7 @@
    "title": "Tamron 16-50mm f/2.8 A Lens Gives APS-C Photographers Cause To Celebrate",
    "link": "https://petapixel.com/2026/10/13/tamron-16-50mm-f-2-8-a-lens-gives-aps-c-photographers-cause-to-celebrate/",
    "summary": "Tamron has announced a new 16-50mm f/2.8 A (Model B091) zoom lens for APS-C mirrorless cameras, promising a compact, versatile, fast option for Sony, Canon, Nikon, and Fujifilm APS-C camera owners. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/tamron-1650-f28-a-featured.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-14T04:01:42.000Z"
@@ -284,7 +320,7 @@
    "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
    "link": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
    "summary": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
-   "image": "https://media.wired.com/photos/6aceab66cc5b61e4cd2bfb17/master/pass/Man-Arrested-for-Listening-Device-in-OpenAI-Office-Security.jpg",
+   "image": "https://media.wired.com/photos/6acf68394246ebd08155f6c2/master/pass/2026-10-13T224936Z_547248141_RC2F2OAXO3WE_RTRMADP_3_OPENAI-SPYING-FBI.jpg",
    "source": "WIRED",
    "category": "ai",
    "date": "2026-10-13T23:17:59.000Z"
@@ -851,7 +887,7 @@
    "title": "Apple and LG Bring Connected Cameras To Your Home",
    "link": "https://petapixel.com/2026/10/13/apple-and-lg-bring-connected-cameras-to-your-home/",
    "summary": "At its \"Welcome Home\" event today, Apple announced its new \"Apple Home Collection,\" including smart door locks, thermostats, temperature sensors, and cameras. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/Apple-Home-Collection-lifestyle-02-261013.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-13T14:01:41.000Z"
@@ -971,6 +1007,15 @@
    "image": "https://www.dpreview.com/wp-content/uploads/2026/10/m-pi-gopro-mission-1-photography-16x9-Lead-1.jpg",
    "source": "DPReview",
    "category": "photo",
+   "date": "2026-10-13T13:00:00.000Z"
+  },
+  {
+   "title": "‘So perfect, they are literally identical’ – Your AI-polished resumes are recruiters’ new top stressor",
+   "link": "https://www.zdnet.com/education/employ-report-ai-hr-hiring/",
+   "summary": "Exclusive: A new Employ report shows how AI is both helping and hurting the hiring industry.",
+   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2224818947.jpg",
+   "source": "ZDNet",
+   "category": "ai",
    "date": "2026-10-13T13:00:00.000Z"
   },
   {
@@ -1217,15 +1262,6 @@
    "date": "2026-10-12T20:16:29.000Z"
   },
   {
-   "title": "How Getty’s Bankruptcy Affects Photographers: Payments, Contracts, and Next Steps",
-   "link": "https://petapixel.com/2026/10/12/how-gettys-bankruptcy-affects-photographers-payments-contracts-and-next-steps/",
-   "summary": "Today, Getty Images announced a restructuring agreement and said it plans to begin a prepackaged Chapter 11 process in the coming weeks. [ Read More ]",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-12T19:10:49.000Z"
-  },
-  {
    "title": "The iPhone 18 Pro stops stacking frames when you set shutter speed manually, and it shows in low light",
    "link": "https://www.dpreview.com/articles/iphone-18-pro-manual-shutter-speed-noisier-photos/",
    "summary": "Switching to manual exposure on the iPhone 18 Pro cuts Apple's multi-frame image stacking out of the pipeline entirely, a trade-off the launch materials never mention.",
@@ -1296,15 +1332,6 @@
    "source": "WIRED",
    "category": "ai",
    "date": "2026-10-12T17:00:27.000Z"
-  },
-  {
-   "title": "Clearing chat history helps AI agents find better solutions",
-   "link": "https://the-decoder.com/clearing-chat-history-helps-ai-agents-find-better-solutions/",
-   "summary": "Microsoft researchers found that autonomous AI agents get trapped in what they call \"idea basins\" because of their growing chat context, local solution regions they can't escape. Their \"Fork-and-Flush\" method clears the ",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/fork_flush.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-12T16:10:00.000Z"
   },
   {
    "title": "Feeling Stuck? Here's How to Jumpstart Your Creativity in Photography",
@@ -1514,15 +1541,6 @@
    "date": "2026-10-11T17:19:06.000Z"
   },
   {
-   "title": "Fujifilm X half and X-T5 Deals – This Is When They End",
-   "link": "https://www.fujirumors.com/fujifilm-x-half-and-x-t5-deals-this-is-when-they-end/",
-   "summary": "There is not much going on in terms of Fujifilm deals lately. But the two deals we have are not bad at all. You can get the Fujifilm X half for $449 (that’s $400 off its original launch price and $200 off its new retail ",
-   "image": "https://www.fujirumors.com/wp-content/uploads/2026/10/Fujifilm-Deals.jpg",
-   "source": "Fuji Rumors",
-   "category": "photo",
-   "date": "2026-10-11T14:41:14.000Z"
-  },
-  {
    "title": "The gear I travel with as a professional camera reviewer",
    "link": "https://www.dpreview.com/videos/the-gear-i-travel-with-as-a-professional-camera-reviewer/",
    "summary": "The cameras and, more importantly, accessories, that help me do my job.",
@@ -1631,15 +1649,6 @@
    "date": "2026-10-09T19:43:50.000Z"
   },
   {
-   "title": "4 ways Amazon’s new Alexa tablets eclipse the Fire line – starting with Google Play",
-   "link": "https://www.zdnet.com/tech/amazon-new-alexa-tablets-google-play-store/",
-   "summary": "Amazon just upped its game with new Android tablets for entertainment and work.",
-   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/alexa-tablets-22.jpg",
-   "source": "ZDNet",
-   "category": "ai",
-   "date": "2026-10-09T19:10:12.000Z"
-  },
-  {
    "title": "AI disqualification yields new Nikon Small World in Motion winner",
    "link": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
    "summary": "New winner is Nguyen Nam Nhat of Vietnam for video of a roundworm and single-celled Dileptus.",
@@ -1719,15 +1728,6 @@
    "source": "CineD",
    "category": "video",
    "date": "2026-10-09T12:59:35.000Z"
-  },
-  {
-   "title": "Instagram Plus 2026: Features, Price & What It Means for You",
-   "link": "https://metricool.com/instagram-plus/",
-   "summary": "Instagram Plus is part of Meta's new premium subscription tiers. Here's everything you need to know: features, pricing, and availability.",
-   "image": "https://metricool.com/wp-content/uploads/instagram-plus-1-1.jpg",
-   "source": "Metricool",
-   "category": "instagram",
-   "date": "2026-10-09T12:35:40.000Z"
   },
   {
    "title": "Sony Alpha 1 vs. Nikon Z9: Nearly the Same Price, but Which Flagship Is Right for You?",
@@ -2009,15 +2009,6 @@
    "date": "2026-10-08T00:00:24.000Z"
   },
   {
-   "title": "The model that didn't exist, so you made it yourself",
-   "link": "https://huggingface.co/blog/building-with-ml-intern",
-   "summary": "",
-   "image": "https://huggingface.co/blog/assets/building-with-ml-intern/thumbnail.png",
-   "source": "Hugging Face",
-   "category": "ai",
-   "date": "2026-10-08T00:00:00.000Z"
-  },
-  {
    "title": "Disrupting AI-enabled “false front” operations",
    "link": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
    "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
@@ -2027,13 +2018,13 @@
    "date": "2026-10-08T00:00:00.000Z"
   },
   {
-   "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
-   "link": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
-   "summary": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/greatwave-1152x648.webp",
-   "source": "Ars Technica",
+   "title": "The model that didn't exist, so you made it yourself",
+   "link": "https://huggingface.co/blog/building-with-ml-intern",
+   "summary": "",
+   "image": "https://huggingface.co/blog/assets/building-with-ml-intern/thumbnail.png",
+   "source": "Hugging Face",
    "category": "ai",
-   "date": "2026-10-07T21:56:42.000Z"
+   "date": "2026-10-08T00:00:00.000Z"
   },
   {
    "title": "Canon’s 800mm RF Lens Drops 25% to $899 During Prime Big Deal Days",
@@ -2270,20 +2261,20 @@
    "date": "2026-10-01T06:22:51.000Z"
   },
   {
-   "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
-   "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
-   "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creati",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK070__01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "instagram",
-   "date": "2026-09-30T14:30:00.000Z"
-  },
-  {
    "title": "Instagram rolls out an AI video assistant for creators",
    "link": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
    "summary": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
    "image": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801",
    "source": "TechCrunch",
+   "category": "instagram",
+   "date": "2026-09-30T14:30:00.000Z"
+  },
+  {
+   "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
+   "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+   "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creati",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK070__01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
    "category": "instagram",
    "date": "2026-09-30T14:30:00.000Z"
   },
