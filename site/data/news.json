@@ -1,6 +1,141 @@
 {
- "updated": "2026-10-15T19:20:04.921Z",
+ "updated": "2026-10-15T22:37:19.112Z",
  "items": [
+  {
+   "title": "Pixieset Helps Photographers Cull, Edit and Deliver in One Place",
+   "link": "https://petapixel.com/2026/10/15/pixieset-helps-photographers-cull-edit-and-deliver-in-one-place/",
+   "summary": "Pixieset offers a gallery system, a website builder, and a studio manager for bookings, but its new Photo Editor aims to close the one remaining gap in the photography workflow. It uses on-device AI to help cull and batc",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-15T21:43:07.000Z"
+  },
+  {
+   "title": "The tech backlash is now in theaters",
+   "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+   "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Re",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-5.28.21-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-15T21:39:52.000Z"
+  },
+  {
+   "title": "We Got Hot and Heavy With Meta’s Muse—and Baffled by Apple’s HomeView",
+   "link": "https://www.wired.com/story/uncanny-valley-podcast-we-got-hot-and-heavy-with-metas-muse-and-underwhelmed-by-apples-homeview/",
+   "summary": "This week on “Uncanny Valley,” we dive into an unexpected Muse feature, shadowy spending from the largest pro-AI super PAC, and men’s tendency to lie about how much they know about AI.",
+   "image": "https://media.wired.com/photos/6acff05076c17d102a553f12/master/pass/Uncanny-Valley-Meta-Sexting-Business-2296314651.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-10-15T21:18:15.000Z"
+  },
+  {
+   "title": "Trump posts AI-edited photo to brag about White House restoration work",
+   "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+   "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"re",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/27a4ed6e86bbf2cf-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-15T21:09:33.000Z"
+  },
+  {
+   "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
+   "link": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
+   "summary": "Powerful AI models continue to cause chaos, but their targets aren’t widely seeking justice. Instead, they’re being encouraged to adopt those same tools.",
+   "image": "https://media.wired.com/photos/6ad00a8917414371d605a797/master/pass/Model-Behavior-Cybersecurity-Experts-Discuss-AI-Threats-Business.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-10-15T21:00:28.000Z"
+  },
+  {
+   "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+   "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+   "summary": "",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/662836b742709fe826510597/gltB0o--PV_Jh0D3aDm8-.png",
+   "source": "Hugging Face",
+   "category": "ai",
+   "date": "2026-10-15T20:34:01.000Z"
+  },
+  {
+   "title": "DP David Kruta on Lensing Deceit and Brutalism in 'Orion'",
+   "link": "https://nofilmschool.com/cinematographer-david-kruta",
+   "summary": "In an era dominated by visual effects and digital imagery, cinematographer David Kruta prefers to tackle the challenge of making everything feel real . For Orion , a psychological science fiction movie directed by Jaco B",
+   "image": "https://nofilmschool.com/media-library/dp-david-kruta-on-lensing-deceit-and-brutalism-in-orion.png?id=68440907&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-15T20:30:03.000Z"
+  },
+  {
+   "title": "Instagram Plus: What it is, costs, and what it means for brands",
+   "link": "https://blog.hootsuite.com/instagram-plus/",
+   "summary": "What is Instagram Plus? Learn what the new subscription includes, who it's for, and whether it matters for your brand. The post Instagram Plus: What it is, costs, and what it means for brands appeared first on Social Med",
+   "image": "https://blog.hootsuite.com/wp-content/uploads/2026/10/image-57-620x823.png",
+   "source": "Hootsuite",
+   "category": "instagram",
+   "date": "2026-10-15T20:21:51.000Z"
+  },
+  {
+   "title": "Meta launches an open-weight AI model that runs on Macs",
+   "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+   "summary": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-15T20:04:53.000Z"
+  },
+  {
+   "title": "How Horror DPs Light Darkness...",
+   "link": "https://nofilmschool.com/horror-cinematography-lighting-darkness",
+   "summary": "Being in the dark is scary, especially when you're alone. Even better if you're in an unfamiliar space and you hear a rustle in the night. Your imagination fills in the details of what's unseen, of who's with you, of wha",
+   "image": "https://nofilmschool.com/media-library/obsession.jpg?id=68431410&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-15T20:00:03.000Z"
+  },
+  {
+   "title": "Bluesky’s AI tool now lets you make games and apps to share on social",
+   "link": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+   "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets you make \"small\" social apps like games, polls, and dashboards that you can then share with others ",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-15-at-12.53.19-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-15T19:57:16.000Z"
+  },
+  {
+   "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
+   "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
+   "summary": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300374993.jpg?w=1024",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-15T19:55:25.000Z"
+  },
+  {
+   "title": "Photographer Charles ‘Teenie’ Harris Added to Pittsburgh’s Walk of Fame",
+   "link": "https://petapixel.com/2026/10/15/photographer-charles-teenie-harris-added-to-pittsburghs-walk-of-fame/",
+   "summary": "Pittsburgh added a bronze star to its Walk of Fame honoring photographer Charles “Teenie” Harris (1908-1998), along with other local standouts H.J. Heinz, football hero Franco Harris, George Westinghouse, and more. [ Rea",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-15T19:34:13.000Z"
+  },
+  {
+   "title": "Maxon’s Fall 2026 Release Brings Bigger Worlds, Faster Workflows, and Major Updates",
+   "link": "https://nofilmschool.com/maxon-fall-2026-ecosystem-release",
+   "summary": "The world of VFX is getting bigger, as Maxon has unveiled its Fall 2026 ecosystem release, which promises bigger worlds, faster workflows, and more creative control for creators working in 2D and 3D design, motion graphi",
+   "image": "https://nofilmschool.com/media-library/maxon-fall-2026-ecosystem-release.jpg?id=68441551&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-15T19:30:03.000Z"
+  },
+  {
+   "title": "Adobe Is Optimizing Its Tools for RTX Spark, Furthering Commitment to PC",
+   "link": "https://petapixel.com/2026/10/15/adobe-is-optimizing-its-tools-for-rtx-spark-furthering-commitment-to-pc/",
+   "summary": "Adobe has announced that it is expanding its collaboration with NVIDIA by specifically optimizing its flagship software tools for RTX Spark, NVIDIA's new AI-focused Arm chipset designed for laptops and compact computers.",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-15T19:25:31.000Z"
+  },
   {
    "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
    "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
@@ -27,6 +162,15 @@
    "source": "No Film School",
    "category": "video",
    "date": "2026-10-15T19:00:06.000Z"
+  },
+  {
+   "title": "Bringing GPT-Rosalind to academic research labs",
+   "link": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+   "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+   "image": "",
+   "source": "OpenAI",
+   "category": "ai",
+   "date": "2026-10-15T19:00:00.000Z"
   },
   {
    "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
@@ -398,15 +542,6 @@
    "date": "2026-10-15T14:01:25.000Z"
   },
   {
-   "title": "TechCrunch Disrupt 2026: Last day",
-   "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
-   "summary": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300214995.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-15T14:00:00.000Z"
-  },
-  {
    "title": "Benn Jordan on Flock, privacy, and the new surveillance backlash",
    "link": "https://www.theverge.com/podcast/1011170/benn-jordan-flock-cameras-alpr-ai-surveillance-privacy",
    "summary": "Today, I’m talking with Benn Jordan, musician, YouTuber, researcher, and investigative journalist. You might know Benn from those first two titles — he’s got a prolific discography of experimental music dating back decad",
@@ -416,7 +551,16 @@
    "date": "2026-10-15T14:00:00.000Z"
   },
   {
-   "title": "Fujifilm’s SuperCCD EXR didn’t take off, but its legacy might live on in your pocket",
+   "title": "TechCrunch Disrupt 2026: Last day",
+   "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
+   "summary": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2300214995.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-15T14:00:00.000Z"
+  },
+  {
+   "title": "Throwback Thursday: Fujifilm’s SuperCCD EXR didn’t take off, but its legacy might live on in your pocket",
    "link": "https://www.dpreview.com/articles/fujifilms-superccd-exr-didnt-take-off-but-its-legacy-might-live-on-in-your-pocket/",
    "summary": "For Throwback Thursday we look at the Fujifilm F200 EXR, an overlooked compact whose ideas live on in modern smartphones",
    "image": "https://www.dpreview.com/wp-content/uploads/2020/10/1151857585-Images-Angleview.jpeg",
@@ -515,20 +659,20 @@
    "date": "2026-10-15T12:03:02.000Z"
   },
   {
-   "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-   "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
-   "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create t",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-15T12:00:00.000Z"
-  },
-  {
    "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
    "link": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
    "summary": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee devices - and a new sub",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/BEE_FAMILY_02_1600x900.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-15T12:00:00.000Z"
+  },
+  {
+   "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+   "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+   "summary": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create t",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/BEE_FAMILY_01_1080x1080.jpg?w=1080",
+   "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-15T12:00:00.000Z"
   },
@@ -558,15 +702,6 @@
    "source": "Fstoppers",
    "category": "photo",
    "date": "2026-10-15T11:03:02.000Z"
-  },
-  {
-   "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
-   "link": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-   "summary": "There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone home to China. Its AI",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-004.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-15T11:00:00.000Z"
   },
   {
    "title": "Reviews of the new Sony ECM-W5 Wireless Microphone",
@@ -785,15 +920,6 @@
    "date": "2026-10-15T00:00:00.000Z"
   },
   {
-   "title": "McKinsey is making job applicants spar with a fake AI client",
-   "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
-   "summary": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. Th",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-14T22:53:31.000Z"
-  },
-  {
    "title": "TikTok Shop offers U.K. merchants more engagement tools",
    "link": "https://www.socialmediatoday.com/news/tiktok-shop-offers-uk-merchants-more-engagement-tools/833064/",
    "summary": "The platform has added group deals, new auction functions and an easy way to create shoppable carousels.",
@@ -828,15 +954,6 @@
    "source": "Ars Technica",
    "category": "ai",
    "date": "2026-10-14T21:15:56.000Z"
-  },
-  {
-   "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-   "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separatel",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-14T21:11:28.000Z"
   },
   {
    "title": "TAMRON announces the launch of the 16-50mm F2.8 A",
@@ -893,15 +1010,6 @@
    "date": "2026-10-14T19:18:44.000Z"
   },
   {
-   "title": "Film Quote of the Day: The Unexpected Wisdom Hidden in This 'Pulp Fiction' Line",
-   "link": "https://nofilmschool.com/pride-only-hurts-it-never-helps",
-   "summary": "Sometimes I think about what audiences felt watching Pulp Fiction for the first time. Were they blown away? Did people lose their minds in the theatres when the music played, and the dialogue popped, and the gunfire expl",
-   "image": "https://nofilmschool.com/media-library/pride-only-hurts-it-never-helps.jpg?id=68433359&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-14T19:00:06.000Z"
-  },
-  {
    "title": "This year’s winners of AOP’s Emerging Talent Award are photographers to watch",
    "link": "https://www.dpreview.com/photography/this-years-winners-of-aops-emerging-talent-award-are-photographers-to-watch/",
    "summary": "The series tell the story of a shrinking glacier and refugee children.",
@@ -918,15 +1026,6 @@
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-14T18:33:54.000Z"
-  },
-  {
-   "title": "Why 'The Magician's Nephew' Could Change How Fans See the Entire Narnia Saga",
-   "link": "https://nofilmschool.com/magicians-nephew-trailer",
-   "summary": "I grew up on The Chronicles of Narnia . I was an avid fan of the old BBC series versions and even of the Disney/Walden movies, which upped the scope and scale. But despite these books being so popular, the movies always ",
-   "image": "https://nofilmschool.com/media-library/the-magician-s-nephew-trailer.webp?id=68432747&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-14T18:30:04.000Z"
   },
   {
    "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
@@ -956,24 +1055,6 @@
    "date": "2026-10-14T18:07:37.000Z"
   },
   {
-   "title": "This Competition Celebrates New Photographers Who Have Been Shooting for Less Than Three Years",
-   "link": "https://petapixel.com/2026/10/14/this-competition-celebrates-new-photographers-who-have-been-shooting-for-less-than-three-years/",
-   "summary": "The winners of the AOP's 2026 Emerging Talent Awards have been announced, with the gold award going to photographer Austin Bradley. [ Read More ]",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-14T18:00:04.000Z"
-  },
-  {
-   "title": "This Voice-Controlled Camera App Can Record Portrait and Landscape Video For You at the Same Time",
-   "link": "https://nofilmschool.com/shootsolo-video-camera-app",
-   "summary": "You might have to look around a bit to find them, but so many new filmmaking apps can give unique boosts to your filmmaking and video content workflows. A new one that came across our desk here is one called Shootsolo, a",
-   "image": "https://nofilmschool.com/media-library/shootsolo-video-camera-app.png?id=68429685&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-14T18:00:04.000Z"
-  },
-  {
    "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
    "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
    "summary": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
@@ -981,24 +1062,6 @@
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-14T18:00:00.000Z"
-  },
-  {
-   "title": "ASMP’s MSP Squared Event Next Week Is a Unique, 24-Hour In-Person Photo Contest",
-   "link": "https://petapixel.com/2026/10/14/asmps-msp-squared-event-next-week-is-a-unique-24-hour-in-person-photo-contest/",
-   "summary": "The American Society of Media Photographers (ASMP) is hosting a very special event in Minneapolis on October 23 and 24 called MSP2. 75 photographers will have 24 hours to capture and edit a photo captured in their design",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-14T17:48:06.000Z"
-  },
-  {
-   "title": "Actress Mia Goth Slams Instagram for Spreading AI Image of Her",
-   "link": "https://petapixel.com/2026/10/14/actress-mia-goth-slams-instagram-for-spreading-ai-image-of-her/",
-   "summary": "Actress Mia Goth -- who recently filed for divorce from Shia LaBeouf -- has slammed Instagram after the platform let an AI-image of her wearing a t-shirt that read \"MY EX IS MY BIGGEST FAN\" to go viral. [ Read More ]",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-14T17:35:36.000Z"
   },
   {
    "title": "Researchers use AI to design proteins that cut up other proteins",
@@ -1062,24 +1125,6 @@
    "source": "DPReview",
    "category": "photo",
    "date": "2026-10-14T15:19:36.000Z"
-  },
-  {
-   "title": "Deezer will soon let you filter out AI-generated music",
-   "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-   "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Deezer-AI-detection-feat.jpg?w=1067",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-14T15:16:04.000Z"
-  },
-  {
-   "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-   "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-   "summary": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/55588061334_e461da18f4_k.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-14T15:13:24.000Z"
   },
   {
    "title": "Is Photoshop's New Relight Tool Worth 30 Credits?",
@@ -1793,15 +1838,6 @@
    "date": "2026-10-12T18:21:36.000Z"
   },
   {
-   "title": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
-   "link": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/",
-   "summary": "Musk, we find your lack of security disturbing.",
-   "image": "https://media.wired.com/photos/6acd1d72b814f6f25010ecb2/master/pass/Musk-Brags-About-Lego-Grok-Star-Wars-Haul-Gear.jpg",
-   "source": "WIRED",
-   "category": "ai",
-   "date": "2026-10-12T17:55:12.000Z"
-  },
-  {
    "title": "Russia was not ready for the data center war it started with Ukraine",
    "link": "https://arstechnica.com/gadgets/2026/10/russia-was-not-ready-for-the-data-center-war-it-started-with-ukraine/",
    "summary": "Russian bloggers warn Russia’s hyper-centralized digital economy is vulnerable.",
@@ -1818,15 +1854,6 @@
    "source": "ZDNet",
    "category": "ai",
    "date": "2026-10-12T17:45:44.000Z"
-  },
-  {
-   "title": "Muse Wonder Puts Meta Back at the AI Frontier",
-   "link": "https://www.wired.com/story/muse-wonder-puts-meta-back-at-the-ai-frontier/",
-   "summary": "Meta’s biggest model rivals the world’s best—and includes new features to keep agents from going off the rails.",
-   "image": "https://media.wired.com/photos/6accff96fccc4c5244b94f14/master/pass/Muse-Wonder-Puts-Meta-Back-at-the-AI-Frontier-Business-2296209266.jpg",
-   "source": "WIRED",
-   "category": "ai",
-   "date": "2026-10-12T17:00:27.000Z"
   },
   {
    "title": "Marshall to show award-winning solutions at NAB New York",
@@ -2036,15 +2063,6 @@
    "date": "2026-10-09T09:00:00.000Z"
   },
   {
-   "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-   "link": "https://openai.com/index/asana-browser-agent",
-   "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-   "image": "",
-   "source": "OpenAI",
-   "category": "ai",
-   "date": "2026-10-09T07:00:00.000Z"
-  },
-  {
    "title": "News: National Indigenous art prize puts Lismore on Australia’s cultural map",
    "link": "https://digital-photography-school.com/news-national-indigenous-art-prize-puts-lismore-on-australias-cultural-map/",
    "summary": "The post News: National Indigenous art prize puts Lismore on Australia’s cultural map appeared first on Digital Photography School . It was authored by Sime . National Indigenous art prize puts Lismore on Australia’s cul",
@@ -2144,15 +2162,6 @@
    "date": "2026-10-08T07:03:04.000Z"
   },
   {
-   "title": "The model that didn't exist, so you made it yourself",
-   "link": "https://huggingface.co/blog/building-with-ml-intern",
-   "summary": "",
-   "image": "https://huggingface.co/blog/assets/building-with-ml-intern/thumbnail.png",
-   "source": "Hugging Face",
-   "category": "ai",
-   "date": "2026-10-08T00:00:00.000Z"
-  },
-  {
    "title": "Canon’s 800mm RF Lens Drops 25% to $899 During Prime Big Deal Days",
    "link": "https://ymcinema.com/2026/10/07/canon-rf800mm-f11-prime-big-deal-days-899/",
    "summary": "Canon’s RF800mm F11 IS STM has received one of the more substantial Canon discounts during Amazon’s Prime Big Deal Days. The super telephoto prime is currently listed at $899, down 25% from its $1,198 list price. Amazon ",
@@ -2196,15 +2205,6 @@
    "source": "Canon Rumors",
    "category": "photo",
    "date": "2026-10-06T16:08:30.000Z"
-  },
-  {
-   "title": "160+ Instagram username ideas for 2026 (+ AI generator)",
-   "link": "https://blog.hootsuite.com/instagram-username-ideas/",
-   "summary": "In need of some Instagram username ideas? Get 160+ handles, plus rules, brainstorming steps, and a free AI generator to find your @name fast. The post 160+ Instagram username ideas for 2026 (+ AI generator) appeared firs",
-   "image": "https://cdn.airops.com/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzMyMTE4NDg1LCJwdXIiOiJibG9iX2lkIn19--b10e3d2158511c90fdb7997ebb5cffd788033bd1/image.png",
-   "source": "Hootsuite",
-   "category": "instagram",
-   "date": "2026-10-06T14:18:58.000Z"
   },
   {
    "title": "Sony Cuts Prices on G and G Master Lenses for Amazon’s Prime Big Deal Days",
@@ -2315,20 +2315,20 @@
    "date": "2026-10-01T13:30:00.000Z"
   },
   {
-   "title": "Instagram rolls out an AI video assistant for creators",
-   "link": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
-   "summary": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801",
-   "source": "TechCrunch",
-   "category": "instagram",
-   "date": "2026-09-30T14:30:00.000Z"
-  },
-  {
    "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
    "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
    "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creati",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK070__01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "source": "The Verge",
+   "category": "instagram",
+   "date": "2026-09-30T14:30:00.000Z"
+  },
+  {
+   "title": "Instagram rolls out an AI video assistant for creators",
+   "link": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
+   "summary": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801",
+   "source": "TechCrunch",
    "category": "instagram",
    "date": "2026-09-30T14:30:00.000Z"
   },
