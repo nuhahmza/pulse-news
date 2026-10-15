@@ -1,6 +1,33 @@
 {
- "updated": "2026-10-14T21:53:39.339Z",
+ "updated": "2026-10-15T00:22:44.783Z",
  "items": [
+  {
+   "title": "Voice Control system for the Sony FX3/FX6",
+   "link": "https://www.newsshooter.com/2026/10/14/voice-control-system-for-the-sony-fx3-fx6/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=voice-control-system-for-the-sony-fx3-fx6",
+   "summary": "Andy Wood, head of video at Spellbook, has built a voice control system for the Sony FX3/FX6 using a Raspberry Pi Zero, Sony’s camera SDK, and the Vosk open-source speech recognition API. This was a side project that And",
+   "image": "https://www.newsshooter.com/wp-content/uploads/2026/10/Sony-Voice-740x416.jpeg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-15T00:14:22.000Z"
+  },
+  {
+   "title": "McKinsey is making job applicants spar with a fake AI client",
+   "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+   "summary": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. Th",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-14T22:53:31.000Z"
+  },
+  {
+   "title": "How TikTok and creator Anna Sitar think about creator partnerships that convert",
+   "link": "https://later.com/blog/how-tiktok-and-creator-anna-sitar-think-about-creator-partnerships-that-convert/",
+   "summary": "Inside our New York stop of the Made You Look Tour, where TikTok and creator Anna Sitar broke down the new funnel, values-driven partnerships, and creator universes.",
+   "image": "https://images.ctfassets.net/az3stxsro5h5/1PPfEtocNX82gr7TPNJrxQ/4d75f29d011c1b3ec532eb09cb0ea74e/MYL_NYC_Panel_Recap.png",
+   "source": "Later",
+   "category": "tiktok",
+   "date": "2026-10-14T21:57:42.000Z"
+  },
   {
    "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
    "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
@@ -20,6 +47,15 @@
    "date": "2026-10-14T21:15:56.000Z"
   },
   {
+   "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+   "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separatel",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25462005/STK155_OPEN_AI_CVirginia_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-14T21:11:28.000Z"
+  },
+  {
    "title": "TAMRON announces the launch of the 16-50mm F2.8 A",
    "link": "https://digital-photography-school.com/tamron-announces-the-launch-of-the-16-50mm-f2-8-a/",
    "summary": "The post TAMRON announces the launch of the 16-50mm F2.8 A appeared first on Digital Photography School . It was authored by Sime . New lens alert from the team at Tamron. TAMRON announces the launch of the 16-50mm F2.8 ",
@@ -32,7 +68,7 @@
    "title": "Fujifilm's X-Trans Sensor: The Rebel Design That Solved One Problem and Created Others",
    "link": "https://fstoppers.com/gear/fujifilms-x-trans-sensor-rebel-design-solved-one-problem-and-created-others-904208?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
    "summary": "Fujifilm, a company that spent most of a century making film, looked at the tidy checkerboard of color filters printed onto every digital sensor and decided the tidiness was the enemy. Its answer was a scrambled 6 by 6 g",
-   "image": "https://fstoppers.com/s3/files/styles/16_9_max_650/s3/lead/2026/08/1_0.jpg.webp?itok=EyFSOYhZ",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/08/1_0.jpg.webp?itok=EyFSOYhZ",
    "source": "Fstoppers",
    "category": "photo",
    "date": "2026-10-14T21:03:01.000Z"
@@ -68,7 +104,7 @@
    "title": "The AI race is back on",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
    "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK255_Google_Gemini_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2296206566.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "source": "The Verge",
    "category": "ai",
    "date": "2026-10-14T19:06:03.000Z"
@@ -158,7 +194,7 @@
    "title": "This Competition Celebrates New Photographers Who Have Been Shooting for Less Than Three Years",
    "link": "https://petapixel.com/2026/10/14/this-competition-celebrates-new-photographers-who-have-been-shooting-for-less-than-three-years/",
    "summary": "The winners of the AOP's 2026 Emerging Talent Awards have been announced, with the gold award going to photographer Austin Bradley. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/AOP-Emerging-Talent-Awards.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-14T18:00:04.000Z"
@@ -371,15 +407,6 @@
    "date": "2026-10-14T15:19:36.000Z"
   },
   {
-   "title": "Anthropic’s self-replicating AI warning is alarming deja vu",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
-   "summary": "Are legions of smart devices - fridges, ovens, vacuum cleaners, lawnmowers, security cameras, and TVs - conspiring to take over the internet? No. But they could soon be unwitting hosts to self-replicating AI models that ",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/akrales_220309_4977_0232-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-14T15:19:02.000Z"
-  },
-  {
    "title": "Deezer will soon let you filter out AI-generated music",
    "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
    "summary": "Deezer said that the new toggle will be rolled out by the end of the year.",
@@ -506,15 +533,6 @@
    "date": "2026-10-14T13:59:59.000Z"
   },
   {
-   "title": "Epic’s new games launcher is ‘vibe coded’",
-   "link": "https://www.theverge.com/games/1010751/epic-games-launcher-vibe-coded-ai-linux",
-   "summary": "Epic Games is announcing a big refresh of its PC games launcher today in preview, saying that the new version is \"way faster\" and now supports Linux. But the company, which has been publicly making a big push into AI-ass",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/New-Epic-Games-Launcher-2.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-14T13:55:02.000Z"
-  },
-  {
    "title": "Canon Admits the EOS R8 Mark II Offers Similar Video Capabilities to the Original R8",
    "link": "https://ymcinema.com/2026/10/14/canon-eos-r8-mark-ii-vs-r8-video-price-comparison/",
    "summary": "Canon has published an official comparison of the EOS R8 Mark II and the original EOS R8, acknowledging that the two full-frame cameras offer similar video capabilities. That’s an interesting statement considering their ",
@@ -572,7 +590,7 @@
    "title": "Apple Stores to Push iPhone Duo Demonstrations",
    "link": "https://petapixel.com/2026/10/14/apple-stores-to-push-iphone-duo-demonstrations/",
    "summary": "Apple is preparing an extensive in-store demonstration campaign ahead of the October 23 launch of the iPhone Duo, its first foldable iPhone. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/09/iPhone-Duo-Hero.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-14T12:54:23.000Z"
@@ -716,6 +734,15 @@
    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
    "link": "https://openai.com/index/third-moment-research",
    "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+   "image": "",
+   "source": "OpenAI",
+   "category": "ai",
+   "date": "2026-10-14T07:00:00.000Z"
+  },
+  {
+   "title": "How Block is building AI-powered security with OpenAI technology",
+   "link": "https://openai.com/index/block-ai-powered-security",
+   "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
    "image": "",
    "source": "OpenAI",
    "category": "ai",
@@ -891,15 +918,6 @@
    "source": "DPReview",
    "category": "photo",
    "date": "2026-10-14T00:55:01.000Z"
-  },
-  {
-   "title": "GoPro MISSION 1 Pro & MISSION 1 Pro ILS Firmware Updates– Continuous 50MP RAW Photos & Anamorphic Lens Support",
-   "link": "https://www.newsshooter.com/2026/10/13/gopro-mission-1-pro-mission-1-pro-ils-firmware-updates-continus-50mp-raw-photos-anamorphic-lens-support/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=gopro-mission-1-pro-mission-1-pro-ils-firmware-updates-continus-50mp-raw-photos-anamorphic-lens-support",
-   "summary": "GoPro has released firmware updates for MISSION 1 Pro and MISSION 1 Pro ILS cameras. New features include anamorphic lens support, photo shutter response improvements, and the ability continuously take 100 photos at 12MP",
-   "image": "https://www.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-14-at-9.32.17%E2%80%AFAM.png",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-10-14T00:32:42.000Z"
   },
   {
    "title": "The EU’s next chapter in AI is agentic",
@@ -1379,20 +1397,20 @@
    "date": "2026-10-13T10:03:14.000Z"
   },
   {
-   "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
-   "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
-   "summary": "Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle.",
-   "image": "https://media.wired.com/photos/6ac83144109df86817f42ae5/master/pass/Politics_TheBiggestPro-AISuperPacHasBeenFunneling.gif",
-   "source": "WIRED",
-   "category": "ai",
-   "date": "2026-10-13T10:00:00.000Z"
-  },
-  {
    "title": "Open models have real benefits. Do they outweigh the risks?",
    "link": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/",
    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. Late last month, Anthropic re",
    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/260915_openaimodels.jpg?resize=1200,600",
    "source": "MIT Tech Review",
+   "category": "ai",
+   "date": "2026-10-13T10:00:00.000Z"
+  },
+  {
+   "title": "The Biggest Pro-AI Super PAC Network Has Poured Millions Into Nevada Shell Companies",
+   "link": "https://www.wired.com/story/the-biggest-pro-ai-super-pac-network-has-poured-millions-into-nevada-shell-companies/",
+   "summary": "Backed by Silicon Valley titans, Leading the Future has raised huge sums to promote pro-AI candidates on both side of the aisle.",
+   "image": "https://media.wired.com/photos/6ac83144109df86817f42ae5/master/pass/Politics_TheBiggestPro-AISuperPacHasBeenFunneling.gif",
+   "source": "WIRED",
    "category": "ai",
    "date": "2026-10-13T10:00:00.000Z"
   },
@@ -1415,21 +1433,21 @@
    "date": "2026-10-13T09:03:02.000Z"
   },
   {
-   "title": "How to Schedule Instagram Reels with Metricool",
-   "link": "https://metricool.com/schedule-reels-with-metricool/",
-   "summary": "Every Reel you post live adds filming, editing, captions, and music to an already busy week. Metricool moves all of it into one planner, tracks how each Reel performs, and replies to keyword comments with Flows once the ",
-   "image": "https://metricool.com/wp-content/uploads/schedule-instagram-reels-metricool-3.webp",
-   "source": "Metricool",
-   "category": "instagram",
-   "date": "2026-10-13T09:00:00.000Z"
-  },
-  {
    "title": "AI labs are buying data from dead startups to train their models",
    "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
    "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives ",
    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AI-Death_Redamonti_MIT-thumb.jpg?resize=1200,600",
    "source": "MIT Tech Review",
    "category": "ai",
+   "date": "2026-10-13T09:00:00.000Z"
+  },
+  {
+   "title": "How to Schedule Instagram Reels with Metricool",
+   "link": "https://metricool.com/schedule-reels-with-metricool/",
+   "summary": "Every Reel you post live adds filming, editing, captions, and music to an already busy week. Metricool moves all of it into one planner, tracks how each Reel performs, and replies to keyword comments with Flows once the ",
+   "image": "https://metricool.com/wp-content/uploads/schedule-instagram-reels-metricool-3.webp",
+   "source": "Metricool",
+   "category": "instagram",
    "date": "2026-10-13T09:00:00.000Z"
   },
   {
@@ -1845,15 +1863,6 @@
    "source": "The Verge",
    "category": "instagram",
    "date": "2026-10-08T16:45:00.000Z"
-  },
-  {
-   "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-   "link": "https://openai.com/index/oracle",
-   "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-   "image": "",
-   "source": "OpenAI",
-   "category": "ai",
-   "date": "2026-10-08T16:00:00.000Z"
   },
   {
    "title": "New York alleges TikTok gave teens, children a placebo safety feature instead of a real one",
