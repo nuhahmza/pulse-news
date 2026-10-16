@@ -1,6 +1,33 @@
 {
- "updated": "2026-10-16T01:05:08.946Z",
+ "updated": "2026-10-16T06:14:53.167Z",
  "items": [
+  {
+   "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+   "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+   "summary": "",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/68d2fec8856b85d927e44d32/x0aObe_0mduBjWFuKBGoV.png",
+   "source": "Hugging Face",
+   "category": "ai",
+   "date": "2026-10-16T01:44:47.000Z"
+  },
+  {
+   "title": "Yashica’s 1950s throwback micro-camera will cost $119",
+   "link": "https://www.dpreview.com/news/yashica-y16-official-announcement-specs/",
+   "summary": "The company has fully announced the Y16 with specs, price and a release date",
+   "image": "https://www.dpreview.com/wp-content/uploads/2026/10/m-pi-yashica-y16-in-hand-16x9-Lead-1.jpg",
+   "source": "DPReview",
+   "category": "photo",
+   "date": "2026-10-16T01:14:40.000Z"
+  },
+  {
+   "title": "Sony announces an almost $6,000 USD Walkman Signature Series Digital Audio Player",
+   "link": "https://www.newsshooter.com/2026/10/15/sony-announces-an-almost-6000-usd-walkman-signature-series-digital-audio-player/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sony-announces-an-almost-6000-usd-walkman-signature-series-digital-audio-player",
+   "summary": "If you are of a certain vintage, you probably had a Sony Walkman when you were younger. Sony has released a new version, and one of the models available costs nearly $6,000 USD! The Sony NW-WM1ZM3 Walkman Signature Serie",
+   "image": "https://www.newsshooter.com/wp-content/uploads/2026/10/Sony-Signature-Series-Walkman%C2%AE-NW-WM1ZM3-Product-Video-with-Audio-Description-Sony-Official.jpeg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-16T01:10:13.000Z"
+  },
   {
    "title": "Elgato Wave Go Wireless Microphone System for Mobile Devices",
    "link": "https://www.newsshooter.com/2026/10/15/elgato-wave-go-wireless-microphone-system-for-mobile-devices/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=elgato-wave-go-wireless-microphone-system-for-mobile-devices",
@@ -9,15 +36,6 @@
    "source": "Newsshooter",
    "category": "video",
    "date": "2026-10-16T00:50:11.000Z"
-  },
-  {
-   "title": "ARRI LPM-1 SUP 1.0.0",
-   "link": "https://www.newsshooter.com/2026/10/15/arri-lpm-1-sup-1-0-0/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=arri-lpm-1-sup-1-0-0",
-   "summary": "ARRI has announced the LPM-1 Software Update Package SUP 1.0.0, which improves the overall user experience and introduces safeguards to power management in situations where the monitor is connected to the camera solely v",
-   "image": "https://www.newsshooter.com/wp-content/uploads/2026/10/LPM-740x416.jpg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-10-16T00:27:29.000Z"
   },
   {
    "title": "ARRI Hi-5/Hi-5 SX SUP 3.6.6",
@@ -56,15 +74,6 @@
    "date": "2026-10-15T23:44:01.000Z"
   },
   {
-   "title": "Domain redirection/forwarding (Typosquatting Protection): Why you may want it + best practices & extra credit/fun",
-   "link": "https://www.provideocoalition.com/domain-redirection-forwarding-typosquatting-protection-why-you-may-want-it-best-practices-extra-credit-fun/",
-   "summary": "Great! You already have a website with your own domain. Why would you want another similar domain? There are several possible reasons. One could be because you may have a non-profit whose domain ends with .org but you kn",
-   "image": "https://www.provideocoalition.com/wp-content/uploads/Dominios-tildados-cuadrito1-recortado.jpg",
-   "source": "ProVideo Coalition",
-   "category": "video",
-   "date": "2026-10-15T23:40:25.000Z"
-  },
-  {
    "title": "ChatGPT can peek at your Chrome tabs now",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
    "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT ca",
@@ -81,6 +90,15 @@
    "source": "The Verge",
    "category": "ai",
    "date": "2026-10-15T22:35:55.000Z"
+  },
+  {
+   "title": "Is AI Color Grading Finally Good Enough? Fstoppers Tests Imagen Video",
+   "link": "https://fstoppers.com/sponsored/ai-color-grading-finally-good-enough-tests-imagen-video-905056?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "If you edit a lot of video, the most tedious part of the job isn't the creative color grade. It's getting the footage adjusted so that you can add the color grade. One shot is too bright, the next too dark, one camera le",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/featured-image-imagen-color-grade-lut-before-and-after.jpg.webp?itok=ugy_GN02",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-15T22:01:20.000Z"
   },
   {
    "title": "Meta adds audio links and reference Reels to Edits",
@@ -578,15 +596,6 @@
    "date": "2026-10-15T15:00:00.000Z"
   },
   {
-   "title": "Wooden Camera: new cage and accessory system for Sony FX5",
-   "link": "https://www.provideocoalition.com/wooden-camera-new-cage-and-accessory-system-for-sony-fx5/",
-   "summary": "The new lineup from Wooden Camera gives filmmakers a modular foundation for building the camera around their individual production needs. Designed to complement the Sony FX5’s form factor, the new cage and accessories fr",
-   "image": "https://www.provideocoalition.com/wp-content/uploads/woodencamerasonyfx5_001.jpg",
-   "source": "ProVideo Coalition",
-   "category": "video",
-   "date": "2026-10-15T14:39:02.000Z"
-  },
-  {
    "title": "Top 10 Instagram Giveaway Ideas to Increase Your Follower Count",
    "link": "https://metricool.com/top-10-instagram-giveaway-ideas-to-increase-your-follower-count/",
    "summary": "Want to grow your Instagram while having a bit of fun? These Instagram giveaways will help you attract followers and run campaigns that actually work.",
@@ -612,15 +621,6 @@
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-15T14:29:33.000Z"
-  },
-  {
-   "title": "Tamron 16-50mm F2.8 A: a fast and compact lens for APS-C",
-   "link": "https://www.provideocoalition.com/tamron-16-50mm-f2-8-a-a-fast-and-compact-lens-for-aps-c/",
-   "summary": "Combining a versatile focal range with a constant F2.8 aperture, fast VXD autofocus and a compact design the lens is made for creators looking for one flexible lens for everyday use, travel and video. The new lens will b",
-   "image": "https://www.provideocoalition.com/wp-content/uploads/tamron1650_001.jpg",
-   "source": "ProVideo Coalition",
-   "category": "video",
-   "date": "2026-10-15T14:17:41.000Z"
   },
   {
    "title": "Nobody is safe from celebrity AI deepfakes",
@@ -725,7 +725,7 @@
    "title": "Voigtländer Celebrates 100 Years of Legendary Skopar Series Lenses",
    "link": "https://petapixel.com/2026/10/15/voigtlander-celebrates-100-years-of-legendary-skopar-series-lenses/",
    "summary": "Cosina Voigtländer is celebrating the 100th anniversary of Voigtländer's \"Skopar\" series lenses with a commemorative model, the Color-Skopar 35mm f/2.5 100th Model. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/VM-35_25-100th-web02-kjhy.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-15T12:55:21.000Z"
@@ -1076,7 +1076,7 @@
    "title": "‘Grandmaslop’ is Bizarre AI Imagery of Kids Made by Baby Boomers",
    "link": "https://petapixel.com/2026/10/14/grandmaslop-is-bizarre-ai-imagery-of-kids-made-by-baby-boomers/",
    "summary": "It's not quite Halloween yet. But people are getting freaked out by their parents' and grandparents' penchant for AI images of loved ones. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/Grandmaslop.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-14T18:33:54.000Z"
@@ -1226,15 +1226,6 @@
    "date": "2026-10-14T13:20:43.000Z"
   },
   {
-   "title": "Audiobooks with multiple voices for dialog, using human actors or cloned with ElevenLabs",
-   "link": "https://www.provideocoalition.com/audiobooks-with-multiple-voices-for-dialog-using-human-actors-or-cloned-with-elevenlabs/",
-   "summary": "I have always appreciated the incalculable power of a dialog—as opposed to a monolog—in audiovisual productions. Back in the late eighties, I recorded and produced my very first audio production where I chose to use two ",
-   "image": "https://www.provideocoalition.com/wp-content/uploads/Portada-cuadrada-El-Gato.jpg",
-   "source": "ProVideo Coalition",
-   "category": "video",
-   "date": "2026-10-14T13:19:30.000Z"
-  },
-  {
    "title": "Is the Fujifilm XF 400mm f/4.5 Worth $3,199?",
    "link": "https://fstoppers.com/gear/fujifilm-xf-400mm-f45-worth-3199-905050?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
    "summary": "Long telephoto lenses have always made you choose between reach, weight, and money, and wildlife shooting tends to punish whichever one you skimp on. Fujifilm's new XF 400mm f/4.5 R LM OIS WR gives X-mount shooters a 600",
@@ -1379,6 +1370,15 @@
    "date": "2026-10-14T08:52:48.000Z"
   },
   {
+   "title": "13 Trending Sounds on Instagram in October 2026 (+ How to Use Them)",
+   "link": "https://buffer.com/resources/trending-audio-instagram/",
+   "summary": "Stop chasing the tail-end of Instagram audio trends — here are the latest trending songs on Instagram in October 2026.",
+   "image": "https://storage.ghost.io/c/6d/21/6d217297-aa70-41fe-b68d-e29e411dd3ed/content/images/2025/11/TrendingSounds-Instagram.png",
+   "source": "Buffer",
+   "category": "instagram",
+   "date": "2026-10-14T07:00:00.000Z"
+  },
+  {
    "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
    "link": "https://openai.com/index/third-moment-research",
    "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
@@ -1394,15 +1394,6 @@
    "image": "",
    "source": "OpenAI",
    "category": "ai",
-   "date": "2026-10-14T07:00:00.000Z"
-  },
-  {
-   "title": "13 Trending Sounds on Instagram in October 2026 (+ How to Use Them)",
-   "link": "https://buffer.com/resources/trending-audio-instagram/",
-   "summary": "Stop chasing the tail-end of Instagram audio trends — here are the latest trending songs on Instagram in October 2026.",
-   "image": "https://storage.ghost.io/c/6d/21/6d217297-aa70-41fe-b68d-e29e411dd3ed/content/images/2025/11/TrendingSounds-Instagram.png",
-   "source": "Buffer",
-   "category": "instagram",
    "date": "2026-10-14T07:00:00.000Z"
   },
   {
@@ -1512,15 +1503,6 @@
    "source": "DPReview",
    "category": "photo",
    "date": "2026-10-13T22:30:00.000Z"
-  },
-  {
-   "title": "Why Fujifilm Survived the Digital Apocalypse That Killed Kodak",
-   "link": "https://fstoppers.com/business/why-fujifilm-survived-digital-apocalypse-killed-kodak-904196?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "Walk into a department store in Tokyo and you can buy an anti-aging skin cream made by a camera company. It is called Astalift, and the collagen and antioxidant science inside the bottle came straight out of the labs tha",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/08/2.jpg.webp?itok=dZBeBvY7",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-10-13T21:03:01.000Z"
   },
   {
    "title": "Tamron to announce a new 16-50mm f/2.8 APS-C lens for Nikon Z-mount",
@@ -1667,15 +1649,6 @@
    "date": "2026-10-13T15:16:05.000Z"
   },
   {
-   "title": "Tool Tip Tuesday for Adobe Premiere: Grab the best Moments in the Transcript Panel with Paper Edit",
-   "link": "https://www.provideocoalition.com/tool-tip-tuesday-for-adobe-premiere-grab-the-best-moments-in-the-transcript-panel-with-paper-edit/",
-   "summary": "Welcome to Tool Tip Tuesday for Adobe Premiere on ProVideo Coalition Premiere 26.5 (September) added Paper Edit to the Text panel. I never want to edit again without a transcript. I was first introduced to transcript edi",
-   "image": "https://www.provideocoalition.com/wp-content/uploads/Paper-Edit-cover-page-518x400.png",
-   "source": "ProVideo Coalition",
-   "category": "video",
-   "date": "2026-10-13T15:15:58.000Z"
-  },
-  {
    "title": "GoPro MISSION 1 Series Update Released – Zero-Lag Shutter, Continuous 50MP RAW Photos and Anamorphic Lens Support",
    "link": "https://www.cined.com/gopro-mission-1-series-update-released-zero-lag-shutter-continuous-50mp-raw-photos-and-anamorphic-lens-support/",
    "summary": "GoPro has released a free firmware update for the MISSION 1 series that rebuilds how the cameras take photos, with a zero-lag shutter and continuous capture of more than 20 RAW frames at 50MP. The MISSION Monitor app gai",
@@ -1755,24 +1728,6 @@
    "source": "WIRED",
    "category": "ai",
    "date": "2026-10-13T11:00:00.000Z"
-  },
-  {
-   "title": "Tamron brings versatile 20-40mm F2.8 to Nikon Z",
-   "link": "https://www.provideocoalition.com/tamron-brings-versatile-20-40mm-f2-8-to-nikon-z/",
-   "summary": "Designed as a flexible everyday lens, the 20-40mm F2.8 covers a useful range from ultra-wide to a more natural perspective. On an APS-C camera it turns into a 30-60mm lens. Already well established in its Sony E-mount ve",
-   "image": "https://www.provideocoalition.com/wp-content/uploads/tamron2040_002.jpg",
-   "source": "ProVideo Coalition",
-   "category": "video",
-   "date": "2026-10-13T10:57:18.000Z"
-  },
-  {
-   "title": "Leica LUX camera grip for the iPhone now in silver finish",
-   "link": "https://www.provideocoalition.com/leica-lux-camera-grip-for-the-iphone-now-in-silver-finish/",
-   "summary": "The Leica LUX camera app has been given its most major update to date with a new gallery interface, but the camera grip and leather cases for the iPhone 18 series are what first grabs attention. The new silver Leica LUX ",
-   "image": "https://www.provideocoalition.com/wp-content/uploads/leicaluxgrip001-1.jpg",
-   "source": "ProVideo Coalition",
-   "category": "video",
-   "date": "2026-10-13T10:23:47.000Z"
   },
   {
    "title": "Open models have real benefits. Do they outweigh the risks?",
@@ -1883,15 +1838,6 @@
    "date": "2026-10-12T17:45:44.000Z"
   },
   {
-   "title": "Marshall to show award-winning solutions at NAB New York",
-   "link": "https://www.provideocoalition.com/marshall-to-show-award-winning-solutions-at-nab-new-york/",
-   "summary": "At the Javitts Center, Marshall will highlight its latest PTZ, POV and network-ready cameras for intelligent tracking, IP and SDI workflows in demanding production environments. A globally recognized provider of high-per",
-   "image": "https://www.provideocoalition.com/wp-content/uploads/marshallnabnewyork26_001.jpg",
-   "source": "ProVideo Coalition",
-   "category": "video",
-   "date": "2026-10-12T15:12:19.000Z"
-  },
-  {
    "title": "ARRI Film Lab 1.5 Released – 8mm to 65mm Film Formats, Anamorphic Grain and Halation, ACES 2.0 Support",
    "link": "https://www.cined.com/arri-film-lab-1-5-released-8mm-to-65mm-film-formats-anamorphic-grain-and-halation-aces-2-0-support/",
    "summary": "ARRI has released Film Lab 1.5, a major update to its OpenFX plugin that brings the look of analog film to digital images. The new version adds 8mm, 16mm and 65mm film formats, anamorphic grain and halation, ACES 2.0 sup",
@@ -1899,15 +1845,6 @@
    "source": "CineD",
    "category": "video",
    "date": "2026-10-12T15:04:33.000Z"
-  },
-  {
-   "title": "SWIT K7: a new 7-inch touchscreen cine monitor for video professionals",
-   "link": "https://www.provideocoalition.com/swit-k7-a-new-7-inch-touchscreen-cine-monitor-for-video-professionals/",
-   "summary": "Built for daylight shoots and mixed-signal camera rigs with dual NP-F hot-swap, 2-pin LEMO and USB-C PD power, the K7 is designed for video professionals using different camera setups. The new SWIT K7 combines an optical",
-   "image": "https://www.provideocoalition.com/wp-content/uploads/switk7_001.jpg",
-   "source": "ProVideo Coalition",
-   "category": "video",
-   "date": "2026-10-12T14:55:59.000Z"
   },
   {
    "title": "SWIT K7 Monitor Introduced – 7-Inch 2,800-Nit Touchscreen, SDI/HDMI Cross Conversion, Dual NP-F Hot-Swap",
@@ -1980,24 +1917,6 @@
    "source": "Nikon Rumors",
    "category": "photo",
    "date": "2026-10-11T19:28:57.000Z"
-  },
-  {
-   "title": "Lav Mic Handle, a generic accessory to convert your lav/transmitter mic into a proper handheld",
-   "link": "https://www.provideocoalition.com/lav-mic-handle-a-generic-accessory-to-convert-your-lav-transmitter-mic-into-a-proper-handheld/",
-   "summary": "This accessory is not a microphone, nor does it include any microphone. The first time I ever saw this type of an accessory was with RØDE’s US$29 Inverview GO, a handle for wireless transmitters which have a built-in mic",
-   "image": "https://www.provideocoalition.com/wp-content/uploads/Live-Mic_Handle-image.png",
-   "source": "ProVideo Coalition",
-   "category": "video",
-   "date": "2026-10-11T17:19:06.000Z"
-  },
-  {
-   "title": "The gear I travel with as a professional camera reviewer",
-   "link": "https://www.dpreview.com/videos/the-gear-i-travel-with-as-a-professional-camera-reviewer/",
-   "summary": "The cameras and, more importantly, accessories, that help me do my job.",
-   "image": "https://www.dpreview.com/wp-content/uploads/2026/10/gi-mitchell-clarks-bag-16x9-Lead-1.jpg",
-   "source": "DPReview",
-   "category": "photo",
-   "date": "2026-10-11T13:00:00.000Z"
   },
   {
    "title": "Sony a7 III Drops to $1,398 on Amazon: Full-Frame for Under $1,400",
@@ -2178,15 +2097,6 @@
    "source": "Y.M.Cinema",
    "category": "video",
    "date": "2026-10-08T07:03:04.000Z"
-  },
-  {
-   "title": "The model that didn't exist, so you made it yourself",
-   "link": "https://huggingface.co/blog/building-with-ml-intern",
-   "summary": "",
-   "image": "https://huggingface.co/blog/assets/building-with-ml-intern/thumbnail.png",
-   "source": "Hugging Face",
-   "category": "ai",
-   "date": "2026-10-08T00:00:00.000Z"
   },
   {
    "title": "Canon’s 800mm RF Lens Drops 25% to $899 During Prime Big Deal Days",
