@@ -1,29 +1,74 @@
 {
- "updated": "2026-10-17T05:59:52.516Z",
+ "updated": "2026-10-17T10:33:07.954Z",
  "items": [
   {
+   "title": "AI models hide mistakes in their own work reports, but one sentence in your prompt can help",
+   "link": "https://the-decoder.com/ai-models-hide-mistakes-in-their-own-work-reports-but-one-sentence-in-your-prompt-can-help/",
+   "summary": "AI agents systematically skip errors in their own reports, even when they spot the problems. In a study by Google Research, MIT, and Harvard, GPT-5.5 left out negative results in 198 out of 200 paper abstracts. The artic",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/insecure-reporters-checkmarks-nano-banana-pro.jpg",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-17T09:54:36.000Z"
+  },
+  {
+   "title": "AstrHori MF 8mm F2.4 Circular Fisheye Lens for Fujifilm GFX & Hasselblad XCD",
+   "link": "https://www.newsshooter.com/2026/10/17/astrhori-mf-8mm-f2-4-circular-fisheye-lens-for-fujifilm-gfx-hasselblad-xcd/",
+   "summary": "The AstrHori MF 8mm F2.4 Circular Fisheye Lens for Fujifilm GFX & Hasselblad XCD is a manual-focus lens designed for medium format mirrorless systems. It delivers a very wide 220° circular fisheye view. Key features The ",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/Asta.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-17T09:52:17.000Z"
+  },
+  {
+   "title": "Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof",
+   "link": "https://the-decoder.com/mathematicians-say-openai-doesnt-understand-its-own-navier-stokes-proof/",
+   "summary": "OpenAI submitted a 166-page solution to the Navier-Stokes problem but apparently doesn't fully understand its own proof. Several groups of experts dispute the claimed methodology, saying the actual approach differs from ",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_navier.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-17T09:00:26.000Z"
+  },
+  {
+   "title": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+   "link": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+   "summary": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
+   "image": "https://media.wired.com/photos/6acf63d6b06331734b2e70d7/master/pass/Physical%20Genome%20cr-Samuel%20Velasco%20and%20Hannah%20Waters_Quanta%20Magazine-Lede.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-10-17T09:00:00.000Z"
+  },
+  {
+   "title": "TIME Names Fujifilm’s $410 Retro Video Camera One of 2026’s Best Inventions",
+   "link": "https://ymcinema.com/2026/10/17/fujifilm-instax-mini-evo-cinema-time-best-inventions-2026/",
+   "summary": "Fujifilm’s instax mini Evo Cinema, a $410 hybrid instant camera capable of recording short video clips and producing physical prints, has been selected as one of TIME’s Best Inventions of 2026. The camera was recognized ",
+   "image": "https://ymcinema.com/wp-content/uploads/2026/10/TIME-Names-Fujifilms-410-Retro-Video-Camera-One-of-2026s-Best-Inventions.002.webp",
+   "source": "Y.M.Cinema",
+   "category": "video",
+   "date": "2026-10-17T08:22:40.000Z"
+  },
+  {
    "title": "VoxSplit Pro offline dialogue-separation tool update",
-   "link": "https://www.newsshooter.com/2026/10/16/voxsplit-pro-offline-dialogue-separation-tool-update/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=voxsplit-pro-offline-dialogue-separation-tool-update",
+   "link": "https://www.newsshooter.com/2026/10/16/voxsplit-pro-offline-dialogue-separation-tool-update/",
    "summary": "I featured Limited Edition Audio’s VoxSplit Pro about a month ago on the site. The company has now released Version 1.9.0. The new 1.9.0 version is claimed to bring substantial improvements to sibilants, consonants, and ",
-   "image": "https://www.newsshooter.com/wp-content/uploads/2026/10/VoxSplit-Pro-1.9.0-10-Dialogue-Separation-Examples-%E2%80%94-Original-Mix-Voice-A-Voice-B.jpeg",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/VoxSplit-Pro-1.9.0-10-Dialogue-Separation-Examples-%E2%80%94-Original-Mix-Voice-A-Voice-B.jpeg",
    "source": "Newsshooter",
    "category": "video",
    "date": "2026-10-16T23:54:00.000Z"
   },
   {
    "title": "QTAKE Pro 3.0",
-   "link": "https://www.newsshooter.com/2026/10/16/qtake-pro-3-0/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=qtake-pro-3-0",
+   "link": "https://www.newsshooter.com/2026/10/16/qtake-pro-3-0/",
    "summary": "QTAKE Pro 3.0 features a more flexible project setup and integrated QTAKE Sync (with a free license until the end of 2026), ThunderFace 4K Duo+ support, AI-powered slate and OSD scanning, Stream & Sync in QTAKE Lite, enh",
-   "image": "https://www.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-8.32.51.png",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-8.32.51.png",
    "source": "Newsshooter",
    "category": "video",
    "date": "2026-10-16T23:41:57.000Z"
   },
   {
    "title": "Z CAM E2-F6 Pro Firmware Update adds ProRes RAW internally at up to 6K 60fps",
-   "link": "https://www.newsshooter.com/2026/10/16/z-cam-e2-f6-pro-firmware-update-adds-prores-raw-internally-at-up-to-6k-60fps/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=z-cam-e2-f6-pro-firmware-update-adds-prores-raw-internally-at-up-to-6k-60fps",
+   "link": "https://www.newsshooter.com/2026/10/16/z-cam-e2-f6-pro-firmware-update-adds-prores-raw-internally-at-up-to-6k-60fps/",
    "summary": "Z CAM has released a firmware update for the E2-F6 Pro that adds ProRes RAW internally at up to 6K 60fps. The Z CAM E2-F6 Pro is the company’s flagship camera. It was first shown as a prototype back at IBC 2022, and it s",
-   "image": "https://www.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-8.26.12.png",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-8.26.12.png",
    "source": "Newsshooter",
    "category": "video",
    "date": "2026-10-16T23:27:42.000Z"
@@ -696,9 +741,9 @@
   },
   {
    "title": "Adobe & NVIDIA announce an expansion of their partnership",
-   "link": "https://www.newsshooter.com/2026/10/15/adobe-nvidia-announce-an-expansion-of-their-partnership/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=adobe-nvidia-announce-an-expansion-of-their-partnership",
+   "link": "https://www.newsshooter.com/2026/10/15/adobe-nvidia-announce-an-expansion-of-their-partnership/",
    "summary": "Adobe and NVIDIA have announced an expansion of their partnership to optimize Adobe’s flagship tools, including Adobe Photoshop, Premiere, Substance 3D, Frame.io and Brand Concierge. This is being done to deliver faster ",
-   "image": "https://www.newsshooter.com/wp-content/uploads/2026/10/NVIDIA-740x416.jpg",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/NVIDIA-scaled.jpg",
    "source": "Newsshooter",
    "category": "video",
    "date": "2026-10-16T04:28:08.000Z"
@@ -723,12 +768,48 @@
   },
   {
    "title": "Sony announces an almost $6,000 USD Walkman Signature Series Digital Audio Player",
-   "link": "https://www.newsshooter.com/2026/10/15/sony-announces-an-almost-6000-usd-walkman-signature-series-digital-audio-player/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=sony-announces-an-almost-6000-usd-walkman-signature-series-digital-audio-player",
+   "link": "https://www.newsshooter.com/2026/10/15/sony-announces-an-almost-6000-usd-walkman-signature-series-digital-audio-player/",
    "summary": "If you are of a certain vintage, you probably had a Sony Walkman when you were younger. Sony has released a new version, and one of the models available costs nearly $6,000 USD! The Sony NW-WM1ZM3 Walkman Signature Serie",
-   "image": "https://www.newsshooter.com/wp-content/uploads/2026/10/Sony-Signature-Series-Walkman%C2%AE-NW-WM1ZM3-Product-Video-with-Audio-Description-Sony-Official.jpeg",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/Sony-Signature-Series-Walkman%C2%AE-NW-WM1ZM3-Product-Video-with-Audio-Description-Sony-Official.jpeg",
    "source": "Newsshooter",
    "category": "video",
    "date": "2026-10-16T01:10:13.000Z"
+  },
+  {
+   "title": "Elgato Wave Go Wireless Microphone System for Mobile Devices",
+   "link": "https://www.newsshooter.com/2026/10/15/elgato-wave-go-wireless-microphone-system-for-mobile-devices/",
+   "summary": "The Elgato Wave Go Wireless Microphone System can function as both a clip-on and a handheld microphone system for your mobile device or laptop when recording interviews, podcasts, and livestreams. The Wave Go consists of",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/Elgato-Wave-Go-Product-Trailer.jpeg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-16T00:50:11.000Z"
+  },
+  {
+   "title": "ARRI LPM-1 SUP 1.0.0",
+   "link": "https://www.newsshooter.com/2026/10/15/arri-lpm-1-sup-1-0-0/",
+   "summary": "ARRI has announced the LPM-1 Software Update Package SUP 1.0.0, which improves the overall user experience and introduces safeguards to power management in situations where the monitor is connected to the camera solely v",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/LPM-scaled.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-16T00:27:29.000Z"
+  },
+  {
+   "title": "ARRI Hi-5/Hi-5 SX SUP 3.6.6",
+   "link": "https://www.newsshooter.com/2026/10/15/arri-hi-5-hi-5-sx-sup-3-6-6/",
+   "summary": "ARRI has released Software Update Package (SUP) 3.6.6 for the Hi-5 and Hi-5 SX. New features include focus marks now being able to be handled by ALEXA 35 cameras and the ALEXA 265, and continuous exposure index values of",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/Hi-5-scaled.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-16T00:22:47.000Z"
+  },
+  {
+   "title": "Canon PTZ firmware updates",
+   "link": "https://www.newsshooter.com/2026/10/15/canon-ptz-firmware-updates-2/",
+   "summary": "Canon PTZ firmware updates are now available. Select models now feature on-board recording, auto-tracking face registration, and toggle auto-tracking on preset recall. Firmware updates are available for the following PTZ",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/Canon-PTZ-scaled.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-16T00:10:05.000Z"
   },
   {
    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
@@ -758,6 +839,15 @@
    "date": "2026-10-16T00:00:00.000Z"
   },
   {
+   "title": "Blackmagic Camera 10.3.1",
+   "link": "https://www.newsshooter.com/2026/10/15/blackmagic-camera-10-3-1/",
+   "summary": "Blackmagic Design has released Blackmagic Camera 10.3.1, which adds improved stability when starting a stream to Blackmagic Cloud with the Blackmagic URSA Broadcast G2. It also mentions manufacturing improvements for the",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-16-at-8.44.42.png",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-15T23:49:05.000Z"
+  },
+  {
    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
    "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
    "summary": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
@@ -765,6 +855,15 @@
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-15T23:44:56.000Z"
+  },
+  {
+   "title": "ARRI ALEXA 35 cameras & ALEXA 265 SUP 6.2.0",
+   "link": "https://www.newsshooter.com/2026/10/15/arri-alexa-35-cameras-alexa-265-sup-6-2-0/",
+   "summary": "ARRI has released Software Update Package SUP 6.2.0 for the ALEXA 35, ALEXA 35 Xtreme, ALEXA 35 Live, ALEXA 35 Live Xtreme, and ALEXA 265. The main features of this release are the introduction of full Focusbug Cine RT i",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/35-Xtreme-scaled.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-15T23:44:01.000Z"
   },
   {
    "title": "Domain redirection/forwarding (Typosquatting Protection): Why you may want it + best practices & extra credit/fun",
@@ -1094,7 +1193,7 @@
    "title": "‘A Seal’s Nightmare’: Menacing Polar Bear Photo Wins Award",
    "link": "https://petapixel.com/2026/10/15/a-seals-nightmare-menacing-polar-bear-photo-wins-award/",
    "summary": "The winners of the Ournature Environmental Photo & Video Awards, a competition that places environmental storytelling at its heart, have revealed its winners for 2026. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/Ournature-Environmental-Photo-Video-Awards.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-15T17:00:21.000Z"
@@ -1125,15 +1224,6 @@
    "source": "Sony Alpha Rumors",
    "category": "photo",
    "date": "2026-10-15T16:35:55.000Z"
-  },
-  {
-   "title": "Google wants Gemini 4 Argon to be the only AI model robots need",
-   "link": "https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/",
-   "summary": "Google's Gemini 4 Argon controls robots, generates simulations from photos or sketches, and evaluates training videos. On Google's own ERQA benchmark, it scores 87 percent. But the published example prompts show that the",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/gemini-4-argon-robotics-03-spot-trash-bin.jpg",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-15T16:35:47.000Z"
   },
   {
    "title": "Thypoch 24-50mm f/2.8 lens coming soon for Nikon Z-mount",
@@ -1170,15 +1260,6 @@
    "source": "ZDNet",
    "category": "ai",
    "date": "2026-10-15T16:18:57.000Z"
-  },
-  {
-   "title": "Nvidia's Nemotron 3.5 Super VL is an open model built to run enterprise AI agents nonstop",
-   "link": "https://the-decoder.com/nvidias-nemotron-3-5-super-vl-is-an-open-model-built-to-run-enterprise-ai-agents-nonstop/",
-   "summary": "With Nemotron 3.5 Super VL, Nvidia is releasing an open multimodal model with 120 billion parameters for enterprise agents. Two compact Bolt models bring agents to local machines. Dozens of organizations are already fine",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/08/nvidia_logo.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-15T16:09:44.000Z"
   },
   {
    "title": "The Real Reason Most Photography Websites Fail",
@@ -1244,6 +1325,15 @@
    "date": "2026-10-15T14:39:02.000Z"
   },
   {
+   "title": "Boya Notra Nano Wearable AI Note Taker",
+   "link": "https://www.newsshooter.com/2026/10/15/boya-notra-nano-wearable-ai-note-taker/",
+   "summary": "The Boya Notra Nano Wearable AI Note Taker is being touted as an easy-to-use, compact, wearable AI voice recorder. It was designed to capture audio and automatically transform conversations into structured digital notes.",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-15-at-23.09.51.jpeg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-15T14:34:02.000Z"
+  },
+  {
    "title": "Top 10 Instagram Giveaway Ideas to Increase Your Follower Count",
    "link": "https://metricool.com/top-10-instagram-giveaway-ideas-to-increase-your-follower-count/",
    "summary": "Want to grow your Instagram while having a bit of fun? These Instagram giveaways will help you attract followers and run campaigns that actually work.",
@@ -1269,6 +1359,15 @@
    "source": "ProVideo Coalition",
    "category": "video",
    "date": "2026-10-15T14:17:41.000Z"
+  },
+  {
+   "title": "SIRUI SVS60+BH-60 Versatile Tripod Integrated Ball & Fluid Head Professional Tripod Kit",
+   "link": "https://www.newsshooter.com/2026/10/15/sirui-svs60bh-60-versatile-tripod-integrated-ball-fluid-head-professional-tripod-kit/",
+   "summary": "The new SIRUI SVS60+BH-60 Versatile Tripod Integrated Ball & Fluid Head Professional Tripod Kit is a hybrid carbon-fiber support system designed for both video and stills. The BH-60 features a 2-in-1 Dual Mode Head that ",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/SIRUI-tripod-scaled.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-15T14:03:09.000Z"
   },
   {
    "title": "Sony Alpha Rumors’ Andrea Pizzini’s Walk-In Camera: Wall-Size Photos, No Pixel Count – Focus Check ep138",
@@ -1422,6 +1521,15 @@
    "source": "CineD",
    "category": "video",
    "date": "2026-10-15T07:44:57.000Z"
+  },
+  {
+   "title": "KOLAR BASIS Version 2.0 color grading plugin for Final Cut Pro",
+   "link": "https://www.newsshooter.com/2026/10/15/kolar-basis-version-2-0-color-grading-plugin-for-final-cut-pro/",
+   "summary": "The KOLAR BASIS Version 2.0 color grading plugin for Final Cut Pro provides a major update featuring a custom UI built from the ground up that replaces standard Final Cut Pro sliders. There is also added color space supp",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/The-best-Colour-Grading-Plugin-for-Final-Cut-Pro-got-even-better..jpeg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-15T07:24:04.000Z"
   },
   {
    "title": "Getty Images going private, following collapse of ShutterStock deal and rise of AI",
@@ -1773,15 +1881,6 @@
    "source": "DPReview",
    "category": "photo",
    "date": "2026-10-14T00:55:01.000Z"
-  },
-  {
-   "title": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
-   "link": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/",
-   "summary": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
-   "image": "https://media.wired.com/photos/6acf68394246ebd08155f6c2/master/pass/2026-10-13T224936Z_547248141_RC2F2OAXO3WE_RTRMADP_3_OPENAI-SPYING-FBI.jpg",
-   "source": "WIRED",
-   "category": "ai",
-   "date": "2026-10-13T23:17:59.000Z"
   },
   {
    "title": "This year’s Wildlife Photographer winners deliver striking images of our natural world",
@@ -2232,15 +2331,6 @@
    "source": "Y.M.Cinema",
    "category": "video",
    "date": "2026-10-08T07:03:04.000Z"
-  },
-  {
-   "title": "Canon’s 800mm RF Lens Drops 25% to $899 During Prime Big Deal Days",
-   "link": "https://ymcinema.com/2026/10/07/canon-rf800mm-f11-prime-big-deal-days-899/",
-   "summary": "Canon’s RF800mm F11 IS STM has received one of the more substantial Canon discounts during Amazon’s Prime Big Deal Days. The super telephoto prime is currently listed at $899, down 25% from its $1,198 list price. Amazon ",
-   "image": "https://s.w.org/images/core/emoji/17.0.2/72x72/1f4e6.png",
-   "source": "Y.M.Cinema",
-   "category": "video",
-   "date": "2026-10-07T15:26:00.000Z"
   },
   {
    "title": "Introducing Playground: Create and play custom games",
