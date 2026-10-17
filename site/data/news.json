@@ -1,8 +1,35 @@
 {
- "updated": "2026-10-17T19:40:11.305Z",
+ "updated": "2026-10-17T22:05:41.304Z",
  "items": [
   {
-   "title": "Replit is no longer working with Anthropic, CEO says",
+   "title": "Meta removes language that raised scraping and AI training concerns",
+   "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+   "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-17T21:31:32.000Z"
+  },
+  {
+   "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+   "link": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+   "summary": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "category": "tiktok",
+   "date": "2026-10-17T20:55:52.000Z"
+  },
+  {
+   "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+   "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+   "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-17T20:21:19.000Z"
+  },
+  {
+   "title": "Replit makes OpenAI its default over Anthropic, CEO says",
    "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
    "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
@@ -27,6 +54,15 @@
    "source": "Canon Rumors",
    "category": "photo",
    "date": "2026-10-17T17:37:29.000Z"
+  },
+  {
+   "title": "BenQ PD2732U Review: Could This Be The Monitor for Photographers?",
+   "link": "https://fstoppers.com/gear/benq-pd2732u-review-could-be-monitor-photographers-904626?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "When BenQ asked me if I would like to take a look at the new PD2732U monitor, I was interested because a monitor is something I spend a lot of time looking at, particularly when I am editing photographs. Color accuracy i",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/09/benq-pd2732u-11.jpg.webp?itok=V_E6_g3o",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-17T16:03:01.000Z"
   },
   {
    "title": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet",
@@ -1084,8 +1120,8 @@
   {
    "title": "TikTok shares holiday sales data",
    "link": "https://www.socialmediatoday.com/news/tiktok-shares-holiday-sales-data/833191/",
-   "summary": "In-app sales surpassed $500 million between Black Friday and Cyber Monday last year, per the company.",
-   "image": "https://imgproxy.divecdn.com/Y4ZmvMFIMSqp4fqK6QP6VSNEJdYXSyfKg8o4E5lDU40/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfbG9nby5wbmc=.webp",
+   "summary": "The company said in-app sales surpassed $500 million between Black Friday Cyber Monday last year and users are currently looking for holiday inspiration.",
+   "image": "",
    "source": "Social Media Today",
    "category": "tiktok",
    "date": "2026-10-15T21:58:55.000Z"
@@ -1210,7 +1246,7 @@
   {
    "title": "Meta offers enhanced ad campaign exposure",
    "link": "https://www.socialmediatoday.com/news/meta-offers-enhanced-ad-campaign-exposure/833171/",
-   "summary": "A trio of ad updates includes a new First Impressions option and expanded Reels services.",
+   "summary": "At its brand building summit the company announced a trio of ad updates, which included a new First Impressions option and expanded Reels services.",
    "image": "https://imgproxy.divecdn.com/MTzBQw8xiKv56ggFcHxUayozBZ93So_FOMQd7218fXg/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2JyYW5kX3N1bW1pdC5wbmc=.webp",
    "source": "Social Media Today",
    "category": "instagram",
@@ -1280,15 +1316,6 @@
    "date": "2026-10-15T19:00:00.000Z"
   },
   {
-   "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-   "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-   "summary": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/55591989690_9a07db512f_k.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-15T18:56:46.000Z"
-  },
-  {
    "title": "The Godox A2 is a real flash for your phone",
    "link": "https://www.dpreview.com/news/godox-a2-phone-flash-announced/",
    "summary": "The company is bringing its flash expertise to a whole new kind of camera.",
@@ -1332,15 +1359,6 @@
    "source": "No Film School",
    "category": "video",
    "date": "2026-10-15T18:00:04.000Z"
-  },
-  {
-   "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
-   "link": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
-   "summary": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/12/TC-All-Stage-2025-roundtable.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-15T18:00:00.000Z"
   },
   {
    "title": "New Sony 400mm and 600mm GM lenses are now shipping out in the US",
@@ -1494,15 +1512,6 @@
    "source": "DPReview",
    "category": "photo",
    "date": "2026-10-15T14:00:00.000Z"
-  },
-  {
-   "title": "Is the Tamron 16-50mm f/2.8 the APS-C Zoom Worth Leaving on Your Camera?",
-   "link": "https://fstoppers.com/gear/tamron-16-50mm-f28-aps-c-zoom-worth-leaving-your-camera-905060?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "A constant f/2.8 standard zoom is the lens most APS-C shooters end up leaving on the camera, yet the options have often been heavy, expensive, or simply missing from certain mounts. The Tamron 16-50mm f/2.8 costs roughly",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_55.jpg.webp?itok=SyVzvXi2",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-10-15T13:03:01.000Z"
   },
   {
    "title": "Poll: What Is Your Preferred Camera Form Factor?",
