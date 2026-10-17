@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T01:11:32.736Z",
+ "updated": "2026-10-17T05:59:52.516Z",
  "items": [
   {
    "title": "VoxSplit Pro offline dialogue-separation tool update",
@@ -695,6 +695,15 @@
    "date": "2026-10-16T06:55:39.000Z"
   },
   {
+   "title": "Adobe & NVIDIA announce an expansion of their partnership",
+   "link": "https://www.newsshooter.com/2026/10/15/adobe-nvidia-announce-an-expansion-of-their-partnership/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=adobe-nvidia-announce-an-expansion-of-their-partnership",
+   "summary": "Adobe and NVIDIA have announced an expansion of their partnership to optimize Adobe’s flagship tools, including Adobe Photoshop, Premiere, Substance 3D, Frame.io and Brand Concierge. This is being done to deliver faster ",
+   "image": "https://www.newsshooter.com/wp-content/uploads/2026/10/NVIDIA-740x416.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-16T04:28:08.000Z"
+  },
+  {
    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
    "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
    "summary": "",
@@ -722,18 +731,18 @@
    "date": "2026-10-16T01:10:13.000Z"
   },
   {
-   "title": "Elgato Wave Go Wireless Microphone System for Mobile Devices",
-   "link": "https://www.newsshooter.com/2026/10/15/elgato-wave-go-wireless-microphone-system-for-mobile-devices/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=elgato-wave-go-wireless-microphone-system-for-mobile-devices",
-   "summary": "The Elgato Wave Go Wireless Microphone System can function as both a clip-on and a handheld microphone system for your mobile device or laptop when recording interviews, podcasts, and livestreams. The Wave Go consists of",
-   "image": "https://www.newsshooter.com/wp-content/uploads/2026/10/Elgato-Wave-Go-Product-Trailer.jpeg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-10-16T00:50:11.000Z"
-  },
-  {
    "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
    "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
    "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+   "image": "",
+   "source": "OpenAI",
+   "category": "ai",
+   "date": "2026-10-16T00:00:00.000Z"
+  },
+  {
+   "title": "Benefit Street Partners answers questions faster with Codex",
+   "link": "https://openai.com/index/benefit-street-partners",
+   "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
    "image": "",
    "source": "OpenAI",
    "category": "ai",
@@ -806,7 +815,7 @@
    "title": "TikTok shares holiday sales data",
    "link": "https://www.socialmediatoday.com/news/tiktok-shares-holiday-sales-data/833191/",
    "summary": "The company said in-app sales surpassed $500 million between Black Friday Cyber Monday last year and users are currently looking for holiday inspiration.",
-   "image": "",
+   "image": "https://imgproxy.divecdn.com/Y4ZmvMFIMSqp4fqK6QP6VSNEJdYXSyfKg8o4E5lDU40/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfbG9nby5wbmc=.webp",
    "source": "Social Media Today",
    "category": "tiktok",
    "date": "2026-10-15T21:58:55.000Z"
@@ -1085,7 +1094,7 @@
    "title": "‘A Seal’s Nightmare’: Menacing Polar Bear Photo Wins Award",
    "link": "https://petapixel.com/2026/10/15/a-seals-nightmare-menacing-polar-bear-photo-wins-award/",
    "summary": "The winners of the Ournature Environmental Photo & Video Awards, a competition that places environmental storytelling at its heart, have revealed its winners for 2026. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/Ournature-Environmental-Photo-Video-Awards.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-15T17:00:21.000Z"
@@ -1499,7 +1508,7 @@
    "title": "TikTok inks microdrama partnership with Made By Us studios",
    "link": "https://www.socialmediatoday.com/news/tiktok-inks-microdrama-partnership-with-made-by-us-studios/833055/",
    "summary": "The content deal gives TikTok exclusive rights to select microdrama series from several high-profile creators.",
-   "image": "",
+   "image": "https://imgproxy.divecdn.com/k3j5Krl0xJKhwobnbcNcGMeqEw0npkVcNolZGQpdkIk/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfbWFkZV9ieV91cy5wbmc=.webp",
    "source": "Social Media Today",
    "category": "tiktok",
    "date": "2026-10-14T20:41:34.000Z"
@@ -1709,15 +1718,6 @@
    "image": "https://storage.ghost.io/c/6d/21/6d217297-aa70-41fe-b68d-e29e411dd3ed/content/images/2025/11/TrendingSounds-Instagram.png",
    "source": "Buffer",
    "category": "instagram",
-   "date": "2026-10-14T07:00:00.000Z"
-  },
-  {
-   "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-   "link": "https://openai.com/index/third-moment-research",
-   "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-   "image": "",
-   "source": "OpenAI",
-   "category": "ai",
    "date": "2026-10-14T07:00:00.000Z"
   },
   {
