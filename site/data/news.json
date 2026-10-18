@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T00:12:04.678Z",
+ "updated": "2026-10-18T04:59:49.776Z",
  "items": [
   {
    "title": "Meta removes language that raised scraping and AI training concerns",
@@ -9,6 +9,15 @@
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-17T21:31:32.000Z"
+  },
+  {
+   "title": "Six-Tenths of a Second Separated Two Dallas Photographers in 1963, and Only One Won the Pulitzer",
+   "link": "https://fstoppers.com/historical/six-tenths-second-separated-two-dallas-photographers-1963-and-only-one-won-904226?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "At 11:21 on the morning of November 24, 1963, Jack Beers was standing on a railing in the basement of Dallas police headquarters with a Mamiyaflex twin-lens reflex, and he tripped his shutter as Jack Ruby stepped into th",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/08/six-tenths-of-a-second-in-dallas-1963-mamiyaflex-tlr.jpg.webp?itok=ANTCw9fb",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-17T21:03:01.000Z"
   },
   {
    "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
@@ -27,15 +36,6 @@
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-17T20:21:19.000Z"
-  },
-  {
-   "title": "TikTok bans Musk documentary account",
-   "link": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
-   "summary": "Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The Hollyw",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194418432.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "tiktok",
-   "date": "2026-10-17T19:32:23.000Z"
   },
   {
    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
@@ -905,7 +905,7 @@
    "title": "Facebook Rolls Out Your Algorithm to Let Users Shape Feeds",
    "link": "https://metricool.com/facebook-rolls-out-your-algorithm/",
    "summary": "Facebook’s Your Algorithm lets you choose what appears in your Feed and Reels. Learn how it works and what it means for creators and social media managers.",
-   "image": "https://metricool.com/wp-content/uploads/feature-image-product-1792137310087.webp",
+   "image": "https://metricool.com/wp-content/uploads/facebook-rolls-out-your-algorithm-3.webp",
    "source": "Metricool",
    "category": "instagram",
    "date": "2026-10-16T10:11:28.000Z"
@@ -1442,15 +1442,6 @@
    "date": "2026-10-15T15:12:58.000Z"
   },
   {
-   "title": "Every Flash Photo Is Really Two Exposures",
-   "link": "https://fstoppers.com/education/every-flash-photo-really-two-exposures-905061?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "Most people who freeze up with flash have memorized a few settings that worked once, and those settings fall apart the moment the sun moves or the room gets darker. A fixed order of decisions, run the same way with a sma",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_56.jpg.webp?itok=9iUJJ66B",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-10-15T15:03:01.000Z"
-  },
-  {
    "title": "Nvidia’s new Nemotron 3.5 Super VL is another step forward for US open-weight AI",
    "link": "https://www.zdnet.com/innovation/nvidia-nemotron-3-5-super-vl-model-us-open-weight-ai/",
    "summary": "Nvidia’s new models join a wave of open-weight releases from US labs on the heels of the Hugging Face hack.",
@@ -1481,7 +1472,7 @@
    "title": "Top 10 Instagram Giveaway Ideas to Increase Your Follower Count",
    "link": "https://metricool.com/top-10-instagram-giveaway-ideas-to-increase-your-follower-count/",
    "summary": "Want to grow your Instagram while having a bit of fun? These Instagram giveaways will help you attract followers and run campaigns that actually work.",
-   "image": "https://metricool.com/wp-content/uploads/put-here-your-key-words-1-2.jpg",
+   "image": "https://metricool.com/wp-content/uploads/instagram-giveaway-ideas.webp",
    "source": "Metricool",
    "category": "instagram",
    "date": "2026-10-15T14:31:07.000Z"
