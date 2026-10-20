@@ -1,6 +1,60 @@
 {
- "updated": "2026-10-19T22:11:11.739Z",
+ "updated": "2026-10-20T01:10:19.015Z",
  "items": [
+  {
+   "title": "Motion Dock for Adobe After Effects",
+   "link": "https://www.newsshooter.com/2026/10/19/motion-dock-for-adobe-after-effects/",
+   "summary": "Motion Dock for Adobe After Effects is a free toolset that allows users to add 28 workflow tools into one customizable panel inside After Effects. It was designed to consolidate repetitive tasks (like shifting anchor poi",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-9.48.31-AM.jpeg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-20T00:52:14.000Z"
+  },
+  {
+   "title": "Megadap firmware version 2.07 for its Sony E to Nikon Z electronic mount adapters",
+   "link": "https://www.newsshooter.com/2026/10/19/megadap-firmware-version-2-07-for-its-sony-e-to-nikon-z-electronic-mount-adapters/",
+   "summary": "Megadap has released firmware version 2.07 for its Sony E to Nikon Z electronic mount adapters, including the ETZ21, ETZ21 Pro, and ETZ21 Pro+. The update is claimed to improve startup response times and operational stab",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/Megadap.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-20T00:24:37.000Z"
+  },
+  {
+   "title": "Phottix PU230 & FS200 Light Stands",
+   "link": "https://www.newsshooter.com/2026/10/19/phottix-pu230-fs200-light-stands/",
+   "summary": "Phottix has announced its new PU230 and FS200 light stands. The PU230 is a one-click pop-up air cushion stand with quick-deploy legs, while the FS200 is a reversible compact stand that is compact and lightweight and fold",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/Phottix.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-20T00:02:41.000Z"
+  },
+  {
+   "title": "Adobe adds easy AI eye generation to Lightroom Mobile",
+   "link": "https://www.dpreview.com/news/adobe-adds-easy-ai-eye-generation-to-lightroom-mobile/",
+   "summary": "The feature will detect if someone has their eyes closed in a photo and create a new pair for them.",
+   "image": "https://www.dpreview.com/wp-content/uploads/2026/10/m-gi-adobe-lightroom-open-eyes-illustration-16x9-Lead-1.jpg",
+   "source": "DPReview",
+   "category": "photo",
+   "date": "2026-10-20T00:00:00.000Z"
+  },
+  {
+   "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+   "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+   "summary": "In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-19T23:39:38.000Z"
+  },
+  {
+   "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+   "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+   "summary": "AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods beh",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4993.jpeg?resize=1200,900",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-19T22:49:27.000Z"
+  },
   {
    "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
    "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
@@ -45,6 +99,15 @@
    "source": "No Film School",
    "category": "video",
    "date": "2026-10-19T21:08:37.000Z"
+  },
+  {
+   "title": "Connecticut Wrote Six Rules for Photoshopped Evidence in 2004 and Kept an Innocent Man in Prison Anyway",
+   "link": "https://fstoppers.com/historical/connecticut-wrote-six-rules-photoshopped-evidence-2004-and-kept-innocent-man-904244?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "A judge in Hartford wanted to know how the computer had made a set of plaster teeth semi-transparent so they could be laid over an autopsy photograph of a murdered woman's breast. \"Judge, you got me,\" the state's forensi",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/08/connecticut-six-rules-for-photoshopped-evidence-supreme-court-building.jpg.webp?itok=5kESkDmb",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-19T21:03:02.000Z"
   },
   {
    "title": "One of the Last Masters of the Platinum Photo Printing Process",
@@ -112,7 +175,7 @@
   {
    "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
    "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
-   "summary": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for",
+   "summary": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/cyberatttack.jpg?w=612",
    "source": "TechCrunch",
    "category": "ai",
@@ -356,7 +419,7 @@
    "title": "60-Year-Old Found Footage Proves Famous Bigfoot Footage Is a Hoax",
    "link": "https://petapixel.com/2026/10/19/60-year-old-found-footage-proves-famous-bigfoot-footage-is-a-hoax/",
    "summary": "On October 20, 1967, Roger Patterson and Robert \"Bob\" Gimlin captured just under a minute of shaky, grainy 16mm film footage of Bigfoot. Allegedly. Nearly 60 years later, the new documentary Capturing Bigfoot finally put",
-   "image": "https://petapixel.com/assets/uploads/2026/10/patterson-gimlin-film-frame-53.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-19T14:57:34.000Z"
@@ -437,7 +500,7 @@
    "title": "I Tried a Starlapse (and Learned a Lot)",
    "link": "https://petapixel.com/2026/10/19/i-tried-a-starlapse-and-learned-a-lot/",
    "summary": "Ever since capturing my solar eclipse timelapse, I’ve wanted to explore and refine the technique. There were quite a few takeaways from that previous project in terms of settings and best practices, so I’m carrying those",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/starlapse-thumb.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-19T14:01:24.000Z"
@@ -542,6 +605,15 @@
    "date": "2026-10-19T12:00:00.000Z"
   },
   {
+   "title": "Advancing coding in low‑resource programming languages",
+   "link": "https://openai.com/index/low-resource-programming-languages",
+   "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+   "image": "",
+   "source": "OpenAI",
+   "category": "ai",
+   "date": "2026-10-19T12:00:00.000Z"
+  },
+  {
    "title": "The neocloud shakeout is coming, and Nvidia has the most to lose",
    "link": "https://the-decoder.com/the-neocloud-shakeout-is-coming-and-nvidia-has-the-most-to-lose/",
    "summary": "After stock crashes and Firmus's scrapped IPO, industry executives expect only seven to ten of the hundreds of AI cloud providers to survive. CoreWeave lost a quarter of its market value, and Microsoft pulled out of a de",
@@ -585,6 +657,15 @@
    "source": "Fstoppers",
    "category": "photo",
    "date": "2026-10-19T11:03:01.000Z"
+  },
+  {
+   "title": "What is Theme in Movies and TV?",
+   "link": "https://nofilmschool.com/themes-in-film",
+   "summary": "Your script theme needs to carry both the weight of the story and a connection to the audience. That's a significant burden to bear. So how can you tell if your theme is coming across, or if you even have one? I went to ",
+   "image": "https://nofilmschool.com/media-library/what-is-theme-in-movies-and-tv.jpg?id=34072188&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-19T10:28:00.000Z"
   },
   {
    "title": "Fujifilm and World Press Photo Extend Strategic Partnership Through 2030",
@@ -1055,15 +1136,6 @@
    "date": "2026-10-17T19:32:23.000Z"
   },
   {
-   "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-   "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-   "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer partnering with Anthropic",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-17T18:48:08.000Z"
-  },
-  {
    "title": "Maven launched the new portable Talon lights",
    "link": "https://www.sonyalpharumors.com/maven-launched-the-new-portable-talon-lights/",
    "summary": "After 7 years of development Maven launched the new Talon lights on Kickstarter (Click here). The post Maven launched the new portable Talon lights first appeared on sonyalpharumors .",
@@ -1098,15 +1170,6 @@
    "source": "The Verge",
    "category": "ai",
    "date": "2026-10-17T15:04:36.000Z"
-  },
-  {
-   "title": "Why Boredom Might Be the Best Thing for Your Street Photography",
-   "link": "https://fstoppers.com/education/why-boredom-might-be-best-thing-your-street-photography-905079?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "Most street photography outings involve long stretches where nothing worth photographing happens, and how you handle those stretches shapes what you bring home. If you've ever walked for two hours, felt the pressure buil",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_64.jpg.webp?itok=gWtBn5oj",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-10-17T15:03:02.000Z"
   },
   {
    "title": "From iPhone DUO to Instax Mini Evo Cinema Camera – TIME’s Best Invention of 2026",
@@ -1208,24 +1271,6 @@
    "date": "2026-10-16T23:54:00.000Z"
   },
   {
-   "title": "QTAKE Pro 3.0",
-   "link": "https://www.newsshooter.com/2026/10/16/qtake-pro-3-0/",
-   "summary": "QTAKE Pro 3.0 features a more flexible project setup and integrated QTAKE Sync (with a free license until the end of 2026), ThunderFace 4K Duo+ support, AI-powered slate and OSD scanning, Stream & Sync in QTAKE Lite, enh",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-8.32.51.png",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-10-16T23:41:57.000Z"
-  },
-  {
-   "title": "Z CAM E2-F6 Pro Firmware Update adds ProRes RAW internally at up to 6K 60fps",
-   "link": "https://www.newsshooter.com/2026/10/16/z-cam-e2-f6-pro-firmware-update-adds-prores-raw-internally-at-up-to-6k-60fps/",
-   "summary": "Z CAM has released a firmware update for the E2-F6 Pro that adds ProRes RAW internally at up to 6K 60fps. The Z CAM E2-F6 Pro is the company’s flagship camera. It was first shown as a prototype back at IBC 2022, and it s",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-17-at-8.26.12.png",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-10-16T23:27:42.000Z"
-  },
-  {
    "title": "Light Bright in Tight Spaces With These Compact and Powerful Bi-Color LED Monolights",
    "link": "https://nofilmschool.com/amaran-led-monolights",
    "summary": "Struggling to find LED lights that are small and lightweight enough to use in tight spaces, but still ready to pack a bright punch that can give you enough light to creatively shoot your scenes exactly as you desire? Wel",
@@ -1325,15 +1370,6 @@
    "date": "2026-10-16T19:30:03.000Z"
   },
   {
-   "title": "ARRI’s Live Production Monitor Gets Some New Power Management Safeguards and Improvements",
-   "link": "https://nofilmschool.com/arri-lpm-1-sup-1-0-0",
-   "summary": "Alongside notable updates to its ALEXA 35mm and 65mm camera range, ARRI has announced an important Software Update Package (SUP) for its Live Production Monitor. The ARRI LPM-1 is getting the release of SUP 1.0.0, which ",
-   "image": "https://nofilmschool.com/media-library/arri-lpm-1-sup-1-0-0.png?id=68452828&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-16T19:00:02.000Z"
-  },
-  {
    "title": "How Itaú is building generative AI for its entire customer base",
    "link": "https://openai.com/index/itau-generative-ai",
    "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s most regulated sectors.",
@@ -1350,15 +1386,6 @@
    "source": "MIT Tech Review",
    "category": "ai",
    "date": "2026-10-16T18:00:00.000Z"
-  },
-  {
-   "title": "India becomes the latest country to report rogue AI agent activity",
-   "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-   "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/india-cyber-attack.jpg?w=612",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-16T17:52:24.000Z"
   },
   {
    "title": "Munich dumps proprietary for open source (again) – but no Linux desktop",
@@ -1559,15 +1586,6 @@
    "date": "2026-10-16T09:01:08.000Z"
   },
   {
-   "title": "Adobe & NVIDIA announce an expansion of their partnership",
-   "link": "https://www.newsshooter.com/2026/10/15/adobe-nvidia-announce-an-expansion-of-their-partnership/",
-   "summary": "Adobe and NVIDIA have announced an expansion of their partnership to optimize Adobe’s flagship tools, including Adobe Photoshop, Premiere, Substance 3D, Frame.io and Brand Concierge. This is being done to deliver faster ",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/NVIDIA-scaled.jpg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-10-16T04:28:08.000Z"
-  },
-  {
    "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
    "link": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
    "summary": "",
@@ -1586,18 +1604,18 @@
    "date": "2026-10-16T01:14:40.000Z"
   },
   {
-   "title": "Benefit Street Partners answers questions faster with Codex",
-   "link": "https://openai.com/index/benefit-street-partners",
-   "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+   "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+   "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+   "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
    "image": "",
    "source": "OpenAI",
    "category": "ai",
    "date": "2026-10-16T00:00:00.000Z"
   },
   {
-   "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-   "link": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-   "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+   "title": "Benefit Street Partners answers questions faster with Codex",
+   "link": "https://openai.com/index/benefit-street-partners",
+   "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
    "image": "",
    "source": "OpenAI",
    "category": "ai",
@@ -1634,7 +1652,7 @@
    "title": "TikTok shares holiday sales data",
    "link": "https://www.socialmediatoday.com/news/tiktok-shares-holiday-sales-data/833191/",
    "summary": "In-app sales surpassed $500 million between Black Friday and Cyber Monday last year, per the company.",
-   "image": "",
+   "image": "https://imgproxy.divecdn.com/Y4ZmvMFIMSqp4fqK6QP6VSNEJdYXSyfKg8o4E5lDU40/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfbG9nby5wbmc=.webp",
    "source": "Social Media Today",
    "category": "tiktok",
    "date": "2026-10-15T21:58:55.000Z"
@@ -1991,15 +2009,6 @@
    "date": "2026-10-14T12:00:00.000Z"
   },
   {
-   "title": "SentinelOne cuts malware analysis from weeks to hours",
-   "link": "https://openai.com/index/sentinelone",
-   "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-   "image": "",
-   "source": "OpenAI",
-   "category": "ai",
-   "date": "2026-10-14T12:00:00.000Z"
-  },
-  {
    "title": "Tamron Officially Announces the RF 16-50mm f/2.8 A for APS-C",
    "link": "https://www.canonrumors.com/tamron-officially-announces-the-rf-16-50mm-f-2-8-a-for-aps-c/",
    "summary": "Tamron continues to slowly build out its Canon APS-C RF lineup of lenses, this time they have announced a very affordable constant aperture 16-50mm f/2.8 A, which gives you about a 26-80mm 35mm equivalent on Canon crop s",
@@ -2052,15 +2061,6 @@
    "source": "Nikon Rumors",
    "category": "photo",
    "date": "2026-10-14T06:22:07.000Z"
-  },
-  {
-   "title": "The APS-C lens gap is closing. Here’s what the latest releases actually mean",
-   "link": "https://www.dpreview.com/videos/the-aps-c-lens-gap-is-closing-heres-what-the-latest-releases-actually-mean/",
-   "summary": "The DPReview team discusses Sigma and Tamron filling out longstanding gaps in APS-C lens lineups.",
-   "image": "https://www.dpreview.com/wp-content/uploads/2026/10/Sigma-50-120mm-vs-standard-US-can-16x9-Lead-3.jpg",
-   "source": "DPReview",
-   "category": "photo",
-   "date": "2026-10-14T06:00:00.000Z"
   },
   {
    "title": "Tamron to announce a new 16-50mm f/2.8 APS-C lens for Nikon Z-mount",
@@ -2432,20 +2432,20 @@
    "date": "2026-10-01T13:30:00.000Z"
   },
   {
-   "title": "Instagram rolls out an AI video assistant for creators",
-   "link": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
-   "summary": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801",
-   "source": "TechCrunch",
-   "category": "instagram",
-   "date": "2026-09-30T14:30:00.000Z"
-  },
-  {
    "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
    "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
    "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creati",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK070__01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "source": "The Verge",
+   "category": "instagram",
+   "date": "2026-09-30T14:30:00.000Z"
+  },
+  {
+   "title": "Instagram rolls out an AI video assistant for creators",
+   "link": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
+   "summary": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801",
+   "source": "TechCrunch",
    "category": "instagram",
    "date": "2026-09-30T14:30:00.000Z"
   },
