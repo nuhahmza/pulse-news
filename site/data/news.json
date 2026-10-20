@@ -1,6 +1,96 @@
 {
- "updated": "2026-10-20T20:21:35.737Z",
+ "updated": "2026-10-20T23:19:26.919Z",
  "items": [
+  {
+   "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+   "summary": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by ",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STK201_SAM_ALTMAN_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-20T23:04:19.000Z"
+  },
+  {
+   "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+   "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+   "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-20T23:01:23.000Z"
+  },
+  {
+   "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+   "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+   "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/11/clem-delangue.png?resize=1200,789",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-20T22:24:02.000Z"
+  },
+  {
+   "title": "Google’s more personalized Gemini AI is heading to your car",
+   "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+   "summary": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps,",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/google-gemini-personal-intelligence.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-20T22:11:34.000Z"
+  },
+  {
+   "title": "Could This Tiny, Affordable Tabletop Tripod Be an Ideal Smartphone Vlogging Setup?",
+   "link": "https://nofilmschool.com/king-desktop-tripod",
+   "summary": "While it likely can't handle an ARRI ALEXA or a Blackmagic URSA Cine, this tiny, affordable desktop tripod might be a surprisingly easy way to take on small vlogging and video projects. Designed to be as about as tiny an",
+   "image": "https://nofilmschool.com/media-library/king-instant-pod-ip-350.jpg?id=68485907&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-20T21:34:11.000Z"
+  },
+  {
+   "title": "Canon Releases New Firmware for the EOS C50, EOS C80, and EOS C400",
+   "link": "https://www.newsshooter.com/2026/10/20/canon-releases-new-firmware-for-the-eos-c50-eos-c80-and-eos-c400/",
+   "summary": "Canon has released new firmware for the EOS C50, EOS C80, and EOS C400. The EOS C50 moves to version 1.0.6.1, while the EOS C80 and EOS C400 both move to version 1.0.8.1. These are maintenance updates. All three enhance ",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/canon-c50-c80-c400-firmware-featured-alt.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-20T21:25:38.000Z"
+  },
+  {
+   "title": "Anthropic’s cloud partnerships are getting messy",
+   "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+   "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-20T21:25:22.000Z"
+  },
+  {
+   "title": "Vivo’s Mid-Range V80 Smartphone Has Impressive Zeiss-Engineered Cameras",
+   "link": "https://petapixel.com/2026/10/20/vivos-mid-range-v80-smartphone-has-impressive-zeiss-engineered-cameras/",
+   "summary": "Vivo has announced the V80, a new mid-range smartphone with a camera system co-engineered by Zeiss. [ Read More ]",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-20T21:03:19.000Z"
+  },
+  {
+   "title": "SpaceX’s AI business is beating expectations",
+   "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+   "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM.png?resize=1130,1200",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-20T20:40:41.000Z"
+  },
+  {
+   "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+   "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+   "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments a",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/pills-GettyImages-157287767.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-20T20:35:10.000Z"
+  },
   {
    "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
    "link": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
@@ -18,6 +108,15 @@
    "source": "Ars Technica",
    "category": "ai",
    "date": "2026-10-20T20:00:33.000Z"
+  },
+  {
+   "title": "Gemini on Android Auto can access my photos, emails, and calendar now – why I’m OK with that (mostly)",
+   "link": "https://www.zdnet.com/tech/gemini-on-android-auto-can-look-through-my-photos-emails-and-calendar-now-im-cautiously-optimistic/",
+   "summary": "The latest Android Auto update lets the AI assistant tap into your Google services for context-based responses.",
+   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/IMG_4285.jpeg",
+   "source": "ZDNet",
+   "category": "ai",
+   "date": "2026-10-20T20:00:00.000Z"
   },
   {
    "title": "Pearla Revela Edits RAW Photos and Videos With a Single Set of Tools",
@@ -425,18 +524,9 @@
    "date": "2026-10-20T14:02:59.000Z"
   },
   {
-   "title": "TikTok employees said they knew about child safety issues, but execs failed to act",
-   "link": "https://www.theverge.com/tech/1014250/tiktok-employees-internal-child-safety-warnings",
-   "summary": "TikTok was repeatedly warned by its own staffers about risks its platform posed to child safety, according to court records obtained by NPR. The publication reports that employees were frustrated over TikTok executives f",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951406/STK051_VRG_Illo_N_Barclay_6_tiktok.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "tiktok",
-   "date": "2026-10-20T13:11:23.000Z"
-  },
-  {
    "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
    "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-   "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+   "summary": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
    "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2195703830.jpg?w=1024",
    "source": "TechCrunch",
    "category": "ai",
@@ -482,7 +572,7 @@
    "title": "Sirui’s New Tripod Head Doesn’t Make You Choose Between a Ball or Fluid Head",
    "link": "https://petapixel.com/2026/10/20/siruis-new-tripod-head-doesnt-make-you-choose-between-a-ball-or-fluid-head/",
    "summary": "Sirui has announced the BH-60, an integrated Ball and Fluid Head designed for photographers, content creators, and hybrid users. It promises to combine a ball head's photography-friendly versatility with a fluid head's s",
-   "image": "https://petapixel.com/assets/uploads/2026/10/sirui-bh-60-featured.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-20T13:00:32.000Z"
@@ -866,15 +956,6 @@
    "date": "2026-10-20T02:29:24.000Z"
   },
   {
-   "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-   "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-   "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_1933.jpg?resize=1200,900",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-20T01:27:03.000Z"
-  },
-  {
    "title": "PGYTECH ZiPod Travel Tripod",
    "link": "https://www.newsshooter.com/2026/10/19/pgytech-zipod-travel-tripod/",
    "summary": "The PGYTECH ZiPod Travel Tripod is a lightweight and portable solution if you need to travel light. It looks like a decent option if you are in the market for a small and compact tripod. It could be a nice solution if yo",
@@ -956,24 +1037,6 @@
    "date": "2026-10-20T00:00:00.000Z"
   },
   {
-   "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
-   "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
-   "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-19T23:39:38.000Z"
-  },
-  {
-   "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-   "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-   "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incid",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4993.jpeg?resize=1200,900",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-19T22:49:27.000Z"
-  },
-  {
    "title": "What is Theme in Movies and TV?",
    "link": "https://nofilmschool.com/themes-in-film",
    "summary": "Your script theme needs to carry both the weight of the story and a connection to the audience. That's a significant burden to bear. So how can you tell if your theme is coming across, or if you even have one? I went to ",
@@ -983,18 +1046,9 @@
    "date": "2026-10-19T22:31:07.000Z"
   },
   {
-   "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-   "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-   "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-19T22:04:28.000Z"
-  },
-  {
-   "title": "Instagram chief says stronger AI slop prevention is needed",
+   "title": "Instagram Chief says stronger AI slop prevention is needed",
    "link": "https://www.socialmediatoday.com/news/instagram-chief-says-stronger-ai-slop-prevention-is-needed/833416/",
-   "summary": "The company is actively trying to combat artificial intelligence content replication, Adam Mosseri said in both a weekly Q&A and a separate Threads post.",
+   "summary": "Adam Mosseri said in both a weekly Q&A and in a separate Threads post that the company was actively trying to combat artificial intelligence content replication.",
    "image": "https://imgproxy.divecdn.com/xYKhDbY0emAyzw8_Rxx_HELslVWhWdnAo05B16beD0g/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pbnN0YV9sb2dvX3VwZGF0ZS5wbmc=.webp",
    "source": "Social Media Today",
    "category": "instagram",
@@ -1028,10 +1082,10 @@
    "date": "2026-10-19T21:28:20.000Z"
   },
   {
-   "title": "Cutting Primetime: Editor Daniel Garber on Taming a Mountain of Footage",
+   "title": "Editor Daniel Garber Breaks Down the Intricate Edit Behind Primetime",
    "link": "https://nofilmschool.com/cutting-primetime-editor-daniel-garber-on-taming-a-mountain-of-footage",
-   "summary": "Fresh out of college, he took a job as a researcher and \"glorified assistant editor\" on a documentary that became The Reagan Show . He clung to that project for three years and worked his way up to finishing editor, whic",
-   "image": "https://nofilmschool.com/media-library/image.jpg?id=68487265&width=980",
+   "summary": "After years of talking about making a fiction film that explores the complexities of nonfiction storytelling, director Lance Oppenheim and his longtime collaborator Daniel Garber, ACE, jumped at the chance to make a nont",
+   "image": "https://nofilmschool.com/media-library/image.jpg?id=68495179&width=980",
    "source": "No Film School",
    "category": "video",
    "date": "2026-10-19T21:08:37.000Z"
@@ -1071,15 +1125,6 @@
    "source": "DPReview",
    "category": "photo",
    "date": "2026-10-19T20:19:03.000Z"
-  },
-  {
-   "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-   "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
-   "summary": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205217071.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-19T20:09:24.000Z"
   },
   {
    "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
@@ -1217,15 +1262,6 @@
    "date": "2026-10-19T16:59:22.000Z"
   },
   {
-   "title": "Gear Up to Protect Your Upcoming iPhone Duo With This Full-Grain Leather Case",
-   "link": "https://nofilmschool.com/sandmarc-iphone-duo-leather-case",
-   "summary": "One of the most anticipated, if not most perplexing, new iPhones ever announced, the iPhone Duo models are set to start shipping later this week. If you're getting your hands on this new foldable iPhone with its 7.6-inch",
-   "image": "https://nofilmschool.com/media-library/sandmarc-iphone-duo-leather-case.jpg?id=68486092&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-19T16:43:27.000Z"
-  },
-  {
    "title": "A 24-panel mosaic timed just before moonrise won this year’s top astrophoto prize",
    "link": "https://www.dpreview.com/photography/the-astrophotography-prize-winners-reveal-a-sky-worth-staying-up-for/",
    "summary": "From a unanimously perfect-scoring nebula shot to a backyard capture that stunned the panel, this year's entries pushed the boundaries of what astrophotographers can achieve.",
@@ -1260,15 +1296,6 @@
    "source": "WIRED",
    "category": "ai",
    "date": "2026-10-19T16:00:00.000Z"
-  },
-  {
-   "title": "Okay, the Sony FX5 Really Is Going to Launch This Time",
-   "link": "https://petapixel.com/2026/10/19/okay-the-sony-fx5-really-is-going-to-launch-this-time/",
-   "summary": "This is not a drill. The Sony FX5 really is coming this time. Adorama says the highly anticipated cinema camera is truly launching in November. [ Read More ]",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-19T15:44:48.000Z"
   },
   {
    "title": "Is the Sony 20-70mm f/4 G the Do-Everything Zoom for the Mountains?",
@@ -1314,15 +1341,6 @@
    "source": "CineD",
    "category": "video",
    "date": "2026-10-19T14:13:42.000Z"
-  },
-  {
-   "title": "SWIT MINO-A Series Pocket Gold Mount Batteries",
-   "link": "https://www.newsshooter.com/2026/10/19/swit-mino-a-series-pocket-gold-mount-batteries/",
-   "summary": "SWIT has announced its new MINO-A Series, which expands its compact MINO battery family into Gold Mount. The MINO-A Series will initially consist of the MINO-A140 and MINO-A210. Both batteries feature USB-C PD, D-tap, hi",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/07/mino-head.jpg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-10-19T14:09:13.000Z"
   },
   {
    "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
@@ -1541,15 +1559,6 @@
    "date": "2026-10-18T19:37:11.000Z"
   },
   {
-   "title": "A woman was arrested in Philly for blocking a delivery robot",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-   "summary": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of hu",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/avride-uber-delivery.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-18T18:28:10.000Z"
-  },
-  {
    "title": "Anthropic gives outside AI watchdog “employee-like” access",
    "link": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
    "summary": "The outside watchdog can publish its findings without Anthropic's approval.",
@@ -1629,15 +1638,6 @@
    "source": "Canon Rumors",
    "category": "photo",
    "date": "2026-10-17T17:37:29.000Z"
-  },
-  {
-   "title": "Meta removes language that may have allowed it to scrape news sites",
-   "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-   "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the ",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-17T15:04:36.000Z"
   },
   {
    "title": "From iPhone DUO to Instax Mini Evo Cinema Camera – TIME’s Best Invention of 2026",
@@ -2000,15 +2000,6 @@
    "date": "2026-10-15T16:35:19.000Z"
   },
   {
-   "title": "Renting? These 2 new Apple smart home devices are worth your money (and these 5 are not)",
-   "link": "https://www.zdnet.com/home-and-office/is-the-apple-home-collection-right-for-renters/",
-   "summary": "Eyeing Apple’s new Home Collection products? Renters should check their lease agreement before installing.",
-   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/3_e017b3.jpg",
-   "source": "ZDNet",
-   "category": "ai",
-   "date": "2026-10-15T16:19:16.000Z"
-  },
-  {
    "title": "From a Kodak Brownie: one photographer’s decades-long journey through cameras",
    "link": "https://www.dpreview.com/articles/from-a-kodak-brownie-one-photographers-decades-long-journey-through-cameras/",
    "summary": "Jim Kasson has spent decades following his photography wherever it leads. He talks about working in series, learning from the results and the gear that helps bring each new idea to life.",
@@ -2187,6 +2178,15 @@
    "source": "TechCrunch",
    "category": "instagram",
    "date": "2026-10-13T18:05:24.000Z"
+  },
+  {
+   "title": "Facebook will let you customize your feed algorithm using AI",
+   "link": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
+   "summary": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right away\" after you make updates using the ne",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/meta-your-algorithm-facebook.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "instagram",
+   "date": "2026-10-13T17:01:31.000Z"
   },
   {
    "title": "It’s ‘incomprehensible’ that Instagram allowed an AI image of Mia Goth to spread, say her reps",
