@@ -1,6 +1,132 @@
 {
- "updated": "2026-10-22T05:53:40.110Z",
+ "updated": "2026-10-22T11:30:34.652Z",
  "items": [
+  {
+   "title": "Tourist Snaps Photo of 120-Million-Year-Old Dinosaur Footprint",
+   "link": "https://petapixel.com/2026/10/22/tourist-snaps-photo-of-120-million-year-old-dinosaur-footprint/",
+   "summary": "A footprint belonging to a 20-foot-long carnivorous theropod dinosaur that walked around on its hind legs has been discovered in Thailand. [ Read More ]",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-22T11:00:38.000Z"
+  },
+  {
+   "title": "Eiliko maker says it’s hiring an ‘’independent security firm’ after Verge report on its insecure robots",
+   "link": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
+   "summary": "Eiliko, a cute robot charm you can hang on your bag with built-in AI conversations, turned out to be a security nightmare. It told owners that \"your secrets are safe with me,\" but hackers could easily read complete trans",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-012.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-22T11:00:00.000Z"
+  },
+  {
+   "title": "2026 TikTok News: The Definitive Timeline for Creators",
+   "link": "https://metricool.com/tiktok-news/",
+   "summary": "TikTok has grown significantly since the very first days of the network in 2016, to one of the most-used social media platforms today. Learn about the evolution of TikTok's network history here!",
+   "image": "https://metricool.com/wp-content/uploads/tiktok-news-1.webp",
+   "source": "Metricool",
+   "category": "tiktok",
+   "date": "2026-10-22T10:50:54.000Z"
+  },
+  {
+   "title": "OpenAI agents analyze mouse brain data in 32 minutes, a job that would take humans months",
+   "link": "https://the-decoder.com/openai-agents-analyze-mouse-brain-data-in-32-minutes-a-job-that-would-take-humans-months/",
+   "summary": "OpenAI teamed up with PerturbAI and Scripps Research to deploy thousands of AI agents that analyzed biological data from millions of mouse cells. The article OpenAI agents analyze mouse brain data in 32 minutes, a job th",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_orchestra_bio.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-22T10:01:53.000Z"
+  },
+  {
+   "title": "Making the case for context-aware AI",
+   "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+   "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints an",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-Celonis-social-card.png?resize=1200,600",
+   "source": "MIT Tech Review",
+   "category": "ai",
+   "date": "2026-10-22T10:00:00.000Z"
+  },
+  {
+   "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+   "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+   "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+   "image": "https://media.wired.com/photos/6ad9279b7f825128a68bc73a/master/pass/Science_HuggingFacesPowerfulNewDNAModelIsSmallEnou-ezgif.com-video-to-gif-converter.gif",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-10-22T10:00:00.000Z"
+  },
+  {
+   "title": "The Secrets of Human Behavior Applied to Social Ads",
+   "link": "https://www.socialmediaexaminer.com/the-secrets-of-human-behavior-applied-to-social-ads/",
+   "summary": "Struggling to create Facebook, Instagram, or TikTok ads that people remember long enough to buy from you? Wondering how consumer psychology can tell you why your winning ads work and how to repeat that success? In this a",
+   "image": "https://www.socialmediaexaminer.com/wp-content/uploads/2026/10/SMMP741_SECONDARY.jpg",
+   "source": "Social Media Examiner",
+   "category": "instagram",
+   "date": "2026-10-22T10:00:00.000Z"
+  },
+  {
+   "title": "Finally: Sony FX5 Starts Shipping in Mexico—Here Are the First Unboxing Photos to Prove It!",
+   "link": "https://www.sonyalpharumors.com/finally-sony-fx5-starts-shipping-in-mexico-here-are-the-first-unboxing-photos-to-prove-it/",
+   "summary": "I don’t know why, but the first country in the world yo get the Sony FX5 seems to be Mexico! Two SAR readers from Mexico sent me this: Manuel Hello, I’m from México, I bought the FX5 through the official México Sony Stor",
+   "image": "",
+   "source": "Sony Alpha Rumors",
+   "category": "photo",
+   "date": "2026-10-22T09:33:50.000Z"
+  },
+  {
+   "title": "What Is Instagram? How the App Works and How Brands Use It in 2026",
+   "link": "https://metricool.com/what-is-instagram/",
+   "summary": "Instagram has grown from a simple photo app into a platform built around video, messaging, and recommendations. Get to know how it works today and how brands use each feature to reach new people.",
+   "image": "https://metricool.com/wp-content/uploads/pexels-cottonbro-5053846-scaled.jpg",
+   "source": "Metricool",
+   "category": "instagram",
+   "date": "2026-10-22T09:00:00.000Z"
+  },
+  {
+   "title": "AI’s hidden storage bill: What inference leaves behind",
+   "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+   "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens ",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/WD-MITTR-Infographic-Final@2x.png",
+   "source": "MIT Tech Review",
+   "category": "ai",
+   "date": "2026-10-22T08:41:18.000Z"
+  },
+  {
+   "title": "Anthropic takes on Grok Bot, Meta's Muse, and OpenAI's Dots with its always-on agent \"Claude Duet\"",
+   "link": "https://the-decoder.com/anthropic-takes-on-grok-bot-metas-muse-and-openais-dots-with-its-always-on-agent-claude-duet/",
+   "summary": "Anthropic has launched Claude Duet, a proactive AI agent that handles tasks on its own, even when the user is offline. The app is built on Claude Opus 5.5 and connects to services like Gmail, Slack, and Stripe through mo",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/Claude-Duet.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-22T08:35:22.000Z"
+  },
+  {
+   "title": "Ensemble forecasting with IBM Granite time-series models",
+   "link": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+   "summary": "",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/6806091ee92bd22fd8ce9719/P6P8ZzHR8yL7GOOO4hQOg.png",
+   "source": "Hugging Face",
+   "category": "ai",
+   "date": "2026-10-22T07:51:31.000Z"
+  },
+  {
+   "title": "Cooke S4 FF/i Announced – Full-Frame T2.0 Primes, 385mm Average Close Focus, 87mm Front Diameter",
+   "link": "https://www.cined.com/cooke-s4-ff-i-announced-full-frame-t2-0-primes-385mm-average-close-focus-87mm-front-diameter/",
+   "summary": "Cooke Optics has introduced the S4 FF/i, a full-frame evolution of its S4/i Super 35 primes. The set has six T2.0 lenses from 18mm to 100mm, a common 87mm front diameter and close focus that averages just over 15 inches.",
+   "image": "https://www.cined.com/content/uploads/2026/10/cooke-S4FF-group.jpg-300x169.webp",
+   "source": "CineD",
+   "category": "video",
+   "date": "2026-10-22T07:36:20.000Z"
+  },
+  {
+   "title": "New Sony A7rVI firmware update 1.02",
+   "link": "https://www.sonyalpharumors.com/new-sony-a7riv-firmware-update-1-02/",
+   "summary": "Sony released firmware 1.02 for the Sony A7rVI: Benefits and Improvements Adds support for the Preset Focus function with lenses that do not have power zoom Some zoom lenses without power zoom are not supported. For more",
+   "image": "",
+   "source": "Sony Alpha Rumors",
+   "category": "photo",
+   "date": "2026-10-22T06:30:08.000Z"
+  },
   {
    "title": "The winner of Nikon’s Small World competition shows the microscopic, magic world of printers",
    "link": "https://www.dpreview.com/photography/the-winner-of-nikons-small-world-competition-shows-the-microscopic-magic-world-of-printers/",
@@ -166,7 +292,7 @@
   {
    "title": "Meta says Muse has over 10M users, with shopping a top activity",
    "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-   "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+   "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
    "source": "TechCrunch",
    "category": "ai",
@@ -293,7 +419,7 @@
    "title": "KEH’s Overstock Sale Returns, Offering Up to 10% Off Nearly 2,000 Products",
    "link": "https://petapixel.com/2026/10/21/kehs-overstock-sale-returns-offering-up-to-10-off-nearly-2000-products/",
    "summary": "KEH's Overstock Sale is back, giving photographers a chance to save even more on pre-owned cameras, lenses, and accessories. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/08/keh-overstock-sale-featured-1.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-21T19:00:46.000Z"
@@ -383,7 +509,7 @@
    "title": "Introducing PixelMeter: The Reviews Aggregator for Cameras, Lenses, Smartphones, and More",
    "link": "https://petapixel.com/2026/10/21/introducing-pixelmeter-the-reviews-aggregator-for-cameras-lenses-smartphones-and-more/",
    "summary": "PetaPixel has announced PixelMeter, the camera industry's first review aggregator platform. PixelMeter collects reviews from across the landscape and condenses the opinions into a single, standardized score so photograph",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/introducing-pixelmeter.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-21T17:27:27.000Z"
@@ -635,7 +761,7 @@
    "title": "A Single Photo Could Help AI Assess How Sick a Patient Is",
    "link": "https://petapixel.com/2026/10/21/a-single-photo-could-help-ai-assess-how-sick-a-patient-is/",
    "summary": "Researchers have developed AI tools that use photographs of a person’s face to estimate biological age and predict survival outcomes among patients with cancer. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/AI-Cancer-Prediction.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-21T14:23:36.000Z"
@@ -671,7 +797,7 @@
    "title": "52 Award-Winning Photos From Nikon Small World Reveal an Unseen World",
    "link": "https://petapixel.com/2026/10/21/52-award-winning-photos-from-nikon-small-world-reveal-an-unseen-world/",
    "summary": "Nikon has announced the winners of its 52nd annual Nikon Small World Photomicrography Competition. This year's winning photos celebrate the world's best and most captivating images captured through a microscope, showing ",
-   "image": "https://petapixel.com/assets/uploads/2026/10/nikon-small-world-2026-featured-2.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-21T14:00:18.000Z"
@@ -734,7 +860,7 @@
    "title": "Australia to Sue Meta and TikTok for Failing to Enforce Under-16s Social Media Ban",
    "link": "https://petapixel.com/2026/10/21/australia-to-sue-meta-and-tiktok-for-failing-to-enforce-under-16s-social-media-ban/",
    "summary": "Australia is set to sue all major social media companies, accusing them of failing to enforce a national ban on users under 16 and allowing children to remain on their platforms. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/australia-social-media-ban-lawsuit.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-21T13:19:51.000Z"
@@ -860,7 +986,7 @@
    "title": "German Court Rules Google Earth is ‘Spying’ on People by Publishing Aerial Photos of Their Homes",
    "link": "https://petapixel.com/2026/10/21/german-court-rules-google-earth-is-spying-on-people-by-publishing-aerial-photos-of-their-homes-privacy-consent-google-maps/",
    "summary": "A man has won his lawsuit against Google Earth for publishing aerial photos of his home, with a German court ruling that the tech giant has no right to share such images without his consent. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/google-earth-man-lawsuiit.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-21T11:18:44.000Z"
@@ -936,24 +1062,6 @@
    "source": "Fstoppers",
    "category": "photo",
    "date": "2026-10-21T09:03:01.000Z"
-  },
-  {
-   "title": "Claude Science tackles deadly scorpion stings by designing protein binders from scratch",
-   "link": "https://the-decoder.com/claude-science-tackles-deadly-scorpion-stings-by-designing-protein-binders-from-scratch/",
-   "summary": "Anthropic's Claude independently designed protein binders targeting deadly scorpion neurotoxins. Out of more than 318,000 designs, 211 were tested in the lab. Seventeen met the criteria, and the two strongest bind extrem",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/claude_scorpion_toxines.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-21T08:37:06.000Z"
-  },
-  {
-   "title": "OpenAI acquires Orchestra Bio to build AI agents that speed up drug development",
-   "link": "https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/",
-   "summary": "OpenAI is acquiring startup Orchestra Bio and plans to merge it with its life sciences AI platform Rosalind. The goal is to build AI agents that help pharma teams coordinate drug development, from tracking trials to spot",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_orchestra_bio.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-21T08:32:54.000Z"
   },
   {
    "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in the Way",
@@ -1157,7 +1265,7 @@
    "title": "Australia prepares to sue social platforms over age violations",
    "link": "https://www.socialmediatoday.com/news/australia-prepares-to-sue-social-platforms-over-age-violations/833545/",
    "summary": "Bloomberg reported that the government plans to sue Meta, TikTok, Snapchat and YouTube for alleged noncompliance with a nationwide ban on teen users.",
-   "image": "",
+   "image": "https://imgproxy.divecdn.com/6JfDJ73mfV2owdq8yhMnrfITu3xWGej0UbMKnsdjTnI/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hdXN0cmFsaWFuX2ZsYWcucG5n.webp",
    "source": "Social Media Today",
    "category": "tiktok",
    "date": "2026-10-20T21:46:56.000Z"
@@ -1188,15 +1296,6 @@
    "source": "Social Media Today",
    "category": "instagram",
    "date": "2026-10-20T21:23:18.000Z"
-  },
-  {
-   "title": "Vivo’s Mid-Range V80 Smartphone Has Impressive Zeiss-Engineered Cameras",
-   "link": "https://petapixel.com/2026/10/20/vivos-mid-range-v80-smartphone-has-impressive-zeiss-engineered-cameras/",
-   "summary": "Vivo has announced the V80, a new mid-range smartphone with a camera system co-engineered by Zeiss. [ Read More ]",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-20T21:03:19.000Z"
   },
   {
    "title": "A National Archives Archivist Enlarged a Mislabeled Glass Plate in 1952 and Found Lincoln at Gettysburg",
@@ -1334,15 +1433,6 @@
    "date": "2026-10-20T18:03:01.000Z"
   },
   {
-   "title": "French Government Calls Emergency Meetings With Platforms Over Protests",
-   "link": "https://www.wired.com/story/french-government-calls-emergency-meetings-with-platforms-over-protests/",
-   "summary": "TikTok and other sites were told to curb protest footage and AI-altered images, while online retailers like Vinted and eBay reportedly signed an agreement stop looted goods from flooding resale sites.",
-   "image": "https://media.wired.com/photos/6ad772c1fca8f52b99e9eedc/master/pass/GettyImages-2300075055.jpg",
-   "source": "WIRED",
-   "category": "ai",
-   "date": "2026-10-20T17:41:58.000Z"
-  },
-  {
    "title": "Meta tries to scapegoat staff who downloaded torrents to spare execs",
    "link": "https://arstechnica.com/tech-policy/2026/10/meta-ordered-to-name-execs-who-approved-torrenting-for-ai-training/",
    "summary": "Meta argues nobody “decided” to pirate books to train AI.",
@@ -1424,15 +1514,6 @@
    "date": "2026-10-20T15:20:25.000Z"
   },
   {
-   "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-   "link": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-   "summary": "",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/6435a1131860001f144239ea/rzXYJh7e7UdoYgCLwOZjH.jpeg",
-   "source": "Hugging Face",
-   "category": "ai",
-   "date": "2026-10-20T15:19:48.000Z"
-  },
-  {
    "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
    "link": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
    "summary": "Court documents show TikTok employees were frustrated with how executives responded to their concerns about risks to children.",
@@ -1485,15 +1566,6 @@
    "source": "ZDNet",
    "category": "ai",
    "date": "2026-10-20T14:26:05.000Z"
-  },
-  {
-   "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
-   "link": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
-   "summary": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made cha",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951391/STK088_VRG_Illo_N_Barclay_4_spotify.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-20T14:18:37.000Z"
   },
   {
    "title": "The Most Important Camera Setting You're Not Using",
@@ -1910,15 +1982,6 @@
    "date": "2026-10-19T09:00:35.000Z"
   },
   {
-   "title": "Instagram vs. TikTok in 2026: What Does the Data Say You Should Do?",
-   "link": "https://metricool.com/instagram-vs-tiktok/",
-   "summary": "Choosing between Instagram and TikTok gets easier once you know how each algorithm decides what to show. Find out where your content will reach new people and where it will build loyal followers.",
-   "image": "https://metricool.com/wp-content/uploads/instagram-vs-tiktok-4.webp",
-   "source": "Metricool",
-   "category": "instagram",
-   "date": "2026-10-19T09:00:00.000Z"
-  },
-  {
    "title": "Sony Publishes Specs for Its 10K, Full Frame, 105MP Global Shutter Sensor: 12-Bit at 40 FPS",
    "link": "https://ymcinema.com/2026/10/19/sony-imx937-105mp-global-shutter-sensor/",
    "summary": "Sony Semiconductor Solutions has published a new technical flyer for its IMX937-AQB image sensor, revealing detailed specifications for a 105-megapixel global shutter CMOS sensor with a 39.7mm diagonal. The sensor delive",
@@ -1953,24 +2016,6 @@
    "source": "DPReview",
    "category": "photo",
    "date": "2026-10-18T21:51:27.000Z"
-  },
-  {
-   "title": "Adorama Says Sony Has Finally Confirmed FX5 Shipments Will Begin in November",
-   "link": "https://www.sonyalpharumors.com/adorama-says-sony-has-finally-confirmed-fx5-shipments-will-begin-in-november/",
-   "summary": "Adorama sent us this note about the Sony FX5: Dear Customer We’re pleased to share an update on the Sony FX5. Sony has completed its final quality assurance process. Based on the latest information, customer deliveries a",
-   "image": "",
-   "source": "Sony Alpha Rumors",
-   "category": "photo",
-   "date": "2026-10-18T19:51:19.000Z"
-  },
-  {
-   "title": "2 days left to save $25 on The Ultimate Landscape Photography Masterclass from Albert Dros",
-   "link": "https://www.sonyalpharumors.com/2-days-left-to-save-25-on-the-ultimate-landscape-photography-masterclass-from-albert-dros/",
-   "summary": "Till Monday night you save $25 on the new Landscape Masterclass from Albert Dros (Click here). It’s the biggest course he ever made: 15+ hours of lessons focused on landscape photography, my biggest course ever (2+ years",
-   "image": "",
-   "source": "Sony Alpha Rumors",
-   "category": "photo",
-   "date": "2026-10-18T19:37:11.000Z"
   },
   {
    "title": "Anthropic gives outside AI watchdog “employee-like” access",
@@ -2135,7 +2180,7 @@
    "date": "2026-10-16T09:30:00.000Z"
   },
   {
-   "title": "TAMRON 16-50mm f/2.8 A Announced – Constant f/2.8 APS-C Zoom, 305g, VXD Autofocus",
+   "title": "Tamron 16-50mm f/2.8 A Announced – Constant f/2.8 APS-C Zoom, 305g, VXD Autofocus",
    "link": "https://www.cined.com/tamron-16-50mm-f-2-8-a-announced-constant-f-2-8-aps-c-zoom-305g-vxd-autofocus/",
    "summary": "TAMRON has announced the 16-50mm f/2.8 A (Model B091), a compact standard zoom for APS-C mirrorless cameras. It covers a 24-75mm equivalent range at a constant f/2.8, weighs 305g / 10.8oz and comes to Sony E, Canon RF, N",
    "image": "https://www.cined.com/content/uploads/2026/10/TAMRON-16-50mm-f2.8-A-300x169.jpeg",
@@ -2160,15 +2205,6 @@
    "source": "Nikon Rumors",
    "category": "photo",
    "date": "2026-10-15T16:35:19.000Z"
-  },
-  {
-   "title": "Sony Alpha Rumors’ Andrea Pizzini’s Walk-In Camera: Wall-Size Photos, No Pixel Count – Focus Check ep138",
-   "link": "https://www.cined.com/sony-alpha-rumors-andrea-pizzinis-walk-in-camera-wall-size-photos-no-pixel-count-focus-check-ep138/",
-   "summary": "Can you imagine stepping inside your camera — which is actually a tent — and seeing the very same sheet of material that captured the light hanging on a gallery wall as a photograph? In this week’s episode of Focus Check",
-   "image": "https://www.cined.com/content/uploads/2026/10/Focus-Check_ep138-300x169.jpeg",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-10-15T14:01:25.000Z"
   },
   {
    "title": "DJI’s 4K Self-Flying Drone Drops to $139 on Amazon: A 365-Day Low",
@@ -2333,15 +2369,6 @@
    "date": "2026-10-13T09:59:23.000Z"
   },
   {
-   "title": "AI labs are buying data from dead startups to train their models",
-   "link": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/",
-   "summary": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives ",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AI-Death_Redamonti_MIT-thumb.jpg?resize=1200,600",
-   "source": "MIT Tech Review",
-   "category": "ai",
-   "date": "2026-10-13T09:00:00.000Z"
-  },
-  {
    "title": "Nikon Z5IIC Now on Amazon: Full-Frame and Internal 12-Bit N-RAW",
    "link": "https://ymcinema.com/2026/10/12/nikon-z5iic-amazon-preorder/",
    "summary": "The new Nikon Z5II ($2,296.95 on Amazon)C is now listed on Amazon for $1,399.95, with preorders open ahead of its October 15, 2026 release. The compact full-frame mirrorless camera features a 24.5MP BSI sensor, Nikon’s E",
@@ -2396,15 +2423,6 @@
    "date": "2026-10-09T13:12:45.000Z"
   },
   {
-   "title": "We’re putting too much faith in AI’s ability to say no",
-   "link": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
-   "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of rob",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/0924SP1.jpg?w=840",
-   "source": "MIT Tech Review",
-   "category": "ai",
-   "date": "2026-10-09T09:00:00.000Z"
-  },
-  {
    "title": "News: National Indigenous art prize puts Lismore on Australia’s cultural map",
    "link": "https://digital-photography-school.com/news-national-indigenous-art-prize-puts-lismore-on-australias-cultural-map/",
    "summary": "The post News: National Indigenous art prize puts Lismore on Australia’s cultural map appeared first on Digital Photography School . It was authored by Sime . National Indigenous art prize puts Lismore on Australia’s cul",
@@ -2439,15 +2457,6 @@
    "source": "TechCrunch",
    "category": "tiktok",
    "date": "2026-10-08T15:06:17.000Z"
-  },
-  {
-   "title": "Sigma Officially Announces the RF 50-120mm f/2.8 DC OS Contemporary",
-   "link": "https://www.canonrumors.com/sigma-officially-announces-the-rf-50-120mm-f-2-8-dc-os-contemporary/",
-   "summary": "For as long as we can remember, APS-C shooters have wanted a 70-200mm f/2.8 equivalent lens. Making one for crop sensors reduces the size in a big way over a full-frame version and obviously brings cost down a lot. Sigma",
-   "image": "https://www.canonrumors.com/wp-content/uploads/2026/10/Sigma-50-120mm-f2.8-DC-OS-Contemporary-1600.jpg",
-   "source": "Canon Rumors",
-   "category": "photo",
-   "date": "2026-10-08T08:19:20.000Z"
   },
   {
    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
@@ -2486,15 +2495,6 @@
    "date": "2026-09-30T14:30:00.000Z"
   },
   {
-   "title": "YouTube CTR, Instagram Reels Structure, and Industry News",
-   "link": "https://www.socialmediaexaminer.com/youtube-ctr-instagram-reels-structure-and-industry-news/",
-   "summary": "Here’s a recap of the most important insights, trends, and updates you need to know about today! Catch up in minutes and go into the rest of the week prepared. In today’s edition: YouTube packaging formula Instagram reel",
-   "image": "",
-   "source": "Social Media Examiner",
-   "category": "instagram",
-   "date": "2026-09-29T09:30:00.000Z"
-  },
-  {
    "title": "TikTok agrees to pay at least $100M in Alabama settlement",
    "link": "https://techcrunch.com/2026/09/26/tiktok-agrees-to-pay-at-least-100m-in-alabama-settlement/",
    "summary": "TikTok will pay Alabama at least $100 million in a settlement tied to allegations that the short-form video platform misled users about safety and was designed to addict children.",
@@ -2511,15 +2511,6 @@
    "source": "The Verge",
    "category": "instagram",
    "date": "2026-09-24T23:50:55.000Z"
-  },
-  {
-   "title": "Why Unpolished Reels Win: An Instagram Growth Strategy for Business",
-   "link": "https://www.socialmediaexaminer.com/why-unpolished-reels-win-an-instagram-growth-strategy-for-business/",
-   "summary": "Wondering how to create Instagram Reels that actually build a loyal following without expensive equipment or hours of editing? Want to know the specific hook formulas, editing techniques, and testing strategies that turn",
-   "image": "https://www.socialmediaexaminer.com/wp-content/uploads/2026/09/SMMP737_PRIMARY.jpg",
-   "source": "Social Media Examiner",
-   "category": "instagram",
-   "date": "2026-09-24T10:00:00.000Z"
   },
   {
    "title": "TikTok’s US arm joins Lantern, a cross-platform child safety initiative",
