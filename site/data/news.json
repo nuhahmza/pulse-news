@@ -1,11 +1,56 @@
 {
- "updated": "2026-10-22T20:28:16.519Z",
+ "updated": "2026-10-22T23:31:53.706Z",
  "items": [
+  {
+   "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+   "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+   "summary": "",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/64b8491203124195cd795cad/oS8I8qx7iBS8EcNIXR3q9.png",
+   "source": "Hugging Face",
+   "category": "ai",
+   "date": "2026-10-22T22:24:34.000Z"
+  },
+  {
+   "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+   "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+   "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+   "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-22T22:08:24.000Z"
+  },
+  {
+   "title": "Canva’s first AI image model plans designs before generating them",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+   "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that all",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/04-CRAFT-COLLAGE.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-22T21:51:25.000Z"
+  },
+  {
+   "title": "Designing an AI serving harness built to last",
+   "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+   "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has center",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-2188328005_9f1d59-e1791493652782.jpg?w=840",
+   "source": "MIT Tech Review",
+   "category": "ai",
+   "date": "2026-10-22T21:17:29.000Z"
+  },
+  {
+   "title": "Meta’s AI could still scrape news sites, legal experts say",
+   "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+   "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"Thi",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_1_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-22T20:32:05.000Z"
+  },
   {
    "title": "Meta turns Muse sharing back on",
    "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
    "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's interna",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_D.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKB394_MUSE_AI_CVIRGINIA_C.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "source": "The Verge",
    "category": "ai",
    "date": "2026-10-22T20:24:04.000Z"
@@ -14,7 +59,7 @@
    "title": "The Social Society Helping Women Join the AI Boom",
    "link": "https://www.wired.com/story/aged-intelligence-society-interview/",
    "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
-   "image": "https://media.wired.com/photos/6ada51afd53570f6403f7150/master/pass/Model-Behavior-Illo-102226.jpg",
+   "image": "https://media.wired.com/photos/6ada7db9ecc44326fbe9e386/master/pass/Model-Behavior-Illo-102226-2.jpg",
    "source": "WIRED",
    "category": "ai",
    "date": "2026-10-22T19:56:32.000Z"
@@ -47,19 +92,19 @@
    "date": "2026-10-22T19:07:09.000Z"
   },
   {
-   "title": "Canva releases its first image generation model",
-   "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-   "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sample-Outputs.jpeg?resize=1200,675",
+   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+   "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+   "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-12.17.11-PM-1.png?resize=1200,988",
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-22T19:00:00.000Z"
   },
   {
-   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-   "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-   "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-12.17.11-PM-1.png?resize=1200,988",
+   "title": "Canva releases its first image generation model",
+   "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+   "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sample-Outputs.jpeg?resize=1200,675",
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-22T19:00:00.000Z"
@@ -380,15 +425,6 @@
    "date": "2026-10-22T15:13:31.000Z"
   },
   {
-   "title": "PHP: The three little letters wreaking havoc across the web",
-   "link": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
-   "summary": "Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger. By some accounts, up to 70 percent of websites use PHP in some capacity. It powers Wikipedia, WordPress, Drupal, an",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/VRG_ILLO_STK001_carlo_cadenas_cybersecurity_virus.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-22T15:12:27.000Z"
-  },
-  {
    "title": "Spotify’s current AI bet is about being the music service that agents choose",
    "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
    "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
@@ -482,7 +518,7 @@
    "title": "Cooke Brings Its Legendary S4/i S35 Lenses to Full-Frame Cinema Cameras",
    "link": "https://petapixel.com/2026/10/22/cooke-brings-its-legendary-s4-i-s35-lenses-to-full-frame-cinema-cameras/",
    "summary": "Cooke Optics, a legendary name in cinema lenses, has announced the S4 FF/i series of cinema primes. These are \"invigorated\" new full-frame versions of Cooke's iconic S4/i S35 lenses, and all six of them feature fast T2.0",
-   "image": "https://petapixel.com/assets/uploads/2026/10/COOKE_S4FF_50mm-HERO_01_WEBSITE.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-22T14:21:15.000Z"
@@ -513,15 +549,6 @@
    "source": "No Film School",
    "category": "video",
    "date": "2026-10-22T14:01:44.000Z"
-  },
-  {
-   "title": "Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption",
-   "link": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
-   "summary": "Today, I’m talking to Bill Gates, cofounder and former CEO of Microsoft and chairman of the Gates Foundation. You may have noticed Bill in the news more lately — he’s been on something of a tour for the past few months, ",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268806_Bill_Gates_NQuamina-Woo_0007_a8ca1f.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-22T14:00:00.000Z"
   },
   {
    "title": "Blackmagic Design Raises Prices, Cuts Resolve | ArtCraft’s AI-Built Adobe Clones | Camera Form Factor Poll – Focus Check ep139",
@@ -653,7 +680,7 @@
    "title": "Researchers Pinpoint the Exact Location of First Ever Photo of a Human",
    "link": "https://petapixel.com/2026/10/22/researchers-pinpoint-the-exact-location-of-first-ever-photo-of-a-human/",
    "summary": "Researchers have pinpointed the exact location of Louis Daguerre's 1838 View of the Boulevard du Temple -- the first photograph to capture human beings. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/first-humans-captured-camera-feature.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-22T12:42:16.000Z"
@@ -819,15 +846,6 @@
    "source": "Sony Alpha Rumors",
    "category": "photo",
    "date": "2026-10-22T06:30:08.000Z"
-  },
-  {
-   "title": "What FDE means at OpenAI",
-   "link": "https://openai.com/index/forward-deployed-engineering-means",
-   "summary": "What forward deployed engineering means at OpenAI",
-   "image": "",
-   "source": "OpenAI",
-   "category": "ai",
-   "date": "2026-10-22T06:00:00.000Z"
   },
   {
    "title": "The winner of Nikon’s Small World competition shows the microscopic, magic world of printers",
@@ -1035,15 +1053,6 @@
    "source": "The Verge",
    "category": "tiktok",
    "date": "2026-10-21T20:49:07.000Z"
-  },
-  {
-   "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-   "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-   "summary": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-21T20:27:41.000Z"
   },
   {
    "title": "OpenAI's GPT-5.6 Sol and Google's Gemini 4 Argon found critical PHP flaw affecting millions of websites",
@@ -1316,15 +1325,6 @@
    "date": "2026-10-21T15:02:15.000Z"
   },
   {
-   "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-   "link": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-   "summary": "",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/653fb52cbfd890805461d691/M_JJyIOBOWVzHXdy7CVVG.png",
-   "source": "Hugging Face",
-   "category": "ai",
-   "date": "2026-10-21T14:58:18.000Z"
-  },
-  {
    "title": "SproutLink vs. Linktree: Which link-in-bio tool is right for your brand?",
    "link": "https://sproutsocial.com/insights/sproutlink-vs-linktree/",
    "summary": "Your viral Reels and engaging carousel posts attract audiences on Instagram. But what happens when you want to get this audience to visit your Read more... The post SproutLink vs. Linktree: Which link-in-bio tool is righ",
@@ -1575,6 +1575,15 @@
    "source": "Newsshooter",
    "category": "video",
    "date": "2026-10-21T05:01:58.000Z"
+  },
+  {
+   "title": "Using thousands of AI agents to uncover new leads in biological data",
+   "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+   "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
+   "image": "",
+   "source": "OpenAI",
+   "category": "ai",
+   "date": "2026-10-21T04:50:00.000Z"
   },
   {
    "title": "Southeast Asia’s digital economy to hit $368 billion",
@@ -2133,15 +2142,6 @@
    "source": "CineD",
    "category": "video",
    "date": "2026-10-16T19:45:10.000Z"
-  },
-  {
-   "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-   "link": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
-   "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints f",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT-TR-Roundtables_Oct-2-Thumbnail.png?resize=1200,600",
-   "source": "MIT Tech Review",
-   "category": "ai",
-   "date": "2026-10-16T18:00:00.000Z"
   },
   {
    "title": "Z CAM E2-F6 Pro Gets Internal 6K 60fps Apple ProRes RAW via Firmware Update",
