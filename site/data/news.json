@@ -1,6 +1,24 @@
 {
- "updated": "2026-10-22T23:31:53.706Z",
+ "updated": "2026-10-23T04:12:10.573Z",
  "items": [
+  {
+   "title": "Left alone with nothing to do, AI agents started playing",
+   "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+   "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1200,590",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-23T00:45:37.000Z"
+  },
+  {
+   "title": "Meta offers insights on individual platform growth",
+   "link": "https://www.socialmediatoday.com/news/meta-offers-insights-on-individual-platform-growth/833807/",
+   "summary": "Alongside its third-quarter earnings release, the company revealed usage notes and engagement data for Facebook, Instagram and Threads.",
+   "image": "https://imgproxy.divecdn.com/_qCZFatzkmrQT81320LquVewz1MFOBUNAXrQJC5FJB4/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2FwcHMucG5n.webp",
+   "source": "Social Media Today",
+   "category": "instagram",
+   "date": "2026-10-22T22:30:27.000Z"
+  },
   {
    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
    "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
@@ -92,19 +110,19 @@
    "date": "2026-10-22T19:07:09.000Z"
   },
   {
-   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-   "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-   "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-12.17.11-PM-1.png?resize=1200,988",
+   "title": "Canva releases its first image generation model",
+   "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+   "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sample-Outputs.jpeg?resize=1200,675",
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-22T19:00:00.000Z"
   },
   {
-   "title": "Canva releases its first image generation model",
-   "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-   "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sample-Outputs.jpeg?resize=1200,675",
+   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+   "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+   "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-12.17.11-PM-1.png?resize=1200,988",
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-22T19:00:00.000Z"
@@ -797,7 +815,7 @@
    "title": "What Is Instagram? How the App Works and How Brands Use It in 2026",
    "link": "https://metricool.com/what-is-instagram/",
    "summary": "Instagram has grown from a simple photo app into a platform built around video, messaging, and recommendations. Get to know how it works today and how brands use each feature to reach new people.",
-   "image": "https://metricool.com/wp-content/uploads/pexels-cottonbro-5053846-scaled.jpg",
+   "image": "https://metricool.com/wp-content/uploads/what-is-instagram.webp",
    "source": "Metricool",
    "category": "instagram",
    "date": "2026-10-22T09:00:00.000Z"
@@ -846,6 +864,15 @@
    "source": "Sony Alpha Rumors",
    "category": "photo",
    "date": "2026-10-22T06:30:08.000Z"
+  },
+  {
+   "title": "What FDE means at OpenAI",
+   "link": "https://openai.com/index/forward-deployed-engineering-means",
+   "summary": "What forward deployed engineering means at OpenAI",
+   "image": "",
+   "source": "OpenAI",
+   "category": "ai",
+   "date": "2026-10-22T06:00:00.000Z"
   },
   {
    "title": "The winner of Nikon’s Small World competition shows the microscopic, magic world of printers",
@@ -1017,15 +1044,6 @@
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-21T21:16:20.000Z"
-  },
-  {
-   "title": "Meta says Muse has over 10M users, with shopping a top activity",
-   "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-   "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-21T21:14:19.000Z"
   },
   {
    "title": "The Hurricane Katrina 'Looting' Photo Controversy and What It Still Teaches Us About Writing Captions",
@@ -1577,15 +1595,6 @@
    "date": "2026-10-21T05:01:58.000Z"
   },
   {
-   "title": "Using thousands of AI agents to uncover new leads in biological data",
-   "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-   "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells.",
-   "image": "",
-   "source": "OpenAI",
-   "category": "ai",
-   "date": "2026-10-21T04:50:00.000Z"
-  },
-  {
    "title": "Southeast Asia’s digital economy to hit $368 billion",
    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
    "summary": "Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
@@ -1611,33 +1620,6 @@
    "source": "DPReview",
    "category": "photo",
    "date": "2026-10-21T02:38:09.000Z"
-  },
-  {
-   "title": "TikTok shares Black Friday, Cyber Monday promotion tips",
-   "link": "https://www.socialmediatoday.com/news/tiktok-shares-black-friday-cyber-monday-promotion-tips/833546/",
-   "summary": "The app published a series of videos that examine how companies including Princess Polly, Dossier and SharkNinja have boosted their brand exposure.",
-   "image": "https://imgproxy.divecdn.com/xsVUs5WBvDHEstMmzppS-lrbeLHGiqdBZNc48zBVBNA/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfYmxhY2tfZnJpZGF5X1hzakx1NGEucG5n.webp",
-   "source": "Social Media Today",
-   "category": "tiktok",
-   "date": "2026-10-20T21:52:30.000Z"
-  },
-  {
-   "title": "Australia prepares to sue social platforms over age violations",
-   "link": "https://www.socialmediatoday.com/news/australia-prepares-to-sue-social-platforms-over-age-violations/833545/",
-   "summary": "Bloomberg reported that the government plans to sue Meta, TikTok, Snapchat and YouTube for alleged noncompliance with a nationwide ban on teen users.",
-   "image": "https://imgproxy.divecdn.com/6JfDJ73mfV2owdq8yhMnrfITu3xWGej0UbMKnsdjTnI/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hdXN0cmFsaWFuX2ZsYWcucG5n.webp",
-   "source": "Social Media Today",
-   "category": "tiktok",
-   "date": "2026-10-20T21:46:56.000Z"
-  },
-  {
-   "title": "Instagram announces next phase of Rings creative talent awards",
-   "link": "https://www.socialmediatoday.com/news/instagram-announces-next-phase-of-rings-creative-talent-awards/833543/",
-   "summary": "The promotional event is designed to highlight the app&rsquo;s top creators and features judges including Donatella Versace and A$AP Rocky.",
-   "image": "https://imgproxy.divecdn.com/pxy7ubk8q3o0vrzzoC_WoWskqVHEWmetaqAzJLZqVM0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pbnN0YWdyYW1fcmluZ3NfMjAyNi5wbmc=.webp",
-   "source": "Social Media Today",
-   "category": "instagram",
-   "date": "2026-10-20T21:23:18.000Z"
   },
   {
    "title": "A National Archives Archivist Enlarged a Mislabeled Glass Plate in 1952 and Found Lincoln at Gettysburg",
@@ -2412,15 +2394,6 @@
    "source": "The Verge",
    "category": "tiktok",
    "date": "2026-10-09T13:12:45.000Z"
-  },
-  {
-   "title": "News: National Indigenous art prize puts Lismore on Australia’s cultural map",
-   "link": "https://digital-photography-school.com/news-national-indigenous-art-prize-puts-lismore-on-australias-cultural-map/",
-   "summary": "The post News: National Indigenous art prize puts Lismore on Australia’s cultural map appeared first on Digital Photography School . It was authored by Sime . National Indigenous art prize puts Lismore on Australia’s cul",
-   "image": "https://i0.wp.com/digital-photography-school.com/wp-content/uploads/2026/10/MA-25-402_LR-cmyk-Ruby-Benjamin_small.jpg?resize=1000%2C1253&#038;ssl=1",
-   "source": "Digital Photography School",
-   "category": "photo",
-   "date": "2026-10-09T03:51:19.000Z"
   },
   {
    "title": "New York accuses TikTok of serving users ‘placebo’ safety features",
