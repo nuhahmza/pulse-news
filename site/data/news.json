@@ -1,6 +1,105 @@
 {
- "updated": "2026-10-24T09:25:03.834Z",
+ "updated": "2026-10-24T13:31:27.081Z",
  "items": [
+  {
+   "title": "Sigma Fixed a Lot With the fp II, but Is It Enough?",
+   "link": "https://fstoppers.com/gear/sigma-fixed-lot-fp-ii-it-enough-905163?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "At $2,199 for the body alone, plus roughly $500 more if you want the optional electronic viewfinder, the Sigma fp II asks a lot for a camera with no mechanical shutter and no in-body stabilization. Sigma bills it as the ",
+   "image": "https://fstoppers.com/s3/files/styles/16_9_max_650/s3/lead/2026/10/cover_92.jpg.webp?itok=YedkZNo-",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-24T13:03:01.000Z"
+  },
+  {
+   "title": "Tintype Photographer Uses Mobile Darkroom to Create Handcrafted Images of Memory and Time",
+   "link": "https://petapixel.com/2026/10/24/tintype-photographer-uses-mobile-darkroom-to-create-handcrafted-images-of-memory-and-time/",
+   "summary": "Photographer Lara Porzak, who has spent more than three decades using analog techniques to create photographs that function as both images and physical artifacts, has published her first book. [ Read More ]",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-24T13:00:46.000Z"
+  },
+  {
+   "title": "PSA: Davinci Resolve is on sale, letting you unlock the powerful tool for less",
+   "link": "https://www.dpreview.com/news/davinci-resolve-ai-sale-october-2026/",
+   "summary": "Many can use the free version without any issue, but if you can't, it might be the time to upgrade.",
+   "image": "https://www.dpreview.com/wp-content/uploads/2026/10/davinci-resolve-micro-color-panel-xl-16x9-Lead-1.jpg",
+   "source": "DPReview",
+   "category": "photo",
+   "date": "2026-10-24T13:00:00.000Z"
+  },
+  {
+   "title": "Matthews Introduces a Compact 33 Sliding Leg C-Stand with Grip Head & Arm",
+   "link": "https://www.newsshooter.com/2026/10/24/matthews-introduces-a-compact-33-sliding-leg-c-stand-with-grip-head-arm/",
+   "summary": "New Compact industry-standard Support Fits in the Trunk of a Small Car Matthews Studio Equipment has released a more compact 33 Sliding Leg C-Stand with Grip Head and 40″ Arm. The new 33 C-Stand brings Matthews’ trusted ",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/cstand-in-trunk.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-24T12:31:59.000Z"
+  },
+  {
+   "title": "The PHP Meltdown Shows How AI Makes Bugs More Exploitable",
+   "link": "https://www.wired.com/story/kernel-panic-the-php-meltdown-shows-how-ai-makes-bugs-more-exploitable/",
+   "summary": "Security researchers used AI tools to help uncover years-old vulnerabilities in the PHP web scripting language. Then the AI-assisted attacks began.",
+   "image": "https://media.wired.com/photos/6adbb8a7e6d0c133525c3e7c/master/pass/KernelPanic_The%20PHP%20Meltdown%20Shows%20How%20AI%20Makes%20Bugs%20More%20Exploitable.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-10-24T12:00:00.000Z"
+  },
+  {
+   "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+   "link": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+   "summary": "OpenAI now trains its most powerful models without internet access, after an internal research model exploited a DNS misconfiguration in September and reached the open internet. In controlled tests, AI agents still found",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_misalign-2.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-24T11:12:36.000Z"
+  },
+  {
+   "title": "How Well Has the Nikon Z 20mm f/1.8 S Aged?",
+   "link": "https://fstoppers.com/gear/how-well-nikon-z-20mm-f18-s-aged-905162?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "Nikon's NIKKOR Z 20mm f/1.8 S is the biggest, heaviest, and most expensive lens in a series that was supposed to be the lighter, more affordable side of the S-line. Six years after its release, it still has almost no nat",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_91.jpg.webp?itok=BtUoEXuq",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-24T11:03:01.000Z"
+  },
+  {
+   "title": "Photographer Spends Ten Years Capturing Black Cowboys and Cowgirls Across America",
+   "link": "https://petapixel.com/2026/10/24/photographer-spends-ten-years-capturing-black-cowboys-and-cowgirls-across-america/",
+   "summary": "A photographer spent over a decade living with Black cowboys and cowgirls in the U.S., capturing a culture that is often overlooked. [ Read More ]",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-24T11:00:48.000Z"
+  },
+  {
+   "title": "Matthews intro’s the 33 Sliding Leg C-Stand with Grip Head & Arm",
+   "link": "https://www.provideocoalition.com/matthews-intros-the-33-sliding-leg-c-stand-with-grip-head-arm/",
+   "summary": "The new compact industry-standard support from Matthews fits in the trunk of a small car, making it a practical choice for crews transporting equipment without a production vehicle. Transporting gear to a location often ",
+   "image": "https://www.provideocoalition.com/wp-content/uploads/msecstandcompact001.jpg",
+   "source": "ProVideo Coalition",
+   "category": "video",
+   "date": "2026-10-24T10:43:36.000Z"
+  },
+  {
+   "title": "Thypoch announces Simera-C 100mm T1.9 Cine Lens",
+   "link": "https://www.provideocoalition.com/thypoch-announces-simera-c-100mm-t1-9-cine-lens/",
+   "summary": "Character-focused rendering for compact mirrorless and cinema-camera setups, the new Simera lens extends the series beyond its previous longest focal length of 75mm. Designed for character close-ups, reaction shots and n",
+   "image": "https://www.provideocoalition.com/wp-content/uploads/thypochsimeara001.jpg",
+   "source": "ProVideo Coalition",
+   "category": "video",
+   "date": "2026-10-24T10:20:51.000Z"
+  },
+  {
+   "title": "Sony A7R IV owner combines telescope, reducer and teleconverter for Saturn",
+   "link": "https://www.sonyalpharumors.com/sony-a7r-iv-owner-combines-telescope-reducer-and-teleconverter-for-saturn/",
+   "summary": "A Reddit member shared this image of Saturn shot with this unusual combination: Sony A7R IV + Celestron C925HD + 0.7× reducer + Sony 2× converter: He wrote: Spent 2 hours align the optical axis and adjust back focal leng",
+   "image": "",
+   "source": "Sony Alpha Rumors",
+   "category": "photo",
+   "date": "2026-10-24T09:36:46.000Z"
+  },
   {
    "title": "Fancy harnesses make coding agents more expensive but not better, study finds",
    "link": "https://the-decoder.com/fancy-harnesses-make-coding-agents-more-expensive-but-not-better-study-finds/",
@@ -9,6 +108,15 @@
    "source": "The Decoder",
    "category": "ai",
    "date": "2026-10-24T09:21:39.000Z"
+  },
+  {
+   "title": "TTArtisan vs. Viltrox: Who Makes the Better Tiny Autofocus Lens?",
+   "link": "https://fstoppers.com/gear/ttartisan-vs-viltrox-who-makes-better-tiny-autofocus-lens-905161?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "Viltrox's 28mm \"Chip\" showed that an autofocus lens barely thicker than a body cap could make a full frame camera feel close to pocketable, and now TTArtisan has a $99 lens that follows the same design almost line for li",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_90.jpg.webp?itok=Rg9mVVDk",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-24T09:03:01.000Z"
   },
   {
    "title": "Thypoch Simera-C 100mm T1.9 Lens",
@@ -365,7 +473,7 @@
    "title": "Pulitzer Prize-Winning Photographer Jerry Gay, Known for Iconic Image of Exhausted Firefighters, Dies",
    "link": "https://petapixel.com/2026/10/23/pulitzer-prize-winning-photographer-jerry-gay-known-for-iconic-image-of-exhausted-firefighters-dies/",
    "summary": "Photojournalist Jerry Gay -- who won a Pultizer Prize for his shot of four firemen resting after fighting a house fire and took some of the most iconic images of serial killer Ted Bundy - has passed away. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/obit-feature.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-23T15:00:31.000Z"
@@ -419,7 +527,7 @@
    "title": "The Wonders of Space Sparkle in the 2026 Astrophotography Prize",
    "link": "https://petapixel.com/2026/10/23/the-wonders-of-space-sparkle-in-the-2026-astrophotography-prize/",
    "summary": "Astrophotographer Evan McKay has been named Photographer of the Year in the 2026 Astrophotography Prize, taking the competition’s highest honour with his image, Cathedral Cove, New Zealand. He took home $3,000. [ Read Mo",
-   "image": "https://petapixel.com/assets/uploads/2026/10/Astrophotography-Prize-2026.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-23T14:04:55.000Z"
@@ -713,15 +821,6 @@
    "date": "2026-10-23T06:30:42.000Z"
   },
   {
-   "title": "Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera",
-   "link": "https://petapixel.com/2026/10/22/sigma-says-the-compact-modular-fp2-is-the-ultimate-hybrid-camera/",
-   "summary": "It's been a long time since Sigma announced the fp, billed as the world's smallest full-frame mirrorless camera. Much has changed in the industry since 2019, and now the Sigma FP2 is here with a fresh style to its model ",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-23T06:30:33.000Z"
-  },
-  {
    "title": "Sigma FP2: everything is better for the second-gen modular mirrorless camera",
    "link": "https://www.dpreview.com/reviews/sigma-fp2-everything-is-better-for-the-second-gen-modular-mirrorless-camera/",
    "summary": "A similar exterior belies the amount that's changed in Sigma's latest modular stills/video full-framer.",
@@ -778,7 +877,7 @@
   {
    "title": "Meta offers insights on individual platform growth",
    "link": "https://www.socialmediatoday.com/news/meta-offers-insights-on-individual-platform-growth/833807/",
-   "summary": "Alongside its third quarter earnings, the company revealed usage notes and engagement data for Facebook, Instagram and Threads.",
+   "summary": "Alongside its third-quarter earnings release, the company revealed usage notes and engagement data for Facebook, Instagram and Threads.",
    "image": "https://imgproxy.divecdn.com/_qCZFatzkmrQT81320LquVewz1MFOBUNAXrQJC5FJB4/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2FwcHMucG5n.webp",
    "source": "Social Media Today",
    "category": "instagram",
@@ -902,19 +1001,19 @@
    "date": "2026-10-22T19:07:09.000Z"
   },
   {
-   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-   "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-   "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-12.17.11-PM-1.png?resize=1200,988",
+   "title": "Canva releases its first image generation model",
+   "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+   "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sample-Outputs.jpeg?resize=1200,675",
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-22T19:00:00.000Z"
   },
   {
-   "title": "Canva releases its first image generation model",
-   "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-   "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sample-Outputs.jpeg?resize=1200,675",
+   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+   "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+   "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-12.17.11-PM-1.png?resize=1200,988",
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-22T19:00:00.000Z"
@@ -956,15 +1055,6 @@
    "date": "2026-10-22T18:43:53.000Z"
   },
   {
-   "title": "Apple’s iPhone Duo Case Has Adhesives and That’s Actually Normal",
-   "link": "https://petapixel.com/2026/10/22/apples-iphone-duo-case-has-adhesives-and-thats-actually-normal/",
-   "summary": "With Apple's debut foldable phone, the iPhone Duo, launching tomorrow, the internet has been buzzing about Apple's iPhone Duo Case and how sticky it is. Yes, it's unprecedented for Apple to make an adhesive iPhone case, ",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-22T18:29:31.000Z"
-  },
-  {
    "title": "Major US banks are locking out AI agents that log in with customer credentials",
    "link": "https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/",
    "summary": "Customers are letting AI agents use their credentials to access accounts at Morgan Stanley, JPMorgan, and other major U.S. banks, sometimes without direct instructions. Morgan Stanley has blocked agents, while other bank",
@@ -981,15 +1071,6 @@
    "source": "No Film School",
    "category": "video",
    "date": "2026-10-22T18:04:24.000Z"
-  },
-  {
-   "title": "Google's Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine",
-   "link": "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/",
-   "summary": "With Agent Compute Engine, Google is introducing a runtime environment designed specifically for AI agents, while also expanding the governance capabilities that enable companies to manage agents in cloud, hybrid, and on",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/06/google_logo_wall-2.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-22T17:50:09.000Z"
   },
   {
    "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
@@ -1035,15 +1116,6 @@
    "source": "No Film School",
    "category": "video",
    "date": "2026-10-22T16:11:06.000Z"
-  },
-  {
-   "title": "A Look Into the Latest Tripod Technology From Sirui: The BH-60 Hybrid Ballhead and SVS60 Rapid Tripod System.",
-   "link": "https://fstoppers.com/gear/look-latest-tripod-technology-sirui-bh-60-hybrid-ballhead-and-svs60-rapid-tripod-905052?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "As someone who relies heavily on a geared head for precise hospitality work, the increasing demand for speed and video applications has left me considering how to integrate a hybrid ball head system into my professional ",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/screenshot-2026-10-14-at-14.21.21.png.webp?itok=cpX49S2l",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-10-22T16:03:02.000Z"
   },
   {
    "title": "Uber puts all 30,000 employees on ChatGPT Work",
@@ -1163,15 +1235,6 @@
    "date": "2026-10-22T15:03:36.000Z"
   },
   {
-   "title": "Should a Photo Project Start With an Idea or a Feeling?",
-   "link": "https://fstoppers.com/education/should-photo-project-start-idea-or-feeling-905136?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "Most advice on personal projects follows the same order: settle on a concept, write a rationale, set some rules, and only then pick up the camera. That sequence keeps a body of work coherent, though it can also screen ou",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_84.jpg.webp?itok=RPLfd7Bz",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-10-22T15:03:01.000Z"
-  },
-  {
    "title": "SMDV Aims to Push Softbox Lighting in a Bolder, Brighter Direction With New CINE Series",
    "link": "https://nofilmschool.com/smdv-cine-softboxes",
    "summary": "It’s always great to see companies make big, bold plays in film and video. Sure, not all these attempts work out; some don’t quite catch on, some offer a bit of change, but a few push technology forward in ways that ofte",
@@ -1206,15 +1269,6 @@
    "source": "Fuji Rumors",
    "category": "photo",
    "date": "2026-10-22T14:34:32.000Z"
-  },
-  {
-   "title": "Create Beautiful Portraits With One Lens and Simple Light",
-   "link": "https://fstoppers.com/portraits/create-beautiful-portraits-one-lens-and-simple-light-905032?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "Crafting beautiful portraits with a simple camera and lighting setup is possible, and limiting our gear choices can lead to even more creative results. In my latest YouTube video, I demonstrate how I use natural light, s",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/screenshot-2026-10-12-at-3.01.16-pm.png.webp?itok=QW6f4QmQ",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-10-22T14:03:01.000Z"
   },
   {
    "title": "Safely Eject All of Your Connected Drives at Once With This Free Dock Ejector App",
@@ -1307,20 +1361,20 @@
    "date": "2026-10-22T10:50:54.000Z"
   },
   {
-   "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
-   "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
-   "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
-   "image": "https://media.wired.com/photos/6ada5ebcd90d47bccee2186e/master/pass/Science_HuggingFacesPowerfulNewDNAModelIsSmallEnou-ezgif.com-video-to-gif-converter%20(1).gif",
-   "source": "WIRED",
-   "category": "ai",
-   "date": "2026-10-22T10:00:00.000Z"
-  },
-  {
    "title": "Making the case for context-aware AI",
    "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
    "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints an",
    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-Celonis-social-card.png?resize=1200,600",
    "source": "MIT Tech Review",
+   "category": "ai",
+   "date": "2026-10-22T10:00:00.000Z"
+  },
+  {
+   "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+   "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+   "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+   "image": "https://media.wired.com/photos/6ada5ebcd90d47bccee2186e/master/pass/Science_HuggingFacesPowerfulNewDNAModelIsSmallEnou-ezgif.com-video-to-gif-converter%20(1).gif",
+   "source": "WIRED",
    "category": "ai",
    "date": "2026-10-22T10:00:00.000Z"
   },
@@ -1422,15 +1476,6 @@
    "source": "Newsshooter",
    "category": "video",
    "date": "2026-10-22T04:46:06.000Z"
-  },
-  {
-   "title": "Treasure & Dirt–a six-part TV series shot on the Blackmagic URSA Cine 17K 65",
-   "link": "https://www.newsshooter.com/2026/10/21/treasure-dirt-a-six-part-tv-series-shot-on-the-blackmagic-ursa-cine-17k-65/",
-   "summary": "Blackmagic Design has released a video with Edward Goldner ACS, cinematographer for the psychological crime thriller ‘Treasure & Dirt’ where he talks about bringing this six-part TV series to life using the Blackmagic UR",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-1.19.59-PM.jpeg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-10-22T04:36:27.000Z"
   },
   {
    "title": "Nikon released new firmware updates for the Nikkor Z 24-70mm f/2.8 S II & 14-24mm f/2.8 S lenses",
@@ -1712,15 +1757,6 @@
    "date": "2026-10-21T14:26:19.000Z"
   },
   {
-   "title": "Fire-Damaged Sony A7 IV Brought Back to Life in Impressive Repair Video",
-   "link": "https://www.sonyalpharumors.com/fire-damaged-sony-a7-iv-brought-back-to-life-in-impressive-repair-video/",
-   "summary": "A Sony A7 IV and its attached lens looked beyond saving after a house fire melted the camera’s exterior, destroyed its rear screen, and left internal components contaminated with water and soot. But a repair videoshows t",
-   "image": "",
-   "source": "Sony Alpha Rumors",
-   "category": "photo",
-   "date": "2026-10-21T14:26:03.000Z"
-  },
-  {
    "title": "cinemaOS, CUTROOM, and invideo Compared – Mac Studio App, Free Open-Source Editor, Cloud AI Agent",
    "link": "https://www.cined.com/cinemaos-cutroom-and-invideo-compared-mac-studio-app-free-open-source-editor-cloud-ai-agent/",
    "summary": "A growing number of video editors are now built around AI and open-source components, some of them by small teams or a single developer. Three current examples take very different routes: cinemaOS is a Mac subscription a",
@@ -1746,33 +1782,6 @@
    "source": "WIRED",
    "category": "ai",
    "date": "2026-10-21T14:00:00.000Z"
-  },
-  {
-   "title": "Leica Q3 43 Formula 1 Edition uses carbon fiber parts",
-   "link": "https://www.provideocoalition.com/leica-q3-43-formula-1-edition-uses-carbon-fiber-parts/",
-   "summary": "Carbon fiber is not traditionally used in Leica cameras, but it’s the defining material in motor racing, so the Leica Q3 43 Formula 1 Edition, is made from genuine carbon. Two long-established brands, Leica Camera and Fo",
-   "image": "https://www.provideocoalition.com/wp-content/uploads/leicaq3formula1_000.jpg",
-   "source": "ProVideo Coalition",
-   "category": "video",
-   "date": "2026-10-21T12:40:55.000Z"
-  },
-  {
-   "title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
-   "link": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
-   "summary": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
-   "image": "https://media.wired.com/photos/6ad7df7552635a2423fcfe8e/master/pass/GettyImages-2297134397.jpg",
-   "source": "WIRED",
-   "category": "ai",
-   "date": "2026-10-21T12:35:00.000Z"
-  },
-  {
-   "title": "Pic-Time launches Album Starter for professional photographers",
-   "link": "https://www.provideocoalition.com/pic-time-launches-album-starter-for-professional-photographers/",
-   "summary": "Album Starter introduces a new capability that automatically creates a complete album draft after a gallery is delivered, making it easier for photographers to expand their product offering. Pic-Time, the leading gallery",
-   "image": "https://www.provideocoalition.com/wp-content/uploads/pictimealbumstarter000.jpg",
-   "source": "ProVideo Coalition",
-   "category": "video",
-   "date": "2026-10-21T11:08:13.000Z"
   },
   {
    "title": "SmallRig Shoulder Rig Kit (Pro) vs. Classic – VCT-14 Baseplate, ARRI Rosette Arms, $419.99",
@@ -1935,15 +1944,6 @@
    "source": "The Verge",
    "category": "tiktok",
    "date": "2026-10-20T13:11:23.000Z"
-  },
-  {
-   "title": "Insta360 is making its Antigravity A1 drone way cheaper – with a catch",
-   "link": "https://www.dpreview.com/news/insta360-is-making-its-antigravity-a1-drone-way-cheaper-with-a-catch/",
-   "summary": "The Follow Me bundle promises to make it easier than ever to record 360 video of yourself from the air, but comes with a battery that puts it over the weight limit.",
-   "image": "https://www.dpreview.com/wp-content/uploads/2026/10/Lifestyle-1-16x9-Lead-1.jpg",
-   "source": "DPReview",
-   "category": "photo",
-   "date": "2026-10-20T13:00:00.000Z"
   },
   {
    "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
@@ -2450,20 +2450,20 @@
    "date": "2026-10-01T13:30:00.000Z"
   },
   {
-   "title": "Instagram rolls out an AI video assistant for creators",
-   "link": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
-   "summary": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801",
-   "source": "TechCrunch",
-   "category": "instagram",
-   "date": "2026-09-30T14:30:00.000Z"
-  },
-  {
    "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
    "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
    "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creati",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK070__01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "source": "The Verge",
+   "category": "instagram",
+   "date": "2026-09-30T14:30:00.000Z"
+  },
+  {
+   "title": "Instagram rolls out an AI video assistant for creators",
+   "link": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
+   "summary": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801",
+   "source": "TechCrunch",
    "category": "instagram",
    "date": "2026-09-30T14:30:00.000Z"
   },
