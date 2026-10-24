@@ -1,20 +1,128 @@
 {
- "updated": "2026-10-24T13:31:27.081Z",
+ "updated": "2026-10-24T17:17:33.990Z",
  "items": [
+  {
+   "title": "Meike AF 85mm f/1.8 for Fujifilm GFX Now Even Cheaper thanks to Our Coupon Code",
+   "link": "https://www.fujirumors.com/meike-af-85mm-f-1-8-for-fujifilm-gfx-now-even-cheaper-thanks-to-our-coupon-code/",
+   "summary": "The Meike AF 85mm f/1.8 for Fujifilm G mount is gaining popularity rather quickly. No surprise, given its ultra affordable price tag compared to native Fujinon G mount lenses. Well, you can now get it at an even more aff",
+   "image": "https://www.fujirumors.com/wp-content/uploads/2026/10/Meike-Discount.jpg",
+   "source": "Fuji Rumors",
+   "category": "photo",
+   "date": "2026-10-24T16:38:34.000Z"
+  },
+  {
+   "title": "Block’s new voice model sounds eerily human",
+   "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+   "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/07/jack-dorsey.jpg?resize=1200,822",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-24T16:00:00.000Z"
+  },
+  {
+   "title": "Three fired OpenAI safety researchers say they were never told what they actually leaked",
+   "link": "https://the-decoder.com/three-fired-openai-safety-researchers-say-they-were-never-told-what-they-actually-leaked/",
+   "summary": "The three OpenAI safety researchers who were fired, Tomek Korbak, Mikita Balesni, and Jasmine Wang, are publicly pushing back against allegations from their former employer. They deny sharing confidential information and",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_fired_researchers.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-24T15:19:33.000Z"
+  },
+  {
+   "title": "Canon’s Flagship Camera Just Became More Affordable",
+   "link": "https://ymcinema.com/2026/10/24/canon-flagship-eos-r1-amazon-deal/",
+   "summary": "Canon’s flagship mirrorless camera, the EOS R1, is available on Amazon for $5,899.95 in Used – Like New condition, approximately $900 below the listed new price of $6,799. For professionals looking to enter Canon’s top-t",
+   "image": "https://ymcinema.com/wp-content/uploads/2024/07/canon-eos-r1-with-lens.jpeg",
+   "source": "Y.M.Cinema",
+   "category": "video",
+   "date": "2026-10-24T15:18:35.000Z"
+  },
+  {
+   "title": "Why Your Ultra-Wide Landscape Photos Look Flat",
+   "link": "https://fstoppers.com/education/why-your-ultra-wide-landscape-photos-look-flat-905164?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "An ultra-wide lens can make a landscape feel like you're standing inside it, or it can shrink a dramatic scene into a flat strip of distant shapes. The difference usually comes down to where you put your feet and how you",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_93.jpg.webp?itok=HoE61l8D",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-24T15:03:01.000Z"
+  },
+  {
+   "title": "Photographer Captures Ghostly Face in the Waves on Deadly Beach",
+   "link": "https://petapixel.com/2026/10/24/photographer-captures-ghostly-face-in-the-waves-on-deadly-beach/",
+   "summary": "Photographer Vilhelm Gunnarsson has been shooting the south coast of Iceland, showing a landscape that is battered by the relentless forces of the Atlantic Ocean. [ Read More ]",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-24T15:00:34.000Z"
+  },
+  {
+   "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+   "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+   "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1777713346.jpg?resize=1200,900",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-24T15:00:00.000Z"
+  },
+  {
+   "title": "AI makes junior patent attorneys instantly better but may quietly stunt their professional growth",
+   "link": "https://the-decoder.com/ai-makes-junior-patent-attorneys-instantly-better-but-may-quietly-stunt-their-professional-growth/",
+   "summary": "A three-month field experiment with 133 patent attorneys shows that AI boosts immediate performance, with junior lawyers gaining the most. But when the AI is taken away, only senior attorneys retain the benefits, suggest",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/patent-lawyers-nber-nano-banana-pro.jpg",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-24T14:34:05.000Z"
+  },
+  {
+   "title": "Block's new AI model Dessa was trained entirely on human speech to catch emotions text-based models miss",
+   "link": "https://the-decoder.com/blocks-new-ai-model-dessa-was-trained-entirely-on-human-speech-to-catch-emotions-text-based-models-miss/",
+   "summary": "Block, the company behind Square and Cash App, has introduced Dessa, a speech model that processes audio directly instead of converting it to text first. Dessa is designed to recognize emotions, sarcasm, and pauses in re",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/dessa_block.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-24T14:09:46.000Z"
+  },
+  {
+   "title": "Revisiting Zeiss ZM Lenses Part 1: I’ve Always Wanted to Do This",
+   "link": "https://petapixel.com/2026/10/24/revisiting-zeiss-zm-lenses-part-1-ive-always-wanted-to-do-this/",
+   "summary": "A few months ago on the PetaPixel Podcast, we did a lens draft where we had to pick our favorite lenses from a whole selection of choices. Naturally, this came with a lot of research, and as we delved deeper into reviews",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-24T14:01:56.000Z"
+  },
+  {
+   "title": "Here are the top AI agents that can live in your text messages",
+   "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+   "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-24T14:00:00.000Z"
+  },
   {
    "title": "Sigma Fixed a Lot With the fp II, but Is It Enough?",
    "link": "https://fstoppers.com/gear/sigma-fixed-lot-fp-ii-it-enough-905163?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
    "summary": "At $2,199 for the body alone, plus roughly $500 more if you want the optional electronic viewfinder, the Sigma fp II asks a lot for a camera with no mechanical shutter and no in-body stabilization. Sigma bills it as the ",
-   "image": "https://fstoppers.com/s3/files/styles/16_9_max_650/s3/lead/2026/10/cover_92.jpg.webp?itok=YedkZNo-",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_92.jpg.webp?itok=YedkZNo-",
    "source": "Fstoppers",
    "category": "photo",
    "date": "2026-10-24T13:03:01.000Z"
   },
   {
+   "title": "And It Was All Yellow: Photographers Capture Golden Moments Around the World",
+   "link": "https://petapixel.com/2026/10/24/and-it-was-all-yellow-photographers-capture-golden-moments-around-the-world/",
+   "summary": "Bright and joyful, energetic and optimistic, but also a sign of caution. Bold monochromes and subtle glows, conceptual pieces and documentary moments; yellow is a warning sign, a memory, a burst of light. [ Read More ]",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-24T13:00:48.000Z"
+  },
+  {
    "title": "Tintype Photographer Uses Mobile Darkroom to Create Handcrafted Images of Memory and Time",
    "link": "https://petapixel.com/2026/10/24/tintype-photographer-uses-mobile-darkroom-to-create-handcrafted-images-of-memory-and-time/",
    "summary": "Photographer Lara Porzak, who has spent more than three decades using analog techniques to create photographs that function as both images and physical artifacts, has published her first book. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/tintype-photographer-.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-24T13:00:46.000Z"
@@ -329,7 +437,7 @@
    "title": "Vintage Tones on a Budget: Why We Love Kodak ColorPlus 200",
    "link": "https://petapixel.com/2026/10/23/vintage-tones-on-a-budget-why-we-love-kodak-colorplus-200/",
    "summary": "Today’s Film Friday takes a look at a blast from the past: Kodak ColorPlus 200. This all-purpose film is one of the most affordable color negative films available for loading into your favorite 35mm film camera. It is ve",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/Kodak-ColorPlus-200-or-Kodacolor-200-Is-an-Affordable-General-Purpose-Film.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-23T17:19:36.000Z"
@@ -473,7 +581,7 @@
    "title": "Pulitzer Prize-Winning Photographer Jerry Gay, Known for Iconic Image of Exhausted Firefighters, Dies",
    "link": "https://petapixel.com/2026/10/23/pulitzer-prize-winning-photographer-jerry-gay-known-for-iconic-image-of-exhausted-firefighters-dies/",
    "summary": "Photojournalist Jerry Gay -- who won a Pultizer Prize for his shot of four firemen resting after fighting a house fire and took some of the most iconic images of serial killer Ted Bundy - has passed away. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/obit-feature.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-23T15:00:31.000Z"
@@ -518,7 +626,7 @@
    "title": "The Best Canon Camera and Lens Deals You Can Get Right Now",
    "link": "https://petapixel.com/2026/10/23/the-best-canon-camera-and-lens-deals-you-can-get-right-now/",
    "summary": "Canon is one of the biggest names in photography, and it has been for a long time. The company's mirrorless EOS R series cameras are routinely among the best-selling on the market, and some are currently available at dis",
-   "image": "https://petapixel.com/assets/uploads/2026/10/canon-deals-featured.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-23T14:08:47.000Z"
@@ -527,7 +635,7 @@
    "title": "The Wonders of Space Sparkle in the 2026 Astrophotography Prize",
    "link": "https://petapixel.com/2026/10/23/the-wonders-of-space-sparkle-in-the-2026-astrophotography-prize/",
    "summary": "Astrophotographer Evan McKay has been named Photographer of the Year in the 2026 Astrophotography Prize, taking the competition’s highest honour with his image, Cathedral Cove, New Zealand. He took home $3,000. [ Read Mo",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/Astrophotography-Prize-2026.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-23T14:04:55.000Z"
@@ -623,15 +731,6 @@
    "date": "2026-10-23T11:36:30.000Z"
   },
   {
-   "title": "Anthropic's Claude now writes code and proves it safe automatically",
-   "link": "https://the-decoder.com/anthropics-claude-now-writes-code-and-proves-it-safe-automatically/",
-   "summary": "Anthropic had Claude generate mathematical proofs that existing code is correct, producing roughly 180 million lines of proof code for 123 open-source libraries. Along the way, the model caught bugs that years of testing",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/anthropic_claude-2.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-23T11:32:19.000Z"
-  },
-  {
    "title": "Why Going Back to the Same Mountain Twice Pays Off",
    "link": "https://fstoppers.com/landscapes/why-going-back-same-mountain-twice-pays-905147?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
    "summary": "Layered ridgelines, each one a shade paler than the one in front of it, are among the most sought-after images in mountain landscape work, and they depend on haze, cloud, and low-angle light that no one can schedule. Get",
@@ -639,15 +738,6 @@
    "source": "Fstoppers",
    "category": "photo",
    "date": "2026-10-23T11:03:01.000Z"
-  },
-  {
-   "title": "‘Avedon’ Trailer Drops on Netflix",
-   "link": "https://petapixel.com/2026/10/23/avedon-trailer-drops-on-netflix/",
-   "summary": "Netflix has released a trailer for an upcoming documentary about the legendary photographer Richard Avedon. [ Read More ]",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-23T11:00:38.000Z"
   },
   {
    "title": "Sigma announces FP2: a compact, full-fledged cinema camera",
@@ -684,15 +774,6 @@
    "source": "Newsshooter",
    "category": "video",
    "date": "2026-10-23T09:57:57.000Z"
-  },
-  {
-   "title": "OpenAI lowers valuation target, raises up to $30 billion",
-   "link": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion/",
-   "summary": "OpenAI is closing in on a new funding round of up to $30 billion but has lowered its valuation target to get there. The article OpenAI lowers valuation target, raises up to $30 billion appeared first on The Decoder .",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/08/openai-scientific-software-nano-banana-pro.jpg",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-23T09:49:38.000Z"
   },
   {
    "title": "Cinetica NU.TRON Bold",
@@ -792,24 +873,6 @@
    "source": "Fstoppers",
    "category": "photo",
    "date": "2026-10-23T06:34:24.000Z"
-  },
-  {
-   "title": "Sigma FP2 Review: The Brick with a Heart of Gold",
-   "link": "https://petapixel.com/2026/10/22/sigma-fp2-review-the-brick-with-a-heart-of-gold/",
-   "summary": "I absolutely love Sigma lenses, but I really struggle with the camera designs. This is not a recent development either; I’ve disliked every single camera body I’ve tested. Usually, the reason comes down to strange ergono",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-23T06:31:22.000Z"
-  },
-  {
-   "title": "The Sigma 50mm f/1.4 CL DG Blends Vintage Aesthetics With Innovative Design",
-   "link": "https://petapixel.com/2026/10/22/the-sigma-50mm-f-1-4-cl-dg-blends-vintage-aesthetics-with-innovative-design/",
-   "summary": "Sigma has announced the 50mm f/1.4 CL DG Contemporary, which it describes as a \"new lineage\" for premium compact prime lenses that emphasizes old-school aesthetics over optical perfection. But beyond that, it pushes the ",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-23T06:30:48.000Z"
   },
   {
    "title": "Sigma FP2 Announced– 6K Open Gate in ProRes RAW & 32-bit Float",
@@ -938,15 +1001,6 @@
    "date": "2026-10-22T21:11:50.000Z"
   },
   {
-   "title": "Crepuscular Rays: Why These Beautiful Beams Happen and How to Be Standing There",
-   "link": "https://fstoppers.com/landscapes/crepuscular-rays-why-these-beautiful-beams-happen-and-how-be-standing-there-904323?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "The shafts of light you call god beams are lying to you about their shape. They look like a fan bursting out of a hole in the clouds, splaying wider as they fall toward the ground, but the beams are very nearly parallel.",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/08/crepuscular-rays-sunbeams-valley.jpg.webp?itok=80lRcA1f",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-10-22T21:03:01.000Z"
-  },
-  {
    "title": "Meta’s AI could still scrape news sites, legal experts say",
    "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
    "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"Thi",
@@ -1053,15 +1107,6 @@
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-22T18:43:53.000Z"
-  },
-  {
-   "title": "Major US banks are locking out AI agents that log in with customer credentials",
-   "link": "https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/",
-   "summary": "Customers are letting AI agents use their credentials to access accounts at Morgan Stanley, JPMorgan, and other major U.S. banks, sometimes without direct instructions. Morgan Stanley has blocked agents, while other bank",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/ai_bank_accounts.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-22T18:26:02.000Z"
   },
   {
    "title": "More Minor, Yet Important, Firmware Updates are Here for Your Canon Cameras",
@@ -1217,15 +1262,6 @@
    "date": "2026-10-22T15:13:31.000Z"
   },
   {
-   "title": "Spotify’s current AI bet is about being the music service that agents choose",
-   "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-   "summary": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1783835425-crop-e1717409949317.jpg?resize=1200,676",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-22T15:03:58.000Z"
-  },
-  {
    "title": "Throwback Thursday: why the Sony a7R II’s biggest improvement went under the radar",
    "link": "https://www.dpreview.com/articles/throwback-thursday-why-the-sony-a7r-iis-biggest-improvement-went-under-the-radar/",
    "summary": "The arrival of BSI CMOS technology in Sony's high-res full-framer didn't necessarily mean what people expected.",
@@ -1289,15 +1325,6 @@
    "date": "2026-10-22T13:55:48.000Z"
   },
   {
-   "title": "Claude Duet app is Anthropic’s bet on agents",
-   "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-   "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Claude-Duet.jpg?resize=1200,675",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-22T13:53:26.000Z"
-  },
-  {
    "title": "SmallRig 28mm Waist-Level External Optical Viewfinder",
    "link": "https://www.newsshooter.com/2026/10/22/smallrig-28mm-waist-level-external-optical-viewfinder/",
    "summary": "SmallRig has released the 28mm Waist-Level External Optical Viewfinder. It is a non-electronic, hot shoe-mounted, top-down optical finder that provides a 28mm full-frame-equivalent field of view, with built-in 35mm and 5",
@@ -1314,15 +1341,6 @@
    "source": "Fuji Rumors",
    "category": "photo",
    "date": "2026-10-22T13:49:10.000Z"
-  },
-  {
-   "title": "Nirva raises $33M for a pendant that only listens to you",
-   "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-   "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Nirva-pendant.jpg?resize=1200,675",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-22T13:26:52.000Z"
   },
   {
    "title": "Meet Mori, a Cute Robot Mushroom That Doesn’t Really Say (or Do) Anything",
@@ -1928,15 +1946,6 @@
    "date": "2026-10-20T14:59:31.000Z"
   },
   {
-   "title": "Fujifilm Is Pumping Even More Money Into Its Instax Business",
-   "link": "https://www.fujirumors.com/fujifilm-is-pumping-even-more-money-into-its-instax-business/",
-   "summary": "Fujifilm Reinforces Production Facilities for instax™ Films 3 billion JPY capital investment to cater to global demand increase Increasing production capacity by approx. 20% compared to FY2026 TOKYO, October 20, 2026 – F",
-   "image": "https://www.fujirumors.com/wp-content/uploads/2026/10/Instax-Factory.jpg",
-   "source": "Fuji Rumors",
-   "category": "photo",
-   "date": "2026-10-20T14:57:33.000Z"
-  },
-  {
    "title": "TikTok employees said they knew about child safety issues, but execs failed to act",
    "link": "https://www.theverge.com/tech/1014250/tiktok-employees-internal-child-safety-warnings",
    "summary": "TikTok was repeatedly warned by its own staffers about risks its platform posed to child safety, according to court records obtained by NPR. The publication reports that employees were frustrated over TikTok executives f",
@@ -2259,15 +2268,6 @@
    "source": "Digital Photography School",
    "category": "photo",
    "date": "2026-10-14T21:09:07.000Z"
-  },
-  {
-   "title": "Canon Admits the EOS R8 Mark II Offers Similar Video Capabilities to the Original R8",
-   "link": "https://ymcinema.com/2026/10/14/canon-eos-r8-mark-ii-vs-r8-video-price-comparison/",
-   "summary": "Canon has published an official comparison of the EOS R8 Mark II and the original EOS R8, acknowledging that the two full-frame cameras offer similar video capabilities. That’s an interesting statement considering their ",
-   "image": "https://ymcinema.com/wp-content/uploads/2026/10/Canon-Admits-the-EOS-R8-Mark-II-Offers-Similar-Video-Capabilities-to-the-Original-R8.006.webp",
-   "source": "Y.M.Cinema",
-   "category": "video",
-   "date": "2026-10-14T13:48:09.000Z"
   },
   {
    "title": "Tamron Officially Announces the RF 16-50mm f/2.8 A for APS-C",
