@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T18:17:20.604Z",
+ "updated": "2026-10-25T21:08:33.090Z",
  "items": [
   {
    "title": "GoPro’s $700 8K Cinema Camera Named One of TIME’s Best Inventions of 2026",
@@ -18,6 +18,15 @@
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-25T16:57:32.000Z"
+  },
+  {
+   "title": "Now you can watch Instagram Reels on your Apple TV",
+   "link": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
+   "summary": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up f",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/1286x724bb.webp?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "instagram",
+   "date": "2026-10-25T16:20:17.000Z"
   },
   {
    "title": "Interview with Julien Salazar, European Product Manager, FX & ZV Camera Systems at Sony",
@@ -1100,19 +1109,19 @@
    "date": "2026-10-22T19:07:09.000Z"
   },
   {
-   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-   "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-   "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-12.17.11-PM-1.png?resize=1200,988",
+   "title": "Canva releases its first image generation model",
+   "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+   "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sample-Outputs.jpeg?resize=1200,675",
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-22T19:00:00.000Z"
   },
   {
-   "title": "Canva releases its first image generation model",
-   "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-   "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Sample-Outputs.jpeg?resize=1200,675",
+   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+   "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+   "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-12.17.11-PM-1.png?resize=1200,988",
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-22T19:00:00.000Z"
