@@ -1,6 +1,78 @@
 {
- "updated": "2026-10-27T00:18:13.518Z",
+ "updated": "2026-10-27T05:26:58.695Z",
  "items": [
+  {
+   "title": "Westcott Redesigns Its Rapid Box Switch Softboxes to Fold Totally Flat",
+   "link": "https://petapixel.com/2026/10/26/westcott-redesigns-its-rapid-box-switch-softboxes-to-fold-totally-flat/",
+   "summary": "Westcott has redesigned its Rapid Box Switch Fold-Flat softbox lineup, promising photographers a more portable way to create high-quality light. [ Read More ]",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-27T04:00:42.000Z"
+  },
+  {
+   "title": "The Instax Mini Evo 2 Has a Bigger Display and Expanded Field of View",
+   "link": "https://petapixel.com/2026/10/26/the-instax-mini-evo-2-has-a-bigger-display-and-expanded-field-of-view/",
+   "summary": "Fujifilm has announced the Instax Mini Evo 2, which upgrades the rear LCD, adds a new \"Expanded View\" framing feature, and introduces an \"Immersive Movie\" option that captures up to four seconds before the photo is taken",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-27T03:41:04.000Z"
+  },
+  {
+   "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+   "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+   "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/55593495974_7bfdac6a15_k.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-27T02:00:00.000Z"
+  },
+  {
+   "title": "The Fujifilm Instax Mini Evo 2 brings big upgrades to its hybrid instant camera",
+   "link": "https://www.dpreview.com/news/the-fujifilm-instax-mini-evo-2-brings-big-upgrades-to-its-hybrid-instant-camera/",
+   "summary": "Fujifilm’s second-generation Mini Evo adds face-detection autofocus, a larger sensor and a massive touchscreen.",
+   "image": "https://www.dpreview.com/wp-content/uploads/2026/10/M-PI-fujifilm-instax-mini-evo-2-03.jpg",
+   "source": "DPReview",
+   "category": "photo",
+   "date": "2026-10-27T02:00:00.000Z"
+  },
+  {
+   "title": "Save $5,700 USD on the DZOFilm PAVO 2x Anamorphic 32/55 T2.1 & 100mm T2.4 3-Lens Set",
+   "link": "https://www.newsshooter.com/2026/10/26/save-5700-usd-on-the-dzofilm-pavo-2x-anamorphic-32-55-t2-1-100mm-t2-4-3-lens-set/",
+   "summary": "You can save $5,700 USD on the DZOFilm PAVO 2x Anamorphic 32/55 T2.1 & 100mm T2.4 3-Lens Set (Neutral Coating, PL/EF Mount, Feet) and purchase it for $5,499 USD. Key features The PAVO T2.1 2x Anamorphic Prime Lenses were",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/DZO-Pavo.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-27T01:37:41.000Z"
+  },
+  {
+   "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+   "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+   "summary": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how mu",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/gettyimages-2295204296-2048x2048-1.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-27T01:12:21.000Z"
+  },
+  {
+   "title": "Australia’s proposed algorithmic opt-out gets pushback",
+   "link": "https://www.socialmediatoday.com/news/australias-proposed-algorithmic-opt-out-gets-pushback/872830/",
+   "summary": "Instagram Chief Adam Mosseri and conservative commentator Michael Shellenberger have separately opposed aspects of the regulations.",
+   "image": "https://imgproxy.divecdn.com/eDf1fLcEc170l_vRPiYUM-yz-9GJV5DYes_NJs5U42w/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjc2NjExNzMyXzEuanBn.webp",
+   "source": "Social Media Today",
+   "category": "instagram",
+   "date": "2026-10-27T00:43:56.000Z"
+  },
+  {
+   "title": "DaVinci Resolve 21.1.2",
+   "link": "https://www.newsshooter.com/2026/10/26/davinci-resolve-21-1-2/",
+   "summary": "Blackmagic Design has released DaVinci Resolve 21.1.2, which adds up to 14x faster IntelliSearch analysis on Apple M6 computers running Mac OS 27 and faster IntelliSearch analysis, multicam SmartSwitch, and other AI tool",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-27-at-9.19.45.png",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-27T00:24:47.000Z"
+  },
   {
    "title": "OpenAI announces three big science discoveries and a new way to work with academics",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
@@ -9,6 +81,15 @@
    "source": "The Verge",
    "category": "ai",
    "date": "2026-10-26T23:34:58.000Z"
+  },
+  {
+   "title": "TikTok playbook outlines the value of its high-end ad options",
+   "link": "https://www.socialmediatoday.com/news/tiktok-playbook-outlines-the-value-of-its-high-end-ad-options/872827/",
+   "summary": "The app&rsquo;s Top View and Pulse Premiere options provide premium placement opportunities during peak viewing events.",
+   "image": "https://imgproxy.divecdn.com/m8KoWNPwg50xSj4j2lmCDZH0qVNKXV0RmHQhFUbRyj8/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfdG9wX3ZpZXdfZ3VpZGUucG5n.webp",
+   "source": "Social Media Today",
+   "category": "tiktok",
+   "date": "2026-10-26T22:26:07.000Z"
   },
   {
    "title": "A Look at Some of Our Favorite Cinematic Suite Tools in Topview’s Film Studio 2.0",
@@ -216,6 +297,15 @@
    "source": "No Film School",
    "category": "video",
    "date": "2026-10-26T19:11:00.000Z"
+  },
+  {
+   "title": "Instagram rolls out limited Features test in the US",
+   "link": "https://www.socialmediatoday.com/news/instagram-rolls-out-limited-features-test-in-the-us/872825/",
+   "summary": "New long-form video formats will provide expanded ways for creators to engage with their audiences.",
+   "image": "https://imgproxy.divecdn.com/hIUIo3PXvdugDyfozSvrzAFzzL4CScua7W_PhwqRdlk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pbnN0YWdyYW1fZmVhdHVyZXMucG5n.webp",
+   "source": "Social Media Today",
+   "category": "instagram",
+   "date": "2026-10-26T19:05:40.000Z"
   },
   {
    "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
@@ -491,7 +581,7 @@
    "title": "Vogue, Elle, and WSJ Hire Same Photographer for Three ‘Identical’ Covers in One Week",
    "link": "https://petapixel.com/2026/10/26/vogue-elle-and-wsj-hire-same-photographer-for-three-identical-covers-in-one-week/",
    "summary": "Vogue, Elle, and The Wall Street Journal Magazine hired the same photographer for their November issues, resulting in three strikingly similar covers that have drawn criticism. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/three-magazine-covers-same-photographer.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-26T14:46:03.000Z"
@@ -617,7 +707,7 @@
    "title": "AI-Generated Ads in Pennsylvania to Require Labels",
    "link": "https://petapixel.com/2026/10/26/ai-generated-ads-in-pennsylvania-to-require-labels/",
    "summary": "Pennsylvania has enacted a law requiring advertisers to disclose when their ads contain content generated or significantly modified by AI. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/Pennsylvania-State-Capitol.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-26T12:22:05.000Z"
@@ -644,7 +734,7 @@
    "title": "Adventure Photographer Nearly Dies After Falling 200 Feet From a Cliff in Portugal",
    "link": "https://petapixel.com/2026/10/26/adventure-photographer-nearly-dies-after-falling-200-feet-from-a-cliff-in-portugal/",
    "summary": "An adventure photographer who travels the world capturing gorgeous imagery has had a serious accident while hiking in Portugal. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/Photographer-Falls-200-Feet3.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-26T11:34:18.000Z"
@@ -866,10 +956,10 @@
    "date": "2026-10-26T00:00:00.000Z"
   },
   {
-   "title": "TikTok US shares second-quarter account enforcement data",
-   "link": "https://www.socialmediatoday.com/news/tiktok-us-shares-second-quarter-account-enforcement-data/833907/",
+   "title": "TikTok US shares Q2 account enforcement data",
+   "link": "https://www.socialmediatoday.com/news/tiktok-us-shares-q2-account-enforcement-data/833907/",
    "summary": "The platform said it removed more than 14 million fake accounts and prevented nearly 65 million spam accounts from being created.",
-   "image": "",
+   "image": "https://imgproxy.divecdn.com/12K6ogX9lcgDYYC0J9LHBG_Vz43JSghdwOStO8_Cc34/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfdXNkc2p2LnBuZw==.webp",
    "source": "Social Media Today",
    "category": "tiktok",
    "date": "2026-10-25T22:13:46.000Z"
@@ -956,15 +1046,6 @@
    "date": "2026-10-25T15:59:38.000Z"
   },
   {
-   "title": "4 Cameras, 7 Lenses: What It Takes to Cover the Commonwealth Games",
-   "link": "https://petapixel.com/2026/10/25/4-cameras-7-lenses-what-it-takes-to-cover-the-commonwealth-games/",
-   "summary": "Four cameras, seven lenses, and one Commonwealth Games. That was the equipment I brought to Glasgow 2026. Most days, however, only three cameras came with me to the competition venues. The fourth stayed at the hotel as a",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-25T15:30:53.000Z"
-  },
-  {
    "title": "Is Canon Still the Safest Camera Brand for Paid Video Work?",
    "link": "https://fstoppers.com/gear/canon-still-safest-camera-brand-paid-video-work-905175?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
    "summary": "When you pick a camera system for video, you're also picking a lens mount, a color pipeline, and the answer you'll give every time a producer asks what you shoot on. Canon, Sony, Nikon, and Panasonic Lumix all make capab",
@@ -972,15 +1053,6 @@
    "source": "Fstoppers",
    "category": "photo",
    "date": "2026-10-25T15:03:01.000Z"
-  },
-  {
-   "title": "The Empty Gesture of Smiling for Photographs",
-   "link": "https://petapixel.com/2026/10/25/the-empty-gesture-of-smiling-for-photographs/",
-   "summary": "We are all familiar with the social mandate of smiling for photographs. Every time someone points a lens at our mug, we are expected to give a wide, toothy smile. If you don’t comply, the photographer will quickly remind",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-25T15:00:02.000Z"
   },
   {
    "title": "The hottest AI wearables and gadgets you should know about",
@@ -1325,15 +1397,6 @@
    "date": "2026-10-23T20:19:55.000Z"
   },
   {
-   "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-   "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-   "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder le",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-23T19:06:23.000Z"
-  },
-  {
    "title": "Ranking the 5 Best 'Hitchcock Blondes'",
    "link": "https://nofilmschool.com/hitchcock-blondes",
    "summary": "I think the first time I felt something stir inside me was when I saw a woman watching a Hitchcock movie. The director had a certain way of showing, a leer you could call the male gaze, but it felt like it went even deep",
@@ -1514,24 +1577,6 @@
    "date": "2026-10-23T10:05:48.000Z"
   },
   {
-   "title": "SmallRig Sigma FP2 Cage & Accessories",
-   "link": "https://www.newsshooter.com/2026/10/23/smallrig-sigma-fp2-cage-accessories/",
-   "summary": "SmallRig has announced a new Sigma FP2 Cage and accessories. These include an L-shaped Mount Plate with Wooden Handle and the Cage for Sigma FP2, with Wooden Grip, Cable Clamp, Arca Plate, HawkLock NATO, 3-Point Lock. Ke",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/SmallRIG-Sigma-FP2-Cage.jpeg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-10-23T09:57:57.000Z"
-  },
-  {
-   "title": "Cinetica NU.TRON Bold",
-   "link": "https://www.newsshooter.com/2026/10/23/cinetica-nu-tron-bold/",
-   "summary": "The Cinetica NU.TRON Bold is the latest addition to the NU.TRON series. The NU.TRON Bold is a fully mechanical camera movement system built for camera setups up to 30 kg. With a 1.6 m / 5.25′ horizontal reach and 3.2 m /",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-23-at-18.13.55.png",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-10-23T09:25:15.000Z"
-  },
-  {
    "title": "How the Instagram Algorithm Works: Your Up-to-Date 2026 Guide",
    "link": "https://buffer.com/resources/instagram-algorithms/",
    "summary": "Learn how the Instagram algorithm ranks feed, stories, reels, and explore, plus the three signals Adam Mosseri says matter most.",
@@ -1562,7 +1607,7 @@
    "title": "How to Upload Photos to Instagram (+ How the Pros Do It)",
    "link": "https://metricool.com/how-to-upload-photos-to-instagram/",
    "summary": "Learn how to upload photos on Instagram in several ways: from the mobile app, the browser version or social media tools like Metricool.",
-   "image": "https://metricool.com/wp-content/uploads/Upload-Photos-to-IG.webp",
+   "image": "https://metricool.com/wp-content/uploads/upload-photos-instagram.webp",
    "source": "Metricool",
    "category": "instagram",
    "date": "2026-10-23T06:38:00.000Z"
@@ -1586,15 +1631,6 @@
    "date": "2026-10-23T06:30:00.000Z"
   },
   {
-   "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-   "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-   "summary": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/indrive-pony-ai-kazakhstan.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-23T04:00:00.000Z"
-  },
-  {
    "title": "Does Your Model Run on AWS Trainium? Look It Up",
    "link": "https://huggingface.co/blog/torch-neuronx-model-support",
    "summary": "",
@@ -1602,15 +1638,6 @@
    "source": "Hugging Face",
    "category": "ai",
    "date": "2026-10-23T00:00:00.000Z"
-  },
-  {
-   "title": "Meta offers insights on individual platform growth",
-   "link": "https://www.socialmediatoday.com/news/meta-offers-insights-on-individual-platform-growth/833807/",
-   "summary": "Alongside its third quarter earnings, the company revealed usage notes and engagement data for Facebook, Instagram and Threads.",
-   "image": "https://imgproxy.divecdn.com/_qCZFatzkmrQT81320LquVewz1MFOBUNAXrQJC5FJB4/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tZXRhX2FwcHMucG5n.webp",
-   "source": "Social Media Today",
-   "category": "instagram",
-   "date": "2026-10-22T22:30:27.000Z"
   },
   {
    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
@@ -1793,20 +1820,20 @@
    "date": "2026-10-22T10:50:54.000Z"
   },
   {
-   "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
-   "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
-   "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
-   "image": "https://media.wired.com/photos/6ada5ebcd90d47bccee2186e/master/pass/Science_HuggingFacesPowerfulNewDNAModelIsSmallEnou-ezgif.com-video-to-gif-converter%20(1).gif",
-   "source": "WIRED",
-   "category": "ai",
-   "date": "2026-10-22T10:00:00.000Z"
-  },
-  {
    "title": "Making the case for context-aware AI",
    "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
    "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints an",
    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-Celonis-social-card.png?resize=1200,600",
    "source": "MIT Tech Review",
+   "category": "ai",
+   "date": "2026-10-22T10:00:00.000Z"
+  },
+  {
+   "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+   "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+   "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+   "image": "https://media.wired.com/photos/6ada5ebcd90d47bccee2186e/master/pass/Science_HuggingFacesPowerfulNewDNAModelIsSmallEnou-ezgif.com-video-to-gif-converter%20(1).gif",
+   "source": "WIRED",
    "category": "ai",
    "date": "2026-10-22T10:00:00.000Z"
   },
@@ -1823,7 +1850,7 @@
    "title": "What Is Instagram? How the App Works and How Brands Use It in 2026",
    "link": "https://metricool.com/what-is-instagram/",
    "summary": "Instagram has grown from a simple photo app into a platform built around video, messaging, and recommendations. Get to know how it works today and how brands use each feature to reach new people.",
-   "image": "https://metricool.com/wp-content/uploads/what-is-instagram.webp",
+   "image": "https://metricool.com/wp-content/uploads/what-is-instagram-3.webp",
    "source": "Metricool",
    "category": "instagram",
    "date": "2026-10-22T09:00:00.000Z"
@@ -1962,15 +1989,6 @@
    "source": "Metricool",
    "category": "tiktok",
    "date": "2026-10-21T17:14:29.000Z"
-  },
-  {
-   "title": "What’s the most memorable costume or festival you’ve photographed?",
-   "link": "https://www.dpreview.com/articles/whats-the-most-memorable-costume-or-festival-youve-photographed/",
-   "summary": "Some occasions leave you with a full memory card and one photo you keep coming back to. This week, we’re asking DPReview readers to share their most memorable shot of a costume, festival or celebration – and the story be",
-   "image": "https://www.dpreview.com/wp-content/uploads/2026/10/GN-spacemancostume-GettyImages-968089622.jpg",
-   "source": "DPReview",
-   "category": "photo",
-   "date": "2026-10-21T15:31:16.000Z"
   },
   {
    "title": "Blackmagic Wants You to Think of DaVinci Resolve Studio as an AI Editor",
