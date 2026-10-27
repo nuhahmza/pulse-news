@@ -1,10 +1,136 @@
 {
- "updated": "2026-10-26T20:41:15.470Z",
+ "updated": "2026-10-27T00:18:13.518Z",
  "items": [
+  {
+   "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+   "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, a",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-26T23:34:58.000Z"
+  },
+  {
+   "title": "A Look at Some of Our Favorite Cinematic Suite Tools in Topview’s Film Studio 2.0",
+   "link": "https://nofilmschool.com/topview-cinematic-suite-tools",
+   "summary": "The film and video landscape is changing rapidly, and whether you love it or hate it, if you want to keep up with this new AI frontier, this might be one of the best places to start. As we covered in the intro piece , To",
+   "image": "https://nofilmschool.com/media-library/image.jpg?id=68506834&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-26T22:00:03.000Z"
+  },
+  {
+   "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+   "link": "https://openai.com/index/greptile-code-review-codex-astra",
+   "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+   "image": "",
+   "source": "OpenAI",
+   "category": "ai",
+   "date": "2026-10-26T22:00:00.000Z"
+  },
+  {
+   "title": "How to select/acquire the best DVD & Blu-ray discs for framerate purists who own a multiregion player + a multirate display device",
+   "link": "https://www.provideocoalition.com/how-to-select-acquire-the-best-dvd-blu-ray-discs-for-framerate-purists-who-own-a-multiregion-player-a-multirate-display-device/",
+   "summary": "If you are reading this article, you are likely a framerate purist. We prefer to consume our media at the original intended framerate—or an even multiple cadence of it. You have probably read my prior articles, including",
+   "image": "https://www.provideocoalition.com/wp-content/uploads/5-discos-1.png",
+   "source": "ProVideo Coalition",
+   "category": "video",
+   "date": "2026-10-26T21:45:40.000Z"
+  },
+  {
+   "title": "Anthropic is burning gas to feed the AI boom",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+   "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is i",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-26T21:45:31.000Z"
+  },
+  {
+   "title": "Instagram Wants a Piece of YouTube’s Long-Form Video Pie",
+   "link": "https://petapixel.com/2026/10/26/instagram-wants-a-piece-of-youtubes-long-form-video-pie/",
+   "summary": "Instagram is setting its sights on YouTube, launching Features, a new long-form, widescreen video initiative. [ Read More ]",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-26T21:40:47.000Z"
+  },
+  {
+   "title": "What 7 Years Financing 'Breeder' Taught Alex Goyette",
+   "link": "https://nofilmschool.com/alex-goyette-breeder-interview",
+   "summary": "In 2019, Alex Goyette sat down to pitch Breeder at Tribeca's Creators Market , and his iPad died right before the pitch. Seven years later, the same festival gave the film its world premiere. Goyette is an indie filmmake",
+   "image": "https://nofilmschool.com/media-library/breeder.jpg?id=68408379&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-26T21:34:03.000Z"
+  },
+  {
+   "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
+   "link": "https://www.wired.com/story/anthropic-prospectus-leaves-out-some-numbers/",
+   "summary": "Anthropic’s S-1 filing is hundreds of pages long—and it leaves out quite a few financial details. “Anthropic owes investors more information,” one analyst tells WIRED.",
+   "image": "https://media.wired.com/photos/6adf8a425d1e509438fb58ec/master/pass/Anthropic3.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-10-26T21:27:15.000Z"
+  },
+  {
+   "title": "Review: modified multiregion Panasonic DP-UB150 4K Blu-ray/DVD player for framerate purists",
+   "link": "https://www.provideocoalition.com/review-modified-multiregion-panasonic-dp-ub150-4k-blu-ray-dvd-player-for-framerate-purists/",
+   "summary": "Back in July 2026, I published the article: Choosing multiregion DVD/Blu-ray players for framerate purists in the US and ex-NTSC countries in the Americas. Today, I’m doing a targeted review of the modified multiregion P",
+   "image": "https://www.provideocoalition.com/wp-content/uploads/DP-UB150-front-1.png",
+   "source": "ProVideo Coalition",
+   "category": "video",
+   "date": "2026-10-26T21:23:29.000Z"
+  },
+  {
+   "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
+   "link": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
+   "summary": "After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/10/adam-mosseri-at-bloomberg-screentime.png?resize=1200,675",
+   "source": "TechCrunch",
+   "category": "instagram",
+   "date": "2026-10-26T21:05:11.000Z"
+  },
+  {
+   "title": "Thypoch AF 23mm f/1.4 Sculptor Lens Coming Very Soon – Additional Specs and Images",
+   "link": "https://www.fujirumors.com/thypoch-af-23mm-f-1-4-sculptor-lens-coming-very-soon-additional-specs-and-images/",
+   "summary": "A few weeks ago we shared the first image of Thypoch AF 23mm f/1.4 lens for Fujifilm X mount, as well as the first specs. Well, thanks to an anonymous source (thanks!), we can now share also additional images and specs a",
+   "image": "https://www.fujirumors.com/wp-content/uploads/2026/10/Thypoch-23mmF1.4-Scultpor-3-150x150.jpg",
+   "source": "Fuji Rumors",
+   "category": "photo",
+   "date": "2026-10-26T21:03:11.000Z"
+  },
+  {
+   "title": "Why Passport Photo Rules Are So Strict: The Biometric Science of a Boring Picture",
+   "link": "https://fstoppers.com/portraits/why-passport-photo-rules-are-so-strict-biometric-science-boring-picture-904381?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "Your passport photo got rejected because of a shadow. Not a dramatic one. A soft gradient under your jaw, maybe a quarter-shade darker than your cheek, the kind of thing you would never notice and the clerk who handed th",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/08/dlib-face-landmark-detection.jpg.webp?itok=ZIooesAw",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-26T21:03:01.000Z"
+  },
+  {
+   "title": "The Exorcist Ending Explained",
+   "link": "https://nofilmschool.com/the-exorcist-ending-explained",
+   "summary": "Horror has gone through several periods, but the most notable shift came in 1973, when William Friedkin’s classic The Exorcist changed everything. William Peter Blatty adapted the movie from his 1971 novel of the same na",
+   "image": "https://nofilmschool.com/media-library/the-exorcist-ending-explained.jpg?id=68529587&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-26T21:01:15.000Z"
+  },
+  {
+   "title": "Apple’s iOS 27.2 update offers major Siri AI upgrades, dual camera support for FaceTime",
+   "link": "https://www.zdnet.com/tech/apple-ios-27-2-update-siri-ai-facetime-dual-cameras/",
+   "summary": "iOS 27.2 is the first major update for the current OS. Here’s what’s inside and what happened to iOS 27.1.",
+   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00852.jpeg",
+   "source": "ZDNet",
+   "category": "ai",
+   "date": "2026-10-26T20:52:35.000Z"
+  },
   {
    "title": "iFootage Releases the RB200 3-in-1 Charging Station With Highly Flexible Arm",
    "link": "https://www.newsshooter.com/2026/10/26/ifootage-releases-the-rb200-3-in-1-charging-station-with-highly-flexible-arm/",
-   "summary": "iFootage, an innovative camera support and production gear company, officially announces the launch of the iFootage RB200 3-in-1 Charging Station. Engineered for creators, hybrid workers, and live-streamers, the RB200 co",
+   "summary": "iFootage has announced the RB200 3-in-1 Charging Station. Engineered for creators, hybrid workers, and live-streamers, the RB200 combines ultra-fast wireless power delivery with a high-utility adjustable arm to redefine ",
    "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/RB200_Hero.png",
    "source": "Newsshooter",
    "category": "video",
@@ -22,7 +148,7 @@
   {
    "title": "Halloween Quote of the Day: The 1978 Iconic ‘Halloween’ Line That Became a Horror Classic",
    "link": "https://nofilmschool.com/halloween-one-good-scare",
-   "summary": "I remember the first time I saw the movie Halloween. I was at a sleepover with a bunch of guys, and it came on cable. We were probably in sixth grade and stopped the channel surfing because we saw some boobs. Yeah, it wa",
+   "summary": "I remember the first time I saw the movie Halloween . I was at a sleepover with a bunch of guys, and it came on cable. We were probably in sixth grade and stopped the channel surfing because we saw some boobs. Yeah, it w",
    "image": "https://nofilmschool.com/media-library/halloween-quote.jpg?id=68529597&width=980",
    "source": "No Film School",
    "category": "video",
@@ -193,7 +319,7 @@
   {
    "title": "SpaceX locks in $40B GPU financing deal with Apollo",
    "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-   "summary": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it ",
+   "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM-e1793033116950.png?resize=1200,911",
    "source": "TechCrunch",
    "category": "ai",
@@ -389,6 +515,15 @@
    "date": "2026-10-26T14:30:27.000Z"
   },
   {
+   "title": "Working with academic communities to build scientific understanding",
+   "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+   "summary": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+   "image": "",
+   "source": "OpenAI",
+   "category": "ai",
+   "date": "2026-10-26T14:30:00.000Z"
+  },
+  {
    "title": "Meta plans up to $95 billion in stock sales to fund its AI buildout",
    "link": "https://the-decoder.com/meta-plans-up-to-95-billion-in-stock-sales-to-fund-its-ai-buildout/",
    "summary": "Meta plans to sell new stock to raise money for its AI infrastructure buildout. The article Meta plans up to $95 billion in stock sales to fund its AI buildout appeared first on The Decoder .",
@@ -425,10 +560,19 @@
    "date": "2026-10-26T14:00:00.000Z"
   },
   {
+   "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+   "link": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+   "summary": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
+   "image": "",
+   "source": "OpenAI",
+   "category": "ai",
+   "date": "2026-10-26T13:45:00.000Z"
+  },
+  {
    "title": "Apple Just Gave the iPad mini Its ‘Biggest Update Ever’",
    "link": "https://petapixel.com/2026/10/26/apple-just-gave-the-ipad-mini-its-biggest-update-ever/",
    "summary": "Apple has unveiled the all-new iPad mini, which the company hails as the tiny tablet's \"biggest update ever. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/ipad-mini-featured.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-26T13:40:26.000Z"
@@ -464,7 +608,7 @@
    "title": "‘Raising the Flag on Iwo Jima’ Statue Beheaded With Sledgehammer",
    "link": "https://petapixel.com/2026/10/26/statue-based-on-photographer-pulitzer-raising-the-flag-on-iwo-jima-photo-is-vandalized-with-a-sledgehammer/",
    "summary": "A statue based on Joe Rosenthal's Pulitzer Prize-winning photograph Raising the Flag on Iwo Jima was beheaded with a sledgehammer, causing hundreds of thousands of dollars worth of damage. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/feature-beheaded.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-26T12:53:48.000Z"
@@ -473,7 +617,7 @@
    "title": "AI-Generated Ads in Pennsylvania to Require Labels",
    "link": "https://petapixel.com/2026/10/26/ai-generated-ads-in-pennsylvania-to-require-labels/",
    "summary": "Pennsylvania has enacted a law requiring advertisers to disclose when their ads contain content generated or significantly modified by AI. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/Pennsylvania-State-Capitol.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-26T12:22:05.000Z"
@@ -725,7 +869,7 @@
    "title": "TikTok US shares second-quarter account enforcement data",
    "link": "https://www.socialmediatoday.com/news/tiktok-us-shares-second-quarter-account-enforcement-data/833907/",
    "summary": "The platform said it removed more than 14 million fake accounts and prevented nearly 65 million spam accounts from being created.",
-   "image": "https://imgproxy.divecdn.com/12K6ogX9lcgDYYC0J9LHBG_Vz43JSghdwOStO8_Cc34/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfdXNkc2p2LnBuZw==.webp",
+   "image": "",
    "source": "Social Media Today",
    "category": "tiktok",
    "date": "2026-10-25T22:13:46.000Z"
@@ -848,15 +992,6 @@
    "date": "2026-10-25T14:10:00.000Z"
   },
   {
-   "title": "Magnum’s ‘Fact/Fiction’ Square Print Sale Lets You Buy Signed Prints From Famous Photographers",
-   "link": "https://petapixel.com/2026/10/25/magnums-fact-fiction-square-print-sale-lets-you-buy-signed-prints-from-famous-photographers/",
-   "summary": "Magnum has announced its newest Square Print Sale, celebrating the best photos that explore the sometimes very fine line between fact and fiction. [ Read More ]",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-25T14:00:13.000Z"
-  },
-  {
    "title": "Photography mini-challenge: exploring eerie liminal spaces",
    "link": "https://www.dpreview.com/articles/mini-challenge-exploring-eerie-liminal-spaces/",
    "summary": "Viewing liminal spaces often evokes strong emotions. Let's capture that in our photography. Join us in this mini-challenge as we take new photos of these places.",
@@ -965,15 +1100,6 @@
    "date": "2026-10-25T01:34:21.000Z"
   },
   {
-   "title": "Blue Planet III is keeping the rough edges in the age of AI",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-   "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost to",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/blue_planet_iii_episode_03_051_screengrab.avif?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-24T21:29:12.000Z"
-  },
-  {
    "title": "One of the Best Things Canon and Nikon Have Done That Almost No One Notices",
    "link": "https://fstoppers.com/gear/one-best-things-canon-and-nikon-have-done-almost-no-one-notices-904347?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
    "summary": "Buy a Canon EOS R7 this afternoon, and the manual will tell you that you can register up to six LP-E6P, LP-E6NH, LP-E6N, or LP-E6 battery packs to it. That last one is the cell Canon put on sale in the EOS 5D Mark II in ",
@@ -999,15 +1125,6 @@
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-24T19:00:00.000Z"
-  },
-  {
-   "title": "Pennsylvania will require labels on AI-generated ads",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-   "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, vide",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-24T18:32:21.000Z"
   },
   {
    "title": "Just announced: New Thypoch Simera-C 100mm T1.9 Cine Lens",
@@ -1080,15 +1197,6 @@
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-24T14:00:00.000Z"
-  },
-  {
-   "title": "Sigma Fixed a Lot With the fp II, but Is It Enough?",
-   "link": "https://fstoppers.com/gear/sigma-fixed-lot-fp-ii-it-enough-905163?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "At $2,199 for the body alone, plus roughly $500 more if you want the optional electronic viewfinder, the Sigma fp II asks a lot for a camera with no mechanical shutter and no in-body stabilization. Sigma bills it as the ",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_92.jpg.webp?itok=YedkZNo-",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-10-24T13:03:01.000Z"
   },
   {
    "title": "PSA: Davinci Resolve is on sale, letting you unlock the powerful tool for less",
@@ -1343,15 +1451,6 @@
    "date": "2026-10-23T14:43:43.000Z"
   },
   {
-   "title": "Slightly Smaller But With More Power Is the Enticing Promise for the New Sigma FP2",
-   "link": "https://nofilmschool.com/sigma-fp2",
-   "summary": "Sigma has unveiled the second-generation follow-up to its popular FP, a capable hybrid full-frame cine camera that impressed with its compact, modular design. Well, this new model is pretty much the same except it promis",
-   "image": "https://nofilmschool.com/media-library/sigma-fp2.jpg?id=68515622&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-23T14:21:20.000Z"
-  },
-  {
    "title": "Fujifilm X-T6 & XF50-140mmF2.8 II — All the Rumors, Minus the Fake Ones",
    "link": "https://www.fujirumors.com/fujifilm-x-t6-xf50-140mmf2-8-ii-all-the-rumors-minus-the-fake-ones/",
    "summary": "→ Join Now: Fujifilm X-T Shooters Group It’s been a while since i made a recap of all the Fujifilm X-T6 and XF50-140mmF2.8 II rumors. And I guess it’s high time to make one, since the fake mage X-T6 leak of months ago is",
@@ -1359,15 +1458,6 @@
    "source": "Fuji Rumors",
    "category": "photo",
    "date": "2026-10-23T13:51:32.000Z"
-  },
-  {
-   "title": "The Halloween Specials That Defined Everyone's Childhood October",
-   "link": "https://nofilmschool.com/best-halloween-specials-childhood",
-   "summary": "The end-of-year months are the best. We start getting into the holiday spirit, cooler weather, and awards season. It's the most wonderful time of the year. With Halloween coming up, a lot of us are probably watching our ",
-   "image": "https://nofilmschool.com/media-library/community-halloween.jpg?id=68508140&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-23T13:49:38.000Z"
   },
   {
    "title": "Sigma 50mm f/1.4 DC size comparison and curious new autofocus tech",
@@ -1422,15 +1512,6 @@
    "source": "ProVideo Coalition",
    "category": "video",
    "date": "2026-10-23T10:05:48.000Z"
-  },
-  {
-   "title": "Securing our frontier model training environment",
-   "link": "https://openai.com/index/securing-our-frontier-model-training-environment",
-   "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-   "image": "",
-   "source": "OpenAI",
-   "category": "ai",
-   "date": "2026-10-23T10:00:00.000Z"
   },
   {
    "title": "SmallRig Sigma FP2 Cage & Accessories",
@@ -1514,15 +1595,6 @@
    "date": "2026-10-23T04:00:00.000Z"
   },
   {
-   "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-   "link": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-   "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-   "image": "",
-   "source": "OpenAI",
-   "category": "ai",
-   "date": "2026-10-23T00:00:00.000Z"
-  },
-  {
    "title": "Does Your Model Run on AWS Trainium? Look It Up",
    "link": "https://huggingface.co/blog/torch-neuronx-model-support",
    "summary": "",
@@ -1577,15 +1649,6 @@
    "date": "2026-10-22T19:55:26.000Z"
   },
   {
-   "title": "Build more responsive apps with the Decisions API",
-   "link": "https://openai.com/index/decisions-api",
-   "summary": "Fast, focused, low-cost decisions for any application.",
-   "image": "",
-   "source": "OpenAI",
-   "category": "ai",
-   "date": "2026-10-22T19:00:00.000Z"
-  },
-  {
    "title": "Canon EOS R8 II review: new design, major fixes but frustrations remain",
    "link": "https://www.dpreview.com/reviews/canon-eos-r8-ii-review/",
    "summary": "Canon updates and upgrades its entry-level full-framer",
@@ -1602,15 +1665,6 @@
    "source": "MIT Tech Review",
    "category": "ai",
    "date": "2026-10-22T18:48:04.000Z"
-  },
-  {
-   "title": "More Minor, Yet Important, Firmware Updates are Here for Your Canon Cameras",
-   "link": "https://nofilmschool.com/canon-firmware-updates-c50",
-   "summary": "Few people enjoy downloading firmware updates and updating their cameras. It’s pretty boring stuff, and if you don't do it regularly between shoots, it can cause delays in the field when updates’re forced. They’re also n",
-   "image": "https://nofilmschool.com/media-library/canon-firmware-updates.jpg?id=68501194&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-22T18:04:24.000Z"
   },
   {
    "title": "Sony Explains Its Cinema Camera Lineup: From VENICE 2 to FX30",
@@ -1694,15 +1748,6 @@
    "date": "2026-10-22T14:48:11.000Z"
   },
   {
-   "title": "FieldMade Stealth Labels for Fujifilm Launched",
-   "link": "https://www.fujirumors.com/fieldmade-stealth-labels-for-fujifilm-launched/",
-   "summary": "FieldMade has launched the new Stealth Labels for Fujifilm cameras. They are currently available for 17 Fujifilm cameras. If you purchase 2 labels or more, you can use coupon code FUJIRUMORS10 for 10% discount. The post ",
-   "image": "https://www.fujirumors.com/wp-content/uploads/2026/10/FieldMade-Stealth.jpg",
-   "source": "Fuji Rumors",
-   "category": "photo",
-   "date": "2026-10-22T14:34:32.000Z"
-  },
-  {
    "title": "Blackmagic Design Raises Prices, Cuts Resolve | ArtCraft’s AI-Built Adobe Clones | Camera Form Factor Poll – Focus Check ep139",
    "link": "https://www.cined.com/blackmagic-design-raises-prices-cuts-resolve-artcrafts-ai-built-adobe-clones-camera-form-factor-poll-focus-check-ep139/",
    "summary": "The Blackmagic Design price raise hits 36 products at once: the ATEM 4 M/E Constellation IP Plus alone jumps from about $13,000 to $20,000, with SMPTE 2110 converters, Cloud Store and HyperDeck recorders following – all ",
@@ -1748,20 +1793,20 @@
    "date": "2026-10-22T10:50:54.000Z"
   },
   {
-   "title": "Making the case for context-aware AI",
-   "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-   "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints an",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-Celonis-social-card.png?resize=1200,600",
-   "source": "MIT Tech Review",
-   "category": "ai",
-   "date": "2026-10-22T10:00:00.000Z"
-  },
-  {
    "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
    "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
    "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
    "image": "https://media.wired.com/photos/6ada5ebcd90d47bccee2186e/master/pass/Science_HuggingFacesPowerfulNewDNAModelIsSmallEnou-ezgif.com-video-to-gif-converter%20(1).gif",
    "source": "WIRED",
+   "category": "ai",
+   "date": "2026-10-22T10:00:00.000Z"
+  },
+  {
+   "title": "Making the case for context-aware AI",
+   "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
+   "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints an",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-Celonis-social-card.png?resize=1200,600",
+   "source": "MIT Tech Review",
    "category": "ai",
    "date": "2026-10-22T10:00:00.000Z"
   },
@@ -1827,24 +1872,6 @@
    "source": "Nikon Rumors",
    "category": "photo",
    "date": "2026-10-22T02:59:26.000Z"
-  },
-  {
-   "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
-   "link": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
-   "summary": "Amazon Web Services logged attempts to leverage the internet-melting PHP2Shell bugs four days ago. They’re now being “broadly exploited” across the internet.",
-   "image": "https://media.wired.com/photos/6ad971de90e0d6636d239398/master/pass/Security_HackersExploitingPHPBugsforDays-ezgif.com-video-to-gif-converter.gif",
-   "source": "WIRED",
-   "category": "ai",
-   "date": "2026-10-22T02:24:17.000Z"
-  },
-  {
-   "title": "GridCraft is the open-source Excel clone for Linux I’ve been waiting for",
-   "link": "https://www.zdnet.com/tech/gridcraft-excel-clone-hands-on/",
-   "summary": "If spreadsheets are your thing, but Microsoft Office isn’t, you might want to give the open-source clone, GridCraft, a try.",
-   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/gridcrafthero.jpg",
-   "source": "ZDNet",
-   "category": "ai",
-   "date": "2026-10-22T02:00:00.000Z"
   },
   {
    "title": "The latest updates and offers from Topaz, DxO, Luminar, and Aftershoot",
@@ -1937,15 +1964,6 @@
    "date": "2026-10-21T17:14:29.000Z"
   },
   {
-   "title": "Review: Saramonic SG-MS1 Shotgun Microphone",
-   "link": "https://www.provideocoalition.com/review-saramonic-sg-ms1-shotgun-microphone/",
-   "summary": "Saramonic continues to add useful products for the solo creator or small production shop to its line. The new Saramonic SG-MS1 Shotgun Microphone is one of those additions: a mid-side stereo mic that doubles as a cardioi",
-   "image": "https://www.provideocoalition.com/wp-content/uploads/IMG_4101_THE-MIC-2500x1875-1.jpeg",
-   "source": "ProVideo Coalition",
-   "category": "video",
-   "date": "2026-10-21T16:00:53.000Z"
-  },
-  {
    "title": "What’s the most memorable costume or festival you’ve photographed?",
    "link": "https://www.dpreview.com/articles/whats-the-most-memorable-costume-or-festival-youve-photographed/",
    "summary": "Some occasions leave you with a full memory card and one photo you keep coming back to. This week, we’re asking DPReview readers to share their most memorable shot of a costume, festival or celebration – and the story be",
@@ -1980,15 +1998,6 @@
    "source": "Sprout Social",
    "category": "instagram",
    "date": "2026-10-21T14:52:35.000Z"
-  },
-  {
-   "title": "Clear-Com debuts Mentrix Flex panel at NAB Show New York",
-   "link": "https://www.provideocoalition.com/clear-com-debuts-mentrix-flex-panel-at-nab-show-new-york/",
-   "summary": "Combining physical controls with a touchscreen interface, Mentrix is designed to give operators fast, flexible access to essential communications functions while maximizing valuable workspace. The new hybrid touch-and-ta",
-   "image": "https://www.provideocoalition.com/wp-content/uploads/clearcommentrix001.jpg",
-   "source": "ProVideo Coalition",
-   "category": "video",
-   "date": "2026-10-21T14:39:08.000Z"
   },
   {
    "title": "cinemaOS, CUTROOM, and invideo Compared – Mac Studio App, Free Open-Source Editor, Cloud AI Agent",
@@ -2495,20 +2504,20 @@
    "date": "2026-10-01T13:30:00.000Z"
   },
   {
-   "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
-   "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
-   "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creati",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK070__01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "instagram",
-   "date": "2026-09-30T14:30:00.000Z"
-  },
-  {
    "title": "Instagram rolls out an AI video assistant for creators",
    "link": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
    "summary": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
    "image": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801",
    "source": "TechCrunch",
+   "category": "instagram",
+   "date": "2026-09-30T14:30:00.000Z"
+  },
+  {
+   "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
+   "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+   "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creati",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK070__01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
    "category": "instagram",
    "date": "2026-09-30T14:30:00.000Z"
   },
