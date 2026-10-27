@@ -1,6 +1,114 @@
 {
- "updated": "2026-10-27T05:26:58.695Z",
+ "updated": "2026-10-27T10:51:35.231Z",
  "items": [
+  {
+   "title": "Photographer ‘Almost Died’ After Police Hit Him With Grenade While Covering Paris Protests",
+   "link": "https://petapixel.com/2026/10/27/photographer-almost-died-after-police-hit-him-with-grenade-while-covering-paris-protests/",
+   "summary": "A photographer, who was covering the Paris protests, reportedly almost bled to death after he was struck by a police grenade. [ Read More ]",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-27T10:34:58.000Z"
+  },
+  {
+   "title": "OpenAI's Ted Sanders shares a rule of thumb for picking the right GPT-model",
+   "link": "https://the-decoder.com/openais-ted-sanders-shares-a-rule-of-thumb-for-picking-the-right-gpt-model/",
+   "summary": "OpenAI's Ted Sanders explains where GPT-6.1 Terra fits in the company's GPT lineup. The smaller model outperforms the larger Astra in technical communication and costs far less but trails it in most other areas. Sanders ",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_logo-1.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-27T10:09:26.000Z"
+  },
+  {
+   "title": "Data center backlash is uniting America",
+   "link": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+   "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with ",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_ELECTIONS_DATA_CENTERS_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-27T10:00:00.000Z"
+  },
+  {
+   "title": "Meta gets $3 billion from Nvidia and plans to spend more on Nvidia chips",
+   "link": "https://the-decoder.com/meta-gets-3-billion-from-nvidia-and-plans-to-spend-more-on-nvidia-chips/",
+   "summary": "ia is buying into its customer Meta, which plans to run more of its AI agents on Nvidia hardware. The article Meta gets $3 billion from Nvidia and plans to spend more on Nvidia chips appeared first on The Decoder .",
+   "image": "https://the-decoder.com/wp-content/uploads/2025/12/nvidia_logo_wall_cb-1.jpeg",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-27T09:58:16.000Z"
+  },
+  {
+   "title": "Nikon Explains Why the ZR Is a Better Filmmaking Tool Than the Z6III",
+   "link": "https://ymcinema.com/2026/10/27/nikon-zr-vs-z6iii-filmmaking-comparison/",
+   "summary": "Nikon has published an official comparison between the Nikon ZR ($2,196.95 on Amazon) and Z6III ($1,996.95 on Amazon), explaining why two cameras built around the same sensor are designed for fundamentally different purp",
+   "image": "https://ymcinema.com/wp-content/uploads/2025/09/Nikon-ZR-The-First-Nikon-RED-Camera-with-Internal-R3D.007.webp",
+   "source": "Y.M.Cinema",
+   "category": "video",
+   "date": "2026-10-27T09:35:32.000Z"
+  },
+  {
+   "title": "I Tested Every Major AI Agent for a Day. Here’s the Best One",
+   "link": "https://www.wired.com/story/i-tested-every-major-ai-agent-for-a-day-heres-the-best-one/",
+   "summary": "I ranked six AI agents—from Meta’s Muse to Anthropic’s Claude Duet—on how well they completed basic tasks.",
+   "image": "https://media.wired.com/photos/6adbdf82eed013bcc79da54f/master/pass/gear-ai-agent-best.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-10-27T09:30:00.000Z"
+  },
+  {
+   "title": "SmallRig Cage and L-Shaped Plate for Sigma FP2 Introduced – Wooden Grip, HawkLock NATO Rail, Arca-Swiss Base",
+   "link": "https://www.cined.com/smallrig-cage-and-l-shaped-plate-for-sigma-fp2-introduced-wooden-grip-hawklock-nato-rail-arca-swiss-base/",
+   "summary": "Although the Sigma FP2 hasn’t started shipping yet, SmallRig has its first accessories ready: a full cage with a built-in wooden grip and a lighter L-shaped mount plate. Both match the look of SmallRig’s original Sigma F",
+   "image": "https://www.cined.com/content/uploads/2026/10/SmallRig-L-plate-for-Sigma-FP2-2-300x169.jpeg",
+   "source": "CineD",
+   "category": "video",
+   "date": "2026-10-27T09:23:44.000Z"
+  },
+  {
+   "title": "The New iPad mini Gets a Beautiful OLED Screen",
+   "link": "https://fstoppers.com/gear/new-ipad-mini-gets-beautiful-oled-screen-905209?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "Apple's new iPad mini replaces its LCD with an 8.5-inch OLED display that reaches 1,200 nits on HDR content, in a body 5.4 mm thin with an IP67 rating for water and dust. It's the best screen Apple has ever put in its sm",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/apple-ipad-mini-a20-pro-midnight-lead.jpg.webp?itok=K5hki6-X",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-27T06:36:40.000Z"
+  },
+  {
+   "title": "Blackmagic Design Fusion Studio 21.1.2",
+   "link": "https://www.newsshooter.com/2026/10/26/blackmagic-design-fusion-studio-21-1-2/",
+   "summary": "Blackmagic Design has released Fusion Studio 21.1.2 which adds up to 4x faster OGraf playback, more template controls, responsive OGraf templates that adapt to aspect ratio, plus OGraf and Lottie graphics support on Linu",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/Blackamgic-Design-Fusion.jpeg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-27T05:54:26.000Z"
+  },
+  {
+   "title": "Save $5,000 USD on the DZOFilm Arles FF/VV 8-Lens 14/25/35/50/75/100/135/180mm Set (ARRI PL)",
+   "link": "https://www.newsshooter.com/2026/10/26/save-5000-usd-on-the-dzofilm-arles-ff-vv-8-lens-14-25-35-50-75-100-135-180mm-set-arri-pl/",
+   "summary": "You can save $5,000 USD on the DZOFilm Arles FF/VV 8-Lens 14/25/35/50/75/100/135/180mm Set (ARRI PL) and purchase it for $11,999 USD. Key features The Arles 14mm T1.9 FF/VV Prime Cine Lens from DZOFilm to capture consist",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/DZO-Arles-Lens-Set.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-27T05:48:59.000Z"
+  },
+  {
+   "title": "Fujifilm Instax Mini EVO 2 Announced – the X100 of the Instax World",
+   "link": "https://www.fujirumors.com/fujifilm-instax-mini-evo-2-announced-the-x100-of-the-instax-world/",
+   "summary": "Fujifilm has just announced the Fujifilm Instax Mini EVO 2 hybrid Instant camera, a camera definitely inspired by the X100 design with some neat features like a print lever, film filter and more. In my eyes, this makes i",
+   "image": "https://www.fujirumors.com/wp-content/uploads/2026/10/Instax-Mini-EVO-2.jpg",
+   "source": "Fuji Rumors",
+   "category": "photo",
+   "date": "2026-10-27T05:46:59.000Z"
+  },
+  {
+   "title": "Save up to a $145 USD on a range of Pelican cases",
+   "link": "https://www.newsshooter.com/2026/10/26/save-up-to-a-145-usd-on-a-range-of-pelican-cases/",
+   "summary": "For a limited time, B&H has a range of Pelican cases on sale where you can save up to $145 USD. There are deals on the Pelican 1535AirWF, Pelican 1510, Pelican Vault 200, Pelican 1495, and the Pelican 1300. The post Save",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/Pelican-Case.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-27T05:28:49.000Z"
+  },
   {
    "title": "Westcott Redesigns Its Rapid Box Switch Softboxes to Fold Totally Flat",
    "link": "https://petapixel.com/2026/10/26/westcott-redesigns-its-rapid-box-switch-softboxes-to-fold-totally-flat/",
@@ -581,7 +689,7 @@
    "title": "Vogue, Elle, and WSJ Hire Same Photographer for Three ‘Identical’ Covers in One Week",
    "link": "https://petapixel.com/2026/10/26/vogue-elle-and-wsj-hire-same-photographer-for-three-identical-covers-in-one-week/",
    "summary": "Vogue, Elle, and The Wall Street Journal Magazine hired the same photographer for their November issues, resulting in three strikingly similar covers that have drawn criticism. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/three-magazine-covers-same-photographer.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-26T14:46:03.000Z"
@@ -707,7 +815,7 @@
    "title": "AI-Generated Ads in Pennsylvania to Require Labels",
    "link": "https://petapixel.com/2026/10/26/ai-generated-ads-in-pennsylvania-to-require-labels/",
    "summary": "Pennsylvania has enacted a law requiring advertisers to disclose when their ads contain content generated or significantly modified by AI. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/Pennsylvania-State-Capitol.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-26T12:22:05.000Z"
@@ -729,15 +837,6 @@
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-26T11:47:26.000Z"
-  },
-  {
-   "title": "Adventure Photographer Nearly Dies After Falling 200 Feet From a Cliff in Portugal",
-   "link": "https://petapixel.com/2026/10/26/adventure-photographer-nearly-dies-after-falling-200-feet-from-a-cliff-in-portugal/",
-   "summary": "An adventure photographer who travels the world capturing gorgeous imagery has had a serious accident while hiking in Portugal. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/Photographer-Falls-200-Feet3.jpg",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-26T11:34:18.000Z"
   },
   {
    "title": "Zeiss is working on new OTUS ML lenses!",
@@ -1100,15 +1199,6 @@
    "date": "2026-10-25T13:00:00.000Z"
   },
   {
-   "title": "Google’s AI search changes upended online publishing",
-   "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-   "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK414_STK480_AI_DIS_MISINFO_CVIRGINIA_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-25T12:00:00.000Z"
-  },
-  {
    "title": "How to Add Glow to a Sunset Photo in Lightroom",
    "link": "https://fstoppers.com/lightroom/how-add-glow-sunset-photo-lightroom-905180?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
    "summary": "A sunset frame that looked luminous through the viewfinder often opens in Lightroom dark, a little noisy, and short on the warmth you remember. Getting that glow back is mostly a matter of the order you work in and how m",
@@ -1134,24 +1224,6 @@
    "source": "WIRED",
    "category": "ai",
    "date": "2026-10-25T10:00:00.000Z"
-  },
-  {
-   "title": "Anthropic co-founder Jack Clark moves his prediction for self-improving AI forward to 2027",
-   "link": "https://the-decoder.com/anthropic-co-founder-jack-clark-moves-his-prediction-for-self-improving-ai-forward-to-2027/",
-   "summary": "A new benchmark by P-Zero Research measures how well AI models design and evaluate experiments on their own. The results are improving so fast that Anthropic co-founder Jack Clark now thinks self-improving AI could arriv",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/tasteval_and_rsi.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-25T09:37:46.000Z"
-  },
-  {
-   "title": "Anthropic says one AI agent beats many subagents now that models can handle complexity alone",
-   "link": "https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/",
-   "summary": "Anthropic says companies should evaluate whether they can consolidate sub-agents into a single agent that loads context on demand. In one architecture comparison, the single-agent setup ran about twice as fast. Anthropic",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/claude_claude_baby_logos.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-25T09:12:10.000Z"
   },
   {
    "title": "Should You Quit Your Job to Become a Professional Photographer?",
@@ -1244,15 +1316,6 @@
    "date": "2026-10-24T15:18:35.000Z"
   },
   {
-   "title": "Why Your Ultra-Wide Landscape Photos Look Flat",
-   "link": "https://fstoppers.com/education/why-your-ultra-wide-landscape-photos-look-flat-905164?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "An ultra-wide lens can make a landscape feel like you're standing inside it, or it can shrink a dramatic scene into a flat strip of distant shapes. The difference usually comes down to where you put your feet and how you",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_93.jpg.webp?itok=HoE61l8D",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-10-24T15:03:01.000Z"
-  },
-  {
    "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
    "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
    "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
@@ -1332,33 +1395,6 @@
    "source": "Newsshooter",
    "category": "video",
    "date": "2026-10-24T02:10:58.000Z"
-  },
-  {
-   "title": "Motorized Precision KIRA GEN 3 Flagship Camera Robot",
-   "link": "https://www.newsshooter.com/2026/10/23/motorized-precision-kira-gen-3-flagship-camera-robot/",
-   "summary": "Motorized Precision has teased its upcoming KIRA GEN 3 flagship camera robot. It features a 30 kg / 66.12 lb payload, 6 m/s speed, and single-phase power. A fully integrated base houses the power system and controller, b",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/KIRA-3.jpg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-10-24T01:52:08.000Z"
-  },
-  {
-   "title": "Save $1,400 USD on the Apple Mac mini with M4 Pro Chip",
-   "link": "https://www.newsshooter.com/2026/10/23/save-1400-usd-on-the-apple-mac-mini-with-m4-pro-chip/",
-   "summary": "You can save $1,400 USD on the Apple Mac mini with M4 Pro 14-Core Chip, 64GB Unified RAM, 8TB SSD, and 20-Core GPU, and purchase it for $6,699 USD. Key features The Apple Mac mini is less than half the size of the previo",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-24-at-10.39.07.png",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-10-24T01:39:48.000Z"
-  },
-  {
-   "title": "Save $400 USD on the Apple 14″ MacBook Pro (M5 Pro, Space Black)",
-   "link": "https://www.newsshooter.com/2026/10/23/save-400-usd-on-the-apple-14-macbook-pro-m5-pro-space-black/",
-   "summary": "You can save $400 USD on the Apple 14″ MacBook Pro (M5 Pro, Space Black) and purchase it for $2,099 USD. This version comes with 24GB Unified RAM and a 1TB SSD. Key features The Apple 14″ MacBook Pro delivers advanced si",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/Apple-Deal.jpg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-10-24T00:03:36.000Z"
   },
   {
    "title": "OpenAI says it will no longer train its AI models on the live internet, citing ‘significant risks’",
@@ -1512,15 +1548,6 @@
    "source": "No Film School",
    "category": "video",
    "date": "2026-10-23T14:43:43.000Z"
-  },
-  {
-   "title": "Fujifilm X-T6 & XF50-140mmF2.8 II — All the Rumors, Minus the Fake Ones",
-   "link": "https://www.fujirumors.com/fujifilm-x-t6-xf50-140mmf2-8-ii-all-the-rumors-minus-the-fake-ones/",
-   "summary": "→ Join Now: Fujifilm X-T Shooters Group It’s been a while since i made a recap of all the Fujifilm X-T6 and XF50-140mmF2.8 II rumors. And I guess it’s high time to make one, since the fake mage X-T6 leak of months ago is",
-   "image": "https://www.fujirumors.com/wp-content/uploads/2026/10/X-T6-Rumor-Recap.jpg",
-   "source": "Fuji Rumors",
-   "category": "photo",
-   "date": "2026-10-23T13:51:32.000Z"
   },
   {
    "title": "Sigma 50mm f/1.4 DC size comparison and curious new autofocus tech",
@@ -1829,15 +1856,6 @@
    "date": "2026-10-22T10:00:00.000Z"
   },
   {
-   "title": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
-   "link": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
-   "summary": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
-   "image": "https://media.wired.com/photos/6ada5ebcd90d47bccee2186e/master/pass/Science_HuggingFacesPowerfulNewDNAModelIsSmallEnou-ezgif.com-video-to-gif-converter%20(1).gif",
-   "source": "WIRED",
-   "category": "ai",
-   "date": "2026-10-22T10:00:00.000Z"
-  },
-  {
    "title": "The Secrets of Human Behavior Applied to Social Ads",
    "link": "https://www.socialmediaexaminer.com/the-secrets-of-human-behavior-applied-to-social-ads/",
    "summary": "Struggling to create Facebook, Instagram, or TikTok ads that people remember long enough to buy from you? Wondering how consumer psychology can tell you why your winning ads work and how to repeat that success? In this a",
@@ -1980,15 +1998,6 @@
    "source": "Hugging Face",
    "category": "ai",
    "date": "2026-10-21T17:35:36.000Z"
-  },
-  {
-   "title": "Trending UK TikTok Songs",
-   "link": "https://metricool.com/tiktok-songs-uk/",
-   "summary": "If you want to find out this week's trending songs on TikTok for the UK, and how to use them in your content, check out this list.",
-   "image": "https://metricool.com/wp-content/uploads/trending-uk-tiktok-songs-2.webp",
-   "source": "Metricool",
-   "category": "tiktok",
-   "date": "2026-10-21T17:14:29.000Z"
   },
   {
    "title": "Blackmagic Wants You to Think of DaVinci Resolve Studio as an AI Editor",
@@ -2216,15 +2225,6 @@
    "date": "2026-10-20T09:00:00.000Z"
   },
   {
-   "title": "Camp Snap CS-8 and Aura6 Compared – Super 8-Inspired Digital Video Cameras, Screen-Free Design",
-   "link": "https://www.cined.com/camp-snap-cs-8-and-aura6-compared-super-8-inspired-digital-video-cameras-screen-free-design/",
-   "summary": "Digital cameras that imitate the look and handling of 8mm film have moved from novelty to a visible product category. The Camp Snap CS-8 is already on sale and, according to its maker, selling in large numbers, while the",
-   "image": "https://www.cined.com/content/uploads/2026/10/Camp-Snap-CS-8-5-300x169.jpeg",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-10-20T07:44:15.000Z"
-  },
-  {
    "title": "Nikon released new firmware updates: Z9 v5.33 and Z8 v3.12",
    "link": "https://nikonrumors.com/2026/10/19/nikon-released-new-firmware-updates-z9-v5-33-and-z8-v3-12.aspx/",
    "summary": "Nikon released new firmware updates for the Z9 and Z8 mirrorless cameras with a single fix: Nikon Z9 firmware update version 5.33: Fixed an issue that would cause the camera to stop responding with some lenses. Nikon Z8 ",
@@ -2322,15 +2322,6 @@
    "source": "Nikon Rumors",
    "category": "photo",
    "date": "2026-10-16T12:34:47.000Z"
-  },
-  {
-   "title": "“Heart of the Beast” Was Filmed the Hard Way: Real Mountains, Real Water, Real Stunts",
-   "link": "https://ymcinema.com/2026/10/16/heart-of-the-beast-real-stunts-cinematography/",
-   "summary": "There is a moment in the making of Heart of the Beast that neatly explains the philosophy behind the movie. Brad Pitt swims down to a submerged aircraft, enters the cabin, waits underwater for the call to action, perform",
-   "image": "https://ymcinema.com/wp-content/uploads/2026/10/22Heart-of-the-Beast22-Was-Filmed-the-Hard-Way-Real-Mountains-Real-Water-Real-Stunts.002.webp",
-   "source": "Y.M.Cinema",
-   "category": "video",
-   "date": "2026-10-16T10:42:48.000Z"
   },
   {
    "title": "Canon Patent Reveals Ultra-High-Index Glass to Shrink Next-Generation Fast Primes",
