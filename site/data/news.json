@@ -1,6 +1,510 @@
 {
- "updated": "2026-10-28T13:25:34.120Z",
+ "updated": "2026-10-28T19:01:50.570Z",
  "items": [
+  {
+   "title": "Film Quote of the Day: The 1992 ‘A Few Good Men’ Line About the True Meaning of Honor",
+   "link": "https://nofilmschool.com/a-few-good-men-quotes",
+   "summary": "I want you to harken back to when Aaron Sorkin's name was new to Hollywood. He was a successful playwright, bringing his voice to the silver screen with a director on one of his most incredible runs: Rob Reiner . Togethe",
+   "image": "https://nofilmschool.com/media-library/a-few-good-men-quotes.jpg?id=68544468&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-28T19:00:04.000Z"
+  },
+  {
+   "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+   "link": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+   "summary": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, w",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2162704124.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-28T18:50:39.000Z"
+  },
+  {
+   "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+   "link": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+   "summary": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg",
+   "source": "Ars Technica",
+   "category": "ai",
+   "date": "2026-10-28T18:47:27.000Z"
+  },
+  {
+   "title": "Microsoft is ending Copilot support on smart TVs",
+   "link": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+   "summary": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/copilot.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-28T18:36:26.000Z"
+  },
+  {
+   "title": "He Listened to the Podcast. Then He Made a Feature Film",
+   "link": "https://nofilmschool.com/he-listened-to-the-podcast-then-he-made-a-feature-film",
+   "summary": "What happens when a longtime podcast listener takes the leap into feature filmmaking? In this episode of the No Film School Podcast , No Film School listener-turned-filmmaker Douglas A. Plomitallo joins GG Hawkins to sha",
+   "image": "https://nofilmschool.com/media-library/halloween-candy.jpg?id=68544625&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-28T18:30:04.000Z"
+  },
+  {
+   "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+   "link": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
+   "summary": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
+   "image": "https://media.wired.com/photos/6ae108712ec9b10c531020d9/master/pass/business_ai_predict_future.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-10-28T18:30:00.000Z"
+  },
+  {
+   "title": "Apple introduces new MacBook Pro with PROLED XDR display and a touchscreen",
+   "link": "https://www.provideocoalition.com/apple-introduces-new-macbook-pro-with-proled-xdr-display-and-a-touchscreen/",
+   "summary": "It’s been a big week for Apple and the Mac (already new MacBooks and a new Final Cut Pro), and today we get the new MacBook Pro with a PROLED XDR display and a touchscreen. This is the first-ever Mac with a touch-sensiti",
+   "image": "https://www.provideocoalition.com/wp-content/uploads/Apple-MacBook-Pro-with-PROLED-XDR-Display-wider-color-gamut-with-P3-and-Adobe-RGB-261028.jpg",
+   "source": "ProVideo Coalition",
+   "category": "video",
+   "date": "2026-10-28T18:08:23.000Z"
+  },
+  {
+   "title": "Tiny and Versatile is the Name of the Game for This New On-Camera Monitor From SmallHD",
+   "link": "https://nofilmschool.com/smallhd-504-on-camera-monitor",
+   "summary": "Another new on-camera monitor solution is here for filmmakers who want to take their cameras on the run, into tight situations, and find new angles to help their films and video content stand out. That new on-camera moni",
+   "image": "https://nofilmschool.com/media-library/smallhd-504-on-camera-monitor.png?id=68544119&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-28T18:00:03.000Z"
+  },
+  {
+   "title": "These Claude Enterprise features let you track AI ROI – what’s new",
+   "link": "https://www.zdnet.com/innovation/claude-enterprise-efficiency-cost-tracking/",
+   "summary": "Is your pricey Claude Enterprise account worth it? Anthropic is trying to surface insights with three tools.",
+   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-1700889615.jpg",
+   "source": "ZDNet",
+   "category": "ai",
+   "date": "2026-10-28T18:00:00.000Z"
+  },
+  {
+   "title": "Google AI gets cagey when asked who won the 2020 elections",
+   "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+   "summary": "But the AI responses get more forthright when asked outside the US.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg",
+   "source": "Ars Technica",
+   "category": "ai",
+   "date": "2026-10-28T17:46:32.000Z"
+  },
+  {
+   "title": "Accsoon’s Next-Gen CineView Master 4K II Wireless Video System Adds USB-C Video Output",
+   "link": "https://nofilmschool.com/accsoon-cineview-master-4k-ii-wireless-video-system",
+   "summary": "Following up on the popular CineView Master 4K wireless video transmission system, Accsoon is back with a new next-generation model that adds more sophisticated wireless video monitoring support and technology. The big n",
+   "image": "https://nofilmschool.com/media-library/accsoon-cineview-master-4k-ii-wireless-video-system.png?id=68544037&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-28T17:30:03.000Z"
+  },
+  {
+   "title": "Apple finally gives the MacBook Pro finally a touchscreen",
+   "link": "https://www.dpreview.com/news/the-macbook-pro-finally-gets-a-touchscreen/",
+   "summary": "And the glowing Apple logo is back.",
+   "image": "https://www.dpreview.com/wp-content/uploads/2026/10/m_pi_macbook_pro_touchscreen.jpeg",
+   "source": "DPReview",
+   "category": "photo",
+   "date": "2026-10-28T17:20:43.000Z"
+  },
+  {
+   "title": "Apple Unveils Its First-Ever MacBook Pro With a Touchscreen OLED",
+   "link": "https://petapixel.com/2026/10/28/apple-unveils-its-first-ever-macbook-pro-with-a-touchscreen-oled/",
+   "summary": "Apple has announced its first-ever touchscreen-equipped Macs. The redesigned MacBook Pro models are also Apple's first laptops with OLED displays. It's a big day for the Mac. [ Read More ]",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-28T17:18:14.000Z"
+  },
+  {
+   "title": "Instagram doesn’t have a plan to pay long-form video creators",
+   "link": "https://www.theverge.com/tech/1020806/instagram-long-form-video-creator-monetization",
+   "summary": "Instagram is testing long-form videos (again) to lure in creatives from YouTube, but the platform hasn't figured out how (or if) it'll actually pay them. After Instagram head Adam Mosseri announced Features on Monday, cr",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STK070_INSTAGRAM__A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "instagram",
+   "date": "2026-10-28T17:10:46.000Z"
+  },
+  {
+   "title": "The New iMac with M6 Gets a Boost in Performance and AI Capabilities, Plus 7 New Colors",
+   "link": "https://nofilmschool.com/imac-with-m6",
+   "summary": "Like the new iPad mini and MacBook Pro , Apple is leveling up all its computers for the new era of AI workflows. This isn't new, really, as past Apple computers have had this focus as well, and most other computers, lapt",
+   "image": "https://nofilmschool.com/media-library/imac-with-m6.jpg?id=68543927&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-28T17:00:03.000Z"
+  },
+  {
+   "title": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+   "link": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+   "summary": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the f",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/chrome.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-28T17:00:00.000Z"
+  },
+  {
+   "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+   "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+   "summary": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/ConnectedAppshero.width-2200.format-webp.webp?resize=1200,675",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-28T17:00:00.000Z"
+  },
+  {
+   "title": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+   "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+   "summary": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/autofill-ai-chrome.jpg?resize=1200,643",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-28T17:00:00.000Z"
+  },
+  {
+   "title": "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
+   "link": "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/",
+   "summary": "Google is opening up Android Studio to third-party AI agents. Through a new \"Bring Your Own Agent\" feature, the IDE now supports more than 40 coding agents, including Anthropic's Claude Agent and OpenAI's Codex. Google s",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/05/Android-Robot-Logo-Background-Nano-Banana-Pro.jpg",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-28T16:59:59.000Z"
+  },
+  {
+   "title": "Trending UK TikTok Songs",
+   "link": "https://metricool.com/tiktok-songs-uk/",
+   "summary": "If you want to find out this week's trending songs on TikTok for the UK, and how to use them in your content, check out this list.",
+   "image": "https://metricool.com/wp-content/uploads/trending-uk-tiktok-songs-2.webp",
+   "source": "Metricool",
+   "category": "tiktok",
+   "date": "2026-10-28T16:55:17.000Z"
+  },
+  {
+   "title": "Amazon’s Echo Show 16 makes Apple’s 7-inch HomeView look puny – is it worth $100+ extra?",
+   "link": "https://www.zdnet.com/home-and-office/amazon-echo-show-16-announced/",
+   "summary": "Amazon just dropped new smart home gear in response to Apple. Here’s how the Echo Show 16 stacks up.",
+   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Echo-Show-16-Features-Alexa-Home-1920x1080-1.png",
+   "source": "ZDNet",
+   "category": "ai",
+   "date": "2026-10-28T16:48:15.000Z"
+  },
+  {
+   "title": "Check Out These Awesome Miniature Canon Camera Gachapon",
+   "link": "https://petapixel.com/2026/10/28/check-out-these-awesome-miniature-canon-camera-gachapon/",
+   "summary": "Canon and Bandai are teaming up to expand their camera-themed gachapon collection. [ Read More ]",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-28T16:47:58.000Z"
+  },
+  {
+   "title": "Sigma’s Unique Lens, Another New Instax, and Stephen Wilkes on Printing | The PetaPixel Podcast",
+   "link": "https://petapixel.com/2026/10/28/sigmas-unique-lens-another-new-instax-and-stephen-wilkes-on-printing-the-petapixel-podcast/",
+   "summary": "This week on the PetaPixel Podcast, the team is joined by photography legend Stephen Wilkes and his 25th anniversary exhibition of his series \"America in Detail.\" [ Read More ]",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-28T16:30:50.000Z"
+  },
+  {
+   "title": "Who Was Under the Mask? Every Actor Who Played Freddy Krueger",
+   "link": "https://nofilmschool.com/every-actor-freddy-krueger",
+   "summary": "'A Nightmare on Elm Street' (2010) 'A Nightmare on Elm Street' (2010) It's not really a mystery as to who played Freddy Krueger. You're probably thinking of one of the most familiar faces in the horror genre already, and",
+   "image": "https://nofilmschool.com/media-library/a-nightmare-on-elm-street.jpg?id=34081339&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-28T16:30:04.000Z"
+  },
+  {
+   "title": "OpenAI teases Dots for Europe, but its Berlin DevDay was really about building a platform",
+   "link": "https://the-decoder.com/openai-teases-dots-for-europe-but-its-berlin-devday-was-really-about-building-a-platform/",
+   "summary": "At DevDay Exchange in Berlin, OpenAI mostly repeated what it had already announced, but it did share a few new details. The AI assistant Dots should roll out more widely in Europe \"in a few weeks,\" and weekly Codex users",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/OpenAI-DevDay-Exchange-2026.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-28T16:25:02.000Z"
+  },
+  {
+   "title": "Claude for Legal now verifies sources automatically, then hands the file to a lawyer",
+   "link": "https://the-decoder.com/claude-for-legal-now-verifies-sources-automatically-then-hands-the-file-to-a-lawyer/",
+   "summary": "Anthropic is adding pre-built templates to Claude for Legal. These interactive overviews and tables simplify setup for legal teams and speed up routine work like contract reviews, while more than 60 integrations let firm",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/claude_Legal-1.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-28T16:20:03.000Z"
+  },
+  {
+   "title": "Meta says it’ll probably delay its controversial new business terms again",
+   "link": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+   "summary": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the com",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_3_Meta.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-28T16:15:30.000Z"
+  },
+  {
+   "title": "Photographer Gets Yanked by Security at the Ballon d’Or Award",
+   "link": "https://petapixel.com/2026/10/28/photographer-gets-yanked-by-security-at-the-ballon-dor-award/",
+   "summary": "A photographer went viral after he was unceremoniously grabbed by security during a live TV broadcast of the Ballon d'Or. [ Read More ]",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-28T16:14:34.000Z"
+  },
+  {
+   "title": "Opera will run AI locally in your browser now – why that’s a gamechanger and how to try it",
+   "link": "https://www.zdnet.com/innovation/opera-webai-local-ai-browser/",
+   "summary": "Thanks to the newly proposed WebAI web standard, the company will start shipping local AI models with its flagship browser.",
+   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/operaaihero.jpg",
+   "source": "ZDNet",
+   "category": "ai",
+   "date": "2026-10-28T16:10:39.000Z"
+  },
+  {
+   "title": "How to Use a Tripod Like a Pro: Field-Tested Tips From a Night Photographer",
+   "link": "https://fstoppers.com/astrophotography/how-use-tripod-pro-field-tested-tips-night-photographer-904938?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "Here are several easy tips so you can use your tripod like a pro. You'll get the most from your tripod this way, with lessons drawn from professional night photographers who use tripods in genuinely challenging condition",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/0202_kenlee_260613_15sf28iso3200_joshua-tree_opposite-jumbo-rocks_milky-way-dennis-silhouette_header2.jpg.webp?itok=W2JMvk6w",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-28T16:03:01.000Z"
+  },
+  {
+   "title": "Sidney Lumet Reinvented the Walk and Talk in 'The Verdict'",
+   "link": "https://nofilmschool.com/sidney-lumet-walk-and-talk",
+   "summary": "You’ve seen a thousand walk-and-talks. Aaron Sorkin’s hallway marches made it a signature move, and we’ve covered how to write one . They're nice as a shot choice and in writing because they automatically give a scene en",
+   "image": "https://nofilmschool.com/media-library/the-verdict.jpg?id=68543622&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-28T16:00:04.000Z"
+  },
+  {
+   "title": "COMAN T1 Mini One-Click Travel Tripod on Kickstarter",
+   "link": "https://www.fujirumors.com/coman-t1-mini-one-click-travel-tripod-on-kickstarter/",
+   "summary": "Coman has launched what they call the “world’s first one-click travel tripod” called COMAN T1 MINI: it deploy in 3 seconds, mount in 1, and packs very compact. You check out all details at the dedicated Kickstarter page ",
+   "image": "https://www.fujirumors.com/wp-content/uploads/2026/10/Coman-Tripod-1.jpg",
+   "source": "Fuji Rumors",
+   "category": "photo",
+   "date": "2026-10-28T15:59:03.000Z"
+  },
+  {
+   "title": "AI execs may be too out of touch to build for the general public",
+   "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+   "summary": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+   "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1172241499.jpg?resize=1200,728",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-28T15:53:52.000Z"
+  },
+  {
+   "title": "Nvidia's open Nemotron 3.5 Transcribe combines transcription, translation, and speaker recognition",
+   "link": "https://the-decoder.com/nvidias-open-nemotron-3-5-transcribe-combines-transcription-translation-and-speaker-recognition/",
+   "summary": "Nvidia has released Nemotron 3.5 Transcribe, an open speech recognition model that handles transcription, speaker recognition, and translation and takes its instructions as text prompts. It leads several benchmarks and u",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/08/nvidia_logo.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-28T15:49:39.000Z"
+  },
+  {
+   "title": "McDonald’s and Lenovo Made an Adorable French Fry Mouse From Recycled Happy Meal Toys",
+   "link": "https://petapixel.com/2026/10/28/mcdonalds-and-lenovo-made-an-adorable-french-fry-mouse-from-recycled-happy-meal-toys/",
+   "summary": "McDonald's teamed up with Chinese technology and electronics company Lenovo to make an utterly wild mouse shaped like a carton of McDonald's famous french fries. [ Read More ]",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-28T15:48:42.000Z"
+  },
+  {
+   "title": "Product Updates October 2026",
+   "link": "https://metricool.com/product-updates-october-2026/",
+   "summary": "Campaign Dashboards Set goals and see your collabs clearly Reporting Collabs in your Instagram report and easier report management Flows Flows now works with the X add-on Planner More control over how you review and publ",
+   "image": "https://metricool.com/wp-content/uploads/October-Product-Updates.webp",
+   "source": "Metricool",
+   "category": "instagram",
+   "date": "2026-10-28T15:45:30.000Z"
+  },
+  {
+   "title": "ZEISS showcases latest cine lenses at ToruńCAMERIMAGE 2026",
+   "link": "https://www.provideocoalition.com/zeiss-showcases-latest-cine-lenses-at-toruncamerimage-2026/",
+   "summary": "The recently introduced ZEISS Aatma, Panoptes 65, and Horizon Anamorphic lenses, along with Nano Primes, will be showcased at the film festival in Poland, in November. ZEISS will participate in the 2026 ToruńCAMERIMAGE F",
+   "image": "https://www.provideocoalition.com/wp-content/uploads/zeisscamerimage001.jpg",
+   "source": "ProVideo Coalition",
+   "category": "video",
+   "date": "2026-10-28T15:45:27.000Z"
+  },
+  {
+   "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+   "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+   "summary": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+   "image": "https://techcrunch.com/wp-content/uploads/2023/05/south-korea-money-growth.jpg?resize=1200,675",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-28T15:41:18.000Z"
+  },
+  {
+   "title": "Amazon’s new Echo Studio gives Alexa+ an AI camera to see inside your home",
+   "link": "https://www.zdnet.com/home-and-office/amazon-echo-studio-home-camera-2026-privacy-concerns/",
+   "summary": "The Echo Studio with Home Camera essentially equips Alexa+ with eyes to enable ‘visual intelligence’ features – but there’s a kill switch.",
+   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/EchoStudio.png",
+   "source": "ZDNet",
+   "category": "ai",
+   "date": "2026-10-28T15:26:34.000Z"
+  },
+  {
+   "title": "COMAN T1 Mini One-Touch Tripod Launched on Kickstarter",
+   "link": "https://www.cined.com/coman-t1-mini-one-touch-tripod-launched-on-kickstarter/",
+   "summary": "COMAN just launched the T1 Mini on Kickstarter, a compact carbon fiber travel tripod weighing 1.65kg/3.5 lbs and supporting payloads up to 6kg/13 lbs. It keeps the T1’s one-touch leg system and adds a bolt-style Arca-Swi",
+   "image": "https://www.cined.com/content/uploads/2026/10/COMANT1Mini_Featured-300x169.jpg",
+   "source": "CineD",
+   "category": "video",
+   "date": "2026-10-28T15:19:15.000Z"
+  },
+  {
+   "title": "The New M6 MacBook Pro Brings Faster Graphics and AI Workloads, Plus 24 Hours of Battery Life",
+   "link": "https://nofilmschool.com/apple-macbook-pro-with-m6",
+   "summary": "However, while its improved Neural Accelerators and faster AI token performance for LLM prompt processing would be helpful for those mostly interested in AI workflows, for those who want to use the latest Apple MacBook P",
+   "image": "https://nofilmschool.com/media-library/apple-macbook-pro-with-m6.jpg?id=68543850&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-28T15:18:50.000Z"
+  },
+  {
+   "title": "Samsung’s new clip-style Galaxy Buds On have a major advantage over Sony and Bose",
+   "link": "https://www.zdnet.com/tech/samsung-galaxy-buds-on-availability-price/",
+   "summary": "Advanced audio features are great, but ecosystem integration is better. Here’s how Samsung’s newest clip-on Buds compare to its rivals.",
+   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/budson.jpg",
+   "source": "ZDNet",
+   "category": "ai",
+   "date": "2026-10-28T15:09:12.000Z"
+  },
+  {
+   "title": "New Artificial Analysis index widens the gap between open and closed models",
+   "link": "https://the-decoder.com/new-artificial-analysis-index-widens-the-gap-between-open-and-closed-models/",
+   "summary": "Artificial Analysis overhauled its Intelligence Index, causing Kimi K3.1 Pro to drop five spots in the rankings. The article New Artificial Analysis index widens the gap between open and closed models appeared first on T",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/kimi_k31pro.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-28T15:04:43.000Z"
+  },
+  {
+   "title": "The costumes and festivals our photography community will never forget",
+   "link": "https://www.dpreview.com/articles/the-costumes-and-festivals-our-photography-community-will-never-forget/",
+   "summary": "From dodging wild bulls in the streets to dancing the night away at the Day of the Dead celebration, check out these community costume and festival photos.",
+   "image": "https://www.dpreview.com/wp-content/uploads/2026/10/DNR-C-GN-ajr-images-ND5_8475-6.jpg",
+   "source": "DPReview",
+   "category": "photo",
+   "date": "2026-10-28T15:03:20.000Z"
+  },
+  {
+   "title": "Can a Four-Ink EcoTank Make Prints Worth Framing?",
+   "link": "https://fstoppers.com/education/can-four-ink-ecotank-make-prints-worth-framing-905201?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "A four-ink EcoTank with dye-based color and a single matte black is about the last printer most people would pick for fine art prints. Its refillable tanks make ink cheap, though, so if the prints hold up, it becomes an ",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_113.jpg.webp?itok=UIzaeKnF",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-28T15:03:01.000Z"
+  },
+  {
+   "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+   "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+   "summary": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/AI-on-the-tongue.png?resize=1200,600",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-28T15:00:00.000Z"
+  },
+  {
+   "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+   "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+   "summary": "",
+   "image": "https://cdn-uploads.huggingface.co/production/uploads/68127936de624fb6f57d9989/3vFxCEUXz_xJVrTBr4hNr.jpeg",
+   "source": "Hugging Face",
+   "category": "ai",
+   "date": "2026-10-28T14:58:17.000Z"
+  },
+  {
+   "title": "xAI is buying out homeowners who promise not to sue over data center noise",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+   "summary": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from ",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/gettyimages-2289399619.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-28T14:44:00.000Z"
+  },
+  {
+   "title": "Amazon’s new Echo Dot can turn into a Wi-Fi extender – how it works",
+   "link": "https://www.zdnet.com/home-and-office/amazon-new-echo-dot-wi-fi-extender-smart-home-hub/",
+   "summary": "Amazon’s new Echo Dot includes a built-in Eero Wi-Fi extender, along with other smart home features.",
+   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Echo-Dot-Lifestyle-2000x1126-1.png",
+   "source": "ZDNet",
+   "category": "ai",
+   "date": "2026-10-28T14:41:32.000Z"
+  },
+  {
+   "title": "TikTok expands into restaurant guides with ‘Must Eat’ feature",
+   "link": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
+   "summary": "The move puts TikTok in more direct competition with platforms like Yelp and Google.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/TikTok-MustEat.jpg?w=1200",
+   "source": "TechCrunch",
+   "category": "tiktok",
+   "date": "2026-10-28T14:26:36.000Z"
+  },
+  {
+   "title": "Surprise deal: First ever $200 discount on the Sony Alpha a7R VI at Amazon only!",
+   "link": "https://www.sonyalpharumors.com/surprise-deal-first-ever-200-discount-on-the-sony-alpha-a7r-vi-at-amazon-only/",
+   "summary": "The Sony A7rVI got the very first discount and now sells for $4298 only at Amazon (click here). It’s unusual to see that only Amazon offers this $200 discount! Grab it now before the price goes back up! The post Surprise",
+   "image": "",
+   "source": "Sony Alpha Rumors",
+   "category": "photo",
+   "date": "2026-10-28T14:22:56.000Z"
+  },
+  {
+   "title": "Canon Q3 2026 Results: Strong Imaging Sales Driven by Network Cameras",
+   "link": "https://www.canonrumors.com/canon-q3-2026-results-strong-imaging-sales-driven-by-network-cameras/",
+   "summary": "Canon Inc. has released their Q3 2026 financial results and they look to be a mixed bag for the imaging division. They're making money, which is the point of it all, but there have been challenges. Revenue in the camera ",
+   "image": "https://www.canonrumors.com/wp-content/uploads/2026/10/canon-inc-headquarters-1600.jpg",
+   "source": "Canon Rumors",
+   "category": "photo",
+   "date": "2026-10-28T14:19:14.000Z"
+  },
+  {
+   "title": "‘Life’ Magazine, Champion of Photography, to Publish Again",
+   "link": "https://petapixel.com/2026/10/28/life-magazine-champion-of-photography-to-publish-again/",
+   "summary": "One of the 20th century's most important photojournalism publications is returning to print 90 years after it was first published. [ Read More ]",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-28T14:15:22.000Z"
+  },
+  {
+   "title": "Sony’s New 50MP Smartphone Sensor Promises Nearly 17 Stops of Dynamic Range and Better Low-Light Photos",
+   "link": "https://petapixel.com/2026/10/28/sonys-new-50mp-smartphone-sensor-promises-nearly-17-stops-of-dynamic-range-and-better-low-light-photos/",
+   "summary": "Sony has announced a new 50-megapixel Lytia (stylized \"LYTIA\") 720 image sensor. The 50-megapixel sensor promises industry-leading low-light performance and supports 4Kp60 HDR video recording. [ Read More ]",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-28T14:10:55.000Z"
+  },
+  {
+   "title": "Accsoon CineView Master 4K II Introduced – DCI 4K60 Transmission, USB-C Output on Both Ends, Camera Control",
+   "link": "https://www.cined.com/accsoon-cineview-master-4k-ii-introduced-dci-4k60-transmission-usb-c-output-on-both-ends-camera-control/",
+   "summary": "Accsoon has introduced the CineView Master 4K II, the second generation of its tri-band 4K60 wireless video system. The core transmission platform stays the same, but the receiver now gets its own USB-C video output, and",
+   "image": "https://www.cined.com/content/uploads/2026/10/Accsoon-CineView-Master-4K-II_feat-300x169.jpg",
+   "source": "CineD",
+   "category": "video",
+   "date": "2026-10-28T13:59:45.000Z"
+  },
+  {
+   "title": "Should You Convert an Old Camera to Infrared or Buy a Filter?",
+   "link": "https://fstoppers.com/education/should-convert-old-camera-infrared-or-buy-filter-905195?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "If you've wanted to try infrared, you have two choices: screw a filter onto the camera you already own, or send a body off to be permanently converted. The two routes differ a lot in cost, commitment, and how much patien",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_107.jpg.webp?itok=p6sko1Zy",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-28T13:03:01.000Z"
+  },
   {
    "title": "Accsoon CineView Master 4K II",
    "link": "https://www.newsshooter.com/2026/10/28/accsoon-cineview-master-4k-ii/",
@@ -9,6 +513,15 @@
    "source": "Newsshooter",
    "category": "video",
    "date": "2026-10-28T13:00:50.000Z"
+  },
+  {
+   "title": "Documentary Uncovers Brave Photographer Who Died Protecting His Camera in Mount St. Helens Eruption",
+   "link": "https://petapixel.com/2026/10/28/documentary-uncovers-brave-photographer-who-died-protecting-his-camera-in-mount-st-helens-eruption/",
+   "summary": "A documentary tells the story of Robert Landsburg, the photographer who died shielding his camera and film while capturing the 1980 eruption of Mount St. Helens, to make sure his final images survived. [ Read More ]",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-28T13:00:28.000Z"
   },
   {
    "title": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
@@ -22,7 +535,7 @@
   {
    "title": "The Sigma FP2 isn’t the easiest camera to figure out",
    "link": "https://www.dpreview.com/videos/sigma-fp2-dpreview-discussion/",
-   "summary": "The DPReview discusses Sigma's oh-so-small camera that it says is meant for photographers and videographers.",
+   "summary": "The DPReview team discusses Sigma's oh-so-small camera that it says is meant for photographers and videographers.",
    "image": "https://www.dpreview.com/wp-content/uploads/2026/10/PI_Sigma_FP2_controls.jpg",
    "source": "DPReview",
    "category": "photo",
@@ -65,20 +578,20 @@
    "date": "2026-10-28T12:18:22.000Z"
   },
   {
-   "title": "Voters in Texas agree: They hate data centers",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
-   "summary": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's ",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_TEXAS_DATA_CENTERS_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-28T12:00:00.000Z"
-  },
-  {
    "title": "Pairing industrial AI autonomy and human control",
    "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
    "summary": "",
    "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/iStock-2264572193.jpg?resize=1200,600",
    "source": "MIT Tech Review",
+   "category": "ai",
+   "date": "2026-10-28T12:00:00.000Z"
+  },
+  {
+   "title": "Voters in Texas agree: They hate data centers",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+   "summary": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's ",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_TEXAS_DATA_CENTERS_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
    "category": "ai",
    "date": "2026-10-28T12:00:00.000Z"
   },
@@ -119,6 +632,15 @@
    "date": "2026-10-28T11:06:20.000Z"
   },
   {
+   "title": "How a Pro Rescued a Barber Shoot After His First Idea Failed",
+   "link": "https://fstoppers.com/lighting/how-pro-rescued-barber-shoot-after-his-first-idea-failed-905194?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "A concept that looks great in your head can fall apart the minute your subject steps onto the set, and the clock doesn't stop while you work out why. Knowing when to drop an idea and how to build a new one under pressure",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_106.jpg.webp?itok=81DnNp07",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-28T11:03:01.000Z"
+  },
+  {
    "title": "AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense",
    "link": "https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense/",
    "summary": "Cybersecurity startup Cathedral used AI agents to break into Anthropic's internal systems through third-party software as part of a bug bounty program. Anthropic confirmed access to sales, HR, and IT data but disputes ho",
@@ -155,6 +677,15 @@
    "date": "2026-10-28T10:15:00.000Z"
   },
   {
+   "title": "The future of the firm",
+   "link": "https://openai.com/index/the-future-of-the-firm",
+   "summary": "How AI might enter the org chart—beneath, beside, and between us.",
+   "image": "",
+   "source": "OpenAI",
+   "category": "ai",
+   "date": "2026-10-28T10:00:00.000Z"
+  },
+  {
    "title": "Meta Ads vs. TikTok Ads 2026: Where Should You Put Your Budget?",
    "link": "https://metricool.com/meta-ads-vs-tiktok-ads/",
    "summary": "Meta and TikTok each work best for different campaign goals, and they charge very differently for the same results. See which platform costs less for awareness, traffic, engagement, and leads, and how other advertisers a",
@@ -165,7 +696,7 @@
   },
   {
    "title": "Legora is building the agentic operating system for legal work",
-   "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+   "link": "https://openai.com/index/legora",
    "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
    "image": "",
    "source": "OpenAI",
@@ -180,6 +711,15 @@
    "source": "Fuji Rumors",
    "category": "photo",
    "date": "2026-10-28T09:22:36.000Z"
+  },
+  {
+   "title": "How a Moon-Mapping Lens Ended Up in an 18th-Century Drama",
+   "link": "https://fstoppers.com/lighting/how-moon-mapping-lens-ended-18th-century-drama-905200?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "Stanley Kubrick shot entire rooms in \"Barry Lyndon\" by candlelight in 1975, something that had never been done before in color. The way he did it comes down to a chain of decisions, most of them driven by hard numbers ab",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_112.jpg.webp?itok=oBCUxkQg",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-28T09:03:01.000Z"
   },
   {
    "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
@@ -533,7 +1073,7 @@
    "date": "2026-10-27T18:18:01.000Z"
   },
   {
-   "title": "What Taylor Tomlinson’s Joke-Writing Process Can Teach Screenwriters",
+   "title": "What Taylor Tomlinson's Joke-Writing Process Can Teach Screenwriters",
    "link": "https://nofilmschool.com/taylor-tomlinson-writing-advice",
    "summary": "You might hear as a writer that getting some experience in the comedy space can help you be more flexible and adroit as a writer, regardless of your genre. This might mean improv or trying stand-up , which can teach a lo",
    "image": "https://nofilmschool.com/media-library/prodigal-daughter.jpg?id=68537686&width=980",
@@ -596,15 +1136,6 @@
    "date": "2026-10-27T17:16:52.000Z"
   },
   {
-   "title": "Who Was Under the Mask? Who Played Ghostface in the Original 'Scream'?",
-   "link": "https://nofilmschool.com/who-played-ghostface-scream",
-   "summary": "Yeah, yeah. Everyone knows the movie reveal. Billy and Stu are both mad killers, and the mystery is solved—there were two Ghostfaces all along. But that’s only the story answer. The production answer is more interesting.",
-   "image": "https://nofilmschool.com/media-library/ghostface.jpg?id=34060535&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-27T17:15:04.000Z"
-  },
-  {
    "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
    "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
    "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
@@ -632,15 +1163,6 @@
    "date": "2026-10-27T16:59:12.000Z"
   },
   {
-   "title": "This tool can recover deleted AI chats from your phone – how it works",
-   "link": "https://www.zdnet.com/innovation/orisa-tool-recovers-deleted-local-ai-chats-android-phones/",
-   "summary": "This new tool proves it’s still best to limit the info you share with chatbots.",
-   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/bluecubes3GettyImages-2279412518.jpg",
-   "source": "ZDNet",
-   "category": "ai",
-   "date": "2026-10-27T16:55:54.000Z"
-  },
-  {
    "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
    "summary": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit o",
@@ -648,15 +1170,6 @@
    "source": "The Verge",
    "category": "ai",
    "date": "2026-10-27T16:51:22.000Z"
-  },
-  {
-   "title": "Apple's New iPad mini Is Thinner, Lighter, and Maybe More Useful for Filmmakers Now?",
-   "link": "https://nofilmschool.com/new-apple-ipad-mini",
-   "summary": "As always, Apple will do its thing. If it’s not beefing up its computers and smartphones, the company is slimming things down and making them more portable. Often, Apple does both at the same time. And that’s what appear",
-   "image": "https://nofilmschool.com/media-library/apple-ipad-mini.jpg?id=68537104&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-27T16:45:21.000Z"
   },
   {
    "title": "Firefox Assembles Cast of Meme Legends for Ad Promoting a More Innocent Internet",
@@ -695,15 +1208,6 @@
    "date": "2026-10-27T16:12:42.000Z"
   },
   {
-   "title": "The new iPad Mini’s best upgrade has nothing to do with its flashy OLED screen",
-   "link": "https://www.zdnet.com/tech/ipad-mini-upgrade-ip67-rating-kids/",
-   "summary": "Apple’s newest Mini is the first iPad ever with an IP67 rating for dust and water resistance.",
-   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/7927f8ce-894f-4820-b2d0-c121c0412952.jpg",
-   "source": "ZDNet",
-   "category": "ai",
-   "date": "2026-10-27T16:09:01.000Z"
-  },
-  {
    "title": "Why I Chose The Blackmagic Design URSA Cine 12K LF For My Latest Film",
    "link": "https://fstoppers.com/gear/why-i-chose-blackmagic-design-ursa-cine-12k-lf-my-latest-film-904935?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
    "summary": "For my latest film, The Love Nest, I opted to shoot using the Blackmagic Design URSA Cine 12K LF. Here's a little of what went into the decision, as well as some of the results. [ Read More ]",
@@ -720,15 +1224,6 @@
    "source": "Ars Technica",
    "category": "ai",
    "date": "2026-10-27T16:00:22.000Z"
-  },
-  {
-   "title": "Google’s next Genie AI model generates more realistic experiences",
-   "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-   "summary": "Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in re",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-26-at-3.00.35-PM.png?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-27T16:00:00.000Z"
   },
   {
    "title": "amaran Cam– a 4K60 Webcam with Auto Lighting feature",
@@ -749,24 +1244,6 @@
    "date": "2026-10-27T15:58:36.000Z"
   },
   {
-   "title": "Viltrox 35mm f/1.4 PRO lens for Nikon Z-mount to be announced in two days",
-   "link": "https://nikonrumors.com/2026/10/27/viltrox-35mm-f-1-4-pro-lens-for-nikon-z-mount-to-be-announced-in-two-days.aspx/",
-   "summary": "The previously reported Viltrox 35mm f/1.4 PRO lens for Nikon Z-mount will be announced on October 29th. Check B&H Photo and the Viltrox store for pre-orders (Viltrox 10% off code: NIKONRUMORS). Viltrox AF 35mm f/1.4 Pro",
-   "image": "https://nikonrumors.com/wp-content/uploads/2026/10/Viltrox-35mm-f1.4-PRO-lens-for-Nikon-Z-mount-7-550x375.jpg",
-   "source": "Nikon Rumors",
-   "category": "photo",
-   "date": "2026-10-27T15:43:23.000Z"
-  },
-  {
-   "title": "Apple’s M6 iMac has arrived – here’s what’s changed since the M4",
-   "link": "https://www.zdnet.com/tech/apple-imac-m6-vs-m4-whats-new/",
-   "summary": "Apple’s colorful all-in-one gets its first refresh in two years. Here’s what you get for the $1,499 starting price.",
-   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/5e73698c-368c-4c5b-96ac-005b32edc3ef.jpg",
-   "source": "ZDNet",
-   "category": "ai",
-   "date": "2026-10-27T15:42:32.000Z"
-  },
-  {
    "title": "Thypoch Sculptor AF 23mm f/1.4 Available for Preorder",
    "link": "https://www.fujirumors.com/thypoch-sculptor-af-23mm-f-1-4-available-for-preorder/",
    "summary": "The Thypoch Sculptor AF 23mm f/1.4 for Fujifilm X is now available for preorder at BHphoto here and Adorama here. It should soon be available also at Thypoch here. Thypoch Sculptor AF 23mm f/1.4 BHphoto / Amazon / Adoram",
@@ -783,24 +1260,6 @@
    "source": "Canon Rumors",
    "category": "photo",
    "date": "2026-10-27T15:37:04.000Z"
-  },
-  {
-   "title": "A fake TikTok shop is Surfshark’s most-blocked phishing scam – how to steer clear",
-   "link": "https://www.zdnet.com/tech/fake-tiktok-shop-phishing-scam-surfshark/",
-   "summary": "Blocked phishing attempts rose 83% in six months, according to Surfshark, largely due to one TikTok shop. Here’s how to spot the red flags.",
-   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/TikTok-Use.jpg",
-   "source": "ZDNet",
-   "category": "ai",
-   "date": "2026-10-27T15:30:38.000Z"
-  },
-  {
-   "title": "Influencer Ordered to Delete Social Media Photos After Posing With Great White Shark",
-   "link": "https://petapixel.com/2026/10/27/influencer-ordered-to-delete-social-media-photos-after-posing-with-great-white-shark/",
-   "summary": "A U.S. judge has ordered an influencer to delete his social media photos and not post any additional videos after he shared pictures of himself posing with a great white shark he caught. [ Read More ]",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-27T15:15:28.000Z"
   },
   {
    "title": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
@@ -830,15 +1289,6 @@
    "date": "2026-10-27T15:01:46.000Z"
   },
   {
-   "title": "Godox’s $25 iM10 Mini Flash Is a Cute Little Fella",
-   "link": "https://petapixel.com/2026/10/27/godoxs-25-im10-mini-flash-is-a-cute-little-fella/",
-   "summary": "The Godox iM10 Mini Flash fits easily in a photographer's pocket and weighs less than an ounce (23 grams). It's designed to be easy to carry and even easier to pop onto a camera for a bit of extra light in the field. [ R",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-27T15:00:31.000Z"
-  },
-  {
    "title": "Retell uses OpenAI models to help power 100M monthly calls",
    "link": "https://openai.com/index/retell-ai",
    "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
@@ -846,24 +1296,6 @@
    "source": "OpenAI",
    "category": "ai",
    "date": "2026-10-27T15:00:00.000Z"
-  },
-  {
-   "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-   "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-   "summary": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/rohit-5.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-27T14:59:09.000Z"
-  },
-  {
-   "title": "Google May Use Your Google Photos Data to Target Ads",
-   "link": "https://petapixel.com/2026/10/27/google-may-use-your-google-photos-data-to-target-ads/",
-   "summary": "Google says it may use data from Google Photos to target ads to users who have certain personalized AI features enabled. [ Read More ]",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-27T14:44:40.000Z"
   },
   {
    "title": "Apple MacBook Pro M6 and iMac M6 Announced – 2nm Chip, ProRes RAW Media Engine, Up to 32GB Memory",
@@ -911,33 +1343,6 @@
    "date": "2026-10-27T14:13:42.000Z"
   },
   {
-   "title": "Apple Creator Studio Update Brings Massive Final Cut Pro Improvements",
-   "link": "https://petapixel.com/2026/10/27/apple-creator-studio-update-brings-massive-final-cut-pro-improvements/",
-   "summary": "Apple's answer to Adobe's Creative Cloud, Creator Studio, has received what Apple calls its most exciting update yet. There are major improvements across the board, including to Final Cut Pro and Pixelmator Pro. [ Read M",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-27T14:11:17.000Z"
-  },
-  {
-   "title": "DaVinci Resolve is Getting Faster as Latest Update Boosts IntelliSearch and OGraf Playback",
-   "link": "https://nofilmschool.com/davinci-resolve-update-21-1-2",
-   "summary": "In today’s age of video editing and, well, you know, AI, speed matters more now than ever before. Whether you’re a fan of AI in general or AI tools like Resolve’s IntelliSearch analysis, if you’re using them in your vide",
-   "image": "https://nofilmschool.com/media-library/davinci-resolve-update-21-1-2.jpg?id=68536481&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-27T14:10:45.000Z"
-  },
-  {
-   "title": "Soccer Club Backtracks After Telling Photographers to Stop Wearing Revealing Outfits at Stadium",
-   "link": "https://petapixel.com/2026/10/27/soccer-club-backtracks-after-telling-photographers-to-stop-wearing-revealing-outfits-at-stadium/",
-   "summary": "A soccer club has been forced to back down after a prominent female sports photographer felt targeted by its request that photographers stop wearing revealing outfits and leggings. [ Read More ]",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-27T14:07:23.000Z"
-  },
-  {
    "title": "Tamron 16-50mm F2.8 the kit-lens replacement every APS-C owner should consider",
    "link": "https://www.dpreview.com/reviews/tamron-16-50mm-f2-8-the-kit-lens-replacement-every-aps-c-owner-should-consider/",
    "summary": "Tamron's new 16-50mm isn't perfect but offers a great combination of flexibility and price.",
@@ -954,42 +1359,6 @@
    "source": "The Decoder",
    "category": "ai",
    "date": "2026-10-27T13:55:24.000Z"
-  },
-  {
-   "title": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
-   "link": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
-   "summary": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Apple-Creator-Studio-intelligent-assistant-in-Keynote-on-iPad-Pro-261027_big.jpg.large_2x.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-27T13:50:51.000Z"
-  },
-  {
-   "title": "Apple’s Very Colorful iMac Gets the M6 Treatment",
-   "link": "https://petapixel.com/2026/10/27/apples-very-colorful-imac-gets-the-m6-treatment/",
-   "summary": "The iMac has been a core part of Apple's Mac family for nearly 30 years, with the first model arriving in 1998. The newest iMac has arrived, powered by Apple's latest chip, the M6. [ Read More ]",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-27T13:37:29.000Z"
-  },
-  {
-   "title": "Japan internet giant GMO says hackers posted stolen customer data",
-   "link": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
-   "summary": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/07/data-breach-overview-v2.jpg?resize=1200,675",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-27T13:32:57.000Z"
-  },
-  {
-   "title": "The 14-Inch MacBook Pro With M6 Has the Best Battery Life of Any Mac",
-   "link": "https://petapixel.com/2026/10/27/the-14-inch-macbook-pro-with-m6-has-the-best-battery-life-of-any-mac/",
-   "summary": "Apple has announced a new 14-inch MacBook Pro with M6, promising better performance, stronger AI capabilities, enhanced connectivity, and the longest battery life in a Mac. [ Read More ]",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-27T13:20:16.000Z"
   },
   {
    "title": "FL Studio Mobile gets biggest update in 10 years",
@@ -1010,33 +1379,6 @@
    "date": "2026-10-27T13:03:02.000Z"
   },
   {
-   "title": "Sirui’s New $79 Folding Tripod Has Four Very Different Configurations",
-   "link": "https://petapixel.com/2026/10/27/siruis-new-79-folding-tripod-has-four-very-different-configurations/",
-   "summary": "Sirui has unveiled the TC50 + BH-19, a new compact camera support system designed for photographers, videographers, and content creators. [ Read More ]",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-27T13:00:35.000Z"
-  },
-  {
-   "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
-   "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
-   "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agents-chatbots-GettyImages-2243730029.jpg?resize=1200,675",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-27T13:00:00.000Z"
-  },
-  {
-   "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-   "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
-   "summary": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Team-05.jpg?resize=800,1200",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-27T13:00:00.000Z"
-  },
-  {
    "title": "Godox iM10: a small universal flash for your photography",
    "link": "https://www.provideocoalition.com/godox-im10-a-small-universal-flash-for-your-photography/",
    "summary": "The universal single-contact hot shoe included lets the Godox iM10 work with a wide range of cameras, from compact digital cameras and mirrorless cameras to film cameras. Small flashes (like the Viltrox Vintage Z1 ) are ",
@@ -1046,15 +1388,6 @@
    "date": "2026-10-27T12:45:52.000Z"
   },
   {
-   "title": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-   "link": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics/",
-   "summary": "OpenAI says its internal AI models have cracked three major open questions in math, computer science, and physics. One of them is part of a famous Millennium Prize Problem, each of which carries a $1 million prize. Outsi",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_navier.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-27T12:37:24.000Z"
-  },
-  {
    "title": "Thypoch 24-50 f/2.8 review by Math Photographer",
    "link": "https://www.sonyalpharumors.com/thypoch-24-50-f-2-8-review-by-math-photographer/",
    "summary": "Math Photographer tested the first Chinese Full Frame AF zoom lens every made. The new Thypoch 24-50 f/2.8 you get for $649 at BHphoto, Adorama, FotoErhardt, Typoch Store (use code “Andrea” to save 5%). He thinks this is",
@@ -1062,15 +1395,6 @@
    "source": "Sony Alpha Rumors",
    "category": "photo",
    "date": "2026-10-27T12:22:14.000Z"
-  },
-  {
-   "title": "I tried Windows 11’s customizable right-click menu – and it’s a much-needed change",
-   "link": "https://www.zdnet.com/tech/windows-11-customizable-right-click-menu/",
-   "summary": "The latest Windows Insider build lets you add, remove, and manage commands in the right-click menu so it’s less crowded and confusing.",
-   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Windows-11-right-click-menu.jpg",
-   "source": "ZDNet",
-   "category": "ai",
-   "date": "2026-10-27T12:17:55.000Z"
   },
   {
    "title": "Apple Creator Studio brings built-in MotionVFX content to Final Cut Pro",
@@ -1089,24 +1413,6 @@
    "source": "CineD",
    "category": "video",
    "date": "2026-10-27T11:59:50.000Z"
-  },
-  {
-   "title": "OpenAI's partner content arrives in ChatGPT pre-summarized while the rest of the web gets raw scraps",
-   "link": "https://the-decoder.com/openais-partner-content-arrives-in-chatgpt-pre-summarized-while-the-rest-of-the-web-gets-raw-scraps/",
-   "summary": "Content from OpenAI's licensing partners appears to flow into ChatGPT through a dedicated pipeline that gives it priority over the rest of the web. The article OpenAI's partner content arrives in ChatGPT pre-summarized w",
-   "image": "https://the-decoder.com/wp-content/uploads/2025/01/openai_chatgpt_journalists_newsroom.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-27T11:39:24.000Z"
-  },
-  {
-   "title": "Anthropic uses its IPO letter to renew its pledge that Claude will never show ads",
-   "link": "https://the-decoder.com/anthropic-uses-its-ipo-letter-to-renew-its-pledge-that-claude-will-never-show-ads/",
-   "summary": "Anthropic says it will keep ads out of Claude. In a cover letter accompanying its IPO filing, the company argues that the chatbot's sole incentive should be to provide helpful answers. The article Anthropic uses its IPO ",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-27T11:20:51.000Z"
   },
   {
    "title": "Tool Tip Tuesday for Adobe Premiere: Save Source Assignment Presets",
@@ -1145,15 +1451,6 @@
    "date": "2026-10-27T11:02:22.000Z"
   },
   {
-   "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
-   "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-   "summary": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/simplismart-founders-amritanshu-devansh.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-27T11:00:00.000Z"
-  },
-  {
    "title": "AI Agents Are Media’s New Favorite Audience",
    "link": "https://www.wired.com/story/ai-agents-are-medias-new-favorite-audience/",
    "summary": "As agents go mainstream, some publishers are hoping that people will pay for content tailor-made for AI—not humans.",
@@ -1172,15 +1469,6 @@
    "date": "2026-10-27T10:41:00.000Z"
   },
   {
-   "title": "OpenAI's Ted Sanders shares a rule of thumb for picking the right GPT-model",
-   "link": "https://the-decoder.com/openais-ted-sanders-shares-a-rule-of-thumb-for-picking-the-right-gpt-model/",
-   "summary": "OpenAI's Ted Sanders explains where GPT-6.1 Terra fits in the company's GPT lineup. The smaller model outperforms the larger Astra in technical communication and costs far less but trails it in most other areas. Sanders ",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_logo-1.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-27T10:09:26.000Z"
-  },
-  {
    "title": "Apple iMac with M6",
    "link": "https://www.newsshooter.com/2026/10/27/apple-imac-with-m6/",
    "summary": "Apple has announced a new 24-inch iMac powered by their latest M6 silicon, with incremental processing speed bumps, upgraded I/O capabilities, and localized AI features. While the iMac is traditionally targeted at genera",
@@ -1188,24 +1476,6 @@
    "source": "Newsshooter",
    "category": "video",
    "date": "2026-10-27T10:03:00.000Z"
-  },
-  {
-   "title": "Data center backlash is uniting America",
-   "link": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
-   "summary": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with ",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268813_ELECTIONS_DATA_CENTERS_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-27T10:00:00.000Z"
-  },
-  {
-   "title": "Meta gets $3 billion from Nvidia and plans to spend more on Nvidia chips",
-   "link": "https://the-decoder.com/meta-gets-3-billion-from-nvidia-and-plans-to-spend-more-on-nvidia-chips/",
-   "summary": "ia is buying into its customer Meta, which plans to run more of its AI agents on Nvidia hardware. The article Meta gets $3 billion from Nvidia and plans to spend more on Nvidia chips appeared first on The Decoder .",
-   "image": "https://the-decoder.com/wp-content/uploads/2025/12/nvidia_logo_wall_cb-1.jpeg",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-27T09:58:16.000Z"
   },
   {
    "title": "Nikon Explains Why the ZR Is a Better Filmmaking Tool Than the Z6III",
@@ -1253,15 +1523,6 @@
    "date": "2026-10-27T07:00:00.000Z"
   },
   {
-   "title": "The New iPad mini Gets a Beautiful OLED Screen",
-   "link": "https://fstoppers.com/gear/new-ipad-mini-gets-beautiful-oled-screen-905209?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "Apple's new iPad mini replaces its LCD with an 8.5-inch OLED display that reaches 1,200 nits on HDR content, in a body 5.4 mm thin with an IP67 rating for water and dust. It's the best screen Apple has ever put in its sm",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/apple-ipad-mini-a20-pro-midnight-lead.jpg.webp?itok=K5hki6-X",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-10-27T06:36:40.000Z"
-  },
-  {
    "title": "Blackmagic Design Fusion Studio 21.1.2",
    "link": "https://www.newsshooter.com/2026/10/26/blackmagic-design-fusion-studio-21-1-2/",
    "summary": "Blackmagic Design has released Fusion Studio 21.1.2 which adds up to 4x faster OGraf playback, more template controls, responsive OGraf templates that adapt to aspect ratio, plus OGraf and Lottie graphics support on Linu",
@@ -1287,15 +1548,6 @@
    "source": "Fuji Rumors",
    "category": "photo",
    "date": "2026-10-27T05:46:59.000Z"
-  },
-  {
-   "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
-   "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-   "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/55593495974_7bfdac6a15_k.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-27T02:00:00.000Z"
   },
   {
    "title": "The Fujifilm Instax Mini Evo 2 brings big upgrades to its hybrid instant camera",
@@ -1325,15 +1577,6 @@
    "date": "2026-10-27T00:00:00.000Z"
   },
   {
-   "title": "OpenAI announces three big science discoveries and a new way to work with academics",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-   "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, a",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS537_AI_MATH_2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-26T23:34:58.000Z"
-  },
-  {
    "title": "TikTok playbook outlines the value of its high-end ad options",
    "link": "https://www.socialmediatoday.com/news/tiktok-playbook-outlines-the-value-of-its-high-end-ad-options/872827/",
    "summary": "The app&rsquo;s Top View and Pulse Premiere solutions provide premium placement opportunities during peak viewing events.",
@@ -1341,15 +1584,6 @@
    "source": "Social Media Today",
    "category": "tiktok",
    "date": "2026-10-26T22:26:07.000Z"
-  },
-  {
-   "title": "A Look at Some of Our Favorite Cinematic Suite Tools in Topview’s Film Studio 2.0",
-   "link": "https://nofilmschool.com/topview-cinematic-suite-tools",
-   "summary": "The film and video landscape is changing rapidly, and whether you love it or hate it, if you want to keep up with this new AI frontier, this might be one of the best places to start. As we covered in the intro piece , To",
-   "image": "https://nofilmschool.com/media-library/image.jpg?id=68506834&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-26T22:00:03.000Z"
   },
   {
    "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
@@ -1368,15 +1602,6 @@
    "source": "ProVideo Coalition",
    "category": "video",
    "date": "2026-10-26T21:45:40.000Z"
-  },
-  {
-   "title": "What 7 Years Financing 'Breeder' Taught Alex Goyette",
-   "link": "https://nofilmschool.com/alex-goyette-breeder-interview",
-   "summary": "In 2019, Alex Goyette sat down to pitch Breeder at Tribeca's Creators Market , and his iPad died right before the pitch. Seven years later, the same festival gave the film its world premiere. Goyette is an indie filmmake",
-   "image": "https://nofilmschool.com/media-library/breeder.jpg?id=68408379&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-26T21:34:03.000Z"
   },
   {
    "title": "Why Anthropic’s IPO Prospectus Is Missing So Many Key Figures",
@@ -1415,42 +1640,6 @@
    "date": "2026-10-26T21:03:11.000Z"
   },
   {
-   "title": "Why Passport Photo Rules Are So Strict: The Biometric Science of a Boring Picture",
-   "link": "https://fstoppers.com/portraits/why-passport-photo-rules-are-so-strict-biometric-science-boring-picture-904381?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "Your passport photo got rejected because of a shadow. Not a dramatic one. A soft gradient under your jaw, maybe a quarter-shade darker than your cheek, the kind of thing you would never notice and the clerk who handed th",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/08/dlib-face-landmark-detection.jpg.webp?itok=ZIooesAw",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-10-26T21:03:01.000Z"
-  },
-  {
-   "title": "The Exorcist Ending Explained",
-   "link": "https://nofilmschool.com/the-exorcist-ending-explained",
-   "summary": "Horror has gone through several periods, but the most notable shift came in 1973, when William Friedkin’s classic The Exorcist changed everything. William Peter Blatty adapted the movie from his 1971 novel of the same na",
-   "image": "https://nofilmschool.com/media-library/the-exorcist-ending-explained.jpg?id=68529587&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-26T21:01:15.000Z"
-  },
-  {
-   "title": "Apple’s iOS 27.2 update offers major Siri AI upgrades, dual camera support for FaceTime",
-   "link": "https://www.zdnet.com/tech/apple-ios-27-2-update-siri-ai-facetime-dual-cameras/",
-   "summary": "iOS 27.2 is the first major update for the current OS. Here’s what’s inside and what happened to iOS 27.1.",
-   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC00852.jpeg",
-   "source": "ZDNet",
-   "category": "ai",
-   "date": "2026-10-26T20:52:35.000Z"
-  },
-  {
-   "title": "Halloween Quote of the Day: The 1978 Iconic ‘Halloween’ Line That Became a Horror Classic",
-   "link": "https://nofilmschool.com/halloween-one-good-scare",
-   "summary": "I remember the first time I saw the movie Halloween . I was at a sleepover with a bunch of guys, and it came on cable. We were probably in sixth grade and stopped the channel surfing because we saw some boobs. Yeah, it w",
-   "image": "https://nofilmschool.com/media-library/halloween-quote.jpg?id=68529597&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-26T20:15:03.000Z"
-  },
-  {
    "title": "Instagram Reels for business in 2026: Best practices + examples",
    "link": "https://blog.hootsuite.com/instagram-reels/",
    "summary": "Reach new audiences with Instagram Reels. See how the algorithm works, how to make and schedule a Reel, plus, free templates and examples. The post Instagram Reels for business in 2026: Best practices + examples appeared",
@@ -1476,15 +1665,6 @@
    "source": "Hootsuite",
    "category": "instagram",
    "date": "2026-10-26T19:57:37.000Z"
-  },
-  {
-   "title": "What Are The Best John Carpenter Scores?",
-   "link": "https://nofilmschool.com/best-john-carpenter-scores",
-   "summary": "I was at trivia last night and learned John Carpenter scored 14 of his 18 feature films. I was flabbergasted. So I went home and blasted the scores. Man, there's just something about Carpenter's movies and music that get",
-   "image": "https://nofilmschool.com/media-library/best-john-carpenter-scores.jpg?id=68530302&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-26T19:45:03.000Z"
   },
   {
    "title": "ICE plan to buy robot dogs spurs protest from hundreds of Boston Dynamics employees",
@@ -1514,15 +1694,6 @@
    "date": "2026-10-26T17:26:36.000Z"
   },
   {
-   "title": "Fujifilm Patents a New Refinement to Its PDAF Autofocus",
-   "link": "https://www.fujirumors.com/fujifilm-patents-a-new-refinement-to-its-pdaf-autofocus/",
-   "summary": "A newly published Fujifilm patent of October 6, 2026, describes a potential refinement to the company’s existing phase-detection autofocus (PDAF) technology. Rather than introducing a completely new autofocus system, the",
-   "image": "https://www.fujirumors.com/wp-content/uploads/2026/10/Fujifilm-Autofocus-Patent.jpg",
-   "source": "Fuji Rumors",
-   "category": "photo",
-   "date": "2026-10-26T16:26:49.000Z"
-  },
-  {
    "title": "Instagram chases YouTube with a push for longer, widescreen videos",
    "link": "https://www.theverge.com/tech/1018688/instagram-longform-widescreen-video-features-youtube",
    "summary": "Instagram is announcing a big push into longform horizontal video, which the platform is calling \"Features.\" Instagram boss Adam Mosseri has been against doing longform video on the platform \"for a long time,\" he says in",
@@ -1530,15 +1701,6 @@
    "source": "The Verge",
    "category": "instagram",
    "date": "2026-10-26T16:05:44.000Z"
-  },
-  {
-   "title": "Why I Take the Chance When Planning a Landscape Photography Trip",
-   "link": "https://fstoppers.com/education/why-i-take-chance-when-planning-landscape-photography-trip-905149?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "Planning a landscape photography trip is something I spend a considerable amount of time doing, and living here in Ireland means that checking the weather is an important part of that process. The conditions can change q",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/allihies--11.jpg.webp?itok=xsR6McOW",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-10-26T16:03:01.000Z"
   },
   {
    "title": "The Anthropic S-1 Filing Is Also an AI Doomsday Primer",
@@ -1559,15 +1721,6 @@
    "date": "2026-10-26T16:00:00.000Z"
   },
   {
-   "title": "Nikon Nikkor Z 120-300mm f/2.8 TC VR S lens rumored price in Europe: 15,499 EUR incl. VAT",
-   "link": "https://nikonrumors.com/2026/10/26/nikon-nikkor-z-120-300mm-f-2-8-tc-vr-s-lens-rumored-price-in-europe-15499-eur-incl-vat.aspx/",
-   "summary": "Another update on the price of the upcoming Nikon Nikkor Z 120-300mm f/2.8 TC VR S lens: in Europe, the lens is rumored to cost 15,499 EUR incl. The price is higher than in the US (13,999 USD) because of different import",
-   "image": "https://nikonrumors.com/wp-content/uploads/2026/05/Nikon-Nikkor-Z-120-300mm-f2.8-TC-VR-S-1.4x-lens-550x321.jpg",
-   "source": "Nikon Rumors",
-   "category": "photo",
-   "date": "2026-10-26T15:43:47.000Z"
-  },
-  {
    "title": "Got final confirmation the Sony FX5 will ship out November 8/9 in North America",
    "link": "https://www.sonyalpharumors.com/got-final-confirmation-the-sony-fx5-will-ship-out-november-8-9-in-north-america/",
    "summary": "I got 100% reliable confirmation the Sony FX5 will start shipping out on November 8 and 9 from North American stores. The wait is definitely over! Preorders: Sony FX5 at BHphoto, Amazon, Adorama, Fotokoch, FotoErhardt, F",
@@ -1584,24 +1737,6 @@
    "source": "CineD",
    "category": "video",
    "date": "2026-10-26T15:11:54.000Z"
-  },
-  {
-   "title": "Sony and Nikon Built the Same Bird Lenses, So Which One Do You Pick?",
-   "link": "https://fstoppers.com/gear/sony-and-nikon-built-same-bird-lenses-so-which-one-pick-905179?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "Sony's new 400mm f/4.5 and 600mm f/6.3 primes come in lighter and cheaper than the Nikon lenses they closely resemble, and that puts a real decision in front of anyone who shoots birds and wildlife. Long glass is usually",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_100.jpg.webp?itok=OTz2l0U2",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-10-26T15:03:01.000Z"
-  },
-  {
-   "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
-   "link": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
-   "summary": "Anthropic on Monday filed documents ahead of a blockbuster IPO that offers insight into the company’s financials, risk factors, and views on the future of AI.",
-   "image": "https://media.wired.com/photos/6adf6c00ca47359863df5ba5/master/pass/102626-Anthropic%20IPO.jpg",
-   "source": "WIRED",
-   "category": "ai",
-   "date": "2026-10-26T14:50:47.000Z"
   },
   {
    "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
@@ -1631,15 +1766,6 @@
    "date": "2026-10-26T13:45:00.000Z"
   },
   {
-   "title": "What a Telephoto Lens Can Do With a Sea of Fog",
-   "link": "https://fstoppers.com/education/what-telephoto-lens-can-sea-fog-905178?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "A telephoto lens pointed at a sea of fog turns one broad, washed-out view into dozens of small pictures: a single ridge, a clump of treetops, a slow waterfall of mist spilling over a hill. Fog shifts by the minute and th",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_99.jpg.webp?itok=P2tW2-1T",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-10-26T13:03:02.000Z"
-  },
-  {
    "title": "GoPro Close-Up Filters for MISSION 1 Announced – PolarPro Diopters from +0.5 to +2",
    "link": "https://www.cined.com/gopro-close-up-filters-for-mission-1-announced-polarpro-diopters-from-0-5-to-2/",
    "summary": "GoPro has released two close-up filter options for the MISSION 1 and MISSION 1 PRO, made by PolarPro. The diopters slide over the camera’s fixed lens and give a closer focus range with a shallower depth of field. A singl",
@@ -1667,15 +1793,6 @@
    "date": "2026-10-26T10:41:15.000Z"
   },
   {
-   "title": "ChatGPT’s expanding world of work",
-   "link": "https://openai.com/index/chatgpt-expanding-world-of-work",
-   "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
-   "image": "",
-   "source": "OpenAI",
-   "category": "ai",
-   "date": "2026-10-26T10:00:00.000Z"
-  },
-  {
    "title": "The focus on AI safety disasters ignores everyday harms",
    "link": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
    "summary": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important",
@@ -1701,33 +1818,6 @@
    "source": "Digital Photography School",
    "category": "photo",
    "date": "2026-10-26T05:32:05.000Z"
-  },
-  {
-   "title": "Weekly Nikon news flash #909",
-   "link": "https://nikonrumors.com/2026/10/25/weekly-nikon-news-flash-909.aspx/",
-   "summary": "→ Megadap released firmware version 2.07 for all ETZ21 Sony E-Mount lens to Nikon Z-mount camera adapters. → Nikon ZR won the 2026 Good Design Best 100 award (together with the Nikon Sportstar EX binoculars). Last week, ",
-   "image": "https://nikonrumors.com/wp-content/uploads/2025/07/Megadap-ETZ21-Pro-autofocus-adapter-Sony-E-lens-to-Nikon-Z-camera-2-550x327.jpg",
-   "source": "Nikon Rumors",
-   "category": "photo",
-   "date": "2026-10-26T00:30:32.000Z"
-  },
-  {
-   "title": "August 2026 CIPA numbers",
-   "link": "https://nikonrumors.com/2026/10/25/august-2026-cipa-numbers.aspx/",
-   "summary": "CIPA (Camera & Imaging Products Association in Japan) published the latest camera production data (orange: 2026, black: 2025, blue: 2024): August 2026 CIPA numbers by ZoetMB (All comparisons to YTD 2025) Narrative: Augus",
-   "image": "https://nikonrumors.com/wp-content/uploads/2026/10/August-2026-CIPA-numbers-1-550x408.png",
-   "source": "Nikon Rumors",
-   "category": "photo",
-   "date": "2026-10-26T00:02:23.000Z"
-  },
-  {
-   "title": "From Sony FX5 Screens to iPhone Duo Hinges: Cracks in Quality Control?",
-   "link": "https://www.sonyalpharumors.com/from-sony-fx5-screens-to-iphone-duo-hinges-cracks-in-quality-control/",
-   "summary": "For months, we’ve wondered how Sony missed the Sony FX5 LCD cracking issue during its quality control checks. Today, I came across Reddit posts from new iPhone Duo owners reporting a large crack around the hinge mechanis",
-   "image": "",
-   "source": "Sony Alpha Rumors",
-   "category": "photo",
-   "date": "2026-10-25T21:40:03.000Z"
   },
   {
    "title": "GoPro’s $700 8K Cinema Camera Named One of TIME’s Best Inventions of 2026",
@@ -1766,15 +1856,6 @@
    "date": "2026-10-25T13:00:00.000Z"
   },
   {
-   "title": "Update: the US price of the upcoming Nikon Nikkor Z 120-300mm f/2.8 TC VR S lens will be $13,999",
-   "link": "https://nikonrumors.com/2026/10/24/update-the-us-price-of-the-upcoming-nikon-nikkor-z-120-300mm-f-2-8-tc-vr-s-lens-will-be-13999.aspx/",
-   "summary": "A quick update on my previous post: the rumored US price for the upcoming Nikon Nikkor Z 120-300mm f/2.8 TC VR S lens is $13,999, which means it may not be the most expensive lens in the lineup (the list of all Nikkor le",
-   "image": "https://nikonrumors.com/wp-content/uploads/2026/05/Nikon-Nikkor-Z-120-300mm-f2.8-TC-VR-S-telephoto-zoom-lens-with-a-built-in-1.4x-teleconverter-1-550x329.jpg",
-   "source": "Nikon Rumors",
-   "category": "photo",
-   "date": "2026-10-25T01:34:21.000Z"
-  },
-  {
    "title": "Canon’s $6,800 Flagship EOS R1 Can Now Be Had for Under $5,900 on Amazon",
    "link": "https://ymcinema.com/2026/10/24/canon-eos-r1-flagship-camera-under-5900-amazon/",
    "summary": "Canon’s top-of-the-line EOS R1 is one of the company’s most advanced mirrorless cameras, combining a stacked full-frame sensor, 40 fps continuous shooting, and internal 6K RAW recording. With a new body listed at $6,799,",
@@ -1802,15 +1883,6 @@
    "date": "2026-10-24T10:43:36.000Z"
   },
   {
-   "title": "Thypoch announces Simera-C 100mm T1.9 Cine Lens",
-   "link": "https://www.provideocoalition.com/thypoch-announces-simera-c-100mm-t1-9-cine-lens/",
-   "summary": "Character-focused rendering for compact mirrorless and cinema-camera setups, the new Simera lens extends the series beyond its previous longest focal length of 75mm. Designed for character close-ups, reaction shots and n",
-   "image": "https://www.provideocoalition.com/wp-content/uploads/thypochsimeara001.jpg",
-   "source": "ProVideo Coalition",
-   "category": "video",
-   "date": "2026-10-24T10:20:51.000Z"
-  },
-  {
    "title": "Sigma FP2: 6K Open Gate in a Tiny Full-Frame Camera",
    "link": "https://ymcinema.com/2026/10/23/sigma-fp2-6k-open-gate-full-frame-camera/",
    "summary": "Sigma has announced the FP2, the latest addition to its unusually compact full-frame mirrorless camera lineup. The new model combines a 24.5MP partially stacked CMOS sensor with 6K Open Gate recording, Apple ProRes RAW s",
@@ -1827,24 +1899,6 @@
    "source": "Ars Technica",
    "category": "ai",
    "date": "2026-10-23T20:19:55.000Z"
-  },
-  {
-   "title": "Continuum 2027 Deep Dive",
-   "link": "https://www.provideocoalition.com/continuum-2027-deep-dive/",
-   "summary": "If you have followed my articles on Boris FX, you will know what I say in every article I write about Continuum? The best is still the best. I’ve been using Continuum for years and I have to admit, I’m always excited whe",
-   "image": "https://www.provideocoalition.com/wp-content/uploads/ParticleIllusion-1.jpg",
-   "source": "ProVideo Coalition",
-   "category": "video",
-   "date": "2026-10-23T18:46:14.000Z"
-  },
-  {
-   "title": "Nikon Nikkor Z 120-300mm f/2.8 TC VR S lens announcement on October 29, rumored to be the most expensive lens in the lineup",
-   "link": "https://nikonrumors.com/2026/10/23/nikon-nikkor-z-120-300mmf-2-8-tc-vr-s-lens-announcement-on-october-29-rumored-to-be-the-most-expensive-lens-in-the-lineup.aspx/",
-   "summary": "As I already reported, the Nikkor Z 120-300mm f/2.8 TC VR S lens (see previous coverage) will be released at the end of October: The Nikon Nikkor Z 120-300mm f/2.8 TC VR S lens is coming next, then the Nikon Z70 in Novem",
-   "image": "https://nikonrumors.com/wp-content/uploads/2026/05/Nikon-Nikkor-Z-120-300mm-f2.8-TC-VR-S-lens-550x192.jpg",
-   "source": "Nikon Rumors",
-   "category": "photo",
-   "date": "2026-10-23T18:39:09.000Z"
   },
   {
    "title": "Intel gets waiver after worries fuzzy US ban on foreign-made robots may hit fabs",
@@ -1874,15 +1928,6 @@
    "date": "2026-10-23T12:45:38.000Z"
   },
   {
-   "title": "Instagram Updates and News 2026",
-   "link": "https://metricool.com/instagram-news/",
-   "summary": "Do you know all the features Instagram has added over the years? Find out here!",
-   "image": "https://metricool.com/wp-content/uploads/instagram-updates-and-news-2026-2.webp",
-   "source": "Metricool",
-   "category": "instagram",
-   "date": "2026-10-23T11:39:44.000Z"
-  },
-  {
    "title": "How the Instagram Algorithm Works: Your Up-to-Date 2026 Guide",
    "link": "https://buffer.com/resources/instagram-algorithms/",
    "summary": "Learn how the Instagram algorithm ranks feed, stories, reels, and explore, plus the three signals Adam Mosseri says matter most.",
@@ -1908,15 +1953,6 @@
    "source": "CineD",
    "category": "video",
    "date": "2026-10-23T07:28:18.000Z"
-  },
-  {
-   "title": "How to Upload Photos to Instagram (+ How the Pros Do It)",
-   "link": "https://metricool.com/how-to-upload-photos-to-instagram/",
-   "summary": "Learn how to upload photos on Instagram in several ways: from the mobile app, the browser version or social media tools like Metricool.",
-   "image": "https://metricool.com/wp-content/uploads/upload-photos-instagram.webp",
-   "source": "Metricool",
-   "category": "instagram",
-   "date": "2026-10-23T06:38:00.000Z"
   },
   {
    "title": "Sigma FP2: everything is better for the second-gen modular mirrorless camera",
@@ -2018,42 +2054,6 @@
    "date": "2026-10-22T15:25:02.000Z"
   },
   {
-   "title": "GoPro’s new filters bring closer focus and softer backgrounds to Mission 1 cameras",
-   "link": "https://www.dpreview.com/news/gopros-new-filters-bring-closer-focus-and-softer-backgrounds-to-mission-1-cameras/",
-   "summary": "Made by PolarPro, the three close-up filters promise to help visually separate subjects from their surroundings.",
-   "image": "https://www.dpreview.com/wp-content/uploads/2026/10/M-PI-gopro-close-up-filters-02-16x9-Lead-1.jpg",
-   "source": "DPReview",
-   "category": "photo",
-   "date": "2026-10-22T15:20:26.000Z"
-  },
-  {
-   "title": "Throwback Thursday: why the Sony a7R II’s biggest improvement went under the radar",
-   "link": "https://www.dpreview.com/articles/throwback-thursday-why-the-sony-a7r-iis-biggest-improvement-went-under-the-radar/",
-   "summary": "The arrival of BSI CMOS technology in Sony's high-res full-framer didn't necessarily mean what people expected.",
-   "image": "https://www.dpreview.com/wp-content/uploads/2020/08/7096949540-a7rii_1.jpeg",
-   "source": "DPReview",
-   "category": "photo",
-   "date": "2026-10-22T15:03:36.000Z"
-  },
-  {
-   "title": "Blackmagic Design Raises Prices, Cuts Resolve | ArtCraft’s AI-Built Adobe Clones | Camera Form Factor Poll – Focus Check ep139",
-   "link": "https://www.cined.com/blackmagic-design-raises-prices-cuts-resolve-artcrafts-ai-built-adobe-clones-camera-form-factor-poll-focus-check-ep139/",
-   "summary": "The Blackmagic Design price raise hits 36 products at once: the ATEM 4 M/E Constellation IP Plus alone jumps from about $13,000 to $20,000, with SMPTE 2110 converters, Cloud Store and HyperDeck recorders following – all ",
-   "image": "https://www.cined.com/content/uploads/2026/10/CineD_Focus-Check_ep139-300x169.jpeg",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-10-22T13:55:48.000Z"
-  },
-  {
-   "title": "Your Shot – Free Super Slow Motion Tennis Event in Vienna with Pixboom Spark Today, No Registration",
-   "link": "https://www.cined.com/your-shot-free-super-slow-motion-tennis-event-in-vienna-with-pixboom-spark-tomorrow-no-registration/",
-   "summary": "On Friday October 23, anyone in Vienna, Austria, can step onto a tennis court, hit a ball, and walk away with a cinematic super slow motion clip of themselves, captured by a camera robot at up to 1,000 frames per second.",
-   "image": "https://www.cined.com/content/uploads/2026/10/Your_Shot_Featured_Minimal_16x9-300x169.png",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-10-22T12:30:36.000Z"
-  },
-  {
    "title": "Making the case for context-aware AI",
    "link": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
    "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints an",
@@ -2090,24 +2090,6 @@
    "date": "2026-10-22T07:51:31.000Z"
   },
   {
-   "title": "Nikon released new firmware updates for the Nikkor Z 24-70mm f/2.8 S II & 14-24mm f/2.8 S lenses",
-   "link": "https://nikonrumors.com/2026/10/21/nikon-released-new-firmware-updates-for-the-nikkor-z-24-70mm-f-2-8-s-ii-14-24mm-f-2-8-s-lenses.aspx/",
-   "summary": "Nikon released their third firmware update in a week (see past updates) – this time for the Nikkor Z 24-70mm f/2.8 S II (now $200 for the first time) and 14-24mm f/2.8 S (now $800 off) lenses: NIKKOR Z 24-70mm f/2.8 S II",
-   "image": "https://nikonrumors.com/wp-content/uploads/2025/08/NIKKOR-Z-24-70mm-f2.8-S-II-550x333.jpg",
-   "source": "Nikon Rumors",
-   "category": "photo",
-   "date": "2026-10-22T02:59:26.000Z"
-  },
-  {
-   "title": "The latest updates and offers from Topaz, DxO, Luminar, and Aftershoot",
-   "link": "https://nikonrumors.com/2026/10/21/the-latest-updates-and-offers-from-topaz-dxo-luminar-and-aftershoot.aspx/",
-   "summary": "First, here are some photo editing software coupon codes: Luminar 10% off code: RUMORS Aftershoot 15% off code: RUMORS DxO 15% off code: RUMORS ON1 20% off code: NIKONRUMORS20 AlexOnRAW 10% off code: RUMORS MyBoook 3 mon",
-   "image": "https://nikonrumors.com/wp-content/uploads/2026/10/Topaz-DxO-Luminar-Aftershoot-updates-offers-4-550x162.jpg",
-   "source": "Nikon Rumors",
-   "category": "photo",
-   "date": "2026-10-22T00:27:34.000Z"
-  },
-  {
    "title": "New York’s first microdrama film festival searches for its audience",
    "link": "https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals",
    "summary": "It remains to be seen if people really want to watch vertical content on horizontal TV screens, but many filmmakers and creators were confident that their latest projects would play well at Alza - New York City's first m",
@@ -2135,24 +2117,6 @@
    "date": "2026-10-21T18:51:42.000Z"
   },
   {
-   "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-   "link": "https://huggingface.co/blog/nvidia/kumo-relational",
-   "summary": "",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/6ad8e88370f69967fafc8703/i-Flass3NMPRmc6lVfwO_.png",
-   "source": "Hugging Face",
-   "category": "ai",
-   "date": "2026-10-21T18:26:30.000Z"
-  },
-  {
-   "title": "Judge rejects Trump’s wild claim EPA can dismiss data center pollution lawsuits",
-   "link": "https://arstechnica.com/tech-policy/2026/10/judge-rejects-trumps-wild-claim-epa-can-dismiss-data-center-pollution-lawsuits/",
-   "summary": "Trump’s EPA can't unilaterally dismiss SpaceXAI pollution lawsuit, court rules.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/04/xAI-Thermal-Image-1152x648.jpg",
-   "source": "Ars Technica",
-   "category": "ai",
-   "date": "2026-10-21T18:20:40.000Z"
-  },
-  {
    "title": "Blackmagic Wants You to Think of DaVinci Resolve Studio as an AI Editor",
    "link": "https://ymcinema.com/2026/10/21/blackmagic-davinci-resolve-studio-ai-editor/",
    "summary": "Blackmagic Design has announced a limited-time 20% discount on DaVinci Resolve Studio, reducing its price from $295 to $236. However, the more interesting part of the announcement isn’t the discount itself. It’s how Blac",
@@ -2160,15 +2124,6 @@
    "source": "Y.M.Cinema",
    "category": "video",
    "date": "2026-10-21T15:29:23.000Z"
-  },
-  {
-   "title": "The $15 billion ad-powered AI startup your doctor may already be using",
-   "link": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
-   "summary": "OpenEvidence is booming despite questions about accuracy and ads.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/openevidencelist-1152x648.jpg",
-   "source": "Ars Technica",
-   "category": "ai",
-   "date": "2026-10-21T15:14:07.000Z"
   },
   {
    "title": "SproutLink vs. Linktree: Which link-in-bio tool is right for your brand?",
@@ -2196,15 +2151,6 @@
    "source": "The Verge",
    "category": "tiktok",
    "date": "2026-10-20T20:16:04.000Z"
-  },
-  {
-   "title": "TTartisan released new versions of the AF 50mm f/1.8 NEO lens for Nikon Z-mount in titanium & green for $89",
-   "link": "https://nikonrumors.com/2026/10/20/ttartisan-released-new-versions-of-the-af-50mm-f-1-8-neo-lens-for-nikon-z-mount-in-titanium-green-for-89.aspx/",
-   "summary": "TTartisan released two new versions of the AF 50mm f/1.8 NEO lens for Nikon Z-mount in titanium & green: Pre-orders: B&H Photo | TTartisan online store (use code RUMORS for a discount) 156~167g lightweight design 0.48m m",
-   "image": "https://nikonrumors.com/wp-content/uploads/2026/10/TTartisan-AF-50mm-f1.8-NEO-lens-Nikon-Z-mount-titanium-green-color-11-550x424.jpg",
-   "source": "Nikon Rumors",
-   "category": "photo",
-   "date": "2026-10-20T17:27:39.000Z"
   },
   {
    "title": "Canon EOS R8 Mark II First Impressions: Worth the $1,899 Price Tag?",
@@ -2288,24 +2234,6 @@
    "date": "2026-10-20T09:00:00.000Z"
   },
   {
-   "title": "Nikon released new firmware updates: Z9 v5.33 and Z8 v3.12",
-   "link": "https://nikonrumors.com/2026/10/19/nikon-released-new-firmware-updates-z9-v5-33-and-z8-v3-12.aspx/",
-   "summary": "Nikon released new firmware updates for the Z9 and Z8 mirrorless cameras with a single fix: Nikon Z9 firmware update version 5.33: Fixed an issue that would cause the camera to stop responding with some lenses. Nikon Z8 ",
-   "image": "https://nikonrumors.com/wp-content/uploads/2026/10/new-firmware-updates-Nikon-Z9-5.33-Nikon-Z8-v3.12-550x357.jpg",
-   "source": "Nikon Rumors",
-   "category": "photo",
-   "date": "2026-10-20T02:29:24.000Z"
-  },
-  {
-   "title": "New Nikon Fall Savings starts today (US+Canada)",
-   "link": "https://nikonrumors.com/2026/10/19/new-nikon-fall-savings-starts-today-uscanada.aspx/",
-   "summary": "Nikon started the Fall Savings event today in the US and Canada with some new offers that were not previously available (ending on November 1st): US: B&H Photo | Paul’s Photo | Service Photo CA: Camera Canada: Here are t",
-   "image": "https://nikonrumors.com/wp-content/uploads/2026/10/Nikon-Fall-Savings-rebates-starts-today-2-535x550.jpg",
-   "source": "Nikon Rumors",
-   "category": "photo",
-   "date": "2026-10-19T17:18:49.000Z"
-  },
-  {
    "title": "Sony Publishes Specs for Its 10K, Full Frame, 105MP Global Shutter Sensor: 12-Bit at 40 FPS",
    "link": "https://ymcinema.com/2026/10/19/sony-imx937-105mp-global-shutter-sensor/",
    "summary": "Sony Semiconductor Solutions has published a new technical flyer for its IMX937-AQB image sensor, revealing detailed specifications for a 105-megapixel global shutter CMOS sensor with a 39.7mm diagonal. The sensor delive",
@@ -2313,15 +2241,6 @@
    "source": "Y.M.Cinema",
    "category": "video",
    "date": "2026-10-19T07:50:52.000Z"
-  },
-  {
-   "title": "Weekly Nikon news flash #908",
-   "link": "https://nikonrumors.com/2026/10/18/weekly-nikon-news-flash-908.aspx/",
-   "summary": "→ TIME magazine named the Nikon ZR camera one of the best inventions of 2026. → Godox unveiled a new TT350 II N Thinklite TTL flash for Nikon cameras. → The Nikon Z5IIc camera reference guide is now available. → Nikon re",
-   "image": "https://nikonrumors.com/wp-content/uploads/2026/10/TIME-magazine-named-the-Nikon-ZR-camera-one-of-the-best-inventions-of-2026-screenshots2-254x270.jpg",
-   "source": "Nikon Rumors",
-   "category": "photo",
-   "date": "2026-10-19T00:47:11.000Z"
   },
   {
    "title": "TikTok says it’s restored ‘Musk’ documentary advertising account",
@@ -2360,15 +2279,6 @@
    "date": "2026-10-17T08:22:40.000Z"
   },
   {
-   "title": "Nikon Z5IIc camera now shipping, some configurations in stock",
-   "link": "https://nikonrumors.com/2026/10/16/nikon-z5iic-camera-now-shipping-some-configurations-in-stock.aspx/",
-   "summary": "The new Nikon Z5IIc camera (see previous coverage) is now shipping, and some configurations are already in stock – check availability at: US: B&H Photo | Service Photo | Paul’s Photo CA: Camera Canada DE: Foto Erhardt UK",
-   "image": "https://nikonrumors.com/wp-content/uploads/2026/10/Nikon-Z5IIc-camera-1.png",
-   "source": "Nikon Rumors",
-   "category": "photo",
-   "date": "2026-10-16T12:34:47.000Z"
-  },
-  {
    "title": "Canon Patent Reveals Ultra-High-Index Glass to Shrink Next-Generation Fast Primes",
    "link": "https://www.canonrumors.com/canon-patent-reveals-ultra-high-index-glass-to-shrink-next-gen-fast-primes/",
    "summary": "Canon continues to work on reducing the size and weight in lens designs. This latest patent appears to show Canon using a new type of glass in lens designs to shrink the size of lenses. This patent is more about the type",
@@ -2376,15 +2286,6 @@
    "source": "Canon Rumors",
    "category": "photo",
    "date": "2026-10-16T09:56:26.000Z"
-  },
-  {
-   "title": "Thypoch 24-50mm f/2.8 lens coming soon for Nikon Z-mount",
-   "link": "https://nikonrumors.com/2026/10/15/thypoch-24-50mm-f-2-8-lens-coming-soon-for-nikon-z-mount.aspx/",
-   "summary": "Thypoch will soon release the Nikon Z-mount version of the 24-50mm f/2.8, the first Chinese full-frame autofocus constant-aperture zoom lens. The test page was spotted online already: Thypoch currently has three manual-f",
-   "image": "https://nikonrumors.com/wp-content/uploads/2026/10/Thypoch-24-50mm-f2.8-lens-for-Nikon-Z-mount-550x550.webp",
-   "source": "Nikon Rumors",
-   "category": "photo",
-   "date": "2026-10-15T16:35:19.000Z"
   },
   {
    "title": "Making Instagram Reels Easier, Faster & Scalable",
@@ -2421,15 +2322,6 @@
    "source": "Buffer",
    "category": "instagram",
    "date": "2026-10-14T07:00:00.000Z"
-  },
-  {
-   "title": "Facebook is giving users more control over their algorithm",
-   "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-   "summary": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/YourAlgorithm-FB.png?w=1200",
-   "source": "TechCrunch",
-   "category": "instagram",
-   "date": "2026-10-13T18:05:24.000Z"
   },
   {
    "title": "It’s ‘incomprehensible’ that Instagram allowed an AI image of Mia Goth to spread, say her reps",
