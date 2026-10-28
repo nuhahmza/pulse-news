@@ -1,6 +1,87 @@
 {
- "updated": "2026-10-27T20:52:34.538Z",
+ "updated": "2026-10-28T00:21:53.596Z",
  "items": [
+  {
+   "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+   "link": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+   "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2191707579.jpg?w=1024",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-27T23:34:27.000Z"
+  },
+  {
+   "title": "The data center boom has an upside: innovation for the US grid",
+   "link": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+   "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589499263_7ac8a28eb3_k.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-27T22:55:41.000Z"
+  },
+  {
+   "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+   "link": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+   "summary": "Owners of AI-run firms would evade liability for \"reckless\" AI, US Rep. Comer says.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/robot-phone-headset-1152x648.jpg",
+   "source": "Ars Technica",
+   "category": "ai",
+   "date": "2026-10-27T21:50:04.000Z"
+  },
+  {
+   "title": "Bank of America kindly asks that you don’t share your banking password with your AI assistant",
+   "link": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+   "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-27T21:44:34.000Z"
+  },
+  {
+   "title": "Who’s really in charge at Anthropic after the IPO?",
+   "link": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+   "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2151610601.jpg?resize=1200,799",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-27T21:38:28.000Z"
+  },
+  {
+   "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+   "link": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+   "summary": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/anthropic-crystal-ball-1152x648.jpg",
+   "source": "Ars Technica",
+   "category": "ai",
+   "date": "2026-10-27T21:31:14.000Z"
+  },
+  {
+   "title": "How Dir. Georgia Oakley Captured Austen's Yearning on Celluloid in 'Sense and Sensibility'",
+   "link": "https://nofilmschool.com/how-dir-georgia-oakley-captured-austens-yearning-on-celluloid-in-sense-and-sensibility",
+   "summary": "How do you bring Jane Austen's Sense and Sensibility to life for a modern audience while preserving its emotional depth? In this episode of the No Film School Podcast , director Georgia Oakley joins No Film School's GG H",
+   "image": "https://nofilmschool.com/media-library/sense-and-sensibility.jpg?id=68539101&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-10-27T21:30:04.000Z"
+  },
+  {
+   "title": "Trump Says He Will Ban the Term ‘Artificial Intelligence’",
+   "link": "https://petapixel.com/2026/10/27/trump-says-he-will-ban-the-term-artificial-intelligence/",
+   "summary": "President Trump wants to rebrand artificial intelligence, presumably to improve public perception of the data centers he wants to build everywhere. [ Read More ]",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-27T21:09:14.000Z"
+  },
+  {
+   "title": "How the 'Blue Marble' Became One of the Most Reproduced Photographs in History",
+   "link": "https://fstoppers.com/astrophotography/how-blue-marble-became-one-most-reproduced-photographs-history-904380?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "One of the most reproduced photographs of Earth ever made was shot upside down. When an Apollo 17 astronaut framed the fully lit planet through a Hasselblad on December 7, 1972, the South Pole sat at the top and Africa r",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/08/blue-marble-hero-rotated.jpg.webp?itok=XVN29EHi",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-27T21:03:01.000Z"
+  },
   {
    "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
@@ -446,10 +527,19 @@
    "title": "Godox’s $25 iM10 Mini Flash Is a Cute Little Fella",
    "link": "https://petapixel.com/2026/10/27/godoxs-25-im10-mini-flash-is-a-cute-little-fella/",
    "summary": "The Godox iM10 Mini Flash fits easily in a photographer's pocket and weighs less than an ounce (23 grams). It's designed to be easy to carry and even easier to pop onto a camera for a bit of extra light in the field. [ R",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/godox-im10-9.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-27T15:00:31.000Z"
+  },
+  {
+   "title": "Retell uses OpenAI models to help power 100M monthly calls",
+   "link": "https://openai.com/index/retell-ai",
+   "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual revenue run rate per employee.",
+   "image": "",
+   "source": "OpenAI",
+   "category": "ai",
+   "date": "2026-10-27T15:00:00.000Z"
   },
   {
    "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
@@ -536,7 +626,7 @@
    "title": "Soccer Club Backtracks After Telling Photographers to Stop Wearing Revealing Outfits at Stadium",
    "link": "https://petapixel.com/2026/10/27/soccer-club-backtracks-after-telling-photographers-to-stop-wearing-revealing-outfits-at-stadium/",
    "summary": "A soccer club has been forced to back down after a prominent female sports photographer felt targeted by its request that photographers stop wearing revealing outfits and leggings. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/3-soccer-club-photographer.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-27T14:07:23.000Z"
@@ -572,7 +662,7 @@
    "title": "Apple’s Very Colorful iMac Gets the M6 Treatment",
    "link": "https://petapixel.com/2026/10/27/apples-very-colorful-imac-gets-the-m6-treatment/",
    "summary": "The iMac has been a core part of Apple's Mac family for nearly 30 years, with the first model arriving in 1998. The newest iMac has arrived, powered by Apple's latest chip, the M6. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/imac-m6-featured.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-27T13:37:29.000Z"
@@ -617,7 +707,7 @@
    "title": "Sirui’s New $79 Folding Tripod Has Four Very Different Configurations",
    "link": "https://petapixel.com/2026/10/27/siruis-new-79-folding-tripod-has-four-very-different-configurations/",
    "summary": "Sirui has unveiled the TC50 + BH-19, a new compact camera support system designed for photographers, videographers, and content creators. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/sirui-tc-50-bh-19-featured.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-27T13:00:35.000Z"
@@ -684,6 +774,15 @@
    "source": "ZDNet",
    "category": "ai",
    "date": "2026-10-27T12:17:55.000Z"
+  },
+  {
+   "title": "Apple Creator Studio brings built-in MotionVFX content to Final Cut Pro",
+   "link": "https://www.newsshooter.com/2026/10/27/apple-creator-studio-brings-built-in-motionvfx-content-to-final-cut-pro/",
+   "summary": "Apple has announced updates to its Creator Studio ecosystem, with the biggest news being that they are bringing direct MotionVFX integration to Final Cut Pro. They have also added generative AI tools to Pixelmator Pro, a",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/Apple-Creator-Studio.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-27T12:10:00.000Z"
   },
   {
    "title": "Thypoch Simera-C 100mm T1.9 Announced – Telephoto Prime Completes Seven-Lens Cine Set",
@@ -767,18 +866,9 @@
    "date": "2026-10-27T11:02:22.000Z"
   },
   {
-   "title": "Blue Planet III Will Use Murky Footage to Prove No AI Was Used",
-   "link": "https://petapixel.com/2026/10/27/blue-planet-iii-will-use-murky-footage-to-prove-no-ai-was-used/",
-   "summary": "Despite turning 100 years old, David Attenborough is back to narrate Blue Planet III, the latest installment of the BBC's long-running nature series. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/Blue-Planet-III.jpg",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-27T11:00:22.000Z"
-  },
-  {
    "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
    "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
-   "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+   "summary": "Simplismart says its annualized revenue run rate has grown fourteenfold in six months, with the U.S. accounting for more than half its revenue.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/10/simplismart-founders-amritanshu-devansh.jpg?resize=1200,800",
    "source": "TechCrunch",
    "category": "ai",
@@ -985,7 +1075,7 @@
   {
    "title": "TikTok playbook outlines the value of its high-end ad options",
    "link": "https://www.socialmediatoday.com/news/tiktok-playbook-outlines-the-value-of-its-high-end-ad-options/872827/",
-   "summary": "The app&rsquo;s Top View and Pulse Premiere solutions provide premium placement opportunities during peak viewing events.",
+   "summary": "The app&rsquo;s Top View and Pulse Premiere options provide premium placement opportunities during peak viewing events.",
    "image": "https://imgproxy.divecdn.com/m8KoWNPwg50xSj4j2lmCDZH0qVNKXV0RmHQhFUbRyj8/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfdG9wX3ZpZXdfZ3VpZGUucG5n.webp",
    "source": "Social Media Today",
    "category": "tiktok",
@@ -1172,15 +1262,6 @@
    "date": "2026-10-26T19:14:45.000Z"
   },
   {
-   "title": "10 Best Non-Scary Movies for Halloween",
-   "link": "https://nofilmschool.com/best-non-scary-halloween-movies",
-   "summary": "I'm a horror girlie and love a good scare every now and again, but sometimes I'm just down for some cozy horror or Halloween-adjacent film time. Or my friends just want something easy. (Go figure, not everyone I know is ",
-   "image": "https://nofilmschool.com/media-library/arsenic-and-old-lace.jpg?id=68529817&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-10-26T19:11:00.000Z"
-  },
-  {
    "title": "Instagram rolls out limited Features test in the US",
    "link": "https://www.socialmediatoday.com/news/instagram-rolls-out-limited-features-test-in-the-us/872825/",
    "summary": "New long-form video formats will provide expanded ways for creators to engage with their audiences.",
@@ -1233,15 +1314,6 @@
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-26T16:49:42.000Z"
-  },
-  {
-   "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-   "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-   "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM-e1793033116950.png?resize=1200,911",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-26T16:46:36.000Z"
   },
   {
    "title": "Fujifilm Patents a New Refinement to Its PDAF Autofocus",
@@ -1334,15 +1406,6 @@
    "date": "2026-10-26T14:50:47.000Z"
   },
   {
-   "title": "Anthropic officially files for its public debut",
-   "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-   "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-26T14:35:22.000Z"
-  },
-  {
    "title": "Tesla gave up the EV crown. Now it wants to win the autonomy race.",
    "link": "https://arstechnica.com/cars/2026/10/tesla-wants-ai-and-software-to-be-its-next-profit-engine/",
    "summary": "Tesla hopes autonomy subscriptions can deliver the margins car sales cannot.",
@@ -1395,15 +1458,6 @@
    "source": "Sony Alpha Rumors",
    "category": "photo",
    "date": "2026-10-26T11:27:37.000Z"
-  },
-  {
-   "title": "Why Flawless Retouching Now Looks Like AI",
-   "link": "https://fstoppers.com/portraits/why-flawless-retouching-now-looks-ai-905177?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "For about a decade, glass-smooth skin and spotless frames marked a careful retoucher, and that exact look is now what image generators produce best. If a client scrolling your portfolio can't tell your work from a prompt",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_98.jpg.webp?itok=Tv4Q9loz",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-10-26T11:03:01.000Z"
   },
   {
    "title": "Why Are Canon Lenses White? The Science Behind the Sideline Icon",
@@ -1463,15 +1517,6 @@
    "title": "How Fanatics and OpenAI streamline the fan experience",
    "link": "https://openai.com/index/fanatics-streamline-fan-experience",
    "summary": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly 30,000 MLB products showed 10% higher engagement.",
-   "image": "",
-   "source": "OpenAI",
-   "category": "ai",
-   "date": "2026-10-26T07:00:00.000Z"
-  },
-  {
-   "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-   "link": "https://openai.com/index/openai-cut-incident-investigation",
-   "summary": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
    "image": "",
    "source": "OpenAI",
    "category": "ai",
@@ -1586,15 +1631,6 @@
    "date": "2026-10-25T21:40:03.000Z"
   },
   {
-   "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-   "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-   "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-25T21:31:16.000Z"
-  },
-  {
    "title": "GoPro’s $700 8K Cinema Camera Named One of TIME’s Best Inventions of 2026",
    "link": "https://ymcinema.com/2026/10/25/gopro-700-8k-cinema-camera-time-best-inventions-2026/",
    "summary": "GoPro’s MISSION 1 PRO ILS, a compact 8K cinema camera featuring interchangeable lenses and a $699.99 price tag, has been named one of TIME’s Best Inventions of 2026. The recognition highlights GoPro’s expansion into prof",
@@ -1602,15 +1638,6 @@
    "source": "Y.M.Cinema",
    "category": "video",
    "date": "2026-10-25T17:36:27.000Z"
-  },
-  {
-   "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-   "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-   "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-   "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1308803174.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-25T16:57:32.000Z"
   },
   {
    "title": "Now you can watch Instagram Reels on your Apple TV",
@@ -1701,15 +1728,6 @@
    "source": "DPReview",
    "category": "photo",
    "date": "2026-10-24T13:00:00.000Z"
-  },
-  {
-   "title": "Matthews Introduces a Compact 33 Sliding Leg C-Stand with Grip Head & Arm",
-   "link": "https://www.newsshooter.com/2026/10/24/matthews-introduces-a-compact-33-sliding-leg-c-stand-with-grip-head-arm/",
-   "summary": "New Compact industry-standard Support Fits in the Trunk of a Small Car Matthews Studio Equipment has released a more compact 33 Sliding Leg C-Stand with Grip Head and 40″ Arm. The new 33 C-Stand brings Matthews’ trusted ",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/cstand-in-trunk.jpg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-10-24T12:31:59.000Z"
   },
   {
    "title": "Matthews intro’s the 33 Sliding Leg C-Stand with Grip Head & Arm",
@@ -2153,24 +2171,6 @@
    "date": "2026-10-20T20:16:04.000Z"
   },
   {
-   "title": "Meta drops the word \"train\" from its commercial TOS after AI backlash",
-   "link": "https://arstechnica.com/tech-policy/2026/10/meta-drops-the-word-train-from-its-commercial-tos-after-ai-backlash/",
-   "summary": "Meta changes AI scraping policy but won’t add language respecting robots.txt.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2299491134-1152x648.jpg",
-   "source": "Ars Technica",
-   "category": "ai",
-   "date": "2026-10-20T20:07:58.000Z"
-  },
-  {
-   "title": "Gemini's Personal Intelligence is coming to cars",
-   "link": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
-   "summary": "It's probably time to audit your Gemini settings.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/google-gemini-android-auto-1152x648.png",
-   "source": "Ars Technica",
-   "category": "ai",
-   "date": "2026-10-20T20:00:33.000Z"
-  },
-  {
    "title": "TTartisan released new versions of the AF 50mm f/1.8 NEO lens for Nikon Z-mount in titanium & green for $89",
    "link": "https://nikonrumors.com/2026/10/20/ttartisan-released-new-versions-of-the-af-50mm-f-1-8-neo-lens-for-nikon-z-mount-in-titanium-green-for-89.aspx/",
    "summary": "TTartisan released two new versions of the AF 50mm f/1.8 NEO lens for Nikon Z-mount in titanium & green: Pre-orders: B&H Photo | TTartisan online store (use code RUMORS for a discount) 156~167g lightweight design 0.48m m",
@@ -2522,20 +2522,20 @@
    "date": "2026-10-01T13:30:00.000Z"
   },
   {
-   "title": "Instagram rolls out an AI video assistant for creators",
-   "link": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
-   "summary": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801",
-   "source": "TechCrunch",
-   "category": "instagram",
-   "date": "2026-09-30T14:30:00.000Z"
-  },
-  {
    "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
    "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
    "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creati",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK070__01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "source": "The Verge",
+   "category": "instagram",
+   "date": "2026-09-30T14:30:00.000Z"
+  },
+  {
+   "title": "Instagram rolls out an AI video assistant for creators",
+   "link": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
+   "summary": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801",
+   "source": "TechCrunch",
    "category": "instagram",
    "date": "2026-09-30T14:30:00.000Z"
   },
