@@ -1,6 +1,33 @@
 {
- "updated": "2026-10-31T20:12:20.512Z",
+ "updated": "2026-10-31T23:35:41.136Z",
  "items": [
+  {
+   "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+   "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+   "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-31T21:41:00.000Z"
+  },
+  {
+   "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+   "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+   "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Regi",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-31T21:36:07.000Z"
+  },
+  {
+   "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+   "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+   "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-31T21:17:03.000Z"
+  },
   {
    "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
    "link": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
@@ -848,24 +875,6 @@
    "date": "2026-10-30T13:00:17.000Z"
   },
   {
-   "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
-   "link": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
-   "summary": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-Breakout-Session.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-30T13:00:00.000Z"
-  },
-  {
-   "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-   "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-   "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Runware-Factory-.jpg?w=1200",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-30T13:00:00.000Z"
-  },
-  {
    "title": "Just announced: New Viltrox AF 35mm f/1.4 Pro Lens",
    "link": "https://www.sonyalpharumors.com/just-announced-new-viltrox-af-35mm-f-1-4-pro-lens/",
    "summary": "Viltrox announced the new 35mm f/1.4 Pro you can preorder now at BHphoto, Viltrox store, Amazon, Adorama, Fotokoch, FotoErhardt, Calumet, Clifton, WexUK The post Just announced: New Viltrox AF 35mm f/1.4 Pro Lens first a",
@@ -1154,15 +1163,6 @@
    "date": "2026-10-30T01:21:07.000Z"
   },
   {
-   "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-   "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-   "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-30T01:20:48.000Z"
-  },
-  {
    "title": "Sony Monitor & Control App ver. 3.1 Update",
    "link": "https://www.newsshooter.com/2026/10/29/sony-monitor-control-app-ver-3-1-update/",
    "summary": "Sony’s Monitor & Control app has received an update, and ver. 3.1 now supports the α6700 and VLOGCAM ZV-E10 II. In addition, features such as automatic reconnection to the camera have been added to improve the user exper",
@@ -1210,7 +1210,7 @@
   {
    "title": "Threads tests smaller group sharing option",
    "link": "https://www.socialmediatoday.com/news/threads-tests-smaller-group-sharing-option/873271/",
-   "summary": "Threads Friends is similar to Instagram&rsquo;s Close Friends feature and allows users to add up to 50 connections.",
+   "summary": "The platform&rsquo;s Threads Friends group is similar to Instagram&rsquo;s Close Friends feature, and allows users to add up to 50 connections.",
    "image": "https://imgproxy.divecdn.com/WtVwuvPQucR0rUzMtUQpYml2_BnBh7RJ_Yvc4iKkzcw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aHJlYWRzX25ld19sb2dvLnBuZw==.webp",
    "source": "Social Media Today",
    "category": "instagram",
@@ -1595,21 +1595,21 @@
    "date": "2026-10-29T10:00:00.000Z"
   },
   {
-   "title": "Capture One adds stray hair removal and more precise color editing",
-   "link": "https://www.dpreview.com/news/capture-one-adds-stray-hair-removal-and-more-precise-color-editing/",
-   "summary": "The latest update adds new portrait retouching tools to Capture One, alongside a redesigned Advanced Color Editor.",
-   "image": "https://www.dpreview.com/wp-content/uploads/2026/10/M-GN-Capture-one-16.9_General_2c4706.jpg",
-   "source": "DPReview",
-   "category": "photo",
-   "date": "2026-10-29T10:00:00.000Z"
-  },
-  {
    "title": "The Ads Alternative: 2026 Guide to Boosting Instagram Posts",
    "link": "https://metricool.com/boost-instagram-posts/",
    "summary": "Want to create ads on Instagram and Facebook, but don’t want to go through the campaign creation process? Learn how to boost Instagram posts, creating ads in seconds. While you can do this through the Instagram app or wi",
    "image": "https://metricool.com/wp-content/uploads/How-to-boost-an-instagram-post.jpg",
    "source": "Metricool",
    "category": "instagram",
+   "date": "2026-10-29T10:00:00.000Z"
+  },
+  {
+   "title": "Capture One adds stray hair removal and more precise color editing",
+   "link": "https://www.dpreview.com/news/capture-one-adds-stray-hair-removal-and-more-precise-color-editing/",
+   "summary": "The latest update adds new portrait retouching tools to Capture One, alongside a redesigned Advanced Color Editor.",
+   "image": "https://www.dpreview.com/wp-content/uploads/2026/10/M-GN-Capture-one-16.9_General_2c4706.jpg",
+   "source": "DPReview",
+   "category": "photo",
    "date": "2026-10-29T10:00:00.000Z"
   },
   {
@@ -2628,15 +2628,6 @@
    "source": "Later",
    "category": "instagram",
    "date": "2026-08-26T14:21:27.000Z"
-  },
-  {
-   "title": "Why audio matters for Instagram Reels engagement, and how scheduling it actually helps",
-   "link": "https://later.com/blog/instagram-reels-audio/",
-   "summary": "Sound isn't a finishing touch on a Reel. It's one of the clearest discovery levers Instagram gives you, and treating it as an afterthought in your workflow costs more reach than most teams realize.",
-   "image": "",
-   "source": "Later",
-   "category": "instagram",
-   "date": "2026-08-02T23:00:16.000Z"
   }
  ]
 }
