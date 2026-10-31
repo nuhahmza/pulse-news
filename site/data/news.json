@@ -1,6 +1,105 @@
 {
- "updated": "2026-10-31T11:06:15.225Z",
+ "updated": "2026-10-31T16:15:20.923Z",
  "items": [
+  {
+   "title": "OpenAI reportedly lowers funding target for new round",
+   "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+   "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-10-31T16:12:55.000Z"
+  },
+  {
+   "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+   "link": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+   "summary": "TikTok may be working to become the app that people use for most of their digital activities.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259084458.jpg?resize=1200,801",
+   "source": "TechCrunch",
+   "category": "tiktok",
+   "date": "2026-10-31T15:41:57.000Z"
+  },
+  {
+   "title": "Some Fujifilm Cameras Get a MASSIVE Feature Upgrade Thanks to Custom Firmware",
+   "link": "https://www.fujirumors.com/some-fujifilm-cameras-get-a-massive-feature-upgrade-thanks-to-custom-firmware/",
+   "summary": "A few weeks ago we reported about justice-jake developing custom firmware for Fujifilm cameras. This Guy Is Hacking Fujifilm Cameras — From New Film Simulations to Running DOOM Well, he now has implemented several featur",
+   "image": "https://www.fujirumors.com/wp-content/uploads/2026/10/FujiMod.jpg",
+   "source": "Fuji Rumors",
+   "category": "photo",
+   "date": "2026-10-31T15:15:21.000Z"
+  },
+  {
+   "title": "Beekeeping tips and wrestling advice can train AI models to sabotage oversight",
+   "link": "https://the-decoder.com/beekeeping-tips-and-wrestling-advice-can-train-ai-models-to-sabotage-oversight/",
+   "summary": "Anthropic used Claude to automatically generate training data that looks harmless but trains smaller models to misbehave, such as sabotaging oversight or deceiving users. Hidden within fictional contexts about beekeeping",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/anthropic_claude_training_data_alignment.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-31T15:06:14.000Z"
+  },
+  {
+   "title": "Viltrox 35mm f/1.4 Pro Review: A Beautiful Behemoth",
+   "link": "https://petapixel.com/2026/10/31/viltrox-35mm-f-1-4-pro-review-a-beautiful-behemoth/",
+   "summary": "Viltrox has made huge waves in the world of optics, with many saying that it is the Sigma of China. Of course, this is a huge compliment given that Sigma is now famous for making affordable optics that easily compete wit",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-31T14:00:52.000Z"
+  },
+  {
+   "title": "Two Telescopes Team Up To Photograph a Spooky Space Cat",
+   "link": "https://petapixel.com/2026/10/31/two-telescopes-team-up-to-photograph-a-spooky-space-cat/",
+   "summary": "What better way to celebrate Halloween than with a ghostly cat comprised of a nebula? NASA's James Webb Space Telescope and the Hubble Space Telescope joined forces to capture the Cat's Head Nebula. [ Read More ]",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-31T13:30:19.000Z"
+  },
+  {
+   "title": "Fujifilm Instax Mini Evo 2 review: A hybrid instant camera that changed my mind",
+   "link": "https://www.dpreview.com/reviews/fujifilm-instax-mini-evo-2-review-a-hybrid-instant-camera-that-changed-my-mind/",
+   "summary": "I thought previewing photos would take the fun out of instant photography. Instead, the Mini Evo 2 made me want to experiment.",
+   "image": "https://www.dpreview.com/wp-content/uploads/2026/10/PI-instax-mini-evo-2-product-photos-04-16x9-Lead-1.jpg",
+   "source": "DPReview",
+   "category": "photo",
+   "date": "2026-10-31T13:00:00.000Z"
+  },
+  {
+   "title": "There’s a New M-Mount Pancake Lens in Town",
+   "link": "https://petapixel.com/2026/10/31/theres-a-new-m-mount-pancake-lens-in-town/",
+   "summary": "DJ-Optical, which sells its lenses on eBay, has a new ultra-slim manual-focus pancake lens that looks quite stylish. [ Read More ]",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-31T12:30:10.000Z"
+  },
+  {
+   "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+   "link": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+   "summary": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+   "image": "https://media.wired.com/photos/6ae4e9f503c2c36f4cfc913c/master/pass/KernelPanic_10312026_v1.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-10-31T12:00:00.000Z"
+  },
+  {
+   "title": "Fujifilm Registers FF260004 — That’s Three Unreleased Cameras Now! X-T6, X-Pro4, X-H3 & GFX180?",
+   "link": "https://www.fujirumors.com/fujifilm-registers-ff260004-thats-three-unreleased-cameras-now-x-t6-x-pro4-gfx180/",
+   "summary": "New Fujifilm Camera Registration Join Now – The Nr.1 Fujifilm GFX Community– 43K Members 🚀 Join Now – The Nr.1 Fujifilm X-T Community – 97K Members 🔥 Join Now – The Nr.1 Fujifilm X-Pro Community – 34K Members 😎 Join N",
+   "image": "https://www.fujirumors.com/wp-content/uploads/2026/10/Fujifilm-Registration.jpg",
+   "source": "Fuji Rumors",
+   "category": "photo",
+   "date": "2026-10-31T11:16:30.000Z"
+  },
+  {
+   "title": "Sam Taylor-Johnson’s ‘Crying Men’ Photo Series Featured in Major Solo Exhibition",
+   "link": "https://petapixel.com/2026/10/31/sam-taylor-johnsons-crying-men-photo-series-featured-in-major-solo-exhibition/",
+   "summary": "An exhibition presents the career-defining work of internationally celebrated British photographer Sam Taylor-Johnson, including a selection of works from her iconic Crying Men series. [ Read More ]",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-10-31T11:00:11.000Z"
+  },
   {
    "title": "Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams",
    "link": "https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/",
@@ -590,7 +689,7 @@
    "title": "Goodwill Seemingly Has No Clue It’s Selling a Previously Unknown Leica Prototype Lens",
    "link": "https://petapixel.com/2026/10/30/goodwill-seemingly-has-no-clue-its-selling-a-previously-unknown-leica-prototype-lens/",
    "summary": "An exceedingly rare Leica prototype lens is up for auction right now. No, it's not at Leitz Photographica or Wetzlar Camera Auctions. It's at Goodwill. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/leica-fisheye-goodwill-featured.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-30T14:04:18.000Z"
@@ -680,7 +779,7 @@
    "title": "How The Only Known Daguerreotype of New York’s First Black Attorney was Discovered",
    "link": "https://petapixel.com/2026/10/30/how-the-only-known-daguerreotype-of-new-yorks-first-black-attorney-was-discovered/",
    "summary": "The only known daguerreotype of New York’s First African American attorney George Boyer Vashon was recently discovered. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/10/george-boyer-vashon.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-30T13:00:17.000Z"
@@ -837,24 +936,6 @@
    "source": "CineD",
    "category": "video",
    "date": "2026-10-30T10:57:19.000Z"
-  },
-  {
-   "title": "Senators Launch Investigation into Meta’s Smart Glasses Over Nonconsensual Filming",
-   "link": "https://petapixel.com/2026/10/30/senators-launch-investigation-into-metas-smart-glasses-over-nonconsensual-filming/",
-   "summary": "Two Senate Democrats are launching an inquiry into Meta’s smart glasses, widely nicknamed “pervert glasses,” amid growing concerns about their use to film people without their consent. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/07/meta-smart-glasses-ban-instagram.jpg",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-30T10:44:22.000Z"
-  },
-  {
-   "title": "Sony’s Jaw-Dropping $80,000 Rialto 65 Extension System Requires a $60,000 Camera",
-   "link": "https://petapixel.com/2026/10/30/sonys-jaw-dropping-80000-rialto-65-extension-system-requires-a-60000-camera/",
-   "summary": "Sony has announced that its Rialto 65 Camera Extension System for the Venice 2 CineAlta camera will launch in the first half of 2027 for a cool $80,000, about the same price as a brand-new, luxurious BMW M3 or, to keep t",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-30T10:00:58.000Z"
   },
   {
    "title": "Ecommerce Social Media Marketing: What 72 Brands Post and What Works",
@@ -1082,18 +1163,9 @@
    "date": "2026-10-29T23:46:29.000Z"
   },
   {
-   "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-   "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-   "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
-   "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-29T23:42:22.000Z"
-  },
-  {
    "title": "Threads tests smaller group sharing option",
    "link": "https://www.socialmediatoday.com/news/threads-tests-smaller-group-sharing-option/873271/",
-   "summary": "Threads Friends is similar to Instagram&rsquo;s Close Friends feature and allows users to add up to 50 connections.",
+   "summary": "The platform&rsquo;s Threads Friends group is similar to Instagram&rsquo;s Close Friends feature, and allows users to add up to 50 connections.",
    "image": "https://imgproxy.divecdn.com/WtVwuvPQucR0rUzMtUQpYml2_BnBh7RJ_Yvc4iKkzcw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aHJlYWRzX25ld19sb2dvLnBuZw==.webp",
    "source": "Social Media Today",
    "category": "instagram",
@@ -1127,15 +1199,6 @@
    "date": "2026-10-29T21:03:01.000Z"
   },
   {
-   "title": "These Creepy Halloween Photos Date Back to the Mid-20th Century",
-   "link": "https://petapixel.com/2026/10/29/these-creepy-halloween-photos-date-back-to-the-mid-20th-century/",
-   "summary": "These unsettling mid-20th century photos of kids in Halloween costumes are bound to bring a few memories -- or nightmares -- for viewers. [ Read More ]",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-29T20:30:12.000Z"
-  },
-  {
    "title": "5 Richard Dreyfuss Roles That Made Him a Hollywood Favorite",
    "link": "https://nofilmschool.com/best-richard-dreyfuss-movies",
    "summary": "Will we ever get another actor like Rochard Dreyfuss? The kind of guy who looks like your friend's Dad? The everyman who isn't overly muscular or handsome, just a guy who's the perfect conduit for something powerful? In ",
@@ -1145,15 +1208,6 @@
    "date": "2026-10-29T20:30:03.000Z"
   },
   {
-   "title": "Japan Is Getting Its First DJI x Hasselblad Retail Store",
-   "link": "https://petapixel.com/2026/10/29/japan-is-getting-its-first-dji-x-hasselblad-retail-store/",
-   "summary": "DJI and its Japanese domestic distributor, Sekido Co., Ltd., are opening Japan's first DJI and Hasselblad Dual-Concept Flagship Store this weekend in Tokyo. [ Read More ]",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-10-29T20:25:19.000Z"
-  },
-  {
    "title": "OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up",
    "link": "https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/",
    "summary": "OpenAI is doubling usage limits across its paid plans, from Pro 100 to Pro 500. A planned cut to the Pro 200 quota was reversed after user pushback. More efficient models like Terra and Sol should push usable capacity ev",
@@ -1161,15 +1215,6 @@
    "source": "The Decoder",
    "category": "ai",
    "date": "2026-10-29T20:01:27.000Z"
-  },
-  {
-   "title": "Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds",
-   "link": "https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/",
-   "summary": "Anthropic gave 50 experts an AI agent whose preferences were set by coin toss. The experts followed the agent's view up to 86 percent of the time on judgment calls, and most believed the conclusions were their own. The a",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/neural_net_in_head.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-29T19:33:37.000Z"
   },
   {
    "title": "Sony fully unveils its massive, $80,000 Rialto 65 cinema sensor",
@@ -1440,15 +1485,6 @@
    "source": "Sony Alpha Rumors",
    "category": "photo",
    "date": "2026-10-29T13:29:33.000Z"
-  },
-  {
-   "title": "FujiKina NYC 2026 — Where Nobody Talks Gear, Just Creativity and Connecting with Fellow Photographers",
-   "link": "https://www.fujirumors.com/fujikina-nyc-2026-where-nobody-talks-gear-just-creativity-and-connecting-with-fellow-photographers/",
-   "summary": "Nino from CineD just published a great wrap-up video sharing his experience at FujiKina in NYC. He found it to be an incredibly inspiring event, bringing together passionate photographers — most of whom had never even to",
-   "image": "",
-   "source": "Fuji Rumors",
-   "category": "photo",
-   "date": "2026-10-29T13:14:51.000Z"
   },
   {
    "title": "Viltrox AF 35mm F1.4 Pro Review",
@@ -1784,15 +1820,6 @@
    "date": "2026-10-28T20:27:58.000Z"
   },
   {
-   "title": "My Fujifilm 6th Generation Upgrade Plan",
-   "link": "https://www.fujirumors.com/my-fujifilm-6th-generation-upgrade-plan/",
-   "summary": "Macbook Pro 16″ OLED XDR Touch Dsiplay BHphoto / Amazon / Adorama / BestBuy MacBook Pro 14″ with M6 Chip BHphoto / Amazon / Adorama / BestBuy Recently we launched a couple of surveys asking you if you are interested in u",
-   "image": "https://www.fujirumors.com/wp-content/uploads/2026/04/My-Upgrade-Plan.jpg",
-   "source": "Fuji Rumors",
-   "category": "photo",
-   "date": "2026-10-28T20:02:20.000Z"
-  },
-  {
    "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
    "link": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
    "summary": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
@@ -1946,15 +1973,6 @@
    "date": "2026-10-28T10:15:00.000Z"
   },
   {
-   "title": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
-   "link": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
-   "summary": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
-   "image": "https://media.wired.com/photos/6ae1120223d445186a16d911/master/pass/ai-weather-alerts-emergency.jpg",
-   "source": "WIRED",
-   "category": "ai",
-   "date": "2026-10-28T08:30:00.000Z"
-  },
-  {
    "title": "Fujifilm Announces $290 instax mini Evo 2 With 13MP Sensor, Touchscreen, and Video",
    "link": "https://ymcinema.com/2026/10/28/fujifilm-instax-mini-evo-2-13mp-video-camera/",
    "summary": "Fujifilm has announced the instax mini Evo ($219 on Amazon) 2, a new hybrid instant camera featuring a 13MP imaging system, a 4.5-inch touchscreen, and a video function that captures the moments before a photograph is ta",
@@ -1998,15 +2016,6 @@
    "source": "Ars Technica",
    "category": "ai",
    "date": "2026-10-27T21:31:14.000Z"
-  },
-  {
-   "title": "Apple finally gives users a reason to subscribe to Final Cut Pro instead of buying it",
-   "link": "https://www.dpreview.com/news/apple-finally-gives-users-a-reason-to-subscribe-to-final-cut-pro-instead-of-buying-it/",
-   "summary": "With its upcoming November update, Apple Creator Studio subscribers will get direct access to thousands of MotionVFX effects, titles and templates within Final Cut Pro.",
-   "image": "https://www.dpreview.com/wp-content/uploads/2026/10/M-GN-Apple-Creator-Studio-hero-261027.jpg",
-   "source": "DPReview",
-   "category": "photo",
-   "date": "2026-10-27T19:57:36.000Z"
   },
   {
    "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
