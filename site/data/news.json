@@ -1,6 +1,33 @@
 {
- "updated": "2026-10-31T16:15:20.923Z",
+ "updated": "2026-10-31T20:12:20.512Z",
  "items": [
+  {
+   "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
+   "link": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
+   "summary": "Anthropic is expanding its text watermark to four more Claude models to meet the EU AI Act's December deadline. On the older models Claude Opus 4.6 and Sonnet 4.6, developers can bypass the watermark by tweaking a single",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/08/Claude-Watermark.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-31T19:20:55.000Z"
+  },
+  {
+   "title": "Apple Boosts Final Cut Pro, but Is It Enough to Compete With DaVinci Resolve?",
+   "link": "https://ymcinema.com/2026/10/31/final-cut-pro-vs-davinci-resolve-ai-editing/",
+   "summary": "Apple is significantly expanding Final Cut Pro with built-in MotionVFX tools, deeper Pixelmator Pro integration, AI-powered image generation, and improved editing capabilities. Meanwhile, Blackmagic Design is increasingl",
+   "image": "https://ymcinema.com/wp-content/uploads/2026/10/Apple-Boosts-Final-Cut-Pro-but-Is-It-Enough-to-Compete-With-DaVinci-Resolve.002.webp",
+   "source": "Y.M.Cinema",
+   "category": "video",
+   "date": "2026-10-31T16:39:17.000Z"
+  },
+  {
+   "title": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits",
+   "link": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/",
+   "summary": "Starting November 29, OpenAI will use data from Daybreak Blue sessions to train its models, even when users have turned off training. After backlash, a follow-up email promised a separate opt-out. The move revives concer",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-31T16:38:37.000Z"
+  },
   {
    "title": "OpenAI reportedly lowers funding target for new round",
    "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
@@ -9,6 +36,15 @@
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-10-31T16:12:55.000Z"
+  },
+  {
+   "title": "I built an AI Tamagotchi before Meta could",
+   "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+   "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I w",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&#038;strip=all&#038;crop=4,0,96,94.899920311255",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-10-31T16:05:00.000Z"
   },
   {
    "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
@@ -56,6 +92,15 @@
    "date": "2026-10-31T13:30:19.000Z"
   },
   {
+   "title": "You Don't Need a Fast Lens to Blur the Background",
+   "link": "https://fstoppers.com/education/dont-need-fast-lens-blur-background-905320?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "Aperture, shutter speed, and ISO are the first three settings anyone learns, and each comes with rules repeated so often they start to sound like law. Knowing which of those rules hold up, and when breaking them gets you",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_121.jpg.webp?itok=IoKtuH7D",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-31T13:03:01.000Z"
+  },
+  {
    "title": "Fujifilm Instax Mini Evo 2 review: A hybrid instant camera that changed my mind",
    "link": "https://www.dpreview.com/reviews/fujifilm-instax-mini-evo-2-review-a-hybrid-instant-camera-that-changed-my-mind/",
    "summary": "I thought previewing photos would take the fun out of instant photography. Instead, the Mini Evo 2 made me want to experiment.",
@@ -90,6 +135,15 @@
    "source": "Fuji Rumors",
    "category": "photo",
    "date": "2026-10-31T11:16:30.000Z"
+  },
+  {
+   "title": "Is the $1,900 Canon EOS R8 Mark II Worth It Over the Original?",
+   "link": "https://fstoppers.com/gear/1900-canon-eos-r8-mark-ii-worth-it-over-original-905318?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "The Canon EOS R8 Mark II sells for $1,899, which puts it $250 above the original R8 and $400 below the larger EOS R6 Mark II. That narrow spread makes choosing between Canon's compact full frame bodies harder than it has",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_119.jpg.webp?itok=H13dhN95",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-31T11:03:01.000Z"
   },
   {
    "title": "Sam Taylor-Johnson’s ‘Crying Men’ Photo Series Featured in Major Solo Exhibition",
@@ -144,6 +198,15 @@
    "source": "The Decoder",
    "category": "ai",
    "date": "2026-10-31T09:22:52.000Z"
+  },
+  {
+   "title": "What Separates a Natural Wildlife Edit From an Overcooked One",
+   "link": "https://fstoppers.com/nature/what-separates-natural-wildlife-edit-overcooked-one-905317?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "Wildlife files need more editing than most genres because they come from long lenses at high ISOs, subjects that won't pose, and backgrounds you couldn't choose. The edits that rescue those frames, such as cropping, nois",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_118.jpg.webp?itok=XkGMt0eY",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-31T09:03:01.000Z"
   },
   {
    "title": "Version 3.1.0 of the Sony | Monitor & Control app adds support for the A6700 and ZV-E10 II",
@@ -875,15 +938,6 @@
    "date": "2026-10-30T12:26:03.000Z"
   },
   {
-   "title": "Open-weight model GLM 5.3 built full Firefox exploit chains with zero human input in under 48 hours",
-   "link": "https://the-decoder.com/open-weight-model-glm-5-3-built-full-firefox-exploit-chains-with-zero-human-input-in-under-48-hours/",
-   "summary": "Epoch AI researchers say the widely available AI model GLM 5.3 turned public security fixes into working exploits before updates reached Firefox users. It autonomously compromised six Firefox releases for about $1,000 in",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/firefox_kraken.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-30T12:22:18.000Z"
-  },
-  {
    "title": "Meike AF 58mm F1.2 Available Now also in Black&White Edition",
    "link": "https://www.fujirumors.com/meike-af-58mm-f1-2-available-now-also-in-blackwhite-edition/",
    "summary": "Back in September Meike launched the Meike AF 58mm F1.2 Mix lens for Fujifilm X in black and silver. Now the launched also the Meike AF 58mm f/1.2 black&white version exclusively for the Fujifilm X mount version. You can",
@@ -963,15 +1017,6 @@
    "source": "Fstoppers",
    "category": "photo",
    "date": "2026-10-30T09:03:02.000Z"
-  },
-  {
-   "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-   "link": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-   "summary": "The Wikimedia Foundation is staking out a middle ground in a group of landmark AI copyright cases, pushing courts to legally protect large language models (LLMs) training on copyrighted work - but not chatbots regurgitat",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK037_WIKIPEDIA_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-10-30T09:00:00.000Z"
   },
   {
    "title": "Community safety report and new protections for teens",
@@ -1165,7 +1210,7 @@
   {
    "title": "Threads tests smaller group sharing option",
    "link": "https://www.socialmediatoday.com/news/threads-tests-smaller-group-sharing-option/873271/",
-   "summary": "The platform&rsquo;s Threads Friends group is similar to Instagram&rsquo;s Close Friends feature, and allows users to add up to 50 connections.",
+   "summary": "Threads Friends is similar to Instagram&rsquo;s Close Friends feature and allows users to add up to 50 connections.",
    "image": "https://imgproxy.divecdn.com/WtVwuvPQucR0rUzMtUQpYml2_BnBh7RJ_Yvc4iKkzcw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aHJlYWRzX25ld19sb2dvLnBuZw==.webp",
    "source": "Social Media Today",
    "category": "instagram",
@@ -1206,15 +1251,6 @@
    "source": "No Film School",
    "category": "video",
    "date": "2026-10-29T20:30:03.000Z"
-  },
-  {
-   "title": "OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up",
-   "link": "https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/",
-   "summary": "OpenAI is doubling usage limits across its paid plans, from Pro 100 to Pro 500. A planned cut to the Pro 200 quota was reversed after user pushback. More efficient models like Terra and Sol should push usable capacity ev",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/07/openai_red_Logo.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-29T20:01:27.000Z"
   },
   {
    "title": "Sony fully unveils its massive, $80,000 Rialto 65 cinema sensor",
@@ -1586,15 +1622,6 @@
    "date": "2026-10-29T09:46:27.000Z"
   },
   {
-   "title": "Settings Are Easy to Teach, but Taste Is Another Story",
-   "link": "https://fstoppers.com/education/settings-are-easy-teach-taste-another-story-905196?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "You can learn the settings that keep a photograph sharp in a single afternoon, yet nobody has a reliable formula for the quality that makes someone stop and look at it. That gap between technique and taste is the hardest",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_108.jpg.webp?itok=LzK1IowJ",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-10-29T09:03:01.000Z"
-  },
-  {
    "title": "How we detect frontier model misalignment",
    "link": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
    "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
@@ -1665,15 +1692,6 @@
    "source": "Newsshooter",
    "category": "video",
    "date": "2026-10-29T04:14:48.000Z"
-  },
-  {
-   "title": "Nikon Announces New NIKKOR Z 120-300mm f/2.8 TC VR S",
-   "link": "https://fstoppers.com/gear/nikon-announces-new-nikkor-z-120-300mm-f28-tc-vr-s-905223?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "Top sports and wildlife photography shooters, this one is for you. Today, Nikon announced a new telephoto lens that focuses on getting you close to the action: the NIKKOR Z 120-300mm f/2.8 TC VR S. There are cool tools, ",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/z120-300_2.8_angle4-copy.jpg.webp?itok=Crq_t0GL",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-10-29T04:03:01.000Z"
   },
   {
    "title": "Nikon Nikkor Z 120-300mm f/2.8 TC VR S lens officially announced",
@@ -1764,15 +1782,6 @@
    "source": "Nikon Rumors",
    "category": "photo",
    "date": "2026-10-28T22:21:31.000Z"
-  },
-  {
-   "title": "Hands-On With Apple's OLED MacBook Pro: Its Screen Is Stunning in Person",
-   "link": "https://fstoppers.com/gear/hands-apples-oled-macbook-pro-its-screen-stunning-person-905225?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "I'm at Apple's launch event at Columbia Square in Hollywood, and I just spent time hands-on with the new 16-inch MacBook Pro with PROLED XDR Display. I'm a huge display snob, and its tandem OLED screen is just stunning i",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/apple-hero-lineup.jpg.webp?itok=v86BUBie",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-10-28T21:50:56.000Z"
   },
   {
    "title": "Canon EOS R6 V review: A video workhorse that nails the basics and beyond",
@@ -2351,15 +2360,6 @@
    "date": "2026-10-21T20:49:07.000Z"
   },
   {
-   "title": "Blackmagic Wants You to Think of DaVinci Resolve Studio as an AI Editor",
-   "link": "https://ymcinema.com/2026/10/21/blackmagic-davinci-resolve-studio-ai-editor/",
-   "summary": "Blackmagic Design has announced a limited-time 20% discount on DaVinci Resolve Studio, reducing its price from $295 to $236. However, the more interesting part of the announcement isn’t the discount itself. It’s how Blac",
-   "image": "https://ymcinema.com/wp-content/uploads/2026/10/Blackmagic-Wants-You-to-Think-of-DaVinci-Resolve-Studio-as-an-AI-Editor.002.webp",
-   "source": "Y.M.Cinema",
-   "category": "video",
-   "date": "2026-10-21T15:29:23.000Z"
-  },
-  {
    "title": "SproutLink vs. Linktree: Which link-in-bio tool is right for your brand?",
    "link": "https://sproutsocial.com/insights/sproutlink-vs-linktree/",
    "summary": "Your viral Reels and engaging carousel posts attract audiences on Instagram. But what happens when you want to get this audience to visit your Read more... The post SproutLink vs. Linktree: Which link-in-bio tool is righ",
@@ -2457,15 +2457,6 @@
    "source": "The Verge",
    "category": "tiktok",
    "date": "2026-10-17T19:32:23.000Z"
-  },
-  {
-   "title": "Is an RF 70-200mm f/2L IS Coming? Canon’s Latest Patent Points to a Dream Zoom",
-   "link": "https://www.canonrumors.com/is-an-rf-70-200mm-f-2l-is-coming-canons-latest-patent-points-to-a-dream-zoom/",
-   "summary": "A small group of us are quietly waiting for an RF 200mm f/2L IS to become part of the RF lineup, but we know it’s a niche lens and we’ll have to be patient. Maybe we’re not getting a prime and Canon will go the zoom rout",
-   "image": "https://www.canonrumors.com/wp-content/uploads/2026/10/Is-an-RF-70-200mm-f2L-IS-Coming.jpg",
-   "source": "Canon Rumors",
-   "category": "photo",
-   "date": "2026-10-17T17:37:29.000Z"
   },
   {
    "title": "Making Instagram Reels Easier, Faster & Scalable",
