@@ -1,6 +1,78 @@
 {
- "updated": "2026-10-31T05:22:58.009Z",
+ "updated": "2026-10-31T11:06:15.225Z",
  "items": [
+  {
+   "title": "Microsoft offers a quarter of its workforce voluntary severance while shielding AI-critical teams",
+   "link": "https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/",
+   "summary": "Microsoft is offering voluntary severance packages to about 60,000 employees, roughly a quarter of its workforce, in the second such program this year. The company's headcount has held flat at around 223,000 since 2022 e",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/microsoft_workforce_cuts.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-31T10:43:58.000Z"
+  },
+  {
+   "title": "Meta’s Muse Could Upend All Kinds of Businesses. It Hasn’t Yet",
+   "link": "https://www.wired.com/story/metas-muse-could-upend-all-kinds-of-businesses-it-hasnt-yet/",
+   "summary": "Companies have spent the past several weeks trying to reassure investors that Muse and other AI agents pose more of an opportunity than a threat.",
+   "image": "https://media.wired.com/photos/6ae513e3393ae92e17e66a04/master/pass/Business_Everyone%E2%80%99s%20Questioning%20Meta%E2%80%99s%20Hype%20About%20Muse%20Meta%20Says%20Muse%20Is%20Already%20a%20Big%20Shopper_v1.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-10-31T10:30:00.000Z"
+  },
+  {
+   "title": "Google Deepmind creates a global map of forests with satellite data and AI",
+   "link": "https://the-decoder.com/google-deepmind-creates-a-global-map-of-forests-with-satellite-data-and-ai/",
+   "summary": "Google Deepmind and the World Resources Institute have released ForTy, a global map that classifies forests and other land into six categories, including primary forest, plantations, and tree crops. The map could help tr",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/forest-typology-01-hero.jpg",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-31T10:15:45.000Z"
+  },
+  {
+   "title": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+   "link": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/",
+   "summary": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+   "image": "https://media.wired.com/photos/6ae4d6bbd55a0e2bc0a8d990/master/pass/103026-AI%20Mouse%2002.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-10-31T10:00:00.000Z"
+  },
+  {
+   "title": "OpenAI raises just $11 billion of its $30 billion target as big investors lose their AI appetite",
+   "link": "https://the-decoder.com/openai-raises-just-11-billion-of-its-30-billion-target-as-big-investors-lose-their-ai-appetite/",
+   "summary": "OpenAI raised only about $11 billion in its latest funding round, less than half of the $30 billion it was targeting. At $1.25 trillion, the valuation falls short of expectations, and major investors appear to be pulling",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_anthropic.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-10-31T09:22:52.000Z"
+  },
+  {
+   "title": "Version 3.1.0 of the Sony | Monitor & Control app adds support for the A6700 and ZV-E10 II",
+   "link": "https://www.sonyalpharumors.com/version-3-1-0-of-the-sony-monitor-control-app-adds-support-for-the-a6700-and-zv-e10-ii/",
+   "summary": "Version 3.1.0 of the Sony | Monitor & Control app now added support for the A6700 and ZV-E10 II Support for α6700 and ZV-E10 II has been added. Support for fine-tuning white balance has been added.* The display frame rat",
+   "image": "",
+   "source": "Sony Alpha Rumors",
+   "category": "photo",
+   "date": "2026-10-31T07:33:49.000Z"
+  },
+  {
+   "title": "Hollyland Astra P1 PTZ Camera Controller Tutorial",
+   "link": "https://www.newsshooter.com/2026/10/30/hollyland-astra-p1-ptz-camera-controller-tutorial/",
+   "summary": "Hollyland has released a comprehensive Astra P1 PTZ Camera Controller tutorial that goes into detail about how to set up, connect, and operate professional PTZ cameras for multi-camera workflows. There is a comprehensive",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-31-at-15.09.54-740x408.webp",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-31T06:11:34.000Z"
+  },
+  {
+   "title": "TILTA Baby Pin Monitor Mount for Boulder Camera Cart",
+   "link": "https://www.newsshooter.com/2026/10/30/tilta-baby-pin-monitor-mount-for-boulder-camera-cart/",
+   "summary": "The TILTA Baby Pin Monitor Mount for Boulder Camera Cart holds the monitor, powers it, and gives you mounting options to rig other accessories. The mount uses an industry-standard baby pin receiver, so it will work with ",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-31-at-14.20.43-740x413.webp",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-10-31T05:33:56.000Z"
+  },
   {
    "title": "Nikon Consolidated Financial Forecast for the Fiscal Year Ending March 31, 2027",
    "link": "https://www.newsshooter.com/2026/10/30/nikon-consolidated-financial-forecast-for-the-fiscal-year-ending-march-31-2027/",
@@ -518,7 +590,7 @@
    "title": "Goodwill Seemingly Has No Clue It’s Selling a Previously Unknown Leica Prototype Lens",
    "link": "https://petapixel.com/2026/10/30/goodwill-seemingly-has-no-clue-its-selling-a-previously-unknown-leica-prototype-lens/",
    "summary": "An exceedingly rare Leica prototype lens is up for auction right now. No, it's not at Leitz Photographica or Wetzlar Camera Auctions. It's at Goodwill. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/leica-fisheye-goodwill-featured.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-30T14:04:18.000Z"
@@ -752,7 +824,7 @@
    "title": "Reddit Will Force Users to Log In to Crack Down on Bots",
    "link": "https://petapixel.com/2026/10/30/reddit-will-force-users-to-log-in-to-crack-down-on-bots/",
    "summary": "Reddit plans to introduce a login requirement that will restrict access to much of its website and app for users who aren't signed in. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2023/06/Reddit.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-30T10:58:17.000Z"
@@ -770,7 +842,7 @@
    "title": "Senators Launch Investigation into Meta’s Smart Glasses Over Nonconsensual Filming",
    "link": "https://petapixel.com/2026/10/30/senators-launch-investigation-into-metas-smart-glasses-over-nonconsensual-filming/",
    "summary": "Two Senate Democrats are launching an inquiry into Meta’s smart glasses, widely nicknamed “pervert glasses,” amid growing concerns about their use to film people without their consent. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/07/meta-smart-glasses-ban-instagram.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-30T10:44:22.000Z"
@@ -1021,7 +1093,7 @@
   {
    "title": "Threads tests smaller group sharing option",
    "link": "https://www.socialmediatoday.com/news/threads-tests-smaller-group-sharing-option/873271/",
-   "summary": "The platform&rsquo;s Threads Friends group is similar to Instagram&rsquo;s Close Friends feature, and allows users to add up to 50 connections.",
+   "summary": "Threads Friends is similar to Instagram&rsquo;s Close Friends feature and allows users to add up to 50 connections.",
    "image": "https://imgproxy.divecdn.com/WtVwuvPQucR0rUzMtUQpYml2_BnBh7RJ_Yvc4iKkzcw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aHJlYWRzX25ld19sb2dvLnBuZw==.webp",
    "source": "Social Media Today",
    "category": "instagram",
@@ -1244,15 +1316,6 @@
    "date": "2026-10-29T15:36:26.000Z"
   },
   {
-   "title": "Paris-based Mistral releases \"Le Chonk,\" a strong coding model that still trails China overall",
-   "link": "https://the-decoder.com/paris-based-mistral-releases-le-chonk-a-strong-coding-model-that-still-trails-china-overall/",
-   "summary": "Mistral has released the weights for Large 4, aka \"Le Chonk,\" a trillion-parameter model trained entirely in Europe. Mistral says it beats its open rivals at coding, and independent testing shows it's fast and fairly che",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/07/mistral_ai-3.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-29T15:25:27.000Z"
-  },
-  {
    "title": "Nikon Nikkor Z 120-300mm f/2.8 TC VR S lens sample photos",
    "link": "https://nikonrumors.com/2026/10/29/nikon-nikkor-z-120-300mm-f-2-8-tc-vr-s-lens-sample-photos.aspx/",
    "summary": "Nikon Nikkor Z 120-300mm f/2.8 TC VR S lens sample photos: Nikon Nikkor Z 120-300mm f/2.8 TC VR S lens pre-order links: US: B&H Photo | Paul’s Photo | Service Photo UK: WEX Photo DE: Foto Erhardt CA: Camera Canada Previo",
@@ -1307,15 +1370,6 @@
    "date": "2026-10-29T15:00:00.000Z"
   },
   {
-   "title": "US antitrust regulators are scrutinizing Nvidia's Hugging Face deal and sales practices",
-   "link": "https://the-decoder.com/us-antitrust-regulators-are-scrutinizing-nvidias-hugging-face-deal-and-sales-practices/",
-   "summary": "The US Justice Department is looking into Nvidia's planned acquisition of open-source platform Hugging Face. The article US antitrust regulators are scrutinizing Nvidia's Hugging Face deal and sales practices appeared fi",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/09/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2-1536x864-1.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-29T14:07:49.000Z"
-  },
-  {
    "title": "Mistral’s Le Chonk is now a top open model for coding, ranking alongside Codex GPT-6.1 Terra",
    "link": "https://www.zdnet.com/innovation/mistral-large-4-weights-release/",
    "summary": "Mistral has released the weights for Large 4, along with some impressive Artificial Analysis scores.",
@@ -1350,15 +1404,6 @@
    "source": "DPReview",
    "category": "photo",
    "date": "2026-10-29T14:00:00.000Z"
-  },
-  {
-   "title": "Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times",
-   "link": "https://the-decoder.com/chinese-spies-targeted-nvidia-ceo-jensen-huang-according-to-the-new-york-times/",
-   "summary": "US intelligence agencies believe an executive in Nvidia CEO Jensen Huang's circle is an informant for China. The article Chinese spies targeted Nvidia CEO Jensen Huang, according to The New York Times appeared first on T",
-   "image": "https://the-decoder.com/wp-content/uploads/2025/12/nvidia_logo_wall_cb-1.jpeg",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-29T13:42:38.000Z"
   },
   {
    "title": "Updated Nikon Nikkor Z 120-300mm f/2.8 TC VR S lens pre-order links",
@@ -1604,15 +1649,6 @@
    "date": "2026-10-29T04:02:45.000Z"
   },
   {
-   "title": "Nikon NIKKOR Z 120-300mm f/2.8 TC VR S",
-   "link": "https://www.newsshooter.com/2026/10/28/nikon-nikkor-z-120-300mm-f-2-8-tc-vr-s/",
-   "summary": "Nikon has announced the NIKKOR Z 120-300mm f/2.8 TC VR S, which they claim is the the world’s first constant f/2.8 telephoto zoom lens with a built-in 1.4× teleconverter The NIKKOR Z 120-300mm f/2.8 TC VR S is a telephot",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/AH_P_Z_120-300mm_f2.8_TC_VR_PBS_NI_06.jpeg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-10-29T04:01:06.000Z"
-  },
-  {
    "title": "Nikon’s $13,999 120-300mm F2.8 with a built-in teleconverter is here",
    "link": "https://www.dpreview.com/news/nikon-fully-announces-120-300-f2p8-tc-vr-s-lens-sports-action/",
    "summary": "A pro lens with a pro price.",
@@ -1620,15 +1656,6 @@
    "source": "DPReview",
    "category": "photo",
    "date": "2026-10-29T04:01:00.000Z"
-  },
-  {
-   "title": "Obsidian Control NX3 Lighting Console",
-   "link": "https://www.newsshooter.com/2026/10/28/obsidian-control-nx3-lighting-console/",
-   "summary": "The Obsidian Control NX3 is being touted as a compact lighting console designed to deliver professional-grade programming, playback, and connectivity for live productions. Key features The console features a responsive k",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-10-29-at-11.12.38-AM.jpeg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-10-29T02:19:27.000Z"
   },
   {
    "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
@@ -1775,15 +1802,6 @@
    "date": "2026-10-28T18:47:27.000Z"
   },
   {
-   "title": "Just announced: World’s First One-Click Travel Tripod",
-   "link": "https://www.sonyalpharumors.com/just-announced-worlds-first-one-click-travel-tripod/",
-   "summary": "Here we have something new in the world of tripods: The Coman T1 Mini launched on Kickstarter today (Click here). It claims to be the fastest deploying tripod ever made. In this vidoe you exactly get the idea how fast yo",
-   "image": "",
-   "source": "Sony Alpha Rumors",
-   "category": "photo",
-   "date": "2026-10-28T18:37:31.000Z"
-  },
-  {
    "title": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
    "link": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
    "summary": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
@@ -1892,6 +1910,15 @@
    "date": "2026-10-28T13:00:00.000Z"
   },
   {
+   "title": "TikTok is going after Yelp and Google Maps with an in-app restaurant guide",
+   "link": "https://www.theverge.com/news/1020267/tiktok-viral-restaurant-recommendations-must-eat-yelp",
+   "summary": "TikTok is launching an in-app restaurant guide in a challenge to other platforms like Yelp and even Google Maps. The company on Wednesday announced the launch of Must Eat, a new section of the TikTok app built on 40 mill",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Must-Eat-Asset.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "tiktok",
+   "date": "2026-10-28T13:00:00.000Z"
+  },
+  {
    "title": "Pairing industrial AI autonomy and human control",
    "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
    "summary": "",
@@ -1946,15 +1973,6 @@
    "date": "2026-10-28T08:14:31.000Z"
   },
   {
-   "title": "Should AI Decide Your Court Case? This Judge Says Yes",
-   "link": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
-   "summary": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
-   "image": "https://media.wired.com/photos/6ae127707e979e34b6579966/master/pass/Business_Should%20AI%20Decide%20Your%20Court%20Case_%20ThisJudgeSaysYes.gif",
-   "source": "WIRED",
-   "category": "ai",
-   "date": "2026-10-28T06:00:00.000Z"
-  },
-  {
    "title": "From Reels to the living room: What Instagram’s long-form push means for brands",
    "link": "https://later.com/blog/from-reels-to-the-living-room-what-instagrams-long-form-push-means-for-brands/",
    "summary": "Instagram is testing 90-minute videos and expanding its TV app. Here’s what brands need to know about sponsoring long-form creator content early.",
@@ -1989,15 +2007,6 @@
    "source": "DPReview",
    "category": "photo",
    "date": "2026-10-27T19:57:36.000Z"
-  },
-  {
-   "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
-   "link": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
-   "summary": "In breathless press releases and posts, the company has touted its models’ ability to deliver scientific breakthroughs. But its IPO filing taps the brakes on just how fast its AI will lead to big discoveries.",
-   "image": "https://media.wired.com/photos/6ae0b0627e979e34b657973e/master/pass/102726-Anthropic%20Bio.jpg",
-   "source": "WIRED",
-   "category": "ai",
-   "date": "2026-10-27T19:39:04.000Z"
   },
   {
    "title": "Vibe genes? Natural(ish) language comes to protein, genome design software",
