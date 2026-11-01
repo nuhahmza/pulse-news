@@ -1,6 +1,51 @@
 {
- "updated": "2026-11-01T05:26:01.144Z",
+ "updated": "2026-11-01T11:59:09.538Z",
  "items": [
+  {
+   "title": "Google wants video AI to understand what people need as they work",
+   "link": "https://the-decoder.com/google-wants-video-ai-to-understand-what-people-need-as-they-workgoogle-researchers-are-teaching-a-video-assistant-when-to-offer-help/",
+   "summary": "A Google-led research team built StreamVibe, a video agent designed to watch people cook or assemble furniture and speak up only when help is needed. A benchmark shows that none of the tested models reliably pick the rig",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/02-streamvibe-kochassistent-1920x1080-1.jpg",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-11-01T11:25:21.000Z"
+  },
+  {
+   "title": "Chatbots Are Leading Hikers Astray, With Dangerous Consequences",
+   "link": "https://www.wired.com/story/chatbots-are-leading-hikers-astray-with-dangerous-consequences/",
+   "summary": "Outsourcing planning to AI can lead people to surrender their own critical thinking, which can have potentially deadly results in places like the backcountry.",
+   "image": "https://media.wired.com/photos/6ae22d8856ee4dcb93f11713/master/pass/HCN406-scaled.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-11-01T10:30:00.000Z"
+  },
+  {
+   "title": "OpenAI's upcoming chat-and-work merger in ChatGPT signals the end of all-you-can-prompt pricing",
+   "link": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
+   "summary": "OpenAI combines the Chat and Work modes into a single interface. Starting in December, Plus, Pro, and Business plans will share a common, token-based quota for ChatGPT and Codex. More complex models consume more of this ",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/04/openai_chatgpt_colors.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-11-01T09:51:06.000Z"
+  },
+  {
+   "title": "Sony’s 5-Year-Old a7 IV Is Still Amazon’s Best-Selling Full-Frame Camera",
+   "link": "https://ymcinema.com/2026/11/01/sony-a7-iv-amazon-best-selling-full-frame-2026/",
+   "summary": "Five years after its introduction, the Sony a7 IV continues to demonstrate remarkable staying power in the full-frame mirrorless market. The camera is positioned as Amazon’s best-selling full-frame mirrorless body, with ",
+   "image": "https://ymcinema.com/wp-content/uploads/2026/04/Sony-Alpha-7-IV-Drops-on-Amazon.-Signal-Ahead-of-the-Alpha-A7R-VI.003.webp",
+   "source": "Y.M.Cinema",
+   "category": "video",
+   "date": "2026-11-01T08:51:48.000Z"
+  },
+  {
+   "title": "Nextorage NX-F2AE Series SDXC UHS-II Memory Cards",
+   "link": "https://www.newsshooter.com/2026/11/01/nextorage-nx-f2ae-series-sdxc-uhs-ii-memory-cards/",
+   "summary": "Nextorage has announced its new NX-F2AE Series SDXC UHS-II memory cards. The NX-F2AE Series is an advanced addition of the Nextorage SDXC UHS-II memory cards that have been developed specifically for professional video p",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/Nwxtorage.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-11-01T07:44:21.000Z"
+  },
   {
    "title": "Comparing the new Nikon NIKKOR Z 120-300mm f/2.8 TC VR S lens with the 400mm f/2.8 TC VR S and 600mm f/4 TC VR S",
    "link": "https://nikonrumors.com/2026/10/31/comparing-the-new-nikon-nikkor-z-120-300mm-f-2-8-tc-vr-s-lens-with-the-400mm-f-2-8-tc-vr-s-and-600mm-f-4-tc-vr-s.aspx/",
@@ -230,7 +275,7 @@
    "title": "Sam Taylor-Johnson’s ‘Crying Men’ Photo Series Featured in Major Solo Exhibition",
    "link": "https://petapixel.com/2026/10/31/sam-taylor-johnsons-crying-men-photo-series-featured-in-major-solo-exhibition/",
    "summary": "An exhibition presents the career-defining work of internationally celebrated British photographer Sam Taylor-Johnson, including a selection of works from her iconic Crying Men series. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/10/crying-men-photo-series.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-10-31T11:00:11.000Z"
@@ -560,15 +605,6 @@
    "date": "2026-10-30T17:47:12.000Z"
   },
   {
-   "title": "OpenAI sets new behavioral guidelines for AI models that have already proven hard to control",
-   "link": "https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/",
-   "summary": "OpenAI has updated its Model Spec, restructuring its AI behavior guidelines around five core values, including faithfulness to human intent and correctability. GPT models should now draw on conversation history to figure",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-30T17:44:59.000Z"
-  },
-  {
    "title": "The best cameras under $2000 in 2026",
    "link": "https://www.dpreview.com/reviews/the-best-cameras-under-2000-in-2025/",
    "summary": "What's the best camera for around $2000? These midrange cameras should have capable autofocus systems, lots of direct controls and the latest sensors offering great image quality. We recommend our favorite options.",
@@ -630,15 +666,6 @@
    "source": "ProVideo Coalition",
    "category": "video",
    "date": "2026-10-30T17:17:17.000Z"
-  },
-  {
-   "title": "Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
-   "link": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/",
-   "summary": "Reddit lost over one million Google search referrals per week in October, CEO Steve Huffman said. The stock dropped more than 25 percent despite strong earnings. Huffman blames Google's AI Overviews and AI Mode for drivi",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/reddit_logo_wall.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-10-30T17:15:24.000Z"
   },
   {
    "title": "Edit Faster in DaVinci Resolve With These Blackmagic Hardware Add-ons",
@@ -1264,7 +1291,7 @@
   {
    "title": "Threads tests smaller group sharing option",
    "link": "https://www.socialmediatoday.com/news/threads-tests-smaller-group-sharing-option/873271/",
-   "summary": "The platform&rsquo;s Threads Friends group is similar to Instagram&rsquo;s Close Friends feature, and allows users to add up to 50 connections.",
+   "summary": "Threads Friends is similar to Instagram&rsquo;s Close Friends feature and allows users to add up to 50 connections.",
    "image": "https://imgproxy.divecdn.com/WtVwuvPQucR0rUzMtUQpYml2_BnBh7RJ_Yvc4iKkzcw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aHJlYWRzX25ld19sb2dvLnBuZw==.webp",
    "source": "Social Media Today",
    "category": "instagram",
@@ -1694,15 +1721,6 @@
    "date": "2026-10-29T05:33:31.000Z"
   },
   {
-   "title": "Zhiyun MOLUS B300 Bi-Color LED Monolight on sale for $249 USD",
-   "link": "https://www.newsshooter.com/2026/10/28/zhiyun-molus-b300-bi-color-led-monolight-on-sale-for-249-usd/",
-   "summary": "The Zhiyun MOLUS B300 Bi-Color LED Monolight is on sale for $249 USD, which is a discount of $180 USD. Key features The MOLUS B300 Bi-Color LED Monolight is simple, efficient, and portable. Featuring a variable CCT from ",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/Zhiyun-MOLUS-B300-Bi-Color-LED-Monoligh.jpg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-10-29T04:28:17.000Z"
-  },
-  {
    "title": "Nikon Nikkor Z 120-300mm f/2.8 TC VR S lens officially announced",
    "link": "https://nikonrumors.com/2026/10/29/nikon-nikkor-z-120-300mm-f-2-8-tc-vr-s-lens-officially-announced.aspx/",
    "summary": "As already reported, Nikon officially announced the Nikkor Z 120-300mm f/2.8 TC VR S lens. Pre-orders should now be open at: US: B&H Photo | Paul’s Photo | Service Photo UK: WEX Photo DE: Foto Erhardt CA: Camera Canada T",
@@ -1980,15 +1998,6 @@
    "source": "CineD",
    "category": "video",
    "date": "2026-10-28T11:06:20.000Z"
-  },
-  {
-   "title": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
-   "link": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
-   "summary": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
-   "image": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/master/pass/culture_macmillon_failed_ai_project.jpg",
-   "source": "WIRED",
-   "category": "ai",
-   "date": "2026-10-28T10:15:00.000Z"
   },
   {
    "title": "Fujifilm Announces $290 instax mini Evo 2 With 13MP Sensor, Touchscreen, and Video",
@@ -2313,15 +2322,6 @@
    "source": "MIT Tech Review",
    "category": "ai",
    "date": "2026-10-22T18:48:04.000Z"
-  },
-  {
-   "title": "Sony Explains Its Cinema Camera Lineup: From VENICE 2 to FX30",
-   "link": "https://ymcinema.com/2026/10/22/sony-cinema-camera-lineup-guide/",
-   "summary": "Sony has published a new 35-page guide titled Your Look, Your Story: Cinematic Expression for All Your Live Productions, outlining how its Cinema Line cameras are being integrated into modern live production workflows. W",
-   "image": "https://ymcinema.com/wp-content/uploads/2026/10/Sony-Explains-Its-Cinema-Camera-Lineup-From-VENICE-2-to-FX30.002.webp",
-   "source": "Y.M.Cinema",
-   "category": "video",
-   "date": "2026-10-22T16:27:56.000Z"
   },
   {
    "title": "Making the case for context-aware AI",
