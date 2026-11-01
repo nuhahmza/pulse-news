@@ -1,6 +1,33 @@
 {
- "updated": "2026-10-31T23:35:41.136Z",
+ "updated": "2026-11-01T05:26:01.144Z",
  "items": [
+  {
+   "title": "Comparing the new Nikon NIKKOR Z 120-300mm f/2.8 TC VR S lens with the 400mm f/2.8 TC VR S and 600mm f/4 TC VR S",
+   "link": "https://nikonrumors.com/2026/10/31/comparing-the-new-nikon-nikkor-z-120-300mm-f-2-8-tc-vr-s-lens-with-the-400mm-f-2-8-tc-vr-s-and-600mm-f-4-tc-vr-s.aspx/",
+   "summary": "Comparing the new Nikon NIKKOR Z 120-300mm f/2.8 TC VR S lens with the 400mm f/2.8 TC VR S and 600mm f/4 TC VR S: Specification 120-300mm f/2.8 400mm f/2.8 600mm f/4 Lens type Pro zoom Pro prime Pro prime Focal length 12",
+   "image": "https://nikonrumors.com/wp-content/uploads/2026/10/Comparing-the-new-Nikon-NIKKOR-Z-120-300mm-f2.8-TC-VR-S-lens-with-the-400mm-f2.8-TC-VR-S-and-600mm-f4-TC-VR-S-410x550.png",
+   "source": "Nikon Rumors",
+   "category": "photo",
+   "date": "2026-11-01T02:10:11.000Z"
+  },
+  {
+   "title": "BTS of Spider-Man: Brand New Day Shot on Sony VENICE 2",
+   "link": "https://www.newsshooter.com/2026/10/31/bts-of-spider-man-brand-new-day-shot-on-sony-venice-2/",
+   "summary": "Sony Pictures has a nice little BTS of Spider-Man: Brand New Day that was shot on the VENICE 2, along with the Rialto Extension System, and the FX3. The VENICE 2 was used in conjunction with the Rialto Extension System a",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/Screenshot-2026-11-01-at-10.08.20-1.jpeg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-11-01T01:27:58.000Z"
+  },
+  {
+   "title": "FUJIFILM to Increase Production Capacity by 5x for Magnetic Data Storage Tape",
+   "link": "https://www.newsshooter.com/2026/10/31/fujifilm-to-increase-production-capacity-by-5x-for-magnetic-data-storage-tape/",
+   "summary": "FUJIFILM is investing approximately 10 billion yen (around $63.46 million USD) to meet growing data archiving demand driven by the spread of generative AI. The investment will be injected into its Kanagawa Factory, Odawa",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/FUJIFILM-1.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-11-01T00:35:18.000Z"
+  },
   {
    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
    "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
@@ -29,6 +56,15 @@
    "date": "2026-10-31T21:17:03.000Z"
   },
   {
+   "title": "The Fake Photo That Helped Sink a U.S. Senator",
+   "link": "https://fstoppers.com/historical/fake-photo-helped-sink-us-senator-904414?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "In the last stretch of the 1950 Maryland Senate race, roughly 300,000 copies of a four-page tabloid called From the Record went out across the state, and inside was a picture of Senator Millard Tydings standing close bes",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/08/the-composite-photograph-that-cost-a-senator-his-seat-tydings-desk.jpg.webp?itok=Z6OfeiyP",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-31T21:03:01.000Z"
+  },
+  {
    "title": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
    "link": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
    "summary": "Anthropic is expanding its text watermark to four more Claude models to meet the EU AI Act's December deadline. On the older models Claude Opus 4.6 and Sonnet 4.6, developers can bypass the watermark by tweaking a single",
@@ -36,6 +72,15 @@
    "source": "The Decoder",
    "category": "ai",
    "date": "2026-10-31T19:20:55.000Z"
+  },
+  {
+   "title": "Fstoppers Photographer of the Month (October 2026): Dave G",
+   "link": "https://fstoppers.com/pictures/photographer-month-october-2026-dave-g-905297?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "The Fstoppers community is brimming with creative vision and talent. Every day, we comb through your work, looking for images to feature as the Photo of the Day or simply to admire your creativity and technical prowess. ",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/fstoppers-photographer-of-the-month-october-2026-dave-g.jpeg.webp?itok=Pz_cTjRp",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-31T17:03:01.000Z"
   },
   {
    "title": "Apple Boosts Final Cut Pro, but Is It Enough to Compete With DaVinci Resolve?",
@@ -99,6 +144,15 @@
    "source": "The Decoder",
    "category": "ai",
    "date": "2026-10-31T15:06:14.000Z"
+  },
+  {
+   "title": "Is It Legal to Clone Photoshop With AI?",
+   "link": "https://fstoppers.com/legal/it-legal-clone-photoshop-ai-905319?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "A small team has released PhotoCraft, a free, open-source stand-in for Photoshop built with heavy help from AI, and it's designed so anyone fluent in Adobe's menus and shortcuts can sit down and start working. If you pay",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_120.jpg.webp?itok=hDMcoxkp",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-10-31T15:03:01.000Z"
   },
   {
    "title": "Viltrox 35mm f/1.4 Pro Review: A Beautiful Behemoth",
@@ -1424,15 +1478,6 @@
    "date": "2026-10-29T15:10:02.000Z"
   },
   {
-   "title": "Can the Fujifilm X100VI Handle a Rainy Night in London?",
-   "link": "https://fstoppers.com/gear/can-fujifilm-x100vi-handle-rainy-night-london-905199?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "The Fujifilm X100VI is the kind of camera people buy to carry everywhere, and that only works if it keeps delivering once the light fades and the rain starts. A fixed 23mm lens and a body small enough for a coat pocket c",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_111.jpg.webp?itok=pz04Wfh-",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-10-29T15:03:02.000Z"
-  },
-  {
    "title": "Wireless Audio Demystified: Sony’s Markus Warlich on 2.4 GHz vs UHF, Real 32-Bit Float and the Shrinking Spectrum – Focus Check ep140",
    "link": "https://www.cined.com/wireless-audio-demystified-sonys-markus-warlich-on-2-4-ghz-vs-uhf-real-32-bit-float-and-the-shrinking-spectrum-focus-check-ep140/",
    "summary": "Your 32-bit float wireless mic might not be recording 32-bit float at all. To our pleasant surprise, this week’s episode turned into an unofficial wireless audio masterclass: Markus Warlich, who has worked in pro audio a",
@@ -1532,15 +1577,6 @@
    "date": "2026-10-29T13:07:39.000Z"
   },
   {
-   "title": "The Client Who Told a Photographer She Was Charging Too Little",
-   "link": "https://fstoppers.com/education/client-who-told-photographer-she-was-charging-too-little-905198?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "When you teach yourself photography in a city where you don't speak the language, you make every pricing call, portfolio choice, and client pitch without a second opinion. Mistakes made that way can go unnoticed until a ",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_110.jpg.webp?itok=dal5gygS",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-10-29T13:03:01.000Z"
-  },
-  {
    "title": "Viltrox rounds out its F1.4 Pro trio with an $829 35mm prime",
    "link": "https://www.dpreview.com/news/viltrox-rounds-out-its-f1p4-pro-trio-with-an-829-35mm-prime/",
    "summary": "Available for Sony E and Nikon Z mounts, the weather-sealed lens promises flagship image quality and fast autofocus",
@@ -1557,15 +1593,6 @@
    "source": "CineD",
    "category": "video",
    "date": "2026-10-29T11:52:13.000Z"
-  },
-  {
-   "title": "Making Intimate Landscapes Around Clear-Cuts and Power Lines",
-   "link": "https://fstoppers.com/education/making-intimate-landscapes-around-clear-cuts-and-power-lines-905197?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "You can drive half a day to reach peak autumn color and find the hillside carved up by a clear-cut, a power line, and a thicket of saplings. Pulling a clean, deliberate frame out of a compromised scene is a skill you'll ",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_109.jpg.webp?itok=78rWhGHG",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-10-29T11:03:01.000Z"
   },
   {
    "title": "SmallHD Focus 504 Announced – 5-Inch 1000-Nit Monitor With 3G-SDI, HDMI 2.0, and Wi-Fi Camera Control",
@@ -1595,21 +1622,21 @@
    "date": "2026-10-29T10:00:00.000Z"
   },
   {
-   "title": "The Ads Alternative: 2026 Guide to Boosting Instagram Posts",
-   "link": "https://metricool.com/boost-instagram-posts/",
-   "summary": "Want to create ads on Instagram and Facebook, but don’t want to go through the campaign creation process? Learn how to boost Instagram posts, creating ads in seconds. While you can do this through the Instagram app or wi",
-   "image": "https://metricool.com/wp-content/uploads/How-to-boost-an-instagram-post.jpg",
-   "source": "Metricool",
-   "category": "instagram",
-   "date": "2026-10-29T10:00:00.000Z"
-  },
-  {
    "title": "Capture One adds stray hair removal and more precise color editing",
    "link": "https://www.dpreview.com/news/capture-one-adds-stray-hair-removal-and-more-precise-color-editing/",
    "summary": "The latest update adds new portrait retouching tools to Capture One, alongside a redesigned Advanced Color Editor.",
    "image": "https://www.dpreview.com/wp-content/uploads/2026/10/M-GN-Capture-one-16.9_General_2c4706.jpg",
    "source": "DPReview",
    "category": "photo",
+   "date": "2026-10-29T10:00:00.000Z"
+  },
+  {
+   "title": "The Ads Alternative: 2026 Guide to Boosting Instagram Posts",
+   "link": "https://metricool.com/boost-instagram-posts/",
+   "summary": "Want to create ads on Instagram and Facebook, but don’t want to go through the campaign creation process? Learn how to boost Instagram posts, creating ads in seconds. While you can do this through the Instagram app or wi",
+   "image": "https://metricool.com/wp-content/uploads/How-to-boost-an-instagram-post.jpg",
+   "source": "Metricool",
+   "category": "instagram",
    "date": "2026-10-29T10:00:00.000Z"
   },
   {
@@ -1674,24 +1701,6 @@
    "source": "Newsshooter",
    "category": "video",
    "date": "2026-10-29T04:28:17.000Z"
-  },
-  {
-   "title": "Save $500 USD on Core SWX Mach4 4-Position Charger with 4A Rapid Chargers",
-   "link": "https://www.newsshooter.com/2026/10/28/save-500-usd-on-core-swx-mach4-4-position-charger-with-4a-rapid-chargers/",
-   "summary": "You can save $500 USD on the Core SWX Mach4 4-Position Charger with 4A Rapid Chargers and purchase them for $639 USD. You can choose from V-mount Gold Mount and B-Mount versions. Key features The Mach4 4-Position Charger",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/Core-SWX-Charger.jpg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-10-29T04:22:45.000Z"
-  },
-  {
-   "title": "Save $5,500 USD on the SmallHD Quantum 32 True Reference OLED Display",
-   "link": "https://www.newsshooter.com/2026/10/28/save-5500-usd-on-the-smallhd-quantum-32-true-reference-oled-display-2/",
-   "summary": "For a limited time, you can save $5,500 USD on the SmallHD Quantum 32 True Reference OLED Display and purchase it for $7,999 USD. Key features The Quantum 32 True Reference OLED Display features the updated PageOS operat",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/SmallHD-32.jpg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-10-29T04:14:48.000Z"
   },
   {
    "title": "Nikon Nikkor Z 120-300mm f/2.8 TC VR S lens officially announced",
@@ -2232,15 +2241,6 @@
    "source": "Nikon Rumors",
    "category": "photo",
    "date": "2026-10-26T00:30:32.000Z"
-  },
-  {
-   "title": "August 2026 CIPA numbers",
-   "link": "https://nikonrumors.com/2026/10/25/august-2026-cipa-numbers.aspx/",
-   "summary": "CIPA (Camera & Imaging Products Association in Japan) published the latest camera production data (orange: 2026, black: 2025, blue: 2024): August 2026 CIPA numbers by ZoetMB (All comparisons to YTD 2025) Narrative: Augus",
-   "image": "https://nikonrumors.com/wp-content/uploads/2026/10/August-2026-CIPA-numbers-1-550x408.png",
-   "source": "Nikon Rumors",
-   "category": "photo",
-   "date": "2026-10-26T00:02:23.000Z"
   },
   {
    "title": "GoPro’s $700 8K Cinema Camera Named One of TIME’s Best Inventions of 2026",
