@@ -1,6 +1,69 @@
 {
- "updated": "2026-11-03T01:29:10.194Z",
+ "updated": "2026-11-03T08:30:53.941Z",
  "items": [
+  {
+   "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
+   "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+   "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/live-rewind-restaurant.jpg?resize=1200,669",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-11-03T07:20:00.000Z"
+  },
+  {
+   "title": "New Meike 50mm f/1.4 FE lens is coming soon",
+   "link": "https://www.sonyalpharumors.com/new-meike-50mm-f-1-4-fe-lens-is-coming-soon/",
+   "summary": "The lens is slated for an official release within 2026 and will be available for various mounts, including Sony E, Nikon Z, and Panasonic L. It is expected to weigh approximately 600 grams. via Weibo The post New Meike 5",
+   "image": "",
+   "source": "Sony Alpha Rumors",
+   "category": "photo",
+   "date": "2026-11-03T07:02:55.000Z"
+  },
+  {
+   "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+   "link": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+   "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained ",
+   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/superai-trump.jpg?resize=1200,600",
+   "source": "MIT Tech Review",
+   "category": "ai",
+   "date": "2026-11-03T04:18:47.000Z"
+  },
+  {
+   "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+   "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+   "summary": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/google-dreambeans.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-11-03T03:30:00.000Z"
+  },
+  {
+   "title": "Critique the Community: Unique Edit",
+   "link": "https://fstoppers.com/critique-community/unique-edit?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "Welcome to the November installment of the Critique the Community! This month's critique theme is going to be \" Unique Edit ,\" and we want to see your best photographs that were brought to life with a new or unique editi",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/contest/lead/unique-edit-cover-rafal-wegiel.jpg.webp?itok=g801JgIm",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-11-03T01:54:02.000Z"
+  },
+  {
+   "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+   "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+   "summary": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-11-03T01:49:52.000Z"
+  },
+  {
+   "title": "Deity has released the PR-2ii Pocket Recorder",
+   "link": "https://www.newsshooter.com/2026/11/02/deity-has-released-the-pr-2ii-pocket-recorder/",
+   "summary": "Deity Microphones has released the PR-2ii, the second generation of its PR-2 pocket recorder. The PR-2ii is now available at B&H for $259 with a lavalier microphone included. The PR-2ii is a 2-input, 2-track wearable rec",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/Deity-PR-2ii-main-1.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-11-03T01:33:32.000Z"
+  },
   {
    "title": "SANWA Ultra-Compact Switching Hub that Splits a Single LAN Cable to Two Devices",
    "link": "https://www.newsshooter.com/2026/11/02/sanwa-ultra-compact-switching-hub-that-splits-a-single-lan-cable-to-two-devices/",
@@ -56,6 +119,15 @@
    "date": "2026-11-03T00:00:02.000Z"
   },
   {
+   "title": "Transformers Model Integration Contracts",
+   "link": "https://huggingface.co/blog/transformers-mic",
+   "summary": "",
+   "image": "https://huggingface.co/blog/assets/transformers-mic/mic-logo.png",
+   "source": "Hugging Face",
+   "category": "ai",
+   "date": "2026-11-03T00:00:00.000Z"
+  },
+  {
    "title": "Iconic Film Intros: T800 in 'The Terminator'",
    "link": "https://nofilmschool.com/iconic-film-intros-terminator",
    "summary": "When you think of Arnold Schwarzenegger in the ‘Terminator’ films, there are several quotes, sequences, and styles that come to mind. What’s interesting is that one moment that I rarely see brought up is his actual intro",
@@ -92,6 +164,15 @@
    "date": "2026-11-02T23:00:03.000Z"
   },
   {
+   "title": "TikTok adds new brand safety resources",
+   "link": "https://www.socialmediatoday.com/news/tiktok-adds-new-brand-safety-resources/873529/",
+   "summary": "The company offered brands protection features designed to help identify potential risks, including copyright and counterfeit detection tools.",
+   "image": "https://imgproxy.divecdn.com/uJILKCTaAEJ1EzAssbuegpTmAUH7xf0xlK8riB3Z9Oc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfYnJhbmRfc2FmZXR5X2NlbnRlcl8ySHZReFZzLnBuZw==.webp",
+   "source": "Social Media Today",
+   "category": "tiktok",
+   "date": "2026-11-02T22:51:17.000Z"
+  },
+  {
    "title": "Boring Characters Is Not a Depth or Backstory Issue",
    "link": "https://nofilmschool.com/boring-characters-is-not-a-depth-problem",
    "summary": "One of the most common notes that I find myself giving in my consultancy work with screenplays is that the characters need to be looked at more. Whether they lack individuality, arcs, backstory, what have you. Making a p",
@@ -117,6 +198,15 @@
    "source": "DPReview",
    "category": "photo",
    "date": "2026-11-02T22:12:53.000Z"
+  },
+  {
+   "title": "In 2013, Researchers Pulled Recognizable Faces of Bystanders Out of the Eye Reflections in a Portrait",
+   "link": "https://fstoppers.com/portraits/2013-researchers-pulled-recognizable-faces-bystanders-out-eye-reflections-904427?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "An anonymous peer reviewer worked through a manuscript, looked at one of its figures, and recognized one of the authors. The face was a reflection in another person's eye. Across the study's bystanders, those extracted f",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/08/faces-in-the-catchlights-iris-macro.jpg.webp?itok=Ow4iKdEv",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-11-02T22:03:02.000Z"
   },
   {
    "title": "Ricoh Is Opening Its First GR Space In the US",
@@ -180,6 +270,15 @@
    "source": "The Decoder",
    "category": "ai",
    "date": "2026-11-02T20:00:03.000Z"
+  },
+  {
+   "title": "TikTok inks new content deal with WTA",
+   "link": "https://www.socialmediatoday.com/news/tiktok-inks-new-content-deal-with-wta/873502/",
+   "summary": "The partnership will expand the existing relationship and include livestream women&rsquo;s tennis coverage as well as behind-the-scenes insights.",
+   "image": "",
+   "source": "Social Media Today",
+   "category": "tiktok",
+   "date": "2026-11-02T19:50:12.000Z"
   },
   {
    "title": "AI elites might hoard intelligence like mercantilists hoarded gold",
@@ -380,6 +479,24 @@
    "date": "2026-11-02T18:00:04.000Z"
   },
   {
+   "title": "Rewarding defenders with bigger bug bounties",
+   "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+   "image": "",
+   "source": "OpenAI",
+   "category": "ai",
+   "date": "2026-11-02T18:00:00.000Z"
+  },
+  {
+   "title": "Preparing our next security sprint to harden OpenAI",
+   "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+   "image": "",
+   "source": "OpenAI",
+   "category": "ai",
+   "date": "2026-11-02T18:00:00.000Z"
+  },
+  {
    "title": "The New York Times sues Brave web browser for AI scraping and bypassing paywalls",
    "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
    "summary": "The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as re",
@@ -446,7 +563,7 @@
    "title": "Shimoda Launches Upgraded Action X v3 Backpack and a New Insider Sling Bag",
    "link": "https://petapixel.com/2026/11/02/shimoda-launches-upgraded-action-x-v3-backpack-and-a-new-insider-sling-bag/",
    "summary": "Shimoda Designs has announced a refresh of its adventure camera backpack system, headlined by the Action X v3. Additionally, the company has a new set of interior core cubes and a brand-new sling bag. [ Read More ]",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/11/Shimoda-Launches-Action-X-v3-Backpack-and-a-New-Insider-Sling-Bag.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-11-02T17:05:35.000Z"
@@ -671,7 +788,7 @@
    "title": "Experimenting with Infrared Photography",
    "link": "https://petapixel.com/2026/11/02/experimenting-with-infrared-photography/",
    "summary": "Some of you who saw my star timelapse video might’ve clocked me using a GFX 100 II IR, specifically modified to pick up infrared light frequencies, and since I had it for a few more days, I decided to take it on the road",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/11/infrared.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-11-02T15:00:20.000Z"
@@ -869,7 +986,7 @@
    "title": "One Video, Three Platforms: Short Form Video Repurposing on Instagram, TikTok, and YouTube",
    "link": "https://metricool.com/how-to-repurpose-video-content/",
    "summary": "The same short video can get very different results on TikTok, Instagram Reels, and YouTube Shorts. Learn how to adapt one video for each platform and judge every version by the metric that fits it.",
-   "image": "https://metricool.com/wp-content/uploads/repurposing-video.webp",
+   "image": "https://metricool.com/wp-content/uploads/one-video-three-platforms.webp",
    "source": "Metricool",
    "category": "instagram",
    "date": "2026-11-02T10:00:00.000Z"
@@ -891,15 +1008,6 @@
    "source": "OpenAI",
    "category": "ai",
    "date": "2026-11-02T09:00:00.000Z"
-  },
-  {
-   "title": "Save Big on Terramaster NAS Enclosures",
-   "link": "https://www.canonrumors.com/save-big-on-terramaster-nas-enclosures/",
-   "summary": "Terrmaster has launched their holiday instant rebates on select NAS enclosures, there are offers on 2-bay, 4-bay and 8-bay options. You can save up to 25% on eclosures in both the US and UK. Terramaster NAS Enclosures Sa",
-   "image": "https://www.canonrumors.com/wp-content/uploads/2026/11/terramaster-nas-enclosures-2026-1600.jpg",
-   "source": "Canon Rumors",
-   "category": "photo",
-   "date": "2026-11-02T08:29:10.000Z"
   },
   {
    "title": "Held Hostage by Vimeo – 18 Years of Uploads, Locked Behind a Paywall",
@@ -1012,7 +1120,7 @@
   {
    "title": "Instagram offers to pay creators for long-form content",
    "link": "https://www.socialmediatoday.com/news/instagram-offers-to-pay-creators-for-long-form-content/873402/",
-   "summary": "Business Insider reported that creators were offered as much as $500,000 to post video to Meta&rsquo;s new Features product.",
+   "summary": "Creators were offered as much as $500,000 to post videos to Meta&rsquo;s new Features product, according to Business Insider.",
    "image": "https://imgproxy.divecdn.com/hIUIo3PXvdugDyfozSvrzAFzzL4CScua7W_PhwqRdlk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pbnN0YWdyYW1fZmVhdHVyZXMucG5n.webp",
    "source": "Social Media Today",
    "category": "instagram",
@@ -1190,15 +1298,6 @@
    "date": "2026-11-01T07:44:21.000Z"
   },
   {
-   "title": "Data centers are now a midterm issue, even in Brooklyn",
-   "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
-   "summary": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/Newsreel-Midterm-Madness-22.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-11-01T02:22:10.000Z"
-  },
-  {
    "title": "Comparing the new Nikon NIKKOR Z 120-300mm f/2.8 TC VR S lens with the 400mm f/2.8 TC VR S and 600mm f/4 TC VR S",
    "link": "https://nikonrumors.com/2026/10/31/comparing-the-new-nikon-nikkor-z-120-300mm-f-2-8-tc-vr-s-lens-with-the-400mm-f-2-8-tc-vr-s-and-600mm-f-4-tc-vr-s.aspx/",
    "summary": "Comparing the new Nikon NIKKOR Z 120-300mm f/2.8 TC VR S lens with the 400mm f/2.8 TC VR S and 600mm f/4 TC VR S: Specification 120-300mm f/2.8 400mm f/2.8 600mm f/4 Lens type Pro zoom Pro prime Pro prime Focal length 12",
@@ -1217,33 +1316,6 @@
    "date": "2026-11-01T01:27:58.000Z"
   },
   {
-   "title": "FUJIFILM to Increase Production Capacity by 5x for Magnetic Data Storage Tape",
-   "link": "https://www.newsshooter.com/2026/10/31/fujifilm-to-increase-production-capacity-by-5x-for-magnetic-data-storage-tape/",
-   "summary": "FUJIFILM is investing approximately 10 billion yen (around $63.46 million USD) to meet growing data archiving demand driven by the spread of generative AI. The investment will be injected into its Kanagawa Factory, Odawa",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/FUJIFILM-1.jpg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-11-01T00:35:18.000Z"
-  },
-  {
-   "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-   "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-   "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-31T21:41:00.000Z"
-  },
-  {
-   "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-   "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-   "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Regi",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-10-31T21:36:07.000Z"
-  },
-  {
    "title": "The Fake Photo That Helped Sink a U.S. Senator",
    "link": "https://fstoppers.com/historical/fake-photo-helped-sink-us-senator-904414?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
    "summary": "In the last stretch of the 1950 Maryland Senate race, roughly 300,000 copies of a four-page tabloid called From the Record went out across the state, and inside was a picture of Senator Millard Tydings standing close bes",
@@ -1260,15 +1332,6 @@
    "source": "ProVideo Coalition",
    "category": "video",
    "date": "2026-10-31T18:53:47.000Z"
-  },
-  {
-   "title": "Fstoppers Photographer of the Month (October 2026): Dave G",
-   "link": "https://fstoppers.com/pictures/photographer-month-october-2026-dave-g-905297?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "The Fstoppers community is brimming with creative vision and talent. Every day, we comb through your work, looking for images to feature as the Photo of the Day or simply to admire your creativity and technical prowess. ",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/fstoppers-photographer-of-the-month-october-2026-dave-g.jpeg.webp?itok=Pz_cTjRp",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-10-31T17:03:01.000Z"
   },
   {
    "title": "Apple Boosts Final Cut Pro, but Is It Enough to Compete With DaVinci Resolve?",
@@ -1307,15 +1370,6 @@
    "date": "2026-10-31T15:15:21.000Z"
   },
   {
-   "title": "Is It Legal to Clone Photoshop With AI?",
-   "link": "https://fstoppers.com/legal/it-legal-clone-photoshop-ai-905319?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "A small team has released PhotoCraft, a free, open-source stand-in for Photoshop built with heavy help from AI, and it's designed so anyone fluent in Adobe's menus and shortcuts can sit down and start working. If you pay",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/cover_120.jpg.webp?itok=hDMcoxkp",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-10-31T15:03:01.000Z"
-  },
-  {
    "title": "Fujifilm Instax Mini Evo 2 review: A hybrid instant camera that changed my mind",
    "link": "https://www.dpreview.com/reviews/fujifilm-instax-mini-evo-2-review-a-hybrid-instant-camera-that-changed-my-mind/",
    "summary": "I thought previewing photos would take the fun out of instant photography. Instead, the Mini Evo 2 made me want to experiment.",
@@ -1350,15 +1404,6 @@
    "source": "WIRED",
    "category": "ai",
    "date": "2026-10-31T10:00:00.000Z"
-  },
-  {
-   "title": "Version 3.1.0 of the Sony | Monitor & Control app adds support for the A6700 and ZV-E10 II",
-   "link": "https://www.sonyalpharumors.com/version-3-1-0-of-the-sony-monitor-control-app-adds-support-for-the-a6700-and-zv-e10-ii/",
-   "summary": "Version 3.1.0 of the Sony | Monitor & Control app now added support for the A6700 and ZV-E10 II Support for α6700 and ZV-E10 II has been added. Support for fine-tuning white balance has been added.* The display frame rat",
-   "image": "",
-   "source": "Sony Alpha Rumors",
-   "category": "photo",
-   "date": "2026-10-31T07:33:49.000Z"
   },
   {
    "title": "Nikon raised full-year profit forecast by 50%, but trimmed imaging sales outlook",
@@ -1676,15 +1721,6 @@
    "date": "2026-10-30T09:30:00.000Z"
   },
   {
-   "title": "Community safety report and new protections for teens",
-   "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-   "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
-   "image": "",
-   "source": "OpenAI",
-   "category": "ai",
-   "date": "2026-10-30T09:00:00.000Z"
-  },
-  {
    "title": "Sony Announces a 50MP Sensor With Up to 17 Stops of Dynamic Range and 4K 120 FPS",
    "link": "https://ymcinema.com/2026/10/30/sony-50mp-sensor-17-stops-4k-120fps/",
    "summary": "Sony Semiconductor Solutions has announced the LYTIA 720, a new 50-megapixel stacked CMOS image sensor capable of recording 4K video at up to 120 FPS and delivering a claimed 100 dB dynamic range. That translates to appr",
@@ -1721,15 +1757,6 @@
    "date": "2026-10-30T01:21:07.000Z"
   },
   {
-   "title": "Fair use benefits everyone",
-   "link": "https://openai.com/index/fair-use-benefits-everyone",
-   "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
-   "image": "",
-   "source": "OpenAI",
-   "category": "ai",
-   "date": "2026-10-30T00:00:00.000Z"
-  },
-  {
    "title": "Nikon Nikkor Z 120-300mm f/2.8 TC VR S lens product tour, first impression videos",
    "link": "https://nikonrumors.com/2026/10/29/nikon-nikkor-z-120-300mm-f-2-8-tc-vr-s-lens-product-tour-first-impression-videos.aspx/",
    "summary": "Here are a few Nikon Nikkor Z 120-300mm f/2.8 TC VR S lens product tour and first impression videos (pre-orders: B&H | WEX | Erhardt | Canada): The post Nikon Nikkor Z 120-300mm f/2.8 TC VR S lens product tour, first imp",
@@ -1737,15 +1764,6 @@
    "source": "Nikon Rumors",
    "category": "photo",
    "date": "2026-10-29T23:46:29.000Z"
-  },
-  {
-   "title": "Threads tests smaller group sharing option",
-   "link": "https://www.socialmediatoday.com/news/threads-tests-smaller-group-sharing-option/873271/",
-   "summary": "Threads Friends is similar to Instagram&rsquo;s Close Friends feature and allows users to add up to 50 connections.",
-   "image": "https://imgproxy.divecdn.com/WtVwuvPQucR0rUzMtUQpYml2_BnBh7RJ_Yvc4iKkzcw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aHJlYWRzX25ld19sb2dvLnBuZw==.webp",
-   "source": "Social Media Today",
-   "category": "instagram",
-   "date": "2026-10-29T23:07:15.000Z"
   },
   {
    "title": "Should You Run Ads on Both Meta and TikTok? What 44,000 Advertisers Show About Adding a Second Platform",
@@ -2234,15 +2252,6 @@
    "date": "2026-10-27T18:49:08.000Z"
   },
   {
-   "title": "Build specialized multimodal models with LFM3",
-   "link": "https://huggingface.co/blog/LiquidAI/lfm3",
-   "summary": "",
-   "image": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/wEKXxH6qGa7vmHjn5KA-W.png",
-   "source": "Hugging Face",
-   "category": "ai",
-   "date": "2026-10-27T17:16:52.000Z"
-  },
-  {
    "title": "Is a Partially Stacked Sensor Coming to the Canon EOS R7 Mark II?",
    "link": "https://www.canonrumors.com/is-a-partially-stacked-sensor-coming-to-the-canon-eos-r7-mark-ii/",
    "summary": "The Canon EOS R7 Mark II is slated for a Q1 2027 release. We haven’t anything to dispute that as of yet, so that’s what we’re rolling with. Not much has come our way in a month or so letting us know what we can expect, b",
@@ -2387,15 +2396,6 @@
    "date": "2026-10-23T09:00:00.000Z"
   },
   {
-   "title": "Designing an AI serving harness built to last",
-   "link": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-   "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has center",
-   "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/GettyImages-2188328005_9f1d59-e1791493652782.jpg?w=840",
-   "source": "MIT Tech Review",
-   "category": "ai",
-   "date": "2026-10-22T21:17:29.000Z"
-  },
-  {
    "title": "The Secrets of Human Behavior Applied to Social Ads",
    "link": "https://www.socialmediaexaminer.com/the-secrets-of-human-behavior-applied-to-social-ads/",
    "summary": "Struggling to create Facebook, Instagram, or TikTok ads that people remember long enough to buy from you? Wondering how consumer psychology can tell you why your winning ads work and how to repeat that success? In this a",
@@ -2531,9 +2531,9 @@
    "date": "2026-10-14T21:57:42.000Z"
   },
   {
-   "title": "13 Trending Sounds on Instagram in October 2026 (+ How to Use Them)",
+   "title": "13 Trending Sounds on Instagram in November 2026 (+ How to Use Them)",
    "link": "https://buffer.com/resources/trending-audio-instagram/",
-   "summary": "Stop chasing the tail-end of Instagram audio trends — here are the latest trending songs on Instagram in October 2026.",
+   "summary": "Stop chasing the tail-end of Instagram audio trends — here are the latest trending songs on Instagram in November 2026.",
    "image": "https://storage.ghost.io/c/6d/21/6d217297-aa70-41fe-b68d-e29e411dd3ed/content/images/2025/11/TrendingSounds-Instagram.png",
    "source": "Buffer",
    "category": "instagram",
