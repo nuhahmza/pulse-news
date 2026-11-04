@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-03T22:14:55.841Z",
+ "updated": "2026-11-04T02:36:22.314Z",
  "items": [
+  {
+   "title": "The biggest modding site in PC gaming is taking a stance on AI",
+   "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+   "summary": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today ",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STK414_AI_CVIRGINIA_2_C-2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-11-04T00:42:10.000Z"
+  },
+  {
+   "title": "Please stop asking me when the AI bubble will pop",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+   "summary": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the mar",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2302813651.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-11-03T23:37:45.000Z"
+  },
+  {
+   "title": "Anthropic is working on a system to prove AI models’ identity",
+   "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+   "summary": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294192768.jpg?resize=1200,798",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-11-03T22:41:03.000Z"
+  },
+  {
+   "title": "Where to Find the Small Worlds Most Photographers Walk Past",
+   "link": "https://petapixel.com/2026/11/03/where-to-find-the-small-worlds-most-photographers-walk-past/",
+   "summary": "Peter Baumgarten was looking for centimeter-tall mushrooms when he spotted a cluster of orange caps on a rotting log. A few warm, rainy days had encouraged mushrooms to emerge in Canada’s McLean’s Park, a forest on Ontar",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-11-03T22:30:08.000Z"
+  },
+  {
+   "title": "Data centers are turning to old jet engines as the wait for power grows",
+   "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+   "summary": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/Commercial-plane-clouds.jpg?w=719",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-11-03T22:19:53.000Z"
+  },
+  {
+   "title": "The Preacher Who Patented Flexible Film in 1898 and Died Before Kodak Paid $5 Million for It",
+   "link": "https://fstoppers.com/film/preacher-who-patented-flexible-film-1898-and-died-kodak-paid-5-million-it-904435?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "Hannibal Goodwin's application for a photographic pellicle reached the Patent Office on May 2, 1887, and stayed there for eleven years and four months while a succession of five examiners rejected it. George Eastman's ch",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/09/goodwin-lead-1000x570.jpg.webp?itok=sLHf6JbV",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-11-03T22:03:01.000Z"
+  },
   {
    "title": "How Fincher and Tarantino Carved Down a 230-Page Script for ‘Cliff Booth’",
    "link": "https://nofilmschool.com/fincher-tarantino-cliff-booth",
@@ -22,7 +76,7 @@
   {
    "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
    "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-   "summary": "Cybersecurity focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+   "summary": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
    "image": "https://techcrunch.com/wp-content/uploads/2025/04/Ballistic-Ventures-GP-team.jpg?resize=1200,801",
    "source": "TechCrunch",
    "category": "ai",
@@ -138,7 +192,7 @@
   },
   {
    "title": "Want an iPhone Duo for the holidays? Apple’s latest stock update isn’t reassuring",
-   "link": "https://www.zdnet.com/uncategorized/santas-sleigh-may-be-missing-iphone-duos-in-time-for-christmas-what-apple-revealed-in-its-earnings-call/",
+   "link": "https://www.zdnet.com/tech/apple-foldable-iphone-duo-stock-shortage/",
    "summary": "The iPhone Duo likely won’t make it into Santa’s sleigh this year. Here’s what Apple had to say about it.",
    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/DSC01150.jpeg",
    "source": "ZDNet",
@@ -517,7 +571,7 @@
   {
    "title": "Adobe adds licensed UMG and Warner Music tracks to Premiere Mobile",
    "link": "https://www.newsshooter.com/2026/11/03/adobe-adds-licensed-umg-and-warner-music-tracks-to-premiere-mobile/",
-   "summary": "Adobe has announced a licensing deal with Universal Music Group (UMG) and Warner Music Group (WMG) that will put commercial music from both labels inside Premiere mobile, Adobe’s free video editing app. All of the music ",
+   "summary": "Adobe has announced a licensing deal with Universal Music Group (UMG) and Warner Music Group (WMG) that will put commercial music from both labels inside Premiere Mobile, Adobe’s free video editing app. All of the music ",
    "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/Premiere-mobile-x-UMG-WMG.jpg",
    "source": "Newsshooter",
    "category": "video",
@@ -542,15 +596,6 @@
    "date": "2026-11-03T15:36:42.000Z"
   },
   {
-   "title": "Apple is all in on AI — its own and everyone else’s",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
-   "summary": "Apple's latest earnings show how it's continuing to capitalize on the AI boom without busting its budget on the infrastructure spending consuming its competitors. Overall, Apple posted its best-ever fiscal year for reven",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2301906266.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-11-03T15:24:51.000Z"
-  },
-  {
    "title": "TikTok AI disclosure policy: What to label (organic + ads)",
    "link": "https://blog.hootsuite.com/ai-disclosure-policy-for-tiktok/",
    "summary": "AI is welcome on TikTok, as long as you label it. Here’s what needs a label, what doesn’t, and how to add one before TikTok does it for you. The post TikTok AI disclosure policy: What to label (organic + ads) appeared fi",
@@ -567,15 +612,6 @@
    "source": "The Decoder",
    "category": "ai",
    "date": "2026-11-03T15:03:02.000Z"
-  },
-  {
-   "title": "OpenAI is quietly renaming data centers ‘compute campuses’",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1025242/openai-quietly-renames-data-centers-as-compute-campuses",
-   "summary": "People hate data centers. They're loud, resource-hungry eyesores that are so profoundly unpopular they have managed to achieve the near-impossible in today's polarized political landscape: genuine bipartisan opposition. ",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2236733575.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-11-03T15:00:44.000Z"
   },
   {
    "title": "Adobe Expands Music Options in Premiere Mobile With Major Music Group Partnerships",
@@ -605,9 +641,9 @@
    "date": "2026-11-03T14:34:05.000Z"
   },
   {
-   "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+   "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on November 4",
    "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
-   "summary": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
+   "summary": "On November 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
    "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-networking_2.jpg?resize=1200,800",
    "source": "TechCrunch",
    "category": "ai",
@@ -1064,15 +1100,6 @@
    "date": "2026-11-02T23:21:03.000Z"
   },
   {
-   "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-   "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-   "summary": "The one-year-old startup is now valued at $300 million.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Trajectory_3.jpg?resize=1200,900",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-11-02T23:13:53.000Z"
-  },
-  {
    "title": "5 TV Shows That Played in Movie Theaters (& Made Bank)",
    "link": "https://nofilmschool.com/5-tv-shows-successful-in-movie-theaters",
    "summary": "It was recently announced that Crave’s smash-hit LGBTQ+ hockey romance series Heated Rivalry will be playing in U.S. theaters throughout November in three two-episode packages. While this might seem like an unusual move ",
@@ -1084,7 +1111,7 @@
   {
    "title": "TikTok adds new brand safety resources",
    "link": "https://www.socialmediatoday.com/news/tiktok-adds-new-brand-safety-resources/873529/",
-   "summary": "The company offered brands protection features designed to help identify potential risks, including copyright and counterfeit detection tools.",
+   "summary": "The features are designed to help identify potential risks and include copyright and counterfeit detection tools.",
    "image": "https://imgproxy.divecdn.com/uJILKCTaAEJ1EzAssbuegpTmAUH7xf0xlK8riB3Z9Oc/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfYnJhbmRfc2FmZXR5X2NlbnRlcl8ySHZReFZzLnBuZw==.webp",
    "source": "Social Media Today",
    "category": "tiktok",
@@ -1098,15 +1125,6 @@
    "source": "No Film School",
    "category": "video",
    "date": "2026-11-02T22:33:46.000Z"
-  },
-  {
-   "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-   "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-   "summary": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Recursive-Neural-Spiral-in-Circuitry.png?resize=1200,600",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-11-02T22:14:50.000Z"
   },
   {
    "title": "The eerie atmosphere of liminal spaces, captured by DPReview readers",
@@ -1172,9 +1190,9 @@
    "date": "2026-11-02T20:00:03.000Z"
   },
   {
-   "title": "TikTok inks new content deal with WTA",
-   "link": "https://www.socialmediatoday.com/news/tiktok-inks-new-content-deal-with-wta/873502/",
-   "summary": "The partnership will expand the existing relationship and include livestream women&rsquo;s tennis coverage as well as behind-the-scenes insights.",
+   "title": "TikTok inks new content deal with Women’s Tennis Association",
+   "link": "https://www.socialmediatoday.com/news/tiktok-inks-new-content-deal-with-womens-tennis-association/873502/",
+   "summary": "The partnership expands an existing relationship and will include livestreamed coverage and behind-the-scenes content.",
    "image": "https://imgproxy.divecdn.com/oOjO0WmNy4RtJVuH5FepY5jJzjy45uQEOYMrW3Hg4co/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90aWt0b2tfd3RhLnBuZw==.webp",
    "source": "Social Media Today",
    "category": "tiktok",
@@ -1253,15 +1271,6 @@
    "date": "2026-11-02T18:31:24.000Z"
   },
   {
-   "title": "OM Exec Says Company Considered Expanding Into Larger Formats",
-   "link": "https://petapixel.com/2026/11/02/om-exec-says-company-considered-expanding-into-larger-formats/",
-   "summary": "Two longtime OM Digital Solutions (OMDS) executives sat down for a Japanese-language interview on OM's YouTube channel, covering a wide range of topics, including the company's development philosophy, whether it should d",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-11-02T18:28:59.000Z"
-  },
-  {
    "title": "DJI’s 17-Stop, 1-Inch CMOS Pocket 4P Pearl White Hits Amazon for $741",
    "link": "https://ymcinema.com/2026/11/02/dji-osmo-pocket-4p-pearl-white-amazon/",
    "summary": "DJI’s Osmo Pocket 4P Pearl White is now listed on Amazon for $740.55, despite the camera remaining unavailable through major authorized US retailers. The dual-lens pocket camera features a 1-inch CMOS sensor with a claim",
@@ -1289,18 +1298,18 @@
    "date": "2026-11-02T18:03:02.000Z"
   },
   {
-   "title": "Preparing our next security sprint to harden OpenAI",
-   "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-   "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+   "title": "Rewarding defenders with bigger bug bounties",
+   "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+   "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
    "image": "",
    "source": "OpenAI",
    "category": "ai",
    "date": "2026-11-02T18:00:00.000Z"
   },
   {
-   "title": "Rewarding defenders with bigger bug bounties",
-   "link": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-   "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+   "title": "Preparing our next security sprint to harden OpenAI",
+   "link": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+   "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
    "image": "",
    "source": "OpenAI",
    "category": "ai",
@@ -1638,15 +1647,6 @@
    "source": "Fuji Rumors",
    "category": "photo",
    "date": "2026-11-01T17:10:44.000Z"
-  },
-  {
-   "title": "The One Thing I Want Most for My Nikon Zf",
-   "link": "https://fstoppers.com/gear/one-thing-i-want-most-my-nikon-zf-904955?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "In today’s article, I am going to shamelessly beg Nikon to add one very specific feature to what is already my favorite camera body. [ Read More ]",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/zf_sl_z40_2_se_front.jpg.webp?itok=bMsVBwGO",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-11-01T17:03:01.000Z"
   },
   {
    "title": "Sigma AF 50-120mmF2.8 Review by ePz: Excellent Performance and Well-Priced",
@@ -2603,20 +2603,20 @@
    "date": "2026-10-01T13:30:00.000Z"
   },
   {
-   "title": "Instagram rolls out an AI video assistant for creators",
-   "link": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
-   "summary": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
-   "image": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801",
-   "source": "TechCrunch",
-   "category": "instagram",
-   "date": "2026-09-30T14:30:00.000Z"
-  },
-  {
    "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
    "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
    "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creati",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK070__01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "source": "The Verge",
+   "category": "instagram",
+   "date": "2026-09-30T14:30:00.000Z"
+  },
+  {
+   "title": "Instagram rolls out an AI video assistant for creators",
+   "link": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
+   "summary": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801",
+   "source": "TechCrunch",
    "category": "instagram",
    "date": "2026-09-30T14:30:00.000Z"
   },
