@@ -1,6 +1,123 @@
 {
- "updated": "2026-11-05T21:51:42.703Z",
+ "updated": "2026-11-06T02:07:04.560Z",
  "items": [
+  {
+   "title": "OpenAI is stepping back from NDAs for data center projects",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+   "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-11-06T00:37:56.000Z"
+  },
+  {
+   "title": "FxFactory PhotoAwake 3D for Final Cut Pro",
+   "link": "https://www.newsshooter.com/2026/11/05/fxfactory-photoawake-3d-for-final-cut-pro/",
+   "summary": "FxFactory PhotoAwake 3D for Final Cut Pro is a plug-in that can transform flat, 2D still photographs into immersive 3D-style scenes using AI-driven depth mapping and parallax camera movements. AI Depth Analysis provides ",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-9.30.03.png",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-11-06T00:32:51.000Z"
+  },
+  {
+   "title": "Avid Pro Tools 2026.11",
+   "link": "https://www.newsshooter.com/2026/11/05/avid-pro-tools-2026-11/",
+   "summary": "Avid has released Pro Tools 2026.11, which features AI-powered stem separation and a new Extensions format that brings third-party sound libraries and creative tools directly into Pro Tools. Pro Tools Extensions lets use",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/Pro-Tools.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-11-06T00:20:36.000Z"
+  },
+  {
+   "title": "Airbnb is working on an AI travel agent",
+   "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+   "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple,",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/acastro_STK090_06.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-11-06T00:06:12.000Z"
+  },
+  {
+   "title": "Meta, Google, and TikTok sue California AG over teen social media law",
+   "link": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+   "summary": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2268918823.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "category": "tiktok",
+   "date": "2026-11-06T00:01:38.000Z"
+  },
+  {
+   "title": "iZotope Photon GPU-powered audio processing software",
+   "link": "https://www.newsshooter.com/2026/11/05/izotope-photon-gpu-powered-audio-processing-software/",
+   "summary": "iZotope has announced Photon, GPU-powered audio processing software that features 12 machine learning models and performs high-speed processing for noise removal and audio separation. It also supports direct input and ou",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-8.47.48.png",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-11-05T23:57:45.000Z"
+  },
+  {
+   "title": "New Bluetooth HDT Standard",
+   "link": "https://www.newsshooter.com/2026/11/05/new-bluetooth-hdt-standard/",
+   "summary": "A new Bluetooth HDT Standard that provides approximately four times the data transfer rate, increased capacity, better energy efficiency, and enhanced reliability has been officially approved. The Bluetooth SIG (Bluetoot",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/Bluetooth.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-11-05T23:38:46.000Z"
+  },
+  {
+   "title": "Sony FX6 Firmware Update Ver. 6.02",
+   "link": "https://www.newsshooter.com/2026/11/05/sony-fx6-firmware-update-ver-6-02/",
+   "summary": "Sony has released the FX6 Firmware Update Ver. 6.02. This is a small update that fixed an issue where, in very rare cases, if an error occurred in one media slot during simultaneous recording from both slots, recording i",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-8.21.15.png",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-11-05T23:21:49.000Z"
+  },
+  {
+   "title": "Atomos AtomOS 11.08.01 Firmware Update for Shinobi 7 II",
+   "link": "https://www.newsshooter.com/2026/11/05/atomos-atomos-11-08-01-firmware-update-for-shinobi-7-ii/",
+   "summary": "The Atomos AtomOS 11.08.01 Firmware Update for the Shinobi 7 II adds Ethernet camera control support for the following cameras: The new firmware update allows you to connect a Canon Cinema EOS C50, EOS C80, EOS C400 came",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/SHINOBI-7-II.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-11-05T23:15:12.000Z"
+  },
+  {
+   "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+   "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+   "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/05/Airbnb-Summer-feat.jpg?resize=1200,675",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-11-05T22:40:55.000Z"
+  },
+  {
+   "title": "Perplexity launches its own take on AI agents for work",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+   "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-11-05T22:26:50.000Z"
+  },
+  {
+   "title": "Glyph Continues Its Expansion into Creator Support with New Card Readers",
+   "link": "https://petapixel.com/2026/11/05/glyph-continues-its-expansion-into-creator-support-with-new-card-readers/",
+   "summary": "Earlier this year, Glyph pushed hard into the creator space with the launch of new SSDs and a line of CFexpress memory cards. It is continuing that trend with the announcement of memory card readers. [ Read More ]",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-11-05T22:26:14.000Z"
+  },
+  {
+   "title": "Your Rough Cut Is Stuck in the Hunt, Not the Cut",
+   "link": "https://nofilmschool.com/your-rough-cut-is-stuck-in-the-hunt-not-the-cut",
+   "summary": "It’s late. You’ve got ninety minutes of interview, a bin of B-roll labeled C0047 through C0212, and a cut due in the morning. You remember a shot of someone laughing by a window. You have no idea which clip it’s in. The ",
+   "image": "https://nofilmschool.com/media-library/image.png?id=68577945&width=980",
+   "source": "No Film School",
+   "category": "video",
+   "date": "2026-11-05T22:15:04.000Z"
+  },
   {
    "title": "Stare Straight Into Your Subject’s Soul With This Strange New Camera",
    "link": "https://petapixel.com/2026/11/05/stare-straight-into-your-subjects-soul-with-this-strange-new-camera/",
@@ -81,6 +198,15 @@
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-11-05T20:10:29.000Z"
+  },
+  {
+   "title": "Cult.fit builds operational muscle with Codex",
+   "link": "https://openai.com/index/cultfit-builds-with-codex",
+   "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+   "image": "",
+   "source": "OpenAI",
+   "category": "ai",
+   "date": "2026-11-05T20:00:00.000Z"
   },
   {
    "title": "Meta says US users can now video chat with their Muse AI avatar",
@@ -220,7 +346,7 @@
   {
    "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
    "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-   "summary": "OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.",
+   "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
    "image": "https://techcrunch.com/wp-content/uploads/2019/10/Greg-Brockman-OpenAIDSC02862.jpg?resize=1200,800",
    "source": "TechCrunch",
    "category": "ai",
@@ -356,7 +482,7 @@
    "title": "The Fifty: VSCO Reveals the Final 25 Photographers in Its Nationwide Billboard Exhibition",
    "link": "https://petapixel.com/2026/11/05/the-fifty-vsco-reveals-the-final-25-photographers-in-its-nationwide-billboard-exhibition/",
    "summary": "VSCO has announced the second half of its The Fifty campaign, a nationwide billboard-based exhibition that is celebrating one photographer in every U.S. state via large-format public displays in their home markets. [ Rea",
-   "image": "",
+   "image": "https://petapixel.com/assets/uploads/2026/11/VSCO-Reveals-the-Final-25-Photographers-in-The-Fifty-Billboard-Exhibition.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-11-05T17:00:06.000Z"
@@ -419,7 +545,7 @@
    "title": "Reddit Founder Says Building Social Media Apps Is ‘Not Cool Anymore’",
    "link": "https://www.wired.com/story/wired-world-fair-2026-alexis-ohanian/",
    "summary": "Alexis Ohanian is trying to figure out what’s next for user-generated content now that so much of the internet is “compromised.”",
-   "image": "https://media.wired.com/photos/6aeb6340d999be8b2afde39b/master/pass/WWF-Placeholder-Alexis-Ohanian.jpg",
+   "image": "https://media.wired.com/photos/6aed1ceece26120992b0cc1a/master/pass/WWF-Alexis-Ohanian-10457.jpg",
    "source": "WIRED",
    "category": "ai",
    "date": "2026-11-05T16:26:57.000Z"
@@ -857,15 +983,6 @@
    "date": "2026-11-05T11:11:06.000Z"
   },
   {
-   "title": "Big Tech’s big AI buildout will not end until someone stops it",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1027344/amazon-microsoft-alphabet-google-meta-data-centers-earnings-q3",
-   "summary": "After four of the biggest competitors in the AI race held quarterly earnings calls late last month, two things are clear: Big Tech is not done spending record amounts on the AI data center buildout, and the AI data cente",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-11-05T10:45:00.000Z"
-  },
-  {
    "title": "3 Ways to Select Anything in Photoshop, From the Lasso Tool to AI",
    "link": "https://fstoppers.com/education/3-ways-select-anything-photoshop-lasso-tool-ai-905422?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
    "summary": "Almost every Photoshop edit beyond a global adjustment starts with telling the software which pixels to touch. Get that step wrong, and every brightening pass, color shift, and composite you build on top of it shows its ",
@@ -900,6 +1017,15 @@
    "source": "OpenAI",
    "category": "ai",
    "date": "2026-11-05T09:00:00.000Z"
+  },
+  {
+   "title": "Merge builds product and business tools with OpenAI technology",
+   "link": "https://openai.com/index/merge-builds-with-openai",
+   "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updates.",
+   "image": "",
+   "source": "OpenAI",
+   "category": "ai",
+   "date": "2026-11-05T08:00:00.000Z"
   },
   {
    "title": "DaVinci Resolve 21.2 Goes Touchscreen on MacBook Pro",
@@ -1037,13 +1163,22 @@
    "date": "2026-11-05T00:58:26.000Z"
   },
   {
-   "title": "How Editor Sofi Marshall Wove Together Black Bear’s Bawdy and Heartwarming Fable 'Wicker'",
-   "link": "https://nofilmschool.com/how-editor-sofi-marshall-wove-together-black-bears-bawdy-and-heartwarming-fable-wicker",
-   "summary": "Alex Huston Fischer and Eleanor Wilson’s Wicker follows an ostracized Fisherwoman (Olivia Colman) who commissions and falls in love with a Wicker Husband (Alexander Skarsgård), drawing together practical effects and tech",
-   "image": "https://nofilmschool.com/media-library/wicked.jpg?id=68596398&width=980",
-   "source": "No Film School",
-   "category": "video",
-   "date": "2026-11-05T00:15:02.000Z"
+   "title": "Flipsnack grows product signups with conversion optimization",
+   "link": "https://openai.com/ads/customers/flipsnack",
+   "summary": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the cost per signup.",
+   "image": "",
+   "source": "OpenAI",
+   "category": "ai",
+   "date": "2026-11-05T00:45:15.000Z"
+  },
+  {
+   "title": "Franklin Templeton uses OpenAI to support investment research",
+   "link": "https://openai.com/index/franklin-templeton",
+   "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks.",
+   "image": "",
+   "source": "OpenAI",
+   "category": "ai",
+   "date": "2026-11-05T00:00:00.000Z"
   },
   {
    "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
@@ -1082,24 +1217,6 @@
    "date": "2026-11-04T22:45:09.000Z"
   },
   {
-   "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-   "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24007992/acastro_STK082_qualcomm_02.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-11-04T22:42:15.000Z"
-  },
-  {
-   "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-   "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-   "summary": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
-   "image": "https://techcrunch.com/wp-content/uploads/2024/02/2560x2040_5fe778b6-8919-4143-bf11-8d86af754f52_2192x.webp?resize=1200,956",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-11-04T22:13:16.000Z"
-  },
-  {
    "title": "Kodachrome Ended in Parsons, Kansas: Dwayne's Photo Ran the Last Roll on January 18, 2011",
    "link": "https://fstoppers.com/film/kodachrome-ended-parsons-kansas-dwaynes-photo-ran-last-roll-january-18-2011-904436?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
    "summary": "In the last week of December 2010, a railroad worker named Jim DeNike drove from Arkansas to Parsons, Kansas, and loaded a dozen boxes holding nearly 50,000 slides into an old maroon Pontiac. He had sent Dwayne's Photo 1",
@@ -1107,24 +1224,6 @@
    "source": "Fstoppers",
    "category": "photo",
    "date": "2026-11-04T22:03:02.000Z"
-  },
-  {
-   "title": "17 better ways Elon Musk could have wasted $446 million",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
-   "summary": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/268859_How_the_tech_right_could_have_spent_all_the_money_they_burned_on_the_midterms_CVirginia.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-11-04T21:45:00.000Z"
-  },
-  {
-   "title": "The Art of the Panoramic Aspect Ratio",
-   "link": "https://petapixel.com/2026/11/04/the-art-of-the-panoramic-aspect-ratio/",
-   "summary": "Panoramic compositions offer another way to present a scene, preserving its horizontal breadth and giving the frame a different sense of scale, movement, and visual balance. They can be extremely powerful. [ Read More ]",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-11-04T21:30:31.000Z"
   },
   {
    "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
@@ -1433,15 +1532,6 @@
    "date": "2026-11-04T08:50:36.000Z"
   },
   {
-   "title": "A thousand fewer paths to root",
-   "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-   "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-   "image": "",
-   "source": "OpenAI",
-   "category": "ai",
-   "date": "2026-11-04T08:00:00.000Z"
-  },
-  {
    "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
    "link": "https://openai.com/index/daybreak-red-aws-govcloud",
    "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
@@ -1512,24 +1602,6 @@
    "source": "Newsshooter",
    "category": "video",
    "date": "2026-11-04T04:00:51.000Z"
-  },
-  {
-   "title": "Introducing Images 2.6",
-   "link": "https://openai.com/index/introducing-images-2-6",
-   "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
-   "image": "",
-   "source": "OpenAI",
-   "category": "ai",
-   "date": "2026-11-04T00:00:00.000Z"
-  },
-  {
-   "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-   "link": "https://openai.com/index/devrev-enterprise-self-service",
-   "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-   "image": "",
-   "source": "OpenAI",
-   "category": "ai",
-   "date": "2026-11-04T00:00:00.000Z"
   },
   {
    "title": "The Preacher Who Patented Flexible Film in 1898 and Died Before Kodak Paid $5 Million for It",
@@ -1730,33 +1802,6 @@
    "date": "2026-11-03T13:00:00.000Z"
   },
   {
-   "title": "Accelerating engineering for the physical world",
-   "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-   "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-   "image": "",
-   "source": "OpenAI",
-   "category": "ai",
-   "date": "2026-11-03T12:00:00.000Z"
-  },
-  {
-   "title": "Save $500 USD on the Sachtler aktiv8T flowtech75 MS Tripod System",
-   "link": "https://www.newsshooter.com/2026/11/03/save-500-usd-on-the-sachtler-aktiv8t-flowtech75-ms-tripod-system/",
-   "summary": "You can save $500 USD on the Sachtler aktiv8T flowtech75 MS Tripod System and purchase it for $2,496 USD. Key features The aktiv8T flowtech75 MS Tripod System pairs the activ8T fluid head with the lightweight, carbon fib",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/Untitled-Project.jpg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-11-03T11:38:18.000Z"
-  },
-  {
-   "title": "TARION Titanrig Foldable Production Cart (Base Model, Black) on sale for $299.99 USD",
-   "link": "https://www.newsshooter.com/2026/11/03/tarion-titanrig-foldable-production-cart-base-model-black-on-sale-for-299-99-usd/",
-   "summary": "The TARION Titanrig Foldable Production Cart (Base Model, Black) is on sale for $299.99 USD, which is a discount of $150 USD. Key features The base model Titanrig Foldable Production Cart is a lightweight, compact, and f",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-20.30.55.png",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-11-03T11:32:36.000Z"
-  },
-  {
    "title": "How “reverse game theory” could keep AI agents in check",
    "link": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
    "summary": "A new approach known as “reverse game theory” aims to control powerful AI models by designing systems that incentivize them to stick to the rules. As AI models become more capable, safety researchers are scrambling to en",
@@ -1791,42 +1836,6 @@
    "source": "MIT Tech Review",
    "category": "ai",
    "date": "2026-11-03T04:18:47.000Z"
-  },
-  {
-   "title": "Deity has released the PR-2ii Pocket Recorder",
-   "link": "https://www.newsshooter.com/2026/11/02/deity-has-released-the-pr-2ii-pocket-recorder/",
-   "summary": "Deity Microphones has released the PR-2ii, the second generation of its PR-2 pocket recorder. The PR-2ii is now available at B&H for $259 USD with a lavalier microphone included. The PR-2ii is a 2-input, 2-track wearable",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/Deity-PR-2ii-main-1.jpg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-11-03T01:33:32.000Z"
-  },
-  {
-   "title": "SANWA Ultra-Compact Switching Hub that Splits a Single LAN Cable to Two Devices",
-   "link": "https://www.newsshooter.com/2026/11/02/sanwa-ultra-compact-switching-hub-that-splits-a-single-lan-cable-to-two-devices/",
-   "summary": "Japanese company SANWA has announced a Ultra-Compact Switching Hub that splits a single LAN cable to two devices and supports magnetic and wall mounting placement. The LAN-GIGAC302MG 3-port switching hub is just 57 mm wi",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/SANWA.jpg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-11-03T01:11:07.000Z"
-  },
-  {
-   "title": "GoPro & AGV have made the World’s First Integrated Tech-Enabled Helmet",
-   "link": "https://www.newsshooter.com/2026/11/02/gopro-agv-have-made-the-worlds-first-integrated-tech-enabled-helmet/",
-   "summary": "GoPro and AGV are teasing what they are claiming is the World’s first integrated tech-enabled helmet. This is just a teaser and there is very little information about the final product, however, it is likely to include a",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-9.51.44-AM.jpeg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-11-03T00:54:23.000Z"
-  },
-  {
-   "title": "Save $1,812 USD on the SANDISK 4TB Optimus GX PRO 8100 NVMe PCIe 5.0 M.2 Internal SSD",
-   "link": "https://www.newsshooter.com/2026/11/02/save-1812-usd-on-the-sandisk-4tb-optimus-gx-pro-8100-nvme-pcie-5-0-m-2-internal-ssd/",
-   "summary": "You can save $1,812 USD on the SANDISK 4TB Optimus GX PRO 8100 NVMe PCIe 5.0 M.2 Internal SSD and purchase it for $949.99 USD. Key features The 4TB Optimus GX PRO 8100 NVMe PCIe 5.0 M.2 Internal SSD was built for worksta",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/SANDISK.jpg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-11-03T00:25:48.000Z"
   },
   {
    "title": "CWE-bench v2: More coverage, quality, and transparency",
