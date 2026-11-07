@@ -1,6 +1,51 @@
 {
- "updated": "2026-11-07T15:51:03.056Z",
+ "updated": "2026-11-07T20:02:42.273Z",
  "items": [
+  {
+   "title": "Camera improvements: Will AI mods fix Framerate Malpractice before the guilty manufacturers bother to do it themselves?",
+   "link": "https://www.provideocoalition.com/camera-improvements-will-ai-mods-fix-framerate-malpractice-before-the-guilty-manufacturers-bother-to-do-it-themselves/",
+   "summary": "So far, I have covered two camera manufacturers which are guilty of Framerate Malpractice. They are GoPro and Sony (in part of its line). Later, I discovered that DJI is equally guilty, thanks to informant Ernesto Morale",
+   "image": "https://www.provideocoalition.com/wp-content/uploads/Sony-A7S-III-rounded-framerates.png",
+   "source": "ProVideo Coalition",
+   "category": "video",
+   "date": "2026-11-07T19:32:48.000Z"
+  },
+  {
+   "title": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation",
+   "link": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/",
+   "summary": "Despite the tech selloff, Anthropic is pressing ahead with its IPO at a valuation of $1.25 to $1.75 trillion, well below the hoped-for $2 trillion. The Claude developer aims to raise $80 to $100 billion before Thanksgivi",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/07/anthropic_logoreihe.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-11-07T17:37:25.000Z"
+  },
+  {
+   "title": "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds",
+   "link": "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/",
+   "summary": "AI models can often spot problematic behavior by other AI agents in logs, according to a study by Anthropic researcher Andy Hall. GPT-5 found about 98 percent of reward-hacking cases, but the more exhaustively the search",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/ai_auditing_reliability.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-11-07T16:56:38.000Z"
+  },
+  {
+   "title": "Thinking Machines' Inkling 2 Small drops 316 F-bombs across benchmark runs",
+   "link": "https://the-decoder.com/thinking-machines-inkling-2-small-drops-316-f-bombs-across-benchmark-runs/",
+   "summary": "Thinking Machines' AI model Inkling 2 Small swears during its internal reasoning, 316 times across 2,655 benchmark runs, according to an analysis by Vals AI. The profanity typically shows up late in long runs that fail a",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/neural_network_black.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-11-07T16:31:00.000Z"
+  },
+  {
+   "title": "The 3 Lenses One Pro Would Buy at $300, $750, and $1,500",
+   "link": "https://fstoppers.com/education/3-lenses-one-pro-would-buy-300-750-and-1500-905451?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "A lens is usually the biggest purchase you make after the camera itself, and the spread runs from a $300 35mm prime to a Sony G Master zoom that costs well past $2,000. Spending more feels like the safe move, yet a prici",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_22.jpg.webp?itok=JFueOSli",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-11-07T16:03:01.000Z"
+  },
   {
    "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
    "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
@@ -54,6 +99,15 @@
    "source": "Y.M.Cinema",
    "category": "video",
    "date": "2026-11-07T14:55:38.000Z"
+  },
+  {
+   "title": "Why a Former Velvia Shooter Now Turns His Saturation Down",
+   "link": "https://fstoppers.com/education/why-former-velvia-shooter-now-turns-his-saturation-down-905450?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "Camera makers, Fujifilm in particular, treat color science as a reason to buy into their systems, and plenty of people pick a brand on that point alone. If you shoot raw files of landscapes or travel scenes, it's fair to",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_21.jpg.webp?itok=tslsrlBG",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-11-07T14:03:01.000Z"
   },
   {
    "title": "Less talk, more photos: Sigma FP2 samples gallery",
@@ -113,7 +167,7 @@
    "title": "Why the Sony a7R VI Let a Portrait Photographer Stop Underexposing",
    "link": "https://fstoppers.com/gear/why-sony-a7r-vi-let-portrait-photographer-stop-underexposing-905449?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
    "summary": "Sony's a7R line has carried a large share of high-resolution portrait and wedding work for a decade, yet each model had a weak point somewhere, usually slow sensor readout or video that was merely passable. The Sony a7R ",
-   "image": "https://fstoppers.com/s3/files/styles/16_9_max_650/s3/lead/2026/11/cover_20.jpg.webp?itok=dq8eLsR1",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_20.jpg.webp?itok=dq8eLsR1",
    "source": "Fstoppers",
    "category": "photo",
    "date": "2026-11-07T12:03:01.000Z"
@@ -659,15 +713,6 @@
    "date": "2026-11-06T15:59:45.000Z"
   },
   {
-   "title": "Frontier Radar #5: If AGI is so close, why is everyone leaving? The neolabs and their bets",
-   "link": "https://the-decoder.com/frontier-radar-5-if-agi-is-so-close-why-is-everyone-leaving-the-neolabs-and-their-bets/",
-   "summary": "OpenAI is talking about the AGI era, and Nvidia CEO Jensen Huang says AGI has arrived. At the same time, co-creators of today's models are leaving OpenAI, Google DeepMind, and Meta to start their own labs, raising billio",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/Frontier-Radar-5-Neolabs.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-11-06T15:55:23.000Z"
-  },
-  {
    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
    "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
    "summary": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
@@ -785,15 +830,6 @@
    "date": "2026-11-06T13:46:36.000Z"
   },
   {
-   "title": "METR finds Anthropic may have crossed its own AI acceleration warning threshold back in July",
-   "link": "https://the-decoder.com/metr-finds-anthropic-may-have-crossed-its-own-ai-acceleration-warning-threshold-back-in-july/",
-   "summary": "Nonprofit METR spent eleven weeks auditing Anthropic's internal research data and concluded that the pace of model development has roughly doubled, with about 80 percent of the speedup driven by AI-assisted research. Ant",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/METR-Anthropic-Report.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-11-06T13:40:07.000Z"
-  },
-  {
    "title": "Flanders Scientific FSI VP & V Series",
    "link": "https://www.newsshooter.com/2026/11/06/flanders-scientific-fsi-vp-v-series/",
    "summary": "Flanders Scientific has introduced the FSI VP and V Series, which are touted to deliver the company’s renowned image quality at a more accessible price. The FSI VP and V Series consists of seven new QD-OLED HDR monitors ",
@@ -801,15 +837,6 @@
    "source": "Newsshooter",
    "category": "video",
    "date": "2026-11-06T13:39:55.000Z"
-  },
-  {
-   "title": "Thinking Machines' Inkling 2 Small claims top spot among western open-weight models",
-   "link": "https://the-decoder.com/thinking-machines-inkling-2-small-claims-top-spot-among-western-open-weight-models/",
-   "summary": "Thinking Machines, the startup from former OpenAI CTO Mira Murati, is releasing Inkling 2 Small, a mixture-of-experts model with 594 billion parameters. The company claims it's the strongest western open-weight model. Be",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/07/thinking_machines_inkling_logo.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-11-06T13:25:09.000Z"
   },
   {
    "title": "Underdog shows off a 32MB speech model in new demo",
@@ -1262,6 +1289,15 @@
    "date": "2026-11-05T17:03:01.000Z"
   },
   {
+   "title": "Meet the photographers selected for VSCO’s US billboard project",
+   "link": "https://www.dpreview.com/photography/meet-the-photographers-selected-for-vscos-us-billboard-project/",
+   "summary": "The Fifty’s completed lineup represents all 50 states, with images exploring everything from family farms to cultural identity.",
+   "image": "https://www.dpreview.com/wp-content/uploads/2026/11/M-GN-vsco-billboard-featured-16x9-Lead-1.jpg",
+   "source": "DPReview",
+   "category": "photo",
+   "date": "2026-11-05T17:00:00.000Z"
+  },
+  {
    "title": "Australian universities are creating AI-native graduates",
    "link": "https://openai.com/index/australian-universities-ai-native-graduates",
    "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
@@ -1277,15 +1313,6 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp",
    "source": "Google AI",
    "category": "ai",
-   "date": "2026-11-05T17:00:00.000Z"
-  },
-  {
-   "title": "Meet the photographers selected for VSCO’s US billboard project",
-   "link": "https://www.dpreview.com/photography/meet-the-photographers-selected-for-vscos-us-billboard-project/",
-   "summary": "The Fifty’s completed lineup represents all 50 states, with images exploring everything from family farms to cultural identity.",
-   "image": "https://www.dpreview.com/wp-content/uploads/2026/11/M-GN-vsco-billboard-featured-16x9-Lead-1.jpg",
-   "source": "DPReview",
-   "category": "photo",
    "date": "2026-11-05T17:00:00.000Z"
   },
   {
@@ -1424,15 +1451,6 @@
    "date": "2026-11-05T14:03:01.000Z"
   },
   {
-   "title": "3 Reasons To Use A Tilt Shift Lens Featuring The Laowa 24mm f/2 Zero-D Tilt-Shift",
-   "link": "https://fstoppers.com/architecture/3-reasons-use-tilt-shift-lens-featuring-laowa-24mm-f2-zero-d-tilt-shift-905416?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "Today I’m going to examine the benefits of using a tilt-shift lens with the help of the brand-new Laowa 24mm f/2 Zero-D Tilt-Shift. First, an admission. I’m not an architectural photographer. In most of my work, faces ta",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/261007-laowa-tilt-shift-on-z9-12.jpg.webp?itok=jfuRDs-J",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-11-05T14:03:01.000Z"
-  },
-  {
    "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
    "link": "https://www.wired.com/story/aina-smart-ring/",
    "summary": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
@@ -1467,15 +1485,6 @@
    "source": "Nikon Rumors",
    "category": "photo",
    "date": "2026-11-05T13:51:48.000Z"
-  },
-  {
-   "title": "Why Nikon's Z 120-300mm f/2.8 TC Is Like Carrying 4 Fast Primes in One",
-   "link": "https://fstoppers.com/gear/why-nikons-z-120-300mm-f28-tc-carrying-4-fast-primes-one-905425?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "Nikon's Z 120-300mm f/2.8 TC VR S is up for preorder at $13,996, and for that money, you get a constant f/2.8 zoom with a 1.4x teleconverter built into the barrel. If you shoot sports, wildlife, events, or anything else ",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_14.jpg.webp?itok=Y5e38yLD",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-11-05T13:03:01.000Z"
   },
   {
    "title": "Finding New Drugs Is Laborious. This AI Startup Is Skipping The Lab Work",
@@ -2097,15 +2106,6 @@
    "source": "MIT Tech Review",
    "category": "ai",
    "date": "2026-11-02T17:00:00.000Z"
-  },
-  {
-   "title": "The Professional’s Guide to Buying a Mac with Apple Silicon",
-   "link": "https://www.provideocoalition.com/the-professionals-guide-to-buying-a-mac-with-apple-silicon/",
-   "summary": "The Professional’s Guide to Buying a Mac with Apple Silicon I’m still on my M1 Max MacBook Pro. I think I should have upgraded last year…and like everyone else I’m trying to do it affordably. Today, it would be an M5 Max",
-   "image": "https://www.provideocoalition.com/wp-content/uploads/2026-03-macbook-neo-color-lineup-1024x683.jpg",
-   "source": "ProVideo Coalition",
-   "category": "video",
-   "date": "2026-11-02T16:47:15.000Z"
   },
   {
    "title": "Instagram Pays Creators Up to $500,000 for Long-Form Features – 90-Minute Videos, TV App, No Ad Share Yet",
