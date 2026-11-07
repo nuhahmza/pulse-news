@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-06T22:16:38.412Z",
+ "updated": "2026-11-07T02:15:49.112Z",
  "items": [
+  {
+   "title": "Crusoe sells troubled Wyoming data center project to Google",
+   "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+   "summary": "The deal highlights the challenges of developing massive AI data centers.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-11-07T01:40:28.000Z"
+  },
+  {
+   "title": "Alpine Linux and OpenSSH patch flaw that’s as bad as it can get",
+   "link": "https://www.zdnet.com/tech/alpine-linux-openssh-patch-flaw/",
+   "summary": "This dangerous Linux security hole must be patched as soon as possible.",
+   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-879472452.jpg",
+   "source": "ZDNet",
+   "category": "ai",
+   "date": "2026-11-07T00:00:45.000Z"
+  },
+  {
+   "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+   "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+   "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about Ameri",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-11-06T23:00:44.000Z"
+  },
+  {
+   "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+   "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+   "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-11-06T22:53:46.000Z"
+  },
+  {
+   "title": "Motorola’s $1,599 Signature 27 Is the ‘World’s Fastest Android Smartphone’",
+   "link": "https://petapixel.com/2026/11/06/motorolas-1599-signature-27-is-the-worlds-fastest-android-smartphone/",
+   "summary": "After numerous teases and even a sponsored YouTube hands-on video, Motorola has finally, thankfully, fully unveiled its new flagship smartphone, the Signature 27. It is being billed as the world's fastest Android smartph",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-11-06T22:17:21.000Z"
+  },
+  {
+   "title": "Seven Cameras Famous Photographers Actually Used for Their Most Iconic Work",
+   "link": "https://fstoppers.com/gear/seven-cameras-famous-photographers-actually-used-their-most-iconic-work-904448?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "One of the most recognized photographs in the history of National Geographic was made on a camera you can still buy used for a few hundred dollars. Steve McCurry pointed a Nikon FM2 with a 105mm lens at a girl of about 1",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/09/seven-cameras-famous-photographers-used_leica-m3-rangefinder-camera.jpg.webp?itok=7YC3b1oW",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-11-06T22:03:01.000Z"
+  },
   {
    "title": "Zach Cregger Doesn't Outline. Here's How He Writes Instead",
    "link": "https://nofilmschool.com/zach-cregger-screenwriting-advice",
@@ -23,7 +77,7 @@
    "title": "A deep dive into the Sigma FP2’s image quality finds a camera that’s unconventional to its core",
    "link": "https://www.dpreview.com/articles/a-deep-dive-into-the-sigma-fp2s-image-quality-finds-a-camera-thats-unconventional-to-its-core/",
    "summary": "Like the BF, the FP2 is a full-time HDR camera. We look at the costs and benefits of this decision.",
-   "image": "https://www.dpreview.com/wp-content/uploads/2026/10/PI_Sigma_FP2_controls.jpg",
+   "image": "https://www.dpreview.com/wp-content/uploads/2026/11/PI_Sigma_FP2_top_plate.jpg",
    "source": "DPReview",
    "category": "photo",
    "date": "2026-11-06T21:12:47.000Z"
@@ -248,7 +302,7 @@
    "title": "Saype Is a Humanist Land Artist Who Captures His Murals with a Drone",
    "link": "https://petapixel.com/2026/11/06/saype-is-a-humanist-land-artist-who-captures-his-murals-with-a-drone/",
    "summary": "Grass, snow, sand, and laterite—these are the surfaces Saype (real name Guillaume Legros) has spent the last fifteen years exploring, creating monumental, ephemeral works of art around the world with his 100% biodegradab",
-   "image": "https://petapixel.com/assets/uploads/2026/11/Saype-Is-a-Humanist-Land-Artist-Who-Captures-His-Murals-with-a-Drone.jpg",
+   "image": "",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-11-06T17:27:56.000Z"
@@ -486,6 +540,15 @@
    "source": "Fuji Rumors",
    "category": "photo",
    "date": "2026-11-06T14:02:32.000Z"
+  },
+  {
+   "title": "TikTok’s For You page needs to change, says the EU",
+   "link": "https://www.theverge.com/tech/1028597/tiktok-eu-for-you-algorithm-rabbit-hole-effect",
+   "summary": "The European Commission claims TikTok broke its online platform rules by offering a recommendation algorithm that creates a \"rabbit hole effect\" on users. In an announcement on Friday, the regulators allege TikTok's algo",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK051_VRG_Illo_N_Barclay_9_tiktok.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "tiktok",
+   "date": "2026-11-06T14:00:49.000Z"
   },
   {
    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
@@ -839,15 +902,6 @@
    "date": "2026-11-05T22:40:55.000Z"
   },
   {
-   "title": "Perplexity launches its own take on AI agents for work",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-   "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-11-05T22:26:50.000Z"
-  },
-  {
    "title": "Glyph Continues Its Expansion into Creator Support with New Card Readers",
    "link": "https://petapixel.com/2026/11/05/glyph-continues-its-expansion-into-creator-support-with-new-card-readers/",
    "summary": "Earlier this year, Glyph pushed hard into the creator space with the launch of new SSDs and a line of CFexpress memory cards. It is continuing that trend with the announcement of memory card readers. [ Read More ]",
@@ -1046,24 +1100,6 @@
    "date": "2026-11-05T18:04:03.000Z"
   },
   {
-   "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-   "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-   "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
-   "image": "https://techcrunch.com/wp-content/uploads/2019/10/Greg-Brockman-OpenAIDSC02862.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-11-05T18:02:27.000Z"
-  },
-  {
-   "title": "Claude can now analyze your spending with its new Personal Finance tool",
-   "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-   "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Claude-Personal-Finance-2.png?resize=1200,675",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-11-05T18:00:00.000Z"
-  },
-  {
    "title": "Claude’s new Personal Finance tool aims to help analyze your spending – read-only, of course",
    "link": "https://www.zdnet.com/innovation/personal-finance-claude-anthropic/",
    "summary": "Anthropic has released what appears to be its answer to ChatGPT Finances.",
@@ -1089,6 +1125,15 @@
    "source": "ZDNet",
    "category": "ai",
    "date": "2026-11-05T17:46:35.000Z"
+  },
+  {
+   "title": "TikTok launched a dedicated TikTok Shop app",
+   "link": "https://www.theverge.com/tech/1027772/tiktok-shop-app",
+   "summary": "TikTok has released a standalone app for TikTok Shop in a few countries, as spotted by social media consultant Matt Navarra. According to its App Store listing, the TikTok Shop app offers: - Personalized picks inspired b",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/unnamed-4.png?quality=90&#038;strip=all&#038;crop=0,21.560786106033,100,38.439126001969",
+   "source": "The Verge",
+   "category": "tiktok",
+   "date": "2026-11-05T17:27:36.000Z"
   },
   {
    "title": "DJI Osmo Pocket 4P Firmware V01.02.1149 Adds 18x Zoom, Smoother Lens Switching, and Stage and Sunset Presets",
@@ -1118,13 +1163,13 @@
    "date": "2026-11-05T17:03:01.000Z"
   },
   {
-   "title": "Wandrd Magnetic Camera Straps Review: A Substantive Reinvention of the Humble Camera Strap?",
-   "link": "https://petapixel.com/2026/11/05/wandrd-magnetic-camera-straps-review-did-wandrd-reinvent-the-humble-camera-strap/",
-   "summary": "Camera straps are one of those accessories that don't always get much attention until something about them becomes inconvenient. Switching between straps, dealing with attachment hardware, or having buckles knock against",
-   "image": "",
-   "source": "PetaPixel",
+   "title": "Meet the photographers selected for VSCO’s US billboard project",
+   "link": "https://www.dpreview.com/photography/meet-the-photographers-selected-for-vscos-us-billboard-project/",
+   "summary": "The Fifty’s completed lineup represents all 50 states, with images exploring everything from family farms to cultural identity.",
+   "image": "https://www.dpreview.com/wp-content/uploads/2026/11/M-GN-vsco-billboard-featured-16x9-Lead-1.jpg",
+   "source": "DPReview",
    "category": "photo",
-   "date": "2026-11-05T17:01:27.000Z"
+   "date": "2026-11-05T17:00:00.000Z"
   },
   {
    "title": "Australian universities are creating AI-native graduates",
@@ -1142,15 +1187,6 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp",
    "source": "Google AI",
    "category": "ai",
-   "date": "2026-11-05T17:00:00.000Z"
-  },
-  {
-   "title": "Meet the photographers selected for VSCO’s US billboard project",
-   "link": "https://www.dpreview.com/photography/meet-the-photographers-selected-for-vscos-us-billboard-project/",
-   "summary": "The Fifty’s completed lineup represents all 50 states, with images exploring everything from family farms to cultural identity.",
-   "image": "https://www.dpreview.com/wp-content/uploads/2026/11/M-GN-vsco-billboard-featured-16x9-Lead-1.jpg",
-   "source": "DPReview",
-   "category": "photo",
    "date": "2026-11-05T17:00:00.000Z"
   },
   {
@@ -1568,15 +1604,6 @@
    "date": "2026-11-04T22:50:52.000Z"
   },
   {
-   "title": "Kodachrome Ended in Parsons, Kansas: Dwayne's Photo Ran the Last Roll on January 18, 2011",
-   "link": "https://fstoppers.com/film/kodachrome-ended-parsons-kansas-dwaynes-photo-ran-last-roll-january-18-2011-904436?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "In the last week of December 2010, a railroad worker named Jim DeNike drove from Arkansas to Parsons, Kansas, and loaded a dozen boxes holding nearly 50,000 slides into an old maroon Pontiac. He had sent Dwayne's Photo 1",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/09/kodachrome-lead-1000x570.jpg.webp?itok=WpUOOTLi",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-11-04T22:03:02.000Z"
-  },
-  {
    "title": "Big Tech claims voters’ AI backlash is “anti-Trump” not “anti-tech”",
    "link": "https://arstechnica.com/tech-policy/2026/11/big-tech-claims-voters-ai-backlash-is-anti-trump-not-anti-tech/",
    "summary": "Tech industry in denial as US overwhelmingly votes to restrict AI, data centers.",
@@ -1602,15 +1629,6 @@
    "source": "Fuji Rumors",
    "category": "photo",
    "date": "2026-11-04T19:56:20.000Z"
-  },
-  {
-   "title": "Is Chrome’s settings menu getting a search bar? What we know",
-   "link": "https://www.zdnet.com/business/google-tests-new-chrome-search-menu-feature/",
-   "summary": "Chrome might receive a much-needed addition.",
-   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2252078247.jpg",
-   "source": "ZDNet",
-   "category": "ai",
-   "date": "2026-11-04T19:53:06.000Z"
   },
   {
    "title": "New Holiday Deals: Save big on Sandisk cards and storage and Tamron lenses",
@@ -2601,15 +2619,6 @@
    "source": "TechCrunch",
    "category": "tiktok",
    "date": "2026-10-05T18:29:00.000Z"
-  },
-  {
-   "title": "What even is a ‘microdrama’?",
-   "link": "https://www.theverge.com/entertainment/1003297/microdramas-neighbours-epis-roseberry-reelshort-dramabox-vertical-video",
-   "summary": "On Monday, Variety reported that RoseBerry Media is recutting episodes of the Australian soap opera Neighbours \"into microdramas.\" These clips will be available on Epis, a short-form vertical video streaming platform. Th",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Neighboursconvert.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "tiktok",
-   "date": "2026-10-01T13:30:00.000Z"
   },
   {
    "title": "Instagram rolls out an AI video assistant for creators",
