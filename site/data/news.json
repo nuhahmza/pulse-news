@@ -1,6 +1,33 @@
 {
- "updated": "2026-11-07T20:02:42.273Z",
+ "updated": "2026-11-07T23:49:58.025Z",
  "items": [
+  {
+   "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+   "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+   "summary": "On Equity, we unpacked what the midterms mean for the tech industry.",
+   "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2207245107-1.jpg?resize=1200,765",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-11-07T22:07:22.000Z"
+  },
+  {
+   "title": "Your Camera Stops Counting at 9,999 Because of a 1998 Filing Standard Written Around MS-DOS",
+   "link": "https://fstoppers.com/gear/your-camera-stops-counting-9999-because-1998-filing-standard-written-around-ms-904462?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "Shoot past frame 9,999, and the camera does not run out of numbers. It closes the folder it has been writing to, opens the next one, and starts again at 0001, which is how two shoots two years apart both end up holding a",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/09/why-your-camera-stops-counting-at-9999-nikon-coolpix-900.jpg.webp?itok=-8OZ9Ghq",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-11-07T22:03:01.000Z"
+  },
+  {
+   "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+   "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+   "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-11-07T21:17:08.000Z"
+  },
   {
    "title": "Camera improvements: Will AI mods fix Framerate Malpractice before the guilty manufacturers bother to do it themselves?",
    "link": "https://www.provideocoalition.com/camera-improvements-will-ai-mods-fix-framerate-malpractice-before-the-guilty-manufacturers-bother-to-do-it-themselves/",
@@ -18,6 +45,15 @@
    "source": "The Decoder",
    "category": "ai",
    "date": "2026-11-07T17:37:25.000Z"
+  },
+  {
+   "title": "Think Tank’s Very Practical Sling, The PhotoCross V2, Is a Winner",
+   "link": "https://fstoppers.com/gear/think-tanks-very-practical-sling-photocross-v2-winner-905103?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "Think Tank released two new slings earlier in the year that are perfect for street, urban, and travel photographers. Depending on your gear, there are 11L and 14L options to choose from. I got my hands on the 11L in a ra",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/fstopper-thinktank-sling-main.jpg.webp?itok=BOPNguRO",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-11-07T17:03:02.000Z"
   },
   {
    "title": "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds",
@@ -1199,24 +1235,6 @@
    "date": "2026-11-05T19:14:41.000Z"
   },
   {
-   "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-   "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-   "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/07/data-center-2.jpg?resize=1200,899",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-11-05T19:12:39.000Z"
-  },
-  {
-   "title": "OpenAI released a new cybersecurity model. Is that enough?",
-   "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-   "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?resize=1200,798",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-11-05T19:06:12.000Z"
-  },
-  {
    "title": "92% of HR say staff can train for AI jobs – but half of companies still hire outside",
    "link": "https://www.zdnet.com/innovation/ai-hiring-vs-reskilling-careerminds-research/",
    "summary": "Most HR professionals say they believe employees can be reskilled for AI jobs, yet companies still often seek outside hires. Here’s why.",
@@ -1431,24 +1449,6 @@
    "source": "Sony Alpha Rumors",
    "category": "photo",
    "date": "2026-11-05T14:16:04.000Z"
-  },
-  {
-   "title": "We Review the MacBook Pro With PROLED XDR Display and M5 Max: The Screen Changes Everything",
-   "link": "https://fstoppers.com/gear/review-macbook-pro-proled-xdr-display-and-m5-max-screen-changes-everything-905426?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "The MacBook Pro with PROLED XDR Display is the first Mac laptop with a tandem OLED panel, and after two days with the 16-inch M5 Max I keep coming back to the same thought: Apple did not just bolt a nicer screen onto las",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/macbook-pro-m5-max-proled-xdr-lead.jpg.webp?itok=0YpBvYou",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-11-05T14:03:01.000Z"
-  },
-  {
-   "title": "Why the Best Forest Photos of the Day Were Steps From the Truck",
-   "link": "https://fstoppers.com/education/why-best-forest-photos-day-were-steps-truck-905424?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "You drive out to a waterfall the day after a downpour, expecting a torrent, and find the creek almost dry. A blown plan like that tests how quickly you can switch to a backup spot, and how much you can pull out of an ord",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_13.jpg.webp?itok=mAaWFkU-",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-11-05T14:03:01.000Z"
   },
   {
    "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
