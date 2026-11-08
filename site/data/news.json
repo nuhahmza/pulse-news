@@ -1,6 +1,78 @@
 {
- "updated": "2026-11-08T05:28:11.737Z",
+ "updated": "2026-11-08T12:08:22.897Z",
  "items": [
+  {
+   "title": "How I Shot and Edited a Documentary About Bicycle Jousting In Under a Day",
+   "link": "https://petapixel.com/2026/11/08/how-i-shot-and-edited-a-documentary-about-bicycle-jousting-in-under-a-day/",
+   "summary": "Lime Bike Jousting was conceived by Cameron Carnegie-Brown (AKA Camtholomew the First) and Jack Carden, two London creatives who turned a joke about jousting on rental e-bikes into a viral performance art event. [ Read M",
+   "image": "",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-11-08T12:00:24.000Z"
+  },
+  {
+   "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
+   "link": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
+   "summary": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
+   "image": "https://media.wired.com/photos/6aee77f4ece1c19963602401/master/pass/gear-nyt-cooking-ai-assistant.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-11-08T12:00:00.000Z"
+  },
+  {
+   "title": "The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts",
+   "link": "https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts/",
+   "summary": "Turing Award winner Richard Sutton reaffirms that raw compute alone isn't enough for intelligence and that fundamentally new learning methods are needed. Ex-OpenAI researcher Tworek agrees, saying blind transformer scali",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/ai_scaling_bitter_lesson-2.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-11-08T11:44:41.000Z"
+  },
+  {
+   "title": "Just announced: New Meike 58mm f/1.2 MIX APS-C lens",
+   "link": "https://www.sonyalpharumors.com/just-announced-new-meike-58mm-f-1-2-mix-aps-c-lens/",
+   "summary": "You can preorder the new Meike 58mm f/1.2 APS-C E-mount lens on Amazon and Meike store. Have not found any review of this lens yet :( The post Just announced: New Meike 58mm f/1.2 MIX APS-C lens first appeared on sonyalp",
+   "image": "",
+   "source": "Sony Alpha Rumors",
+   "category": "photo",
+   "date": "2026-11-08T11:10:23.000Z"
+  },
+  {
+   "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+   "link": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+   "summary": "Moving AI from text to 3D space, world models simulate real-world physics to teach robots and autonomous cars how to navigate reality.",
+   "image": "https://media.wired.com/photos/6aee7497bf81da8802edc3e6/master/pass/gear-ai-world-models-3d.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-11-08T10:00:00.000Z"
+  },
+  {
+   "title": "AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test",
+   "link": "https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/",
+   "summary": "Alibaba's new coding-agent benchmark, Co-Design Bench, tests AI agents on real user requests that already tripped them up in practice. Even GPT-6 Astra, the top performer, fully solves only 26.4 percent of tasks. On olde",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/co-design-bench-nano-banana-pro.jpg",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-11-08T09:50:59.000Z"
+  },
+  {
+   "title": "New European deals: Fotokoch special deals at Fototage event",
+   "link": "https://www.sonyalpharumors.com/new-european-deals-fotokoch-special-deals-at-fototage-event/",
+   "summary": "German and European readers should check out this special Fototage event which lists a ton of deals! The post New European deals: Fotokoch special deals at Fototage event first appeared on sonyalpharumors .",
+   "image": "",
+   "source": "Sony Alpha Rumors",
+   "category": "photo",
+   "date": "2026-11-08T09:23:24.000Z"
+  },
+  {
+   "title": "Canon Celebrates 15 Years of Cinema EOS: 17 Cameras and 53 Lenses",
+   "link": "https://ymcinema.com/2026/11/08/canon-cinema-eos-15-years-17-cameras-53-lenses/",
+   "summary": "Canon is celebrating the 15th anniversary of its Cinema EOS System, marking a journey that began in November 2011 with the introduction of the original Canon EOS C300. According to Canon’s official announcement, dated No",
+   "image": "https://ymcinema.com/wp-content/uploads/2026/11/Canon-Celebrates-15-Years-of-Cinema-EOS-17-Cameras-and-53-Lenses.002.webp",
+   "source": "Y.M.Cinema",
+   "category": "video",
+   "date": "2026-11-08T07:47:58.000Z"
+  },
   {
    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
    "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
@@ -443,15 +515,6 @@
    "date": "2026-11-06T20:00:03.000Z"
   },
   {
-   "title": "Ripple-65B Preview delivers strong agentic coding results as a fully Apache 2.0 open US model",
-   "link": "https://the-decoder.com/ripple-65b-preview-delivers-strong-agentic-coding-results-as-a-fully-apache-2-0-open-us-model/",
-   "summary": "Ricursive Intelligence is releasing Ripple-65B Preview, a 65-billion-parameter open-weight language model that the company says achieves the top score among open-source U.S. models on the TerminalBench 2.1 coding benchma",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/ricurisve_intelligence.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-11-06T19:47:04.000Z"
-  },
-  {
    "title": "Monster Movies Where Humans Are the Real Villains",
    "link": "https://nofilmschool.com/monster-movies-with-human-villains",
    "summary": "Everyone loves watching some big and scary creature wreak havoc on the world in one action movie or another. But how many of these creatures wreaking havoc are doing so out of actual malice? Here are some of our favorite",
@@ -657,15 +720,6 @@
    "source": "The Verge",
    "category": "ai",
    "date": "2026-11-06T17:00:00.000Z"
-  },
-  {
-   "title": "Perplexity now has its own always-on AI agent",
-   "link": "https://the-decoder.com/perplexity-now-has-its-own-always-on-ai-agent/",
-   "summary": "Perplexity is launching \"Teammates,\" always-on agents that work through ongoing projects on their own virtual machines. The feature requires the Max plan at $200 per month, well above similar offerings from OpenAI or Ant",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/perplexity.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-11-06T16:47:28.000Z"
   },
   {
    "title": "Big Tech lost big in the 2026 election",
@@ -965,15 +1019,6 @@
    "date": "2026-11-06T09:12:07.000Z"
   },
   {
-   "title": "Just announced: new Laowa 24mm f/2 Zero-D Tilt-Shift",
-   "link": "https://www.sonyalpharumors.com/just-announced-new-laowa-24mm-f-2-zero-d-tilt-shift/",
-   "summary": "Laowa announced the new 24mm f/2 Zero-D Tilt-Shift you can preorder at BHphoto, VenusStore, Amazon, Adorama, Fotokoch, FotoErhardt, Calumet, Clifton, WexUK. Maximum ±10° tilt and ±12mm shift are available together only a",
-   "image": "",
-   "source": "Sony Alpha Rumors",
-   "category": "photo",
-   "date": "2026-11-06T08:02:57.000Z"
-  },
-  {
    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
    "link": "https://openai.com/index/partnering-with-hacktron",
    "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
@@ -1152,15 +1197,6 @@
    "source": "Fstoppers",
    "category": "photo",
    "date": "2026-11-05T22:03:01.000Z"
-  },
-  {
-   "title": "Stare Straight Into Your Subject’s Soul With This Strange New Camera",
-   "link": "https://petapixel.com/2026/11/05/stare-straight-into-your-subjects-soul-with-this-strange-new-camera/",
-   "summary": "South Korean consumer electronics startup Lutra Inc. has launched a camera brand, Humans of Authenticity (HOA). HOA's first camera, the HOA A1, looks weird as hell. [ Read More ]",
-   "image": "",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-11-05T21:42:38.000Z"
   },
   {
    "title": "Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable",
@@ -1442,15 +1478,6 @@
    "date": "2026-11-05T14:20:21.000Z"
   },
   {
-   "title": "Sony announced the new 50 Megapixel LYTIA sensor for mobile phones. Larger sensor coming soon?",
-   "link": "https://www.sonyalpharumors.com/sony-announced-the-new-50-megapixel-lytia-sensor-for-mobile-phones-larger-sensor-coming-soon/",
-   "summary": "As you may recall the new DJI Osmo Pocket 4P made big waves on the news because of the use of a new 1-inch sensor with LOFIC technology. This tech allows to get 17 stops dynamic range in both stills and videos without an",
-   "image": "",
-   "source": "Sony Alpha Rumors",
-   "category": "photo",
-   "date": "2026-11-05T14:16:04.000Z"
-  },
-  {
    "title": "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
    "link": "https://www.wired.com/story/aina-smart-ring/",
    "summary": "The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
@@ -1521,15 +1548,6 @@
    "source": "WIRED",
    "category": "ai",
    "date": "2026-11-05T12:00:00.000Z"
-  },
-  {
-   "title": "He Trolls AI Labs for a Living. Now They All Want to Work With Him",
-   "link": "https://www.wired.com/story/wired-world-fair-2026-evan-ratliff-and-husk/",
-   "summary": "OpenAI, Anthropic, and SpaceXSI have all reached out to Husk, an influencer who regularly goes viral by exposing the shortcomings of chatbots.",
-   "image": "https://media.wired.com/photos/6aebb9af224c394d76eb9316/master/pass/WWF-Evan-Ratliff-Husk.jpg",
-   "source": "WIRED",
-   "category": "ai",
-   "date": "2026-11-05T11:45:00.000Z"
   },
   {
    "title": "How to Analyze Instagram with Claude and Metricool (+ Prompts)",
@@ -1638,15 +1656,6 @@
    "source": "Hugging Face",
    "category": "ai",
    "date": "2026-11-05T00:00:00.000Z"
-  },
-  {
-   "title": "The Blue Wave Has Tech Bros Scrambling for Data Centers in Space",
-   "link": "https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
-   "summary": "After Democrats won big in Texas and other AI infrastructure hot spots on Tuesday, data center enthusiasts looked for comfort in low Earth orbit.",
-   "image": "https://media.wired.com/photos/6aeb63c850bcf3a7a3f979b5/master/pass/Business_TechBrosCrying.gif",
-   "source": "WIRED",
-   "category": "ai",
-   "date": "2026-11-04T23:13:14.000Z"
   },
   {
    "title": "Instagram tries to entice long-form creators",
@@ -2187,15 +2196,6 @@
    "source": "Nikon Rumors",
    "category": "photo",
    "date": "2026-11-01T02:10:11.000Z"
-  },
-  {
-   "title": "Apple Boosts Final Cut Pro, but Is It Enough to Compete With DaVinci Resolve?",
-   "link": "https://ymcinema.com/2026/10/31/final-cut-pro-vs-davinci-resolve-ai-editing/",
-   "summary": "Apple is significantly expanding Final Cut Pro with built-in MotionVFX tools, deeper Pixelmator Pro integration, AI-powered image generation, and improved editing capabilities. Meanwhile, Blackmagic Design is increasingl",
-   "image": "https://ymcinema.com/wp-content/uploads/2026/10/Apple-Boosts-Final-Cut-Pro-but-Is-It-Enough-to-Compete-With-DaVinci-Resolve.002.webp",
-   "source": "Y.M.Cinema",
-   "category": "video",
-   "date": "2026-10-31T16:39:17.000Z"
   },
   {
    "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
