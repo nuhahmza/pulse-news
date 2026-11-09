@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-08T22:22:32.080Z",
+ "updated": "2026-11-09T01:51:58.957Z",
  "items": [
+  {
+   "title": "Weekly Nikon news flash #911",
+   "link": "https://nikonrumors.com/2026/11/08/weekly-nikon-news-flash-911.aspx/",
+   "summary": "→ The compact EZCast CamCast wireless HDMI video transmitter that sends a camera’s live picture to phones and tablets and turns them into camera monitors is now $136 (20% off) with code CAMCAST20 (until November 30). → N",
+   "image": "https://nikonrumors.com/wp-content/uploads/2026/11/EZCast-CamCast-wireless-HDMI-transmitter-coupon-code-Black-Friday-8-529x550.jpg",
+   "source": "Nikon Rumors",
+   "category": "photo",
+   "date": "2026-11-08T23:44:45.000Z"
+  },
+  {
+   "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+   "summary": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing t",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2285784039.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-11-08T22:54:50.000Z"
+  },
   {
    "title": "Top 10 most viewed NikonRumors posts for October 2026",
    "link": "https://nikonrumors.com/2026/11/08/top-10-most-viewed-nikonrumors-posts-for-october-2026.aspx/",
@@ -27,6 +45,15 @@
    "source": "No Film School",
    "category": "video",
    "date": "2026-11-08T21:00:03.000Z"
+  },
+  {
+   "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+   "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the c",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKP210_JENSEN_HUANG_A.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-11-08T20:22:39.000Z"
   },
   {
    "title": "New rumors coming: How to follow us to not miss any of them!",
@@ -686,15 +713,6 @@
    "date": "2026-11-06T20:30:03.000Z"
   },
   {
-   "title": "All the latest updates on AI data centers",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-   "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impa",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKS528_DATA_CENTERS_C.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-11-06T20:02:22.000Z"
-  },
-  {
    "title": "10 Best Early '80s Slashers You've Never Heard Of",
    "link": "https://nofilmschool.com/10-best-obscure-early-1980s-slasher-movies",
    "summary": "The early 1980s was the Golden Age of the slasher movie , with hit movies and cult classics like Friday the 13th , Friday the 13th Part 2 , The Burning , Halloween II , and My Bloody Valentine dropping left and right, pa",
@@ -801,15 +819,6 @@
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-11-06T18:21:38.000Z"
-  },
-  {
-   "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-   "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-   "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, ",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&#038;strip=all&#038;crop=8.0752843063528,0,91.924715693647,74.471659887186",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-11-06T18:10:10.000Z"
   },
   {
    "title": "The Creative Friction Advantage in Editing 'Primetime'",
@@ -1370,15 +1379,6 @@
    "date": "2026-11-05T17:20:26.000Z"
   },
   {
-   "title": "Meet the photographers selected for VSCO’s US billboard project",
-   "link": "https://www.dpreview.com/photography/meet-the-photographers-selected-for-vscos-us-billboard-project/",
-   "summary": "The Fifty’s completed lineup represents all 50 states, with images exploring everything from family farms to cultural identity.",
-   "image": "https://www.dpreview.com/wp-content/uploads/2026/11/M-GN-vsco-billboard-featured-16x9-Lead-1.jpg",
-   "source": "DPReview",
-   "category": "photo",
-   "date": "2026-11-05T17:00:00.000Z"
-  },
-  {
    "title": "Australian universities are creating AI-native graduates",
    "link": "https://openai.com/index/australian-universities-ai-native-graduates",
    "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
@@ -1394,6 +1394,15 @@
    "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-omni-1.2_FZLql41.max-600x600.format-webp.webp",
    "source": "Google AI",
    "category": "ai",
+   "date": "2026-11-05T17:00:00.000Z"
+  },
+  {
+   "title": "Meet the photographers selected for VSCO’s US billboard project",
+   "link": "https://www.dpreview.com/photography/meet-the-photographers-selected-for-vscos-us-billboard-project/",
+   "summary": "The Fifty’s completed lineup represents all 50 states, with images exploring everything from family farms to cultural identity.",
+   "image": "https://www.dpreview.com/wp-content/uploads/2026/11/M-GN-vsco-billboard-featured-16x9-Lead-1.jpg",
+   "source": "DPReview",
+   "category": "photo",
    "date": "2026-11-05T17:00:00.000Z"
   },
   {
@@ -2216,15 +2225,6 @@
    "date": "2026-10-31T15:41:57.000Z"
   },
   {
-   "title": "Nikon raised full-year profit forecast by 50%, but trimmed imaging sales outlook",
-   "link": "https://nikonrumors.com/2026/10/30/nikon-raised-full-year-profit-forecast-by-50-but-trimmed-imaging-sales-outlook.aspx/",
-   "summary": "A day after the $14,000 Nikkor Z 120-300mm f/2.8 TC VR S lens announcement, Nikon raised its full-year profit forecast, driven by semiconductor strength and reported an Imaging sales outlook cut (see previous financial r",
-   "image": "https://nikonrumors.com/wp-content/uploads/2026/05/Nikon-Financial-Reports-banner-2-550x350.jpg",
-   "source": "Nikon Rumors",
-   "category": "photo",
-   "date": "2026-10-31T01:49:03.000Z"
-  },
-  {
    "title": "Supersonic airliner in doubt as company shifts to powering AI data centers",
    "link": "https://arstechnica.com/gadgets/2026/10/united-airlines-ceo-doubts-supersonic-airliner-from-boom-will-be-ready-by-2029/",
    "summary": "Boom’s airliner may be delayed, and its data center power business lost a customer.",
@@ -2646,15 +2646,6 @@
    "source": "TechCrunch",
    "category": "tiktok",
    "date": "2026-09-26T20:24:45.000Z"
-  },
-  {
-   "title": "Meta employees ordered ‘attorney/client privilege’ hats while fighting child safety disclosures",
-   "link": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
-   "summary": "Meta's lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens' safety and mental health. Lawyers suing",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STKS487_ANTITRUST_2__STK043_META_B.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "instagram",
-   "date": "2026-09-24T23:50:55.000Z"
   },
   {
    "title": "16 free Canva templates to level up your Instagram carousels",
