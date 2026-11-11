@@ -1,6 +1,231 @@
 {
- "updated": "2026-11-11T05:56:11.661Z",
+ "updated": "2026-11-11T13:59:56.160Z",
  "items": [
+  {
+   "title": "Deal: Lume Cube XL 60W RGB Mini COB LED Light drops to $148.99 at B&H",
+   "link": "https://www.newsshooter.com/2026/11/11/deal-lume-cube-xl-60w-rgb-mini-cob-led-light-drops-to-148-99-at-bh/",
+   "summary": "B&H has the Lume Cube XL 60W RGB Mini COB LED Light for $148.99, down from its regular $249.99. That saves you $100.01. The XL is a palm-sized 60W RGB COB monolight. It’s rated at 23,000 lux at 0.5m, with CRI 97+ and TLC",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/bh-holiday-deals-lumecube-price-A-top-row.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-11-11T13:53:59.000Z"
+  },
+  {
+   "title": "US data brokers are selling half a billion dollars in RL training environments to Chinese AI labs",
+   "link": "https://the-decoder.com/us-data-brokers-are-selling-half-a-billion-dollars-in-rl-training-environments-to-chinese-ai-labs/",
+   "summary": "US data brokers like Mercor, Surge AI, and AfterQuery are selling roughly half a billion dollars' worth of AI training data to Chinese labs, according to a ChinaTalk investigation. That includes the same RL environments ",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/06/china_vs_usa_ai_race.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-11-11T13:51:11.000Z"
+  },
+  {
+   "title": "DeepL wants real-time translation to finally capture sarcasm and mood shifts",
+   "link": "https://the-decoder.com/with-its-new-voice-model-deepl-voice-now-translates-intonation-and-speaking-speed-into-other-languages-as-well/",
+   "summary": "DeepL Voice's real-time translations are about to sound a lot more natural. The company's new Aure model carries over tone, emotion, emphasis, and speaking pace from the original speaker's voice into the target language.",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/DeepL-Logo-ChatGPT-5.6.jpg",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-11-11T13:50:30.000Z"
+  },
+  {
+   "title": "RØDE Capture Now Available for Android – Direct Connect for Wireless Micro, Wireless GO (Gen 3) and Wireless PRO, NDI Output",
+   "link": "https://www.cined.com/rode-capture-now-available-for-android-direct-connect-for-wireless-micro-wireless-go-gen-3-and-wireless-pro-ndi-output/",
+   "summary": "RØDE Capture is now available for Android. The free app brings RØDE’s in-app microphone control to Android phones, together with Direct Connect, which pairs Wireless Micro, Wireless GO (Gen 3) and Wireless PRO transmitte",
+   "image": "https://www.cined.com/content/uploads/2026/11/rode-capture-android-wireless-pro-featured-16x9-1-300x169.jpg",
+   "source": "CineD",
+   "category": "video",
+   "date": "2026-11-11T13:26:49.000Z"
+  },
+  {
+   "title": "Grok-built apps exposed patient data, plaintext passwords, and SpaceXSI's own sales pipeline",
+   "link": "https://the-decoder.com/grok-built-apps-exposed-patient-data-plaintext-passwords-and-spacexsis-own-sales-pipeline/",
+   "summary": "Security firm Claroc found more than 35,000 Grok-built apps open to anyone without login, including patient data and confidential SpaceXSI documents. The cause: \"Anyone with the link\" was preselected as the default acces",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/05/grok_xai_logo.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-11-11T12:53:07.000Z"
+  },
+  {
+   "title": "Enterprise sales push OpenAI's quarterly revenue to $10 billion, though it still trails Anthropic",
+   "link": "https://the-decoder.com/enterprise-sales-push-openais-quarterly-revenue-to-10-billion-though-it-still-trails-anthropic/",
+   "summary": "OpenAI grew its quarterly revenue 50 percent to $10 billion but is still burning more cash than it brings in. Adjusted operating losses climbed to $10.9 billion, while rival Anthropic operates far more efficiently on $17",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-1.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-11-11T12:12:47.000Z"
+  },
+  {
+   "title": "Canon Will Launch a Supertelephoto Prime with a Built-In Teleconverter",
+   "link": "https://www.canonrumors.com/canon-will-launch-a-supertelephoto-prime-with-a-built-in-teleconverter/",
+   "summary": "Canon’s new supertelephoto prime lenses have been talked about for quite some time, and we have seen a lot of signs that Canon will be updating both the RF 400mm f/2.8L IS USM and RF 600mm f/4L IS USM lenses with modern ",
+   "image": "https://www.canonrumors.com/wp-content/uploads/2026/11/canon-rf-400mm-f28-l-is-usm-and-rf-600mm-f4-l-is-usm.jpg",
+   "source": "Canon Rumors",
+   "category": "photo",
+   "date": "2026-11-11T11:57:57.000Z"
+  },
+  {
+   "title": "UK regulator threatens universities with sanctions unless they adopt AI-proof exam formats",
+   "link": "https://the-decoder.com/uk-regulator-threatens-universities-with-sanctions-unless-they-adopt-ai-proof-exam-formats/",
+   "summary": "England's higher education regulator, the Office for Students, says AI has made it \"nearly impossible\" to fairly assess student coursework. An investigation found that students are having ChatGPT write entire papers unde",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/07/ai-generated-homework-nano-banana-pro.jpg",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-11-11T11:54:46.000Z"
+  },
+  {
+   "title": "Sony RX10 V for Wildlife Photography – Is It Worth It?",
+   "link": "https://www.sonyalpharumors.com/sony-rx10-v-for-wildlife-photography-is-it-worth-it/",
+   "summary": "Sony RX10V at BHphoto, Amazon, Adorama, Fotokoch, FotoErhardt, Calumet, Leistenscheider, Clifton, WexUK Is the RX10V good enough for wildlife photography? Find out the answer here: And Gary Friedman found one interesting",
+   "image": "",
+   "source": "Sony Alpha Rumors",
+   "category": "photo",
+   "date": "2026-11-11T11:27:58.000Z"
+  },
+  {
+   "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
+   "link": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
+   "summary": "The young girl’s parents allege that she used Gemini via her school Chromebook to plan her suicide, but the school’s monitoring systems didn’t know until it was almost too late.",
+   "image": "https://media.wired.com/photos/6aee70f5276d9711716c9d02/master/pass/Gemini-AI-Coached-Teen-Suicide-Business.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-11-11T11:00:00.000Z"
+  },
+  {
+   "title": "Adobe Premiere 27.0 Released – Color Mode, AI Assistant Panel, and Generative Audio Tools",
+   "link": "https://www.cined.com/adobe-premiere-27-0-released-color-mode-ai-assistant-panel-and-generative-audio-tools/",
+   "summary": "Adobe has released Premiere 27.0 with Color Mode, an AI Assistant panel, and tools that generate music, sound effects, and soundscapes in the timeline. The update also retires the Lumetri Color panel, ends support for In",
+   "image": "https://www.cined.com/content/uploads/2026/11/adobe-premiere-27-color-mode-clip-grid-featured-16x9-1-300x169.jpg",
+   "source": "CineD",
+   "category": "video",
+   "date": "2026-11-11T10:33:21.000Z"
+  },
+  {
+   "title": "8 New Features in Lightroom Classic 16, From Glow to Depth Masks",
+   "link": "https://fstoppers.com/education/8-new-features-lightroom-classic-16-glow-depth-masks-905500?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "Lightroom Classic 16 arrived with Adobe MAX, bringing a native glow effect, depth masks that no longer depend on special camera files, color grading inside masks, and automatic blemish removal. Several of these used to r",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_35.jpg.webp?itok=O1hSo6gn",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-11-11T10:03:02.000Z"
+  },
+  {
+   "title": "Sony Begins Mass Shipping Its Flagship 105MP Global Shutter Sensor: 10K at 100 FPS",
+   "link": "https://ymcinema.com/2026/11/11/sony-imx927-global-shutter-mass-production/",
+   "summary": "Sony Semiconductor Solutions has confirmed that its flagship IMX927 global shutter image sensor has entered mass shipment. The sensor delivers approximately 105 megapixels at up to 102 frames per second in 10-bit, or 72.",
+   "image": "https://ymcinema.com/wp-content/uploads/2026/11/Sony-Begins-Mass-Shipping-Its-105MP-Global-Shutter-Sensor-10K-at-100-FPS.004.webp",
+   "source": "Y.M.Cinema",
+   "category": "video",
+   "date": "2026-11-11T10:02:44.000Z"
+  },
+  {
+   "title": "Beauty Marketing on Social Media: What 10 Beauty Brands Do Differently",
+   "link": "https://metricool.com/beauty-marketing-social-media/",
+   "summary": "Carousels, creator posts, retailer mentions, and reposted TikToks are all part of how beauty brands market themselves on social media. Find out which of these habits fit your brand and where to start.",
+   "image": "https://metricool.com/wp-content/uploads/beauty-marketing-social-media.webp",
+   "source": "Metricool",
+   "category": "tiktok",
+   "date": "2026-11-11T10:00:00.000Z"
+  },
+  {
+   "title": "NANLUX FE Mount Diffusion Ball 10cm (MD-DB-FE10)",
+   "link": "https://www.newsshooter.com/2026/11/11/nanlux-fe-mount-diffusion-ball-10cm-md-db-fe10/",
+   "summary": "NANLUX has announced the new FE Mount Diffusion Ball 10cm (MD-DB-FE10) that features an FE mount. It is compatible with fixtures featuring an FE or FM mount, including the Evoke 150C. It was designed to provide soft, eve",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/Screenshot-2026-11-11-at-18.31.22.png",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-11-11T09:32:45.000Z"
+  },
+  {
+   "title": "NANLITE Rapid Series Bowens Mount Softboxes",
+   "link": "https://www.newsshooter.com/2026/11/11/nanlite-rapid-series-bowens-mount-softboxes/",
+   "summary": "NANLITE has new Rapid Series Bowens Mount Softboxes that are available in the following versions: The new series was designed to be very fast to use, and they feature arapid-latch speed ring for quick setup and collapse.",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/Nanlite-Softbox.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-11-11T09:18:54.000Z"
+  },
+  {
+   "title": "Experience the art and legacy of Dr. Esther Mahlangu",
+   "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
+   "summary": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
+   "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/esther_video_still.max-600x600.format-webp.webp",
+   "source": "Google AI",
+   "category": "ai",
+   "date": "2026-11-11T09:00:00.000Z"
+  },
+  {
+   "title": "What Is the Best Compact Camera for Concert and Event Photography in 2026?",
+   "link": "https://www.canonrumors.com/what-is-the-best-compact-camera-for-concert-and-event-photography-in-2026/",
+   "summary": "Concerts and live events can be some of the most challenging situations for a compact camera. The lighting changes constantly, performers move quickly, and photographers are often restricted to their seats or a crowded a",
+   "image": "https://www.canonrumors.com/wp-content/uploads/2026/11/What-Is-the-Best-Compact-Camera-for-Concert-and-Event-Photography-in-2026-H.jpg",
+   "source": "Canon Rumors",
+   "category": "photo",
+   "date": "2026-11-11T08:50:34.000Z"
+  },
+  {
+   "title": "ARRI educational webpages about legacy ARRI film cameras",
+   "link": "https://www.newsshooter.com/2026/11/11/arri-educational-webpages-about-legacy-arri-film-cameras/",
+   "summary": "ARRI has launched a collection of educational webpages about legacy ARRI film cameras on arri.com, which feature historic content from their archive in Munich. View this post on Instagram Under the “Learn” section on the",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/ARRI-Film.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-11-11T08:46:26.000Z"
+  },
+  {
+   "title": "Creator Royalties Hit Record €15.5 Billion, Audiovisual Passes €750 Million – CISAC Global Collections Report 2026",
+   "link": "https://www.cined.com/creator-royalties-hit-record-e15-5-billion-audiovisual-passes-e750-million-cisac-global-collections-report-2026/",
+   "summary": "CISAC’s Global Collections Report 2026 is out, and the headline is a record: creators worldwide collected €15.5 billion in royalties in 2025. For filmmakers, the more interesting number is further down in the report. Col",
+   "image": "https://www.cined.com/content/uploads/2026/11/cisac-global-collections-report-2026-cover-art-featured-16x9-1-300x169.jpg",
+   "source": "CineD",
+   "category": "video",
+   "date": "2026-11-11T08:45:04.000Z"
+  },
+  {
+   "title": "Sirui Aurora 15mm f/1.6 and 24mm f/1.4 FE size comparisons with Sony and Sigma lenses",
+   "link": "https://www.sonyalpharumors.com/sirui-aurora-15mm-f-1-6-and-24mm-f-1-4-fe-size-comparisons-with-sony-and-sigma-lenses/",
+   "summary": "The new Sirui lenses are quite a nice addition! They are compact and way more affordable than the competition: You can see the Sirui 24mm in a 3D view and spec comparison at MirrorlessWorld.com You can see the Sirui 16mm",
+   "image": "",
+   "source": "Sony Alpha Rumors",
+   "category": "photo",
+   "date": "2026-11-11T08:38:06.000Z"
+  },
+  {
+   "title": "ChatGPT Plus for veterans and servicemembers",
+   "link": "https://openai.com/index/chatgpt-plus-for-veterans",
+   "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+   "image": "",
+   "source": "OpenAI",
+   "category": "ai",
+   "date": "2026-11-11T08:00:00.000Z"
+  },
+  {
+   "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+   "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+   "summary": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+   "image": "https://techcrunch.com/wp-content/uploads/2019/05/GettyImages-503116193.jpeg?resize=1200,800",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-11-11T07:30:51.000Z"
+  },
+  {
+   "title": "Save $200 USD on the Watson Pro 14.4V 98Wh Micro V-Mount Battery with USB-C Port",
+   "link": "https://www.newsshooter.com/2026/11/10/save-200-usd-on-the-watson-pro-14-4v-98wh-micro-v-mount-battery-with-usb-c-port/",
+   "summary": "You can save $200 USD on the Watson Pro 14.4V 98Wh Micro V-Mount Battery with USB-C Port and purchase it for $99 USD. Key features The Watson Pro 14.4V 98Wh Micro V-Mount Battery combines functionality with a small form ",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/Watson.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-11-11T07:23:45.000Z"
+  },
+  {
+   "title": "JOBY Wavo AIR 2-Person Digital Wireless Lavalier Microphone System (2.4 GHz) on sale for $14.95 USD",
+   "link": "https://www.newsshooter.com/2026/11/10/joby-wavo-air-2-person-digital-wireless-lavalier-microphone-system-2-4-ghz-on-sale-for-14-95-usd/",
+   "summary": "The JOBY Wavo AIR 2-Person Digital Wireless Lavalier Microphone System (2.4 GHz) is on sale for $14.95 USD, which is a massive saving of $310 USD. If you are looking for a backup system you can keep in a bag, this is a b",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/JOBY.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-11-11T07:12:15.000Z"
+  },
   {
    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
    "link": "https://huggingface.co/blog/qvac/botpsy",
@@ -59,7 +284,7 @@
    "title": "Inside OM Digital Solutions’ Okaya Manufacturing Site",
    "link": "https://petapixel.com/2026/11/10/inside-om-digital-solutions-okaya-manufacturing-site/",
    "summary": "I know how to take pictures, but ask me how the lens on my camera is made and I have a lot less to say. A visit to the Okaya Manufacturing Site in Japan, followed by some research afterward, gave me a lesson in a subject",
-   "image": "",
+   "image": "https://michaelczhang.wpenginepowered.com/assets/uploads/2026/11/OM-SYSTEM-Okaya-Manufacturing-Site-Cover-2.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-11-10T22:34:55.000Z"
@@ -72,6 +297,15 @@
    "source": "No Film School",
    "category": "video",
    "date": "2026-11-10T22:30:05.000Z"
+  },
+  {
+   "title": "Sony registered a new camera code in California!",
+   "link": "https://www.sonyalpharumors.com/sony-registered-a-new-camera-code-in-california/",
+   "summary": "The California Energy commission published the details of a new Sony camera that has yet to be released: Model: WW491229 Added: 31 October 2026 Battery: NP-SA100, 7.82V / 2,670mAh Test power supply: XQZ-UC1 The code “WW4",
+   "image": "",
+   "source": "Sony Alpha Rumors",
+   "category": "photo",
+   "date": "2026-11-10T22:15:23.000Z"
   },
   {
    "title": "The Washington Post Employed About 35 Staff Photographers in 1996. Since February 4, 2026, It Has Employed None.",
@@ -104,10 +338,19 @@
    "title": "Forma Is a Wearable Viewfinder Built for Finding Photo Compositions",
    "link": "https://petapixel.com/2026/11/10/forma-is-a-wearable-viewfinder-built-for-finding-photo-compositions/",
    "summary": "Canadian photographer and inventor Peter Modzelewski has launched Forma on Kickstarter via his independent photo gear studio, Oramod. It is a pocket-sized optical viewfinder designed for a wide range of film and digital ",
-   "image": "",
+   "image": "https://michaelczhang.wpenginepowered.com/assets/uploads/2026/11/forma-viewfinder-featured.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-11-10T21:36:49.000Z"
+  },
+  {
+   "title": "This is so cool: Using the iPhone Duo as a monitor for the Sony FX5",
+   "link": "https://www.sonyalpharumors.com/this-is-so-cool-using-the-iphone-duo-as-a-monitor-for-the-sony-fx5/",
+   "summary": "Using an iPhone Duo with an FX5 feels kinda ironic by u/ieatgrass0 in photographycirclejerk A guy just showed how you can use the new iPhone Duo as a monitor on the Sony FX5. That’s so cool :) – Sony FX5 at BHphoto, Amaz",
+   "image": "",
+   "source": "Sony Alpha Rumors",
+   "category": "photo",
+   "date": "2026-11-10T21:36:12.000Z"
   },
   {
    "title": "'Wild Horse Nine' is Martin McDonagh at His Saddest’",
@@ -185,7 +428,7 @@
    "title": "VSCO Updates Its Policy to Explicitly State It Won’t Train AI on Your Photos",
    "link": "https://petapixel.com/2026/11/10/vsco-updates-its-policy-to-explicitly-state-it-wont-train-ai-on-your-photos/",
    "summary": "In May, VSCO came under scrutiny for wording in its Terms of Use that seemed to give the company permission to use certain user content to develop, train, and improve generative AI or machine learning models. It has now ",
-   "image": "",
+   "image": "https://michaelczhang.wpenginepowered.com/assets/uploads/2026/05/vsco-logo-featured.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-11-10T20:45:13.000Z"
@@ -193,7 +436,7 @@
   {
    "title": "Adobe releases Lightroom Classic 16.0 and Lightroom 10.0: Glow, Vectorscope, AI depth masks and tethering on Lightroom desktop",
    "link": "https://www.newsshooter.com/2026/11/10/adobe-releases-lightroom-classic-16-0-and-lightroom-10-0-glow-vectorscope-ai-depth-masks-and-tethering-on-lightroom-desktop/",
-   "summary": "Adobe has released Lightroom Classic 16.0, Lightroom 10.0 (desktop) and Lightroom Mobile 12.0 to coincide with Adobe MAX 2026. This is the annual major-version update, and it is a big one. Highlights include a new Glow e",
+   "summary": "Adobe has released Lightroom Classic 16.0, Lightroom 10.0 (desktop), and Lightroom Mobile 12.0 to coincide with Adobe MAX 2026. This is the annual major-version update, and it is a big one. Highlights include a new Glow ",
    "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/Main-image-16-9@1x.png",
    "source": "Newsshooter",
    "category": "video",
@@ -230,7 +473,7 @@
    "title": "Ring’s AI-Powered Drone Automatically Patrols Inside Your Home",
    "link": "https://petapixel.com/2026/11/10/rings-ai-powered-drone-automatically-patrols-inside-your-home/",
    "summary": "Home security can now fly. Amazon-owned Ring has announced the Ring Drone Cam, a $250 indoor flying security camera designed to automatically patrol a home's interior. [ Read More ]",
-   "image": "",
+   "image": "https://michaelczhang.wpenginepowered.com/assets/uploads/2026/11/ring_dronecam_lifestyle_close-up-product-shot_1500x1500.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-11-10T20:25:51.000Z"
@@ -311,7 +554,7 @@
    "title": "All of Adobe Camera RAW’s Awesome Updates Adobe Didn’t Mention",
    "link": "https://petapixel.com/2026/11/10/adobe-camera-raw-19-0-adds-virtual-copies-stacks-and-much-more/",
    "summary": "The good news keeps coming for photographers using Adobe's software. Alongside big Lightroom Classic updates, Adobe Camera Raw (ACR) has been updated today to version 19.0, ushering in a wide range of tweaks, some of whi",
-   "image": "",
+   "image": "https://michaelczhang.wpenginepowered.com/assets/uploads/2026/11/acr-19-6.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-11-10T19:04:46.000Z"
@@ -419,7 +662,7 @@
    "title": "Adobe’s Quiet Lightroom Classic Updates Are a Big Deal for Photographers",
    "link": "https://petapixel.com/2026/11/10/adobes-quiet-lightroom-classic-updates-are-a-big-deal-for-photographers/",
    "summary": "Adobe's MAX press kit focused on just a few updates to Lightroom and gave Lightroom Classic no specific attention, but that doesn't mean that the popular RAW editing and organization app hasn't received big changes. Ligh",
-   "image": "",
+   "image": "https://michaelczhang.wpenginepowered.com/assets/uploads/2026/11/lrc-16-update-featured.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-11-10T17:40:44.000Z"
@@ -491,7 +734,7 @@
    "title": "18 Stunning Finalists From Close-Up Photographer of the Year",
    "link": "https://petapixel.com/2026/11/10/18-stunning-finalists-from-close-up-photographer-of-the-year/",
    "summary": "The finalists for this year's Close-up Photographer of the Year (CUPOTY) have been announced -- a competition showcasing the very best of close-up, macro and micro photography. [ Read More ]",
-   "image": "",
+   "image": "https://michaelczhang.wpenginepowered.com/assets/uploads/2026/11/CUPOTY-8-Finalists.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-11-10T17:00:50.000Z"
@@ -554,7 +797,7 @@
    "title": "You Can Now Buy Beni the Jumping Robot Cameraman for $799",
    "link": "https://petapixel.com/2026/11/10/you-can-now-buy-beni-the-jumping-robot-cameraman-for-799/",
    "summary": "Beni, the adorable rolling robot which made waves with tech YouTubers when its beta version was first shown off last July, is now a finished product. Mondo Robotics has announced the robot cameraman is available to purch",
-   "image": "",
+   "image": "https://michaelczhang.wpenginepowered.com/assets/uploads/2026/11/You-Can-Now-Buy-Beni-the-Jumping-Robot-Cameraman-for-799.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-11-10T16:00:32.000Z"
@@ -608,7 +851,7 @@
    "title": "Peak Design’s Expanded Rolling Luggage Series ‘Rethinks’ Hardshell Suitcases",
    "link": "https://petapixel.com/2026/11/10/peak-designs-expanded-rolling-luggage-series-rethinks-hardshell-suitcases/",
    "summary": "Peak Design has expanded its line of Roller Pro rolling luggage to include three new hardshell suitcases called Roller Lite, which appears to be a play on the design's ability to retain hardshell exteriors but with light",
-   "image": "",
+   "image": "https://michaelczhang.wpenginepowered.com/assets/uploads/2026/11/Peak-Designs-Expanded-Roller-Pro-Series-Rethinks-Hardshell-Suitcases.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-11-10T15:36:45.000Z"
@@ -617,7 +860,7 @@
    "title": "Aura’s New, Improved E-Paper Picture Frame Looks Like a Printed Photo",
    "link": "https://petapixel.com/2026/11/10/auras-new-improved-e-paper-picture-frame-looks-like-a-printed-photo/",
    "summary": "Just over a year ago, Aura unveiled its first cord-free e-paper digital picture frame, the 13.3-inch Aura Ink. The company has now introduced the Aura Ink 10\", a smaller e-ink digital frame that builds upon the success a",
-   "image": "",
+   "image": "https://michaelczhang.wpenginepowered.com/assets/uploads/2026/11/Aura_Ink_10_3.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-11-10T15:32:39.000Z"
@@ -722,24 +965,6 @@
    "date": "2026-11-10T14:20:07.000Z"
   },
   {
-   "title": "Sony registered a new camera code in California!",
-   "link": "https://www.sonyalpharumors.com/sony-registered-a-new-camera-code-in-california/",
-   "summary": "The California Energy commission published the details of a new Sony camera that has yet to be released: Model: WW491229 Added: 31 October 2026 Battery: NP-SA100, 7.82V / 2,670mAh Test power supply: XQZ-UC1 The code “WW4",
-   "image": "",
-   "source": "Sony Alpha Rumors",
-   "category": "photo",
-   "date": "2026-11-10T14:15:23.000Z"
-  },
-  {
-   "title": "Anthropic's Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago",
-   "link": "https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/",
-   "summary": "Anthropic's Fable 5.2 completes 41.3 percent of real freelance jobs at professional quality on the Remote Labor Index, more than double the next-best systems Opus 5.5 and GPT 6 Astra. A year ago the top score was 2.5 per",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/07/Remote-labor-index-bench-title.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-11-10T14:07:47.000Z"
-  },
-  {
    "title": "Anthropic targets $1.4 trillion IPO",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
    "summary": "Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its va",
@@ -788,7 +1013,7 @@
    "title": "Adobe’s Creative Agent Wants To Do the Photo and Video Editing Tasks You Don’t Want To",
    "link": "https://petapixel.com/2026/11/10/adobes-creative-agent-wants-to-do-the-photo-and-video-editing-tasks-you-dont-want-to/",
    "summary": "Adobe has been developing agentic AI for years, and at this year's Adobe MAX in Miami, it looks like it has finally been fully unleashed. Adobe is ushering in significant expansions to the Adobe Creative Agent, which use",
-   "image": "",
+   "image": "https://michaelczhang.wpenginepowered.com/assets/uploads/2026/11/FF-ImageEditor-No-Logo-21.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-11-10T14:00:56.000Z"
@@ -806,7 +1031,7 @@
    "title": "Premiere Update Brings Color Mode Out of Beta, Plus Generative Video & AI Audio Tools",
    "link": "https://petapixel.com/2026/11/10/premiere-update-brings-color-mode-out-of-beta-plus-generative-video-ai-audio-tools/",
    "summary": "Adobe is updating Premiere with a ton of AI-based tools and assistance as well as promising a new, wholly revamped approach to color grading. [ Read More ]",
-   "image": "",
+   "image": "https://michaelczhang.wpenginepowered.com/assets/uploads/2026/11/Premiere-Pro-Updates-Add-AI-Assist-Everywhere-and-Revamps-Color-Grading.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-11-10T14:00:40.000Z"
@@ -815,7 +1040,7 @@
    "title": "Photoshop Now Relights and Restyles Your Photos Using AI",
    "link": "https://petapixel.com/2026/11/10/photoshop-now-relights-and-restyles-your-photos-using-ai/",
    "summary": "Today at Adobe MAX 2026 in Miami Beach, Adobe announced a wide range of updates to its core applications and technologies, including Photoshop and Lightroom. [ Read More ]",
-   "image": "",
+   "image": "https://michaelczhang.wpenginepowered.com/assets/uploads/2026/11/PS-Ai-Assisted-Editor-Logo-32.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-11-10T14:00:02.000Z"
@@ -824,7 +1049,7 @@
    "title": "Leica Unveils Cine Play 1 Plus 4K Projector With 4,200 Lumens",
    "link": "https://petapixel.com/2026/11/10/leica-unveils-cine-play-1-plus-4k-projector-with-4200-lumens/",
    "summary": "Leica has announced the Cine Play 1 Plus, an upgraded version of its compact 4K smart projector that increases brightness and contrast compared with its predecessor. [ Read More ]",
-   "image": "",
+   "image": "https://michaelczhang.wpenginepowered.com/assets/uploads/2026/11/Leica-Cine1.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-11-10T14:00:01.000Z"
@@ -920,24 +1145,6 @@
    "date": "2026-11-10T13:37:50.000Z"
   },
   {
-   "title": "Eight countries and top AI labs agree to shutdown mechanisms in new Paris declaration",
-   "link": "https://the-decoder.com/eight-countries-and-top-ai-labs-agree-to-shutdown-mechanisms-in-new-paris-declaration/",
-   "summary": "Eight countries along with representatives from OpenAI, Anthropic, Microsoft, and Mistral AI have signed the \"Paris Call for AI Safety and Security\" at Emmanuel Macron's initiative. The companies commit to shutdown mecha",
-   "image": "https://the-decoder.com/wp-content/uploads/2025/07/Digital-Europe-Map.jpg",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-11-10T13:37:16.000Z"
-  },
-  {
-   "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
-   "link": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
-   "summary": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Ring-drone.jpg?resize=1200,1200",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-11-10T13:30:00.000Z"
-  },
-  {
    "title": "Hands-on with Ring’s new AI drone camera for your home",
    "link": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot",
    "summary": "Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week.",
@@ -992,15 +1199,6 @@
    "date": "2026-11-10T12:15:32.000Z"
   },
   {
-   "title": "Anthropic kicks off IPO roadshow, offering shares at $70 to $78 and targeting a trillion-dollar valuation",
-   "link": "https://the-decoder.com/anthropic-kicks-off-ipo-roadshow-offering-shares-at-70-to-78-and-targeting-a-trillion-dollar-valuation/",
-   "summary": "Anthropic is kicking off its IPO roadshow, targeting a valuation of up to $1.02 trillion. Beyond the public offering of up to $64.4 billion, the company is securing $26 billion through a private placement with Google, Nv",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-11-10T12:13:03.000Z"
-  },
-  {
    "title": "The Sony a7R VI's Slower Readout Never Showed Up at a Formula 1 Race",
    "link": "https://fstoppers.com/gear/sony-a7r-vis-slower-readout-never-showed-formula-1-race-905482?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
    "summary": "Sony's a7R VI pairs a 67-megapixel stacked sensor with 30 fps blackout-free shooting and 8K video, yet a lot of the early talk has centered on its readout speed trailing Sony's dedicated speed bodies. If you shoot detail",
@@ -1031,7 +1229,7 @@
    "title": "Photographer Killed While Capturing Vintage Airplane",
    "link": "https://petapixel.com/2026/11/10/photographer-killed-while-capturing-vintage-airplane/",
    "summary": "A photographer has died after she was struck by a vintage airplane that she was taking pictures of. [ Read More ]",
-   "image": "",
+   "image": "https://michaelczhang.wpenginepowered.com/assets/uploads/2026/11/Pam-Haselton.jpg",
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-11-10T11:12:28.000Z"
@@ -1073,15 +1271,6 @@
    "date": "2026-11-10T10:45:30.000Z"
   },
   {
-   "title": "This is so cool: Using the iPhone Duo as a monitor for the Sony FX5",
-   "link": "https://www.sonyalpharumors.com/this-is-so-cool-using-the-iphone-duo-as-a-monitor-for-the-sony-fx5/",
-   "summary": "Using an iPhone Duo with an FX5 feels kinda ironic by u/ieatgrass0 in photographycirclejerk A guy just showed how you can use the new iPhone Duo as a monitor on the Sony FX5. That’s so cool :) – Sony FX5 at BHphoto, Amaz",
-   "image": "",
-   "source": "Sony Alpha Rumors",
-   "category": "photo",
-   "date": "2026-11-10T10:36:12.000Z"
-  },
-  {
    "title": "Instagram Content Workflow, Drawing Fans to Your Brand, and Industry News",
    "link": "https://www.socialmediaexaminer.com/instagram-content-workflow-drawing-fans-to-your-brand-and-industry-news/",
    "summary": "Here’s a recap of the most important insights, trends, and updates you need to know about today! Catch up in minutes and go into the rest of the week prepared. A quick note from Mike: This is the last week to get General",
@@ -1109,21 +1298,21 @@
    "date": "2026-11-10T10:03:01.000Z"
   },
   {
-   "title": "Are YouTube Shorts Worth It in 2026?",
-   "link": "https://metricool.com/are-youtube-shorts-worth-it/",
-   "summary": "Are YouTube Shorts worth it in 2026? See how Shorts compare to TikTok and Reels, where small accounts win, and how to use them to grow your channel.",
-   "image": "https://metricool.com/wp-content/uploads/youtube-shorts-worth.webp",
-   "source": "Metricool",
-   "category": "instagram",
-   "date": "2026-11-10T10:00:00.000Z"
-  },
-  {
    "title": "Introducing Businesses in ChatGPT",
    "link": "https://openai.com/index/introducing-businesses-chatgpt",
    "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
    "image": "",
    "source": "OpenAI",
    "category": "ai",
+   "date": "2026-11-10T10:00:00.000Z"
+  },
+  {
+   "title": "Are YouTube Shorts Worth It in 2026?",
+   "link": "https://metricool.com/are-youtube-shorts-worth-it/",
+   "summary": "Are YouTube Shorts worth it in 2026? See how Shorts compare to TikTok and Reels, where small accounts win, and how to use them to grow your channel.",
+   "image": "https://metricool.com/wp-content/uploads/youtube-shorts-worth.webp",
+   "source": "Metricool",
+   "category": "instagram",
    "date": "2026-11-10T10:00:00.000Z"
   },
   {
@@ -1161,15 +1350,6 @@
    "source": "Newsshooter",
    "category": "video",
    "date": "2026-11-10T09:27:38.000Z"
-  },
-  {
-   "title": "Godox Litemons LA200R RGB LED Monolight (White, Travel Kit) on sale for $309 USD",
-   "link": "https://www.newsshooter.com/2026/11/10/godox-litemons-la200r-rgb-led-monolight-white-travel-kit-on-sale-for-309-usd/",
-   "summary": "The Godox Litemons LA200R RGB LED Monolight (White, Travel Kit) is on sale for $309 USD, which is a discount of $110 USD. Key features The Litemons LA200R RGB LED Monolight Travel Kit features tons of colors and lighting",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/Godox-Deal.jpg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-11-10T09:18:49.000Z"
   },
   {
    "title": "Testing the Canon R6 Mark III in Real-World Conditions",
@@ -1217,6 +1397,15 @@
    "date": "2026-11-10T08:16:43.000Z"
   },
   {
+   "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+   "link": "https://openai.com/index/singapore-airlines-travel-work",
+   "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
+   "image": "",
+   "source": "OpenAI",
+   "category": "ai",
+   "date": "2026-11-10T08:00:00.000Z"
+  },
+  {
    "title": "Security Flaws Across UK Government Sites Exposed ‘God-Tier’ Information",
    "link": "https://www.wired.com/story/security-flaws-across-uk-government-sites-exposed-god-tier-information/",
    "summary": "A researcher’s trawl through publicly available code found private information was at risk across multiple departments.",
@@ -1260,15 +1449,6 @@
    "source": "WIRED",
    "category": "ai",
    "date": "2026-11-10T05:01:00.000Z"
-  },
-  {
-   "title": "Maono PD500W 2.4GHz wireless microphone with USB-C and XLR connectivity & built-in recording",
-   "link": "https://www.newsshooter.com/2026/11/09/maono-pd500w-2-4ghz-wireless-microphone-with-usb-c-and-xlr-connectivity-built-in-recording/",
-   "summary": "The Maono PD500W combines 2.4GHz wireless, USB-C and XLR connectivity with built-in recording capabilities. The microphone was primarily designed for podcasting, streaming, interviews, and on-location applications. It wa",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/maona.jpg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-11-10T00:45:27.000Z"
   },
   {
    "title": "Sirui’s 15 and 24mm autofocus primes fill an underserved niche for L-mount",
@@ -1343,24 +1523,6 @@
    "date": "2026-11-09T22:03:02.000Z"
   },
   {
-   "title": "Logitech MX Master 4 Creator Edition: The Adobe-Themed MX Master 4",
-   "link": "https://www.newsshooter.com/2026/11/09/logitech-mx-master-4-creator-edition-the-adobe-themed-mx-master-4/",
-   "summary": "Logitech has released the MX Master 4 Creator Edition, a limited-run version of its flagship productivity mouse aimed at designers, photographers, and video editors working in Adobe Creative Cloud. It went on sale Novemb",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/Screenshot-2026-11-09-at-1.37.10-PM-740x420.webp",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-11-09T21:32:29.000Z"
-  },
-  {
-   "title": "Claude Fable 5.2 and Mythos 5.2 cement Anthropic's AI lead just before its IPO",
-   "link": "https://the-decoder.com/claude-fable-5-2-and-mythos-5-2-cement-anthropics-ai-lead-just-before-its-ipo/",
-   "summary": "Anthropic is releasing Claude Fable 5.2 and Mythos 5.2, its most powerful models to date, in two versions: one freely available and one reserved for verified organizations. The models solve open physics problems, show st",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/fable_52_sand.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-11-09T21:15:23.000Z"
-  },
-  {
    "title": "Today only at BH: $480 off on the Sigma 28mm f/1.4 FE lens",
    "link": "https://www.sonyalpharumors.com/today-only-at-bh-480-off-on-the-sigma-28mm-f-1-4-fe-lens/",
    "summary": "You save big on the Sigma 28mm f/1.4 FE lens sold by BHphoto (Click here). Runs today only! Reminder: The BIG Holiday Deals are now live at BHphoto (click here) and Adorama (click here). The post Today only at BH: $480 o",
@@ -1395,15 +1557,6 @@
    "source": "CineD",
    "category": "video",
    "date": "2026-11-09T19:57:24.000Z"
-  },
-  {
-   "title": "Meta launches Muse Ember, a small AI model built for the repetitive work agents actually do",
-   "link": "https://the-decoder.com/meta-launches-muse-ember-a-small-ai-model-built-for-the-repetitive-work-agents-actually-do/",
-   "summary": "Meta is introducing Muse Ember, its smallest and most efficient AI model, optimized for repetitive agent tasks such as tool calls, routing, and data extraction. According to Meta, it delivers more intelligence per dollar",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/07/meta_logo-2.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-11-09T19:41:51.000Z"
   },
   {
    "title": "The backlash about data centers might really just be about electricity",
@@ -1442,15 +1595,6 @@
    "date": "2026-11-09T19:00:03.000Z"
   },
   {
-   "title": "ChatGPT Enterprise now available in AWS Marketplace",
-   "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-   "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-   "image": "",
-   "source": "OpenAI",
-   "category": "ai",
-   "date": "2026-11-09T19:00:00.000Z"
-  },
-  {
    "title": "Peakto Launches Version 3.0: A Media Manager That Can Handle Millions of Assets",
    "link": "https://fstoppers.com/apps/peakto-launches-version-30-media-manager-can-handle-millions-assets-905455?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
    "summary": "Peakto has been around for several years. As a Mac-only media manager, it was one of the first to use AI for finding photographs. I've reviewed earlier versions and found it reliable and powerful. [ Read More ]",
@@ -1476,15 +1620,6 @@
    "source": "The Verge",
    "category": "instagram",
    "date": "2026-11-09T18:07:23.000Z"
-  },
-  {
-   "title": "How I Shot Three Completely Different Portraits With Profoto's Essential Hybrid Kit",
-   "link": "https://fstoppers.com/editorial/how-i-shot-three-completely-different-portraits-profotos-essential-hybrid-kit-905308?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "A few weeks ago, Profoto challenged me to do a full photo shoot using their new Essential Hybrid Kit. I told them to send it over, and I would use it on a real shoot. In this article and the video above, I'm going to sho",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/fstoppers-profoto-behind-the-scenes-photoshoot.jpg.webp?itok=ZU4d5ePW",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-11-09T17:56:05.000Z"
   },
   {
    "title": "Claude Code is accidentally exposing secrets all over GitHub",
@@ -1577,15 +1712,6 @@
    "date": "2026-11-09T14:52:46.000Z"
   },
   {
-   "title": "Just announced: New Sirui Aurora 15mm f/1.6 and 24mm f/1.4 FE autofocus lenses",
-   "link": "https://www.sonyalpharumors.com/just-announced-new-sirui-aurora-15mm-f-1-6-and-24mm-f-1-4-fe-autofocus-lenses/",
-   "summary": "We just got two new interesting fast wide angle Full Frame lenses from Sirui: Sirui Aurora 15mm f/1.6 at BHphoto, Amazon, Sirui Global store, Adorama, Fotokoch, FotoErhardt, Calumet, Clifton, WexUK. Sirui Aurora 24mm f/1",
-   "image": "",
-   "source": "Sony Alpha Rumors",
-   "category": "photo",
-   "date": "2026-11-09T14:51:32.000Z"
-  },
-  {
    "title": "Canon’s $2,499 EOS R6 V Earns Amazon’s Choice With Just 19 Reviews",
    "link": "https://ymcinema.com/2026/11/09/canon-eos-r6-v-amazons-choice-19-reviews/",
    "summary": "Canon’s video-focused EOS R6 V has received Amazon’s Choice recognition despite having only 19 customer ratings. Priced at $2,499, the full-frame mirrorless camera offers 7K RAW recording, Open Gate capture, and active c",
@@ -1604,15 +1730,6 @@
    "date": "2026-11-09T14:30:56.000Z"
   },
   {
-   "title": "SIRUI announces the Aurora 15mm F1.6 & 24mm F1.4",
-   "link": "https://www.newsshooter.com/2026/11/09/sirui-announces-the-aurora-15mm-f1-6-24mm-f1-4/",
-   "summary": "SIRUI has announced the Aurora 15mm F1.6 and 24mm F1.4, the latest additions to its full-frame autofocus lens series. These new focal lengths join the existing 35mm F1.4 and 85mm F1.4. Both lenses feature STM autofocus w",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/SIRUI.jpg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-11-09T13:50:52.000Z"
-  },
-  {
    "title": "We went hands-on with Xiaomi’s dual-screen 18 Pro phones with Leica cameras",
    "link": "https://www.dpreview.com/news/we-went-hands-on-with-xiaomis-dual-screen-18-pro-phones-with-leica-cameras/",
    "summary": "We've been spending some time with Xiaomi's latest flagships ahead of their November 17 global launch.",
@@ -1629,15 +1746,6 @@
    "source": "CineD",
    "category": "video",
    "date": "2026-11-09T13:03:22.000Z"
-  },
-  {
-   "title": "Nextorage announced new video-ready SD cards",
-   "link": "https://www.sonyalpharumors.com/nextorage-announced-new-video-ready-sd-cards/",
-   "summary": "Nextorage launched a new line of SD cards you can get now at BHphoto and Amazon. Press text: V90-compatible, Ideal for Shooting High-quality Video The NX-F2AE series complies with Video Speed Class V90, which requires a ",
-   "image": "",
-   "source": "Sony Alpha Rumors",
-   "category": "photo",
-   "date": "2026-11-09T13:01:07.000Z"
   },
   {
    "title": "Innovating with AI in the special chemicals industry",
@@ -1730,24 +1838,6 @@
    "date": "2026-11-09T08:00:00.000Z"
   },
   {
-   "title": "Sigma 28mm f/1.4 DG HSM Art Lens (Sony E) on sale for $399 USD",
-   "link": "https://www.newsshooter.com/2026/11/08/sigma-28mm-f-1-4-dg-hsm-art-lens-sony-e-on-sale-for-399-usd/",
-   "summary": "The Sigma 28mm f/1.4 DG HSM Art Lens (Sony E) is on sale for $399 USD, which is a sizable discount of $480 USD. Key features The Sigma 28mm f/1.4 DG HSM Art Lens is a versatile lens with a classic broad field of view tha",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/Sigma-Deal.jpg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-11-09T05:41:25.000Z"
-  },
-  {
-   "title": "Save $950 USD on the SmallHD Cine 7 Touchscreen On-Camera Monitor (L-Series)",
-   "link": "https://www.newsshooter.com/2026/11/08/save-950-usd-on-the-smallhd-cine-7-touchscreen-on-camera-monitor-l-series/",
-   "summary": "You can save $950 USD on the SmallHD Cine 7 Touchscreen On-Camera Monitor (L-Series) and purchase it for $1,349 USD. Key features The Cine 7 Touchscreen On-Camera Monitor features a sharp 7″ display suitable for indoor o",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/SmallHD-Deal.jpg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-11-09T05:35:31.000Z"
-  },
-  {
    "title": "Aftershoot early Black Friday sale",
    "link": "https://nikonrumors.com/2026/11/08/aftershoot-early-black-friday-sale.aspx/",
    "summary": "Aftershoot launched its early Black Friday sale: the first 500 photographers can grab an annual plan and get 25% off; then the discount drops to 20%. You can also try using coupon codes BLACKFRIDAY26 and RUMORS for addit",
@@ -1782,15 +1872,6 @@
    "source": "DPReview",
    "category": "photo",
    "date": "2026-11-08T13:00:00.000Z"
-  },
-  {
-   "title": "I Used NYT Cooking’s New AI-Powered Recipe Modifier, and It’s Actually Pretty Good",
-   "link": "https://www.wired.com/story/nyt-cooking-new-ai-powered-recipe-modifier-is-pretty-good/",
-   "summary": "The New York Times has added a beta feature to its Cooking app that helps readers swap ingredients or adjust recipes to suit their needs. It mostly hits the mark.",
-   "image": "https://media.wired.com/photos/6aee77f4ece1c19963602401/master/pass/gear-nyt-cooking-ai-assistant.jpg",
-   "source": "WIRED",
-   "category": "ai",
-   "date": "2026-11-08T12:00:00.000Z"
   },
   {
    "title": "Canon Celebrates 15 Years of Cinema EOS: 17 Cameras and 53 Lenses",
@@ -1901,15 +1982,6 @@
    "date": "2026-11-06T15:49:11.000Z"
   },
   {
-   "title": "How “You Can See Everything” Was Shot – No Lights, Three Cameras, and a Day of Getting It Wrong",
-   "link": "https://www.cined.com/how-you-can-see-everything-was-shot-no-lights-three-cameras-and-a-day-of-getting-it-wrong/",
-   "summary": "You Can See Everything is the film everyone is talking about right now: $64.7 million in US ticket sales after three weekends, the first non-concert documentary since Fahrenheit 9/11 to finish a weekend at No. 1, a 99% R",
-   "image": "https://www.cined.com/content/uploads/2026/11/Elizabeth-Holmes-300x169.jpeg",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-11-06T14:16:41.000Z"
-  },
-  {
    "title": "TikTok’s For You page needs to change, says the EU",
    "link": "https://www.theverge.com/tech/1028597/tiktok-eu-for-you-algorithm-rabbit-hole-effect",
    "summary": "The European Commission claims TikTok broke its online platform rules by offering a recommendation algorithm that creates a \"rabbit hole effect\" on users. In an announcement on Friday, the regulators allege TikTok's algo",
@@ -1935,24 +2007,6 @@
    "source": "Y.M.Cinema",
    "category": "video",
    "date": "2026-11-06T13:53:25.000Z"
-  },
-  {
-   "title": "iVANKY FusionDock Ultra Review – 26 Ports, 10GbE and a Dual-Cable Design for the Mac Desk",
-   "link": "https://www.cined.com/ivanky-fusiondock-ultra-review-26-ports-10gbe-and-a-dual-cable-design-for-the-mac-desk/",
-   "summary": "I constantly run out of ports on my MacBook Pro. My desk is full of RAIDs, card readers for various camera memory cards, an iodyne Pro Data and two high-resolution monitors, and every single one of them wants a cable. Th",
-   "image": "https://www.cined.com/content/uploads/2026/11/iVanky-FusionDock-Ultra-1-300x169.jpg",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-11-06T12:45:39.000Z"
-  },
-  {
-   "title": "DaVinci Resolve 21.2 Released – PROLED XDR Touch Support, Gen 6 Color Science LUTs, Up to 5x Faster Rendering on M5 Pro and M5 Max",
-   "link": "https://www.cined.com/davinci-resolve-21-2-released-proled-xdr-touch-support-gen-6-color-science-luts-up-to-5x-faster-rendering-on-m5-pro-and-m5-max/",
-   "summary": "Blackmagic Design has released DaVinci Resolve 21.2, and the headline item is support for Apple’s new MacBook Pro with PROLED XDR touch screen. The update also adds support for Blackmagic Generation 6 Color Science LUTs ",
-   "image": "https://www.cined.com/content/uploads/2026/11/download-2-300x169.jpg",
-   "source": "CineD",
-   "category": "video",
-   "date": "2026-11-06T10:53:45.000Z"
   },
   {
    "title": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
@@ -2295,15 +2349,6 @@
    "source": "MIT Tech Review",
    "category": "ai",
    "date": "2026-11-03T04:18:47.000Z"
-  },
-  {
-   "title": "DJI’s 17-Stop, 1-Inch CMOS Pocket 4P Pearl White Hits Amazon for $741",
-   "link": "https://ymcinema.com/2026/11/02/dji-osmo-pocket-4p-pearl-white-amazon/",
-   "summary": "DJI’s Osmo Pocket 4P Pearl White is now listed on Amazon for $740.55, despite the camera remaining unavailable through major authorized US retailers. The dual-lens pocket camera features a 1-inch CMOS sensor with a claim",
-   "image": "https://ymcinema.com/wp-content/uploads/2026/11/DJIs-17-Stop-1-Inch-CMOS-Pocket-4P-Pearl-White-Hits-Amazon-for-741.002.webp",
-   "source": "Y.M.Cinema",
-   "category": "video",
-   "date": "2026-11-02T18:11:11.000Z"
   },
   {
    "title": "The latest AI news we announced in October 2026",
