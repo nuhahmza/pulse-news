@@ -1,6 +1,105 @@
 {
- "updated": "2026-11-13T21:51:57.042Z",
+ "updated": "2026-11-14T02:06:41.145Z",
  "items": [
+  {
+   "title": "‘We need more reviewers’: Finding Linux bugs is easy now – fixing them is another story",
+   "link": "https://www.zdnet.com/innovation/ai-bug-reports-linux-windows/",
+   "summary": "Some Linux maintainers are quitting under the crushing strain of AI bug reports, while others see signs for hope.",
+   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-10167204.jpg",
+   "source": "ZDNet",
+   "category": "ai",
+   "date": "2026-11-14T01:20:06.000Z"
+  },
+  {
+   "title": "Chimera Vortex2 POP bank",
+   "link": "https://www.newsshooter.com/2026/11/13/chimera-vortex2-pop-bank/",
+   "summary": "The Chimera Vortex2 POP bank was made specifically for the Creamsource Vortex2 and it accepts Chimera’s standard XSmall grid. The Creamsource Vortex2 consists os two fixtures aimed at the smaller end of the production sp",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/CHIMERA.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-11-14T01:11:03.000Z"
+  },
+  {
+   "title": "SmallHD Cine 18 Snap-On Sunhood",
+   "link": "https://www.newsshooter.com/2026/11/13/smallhd-cine-18-snap-on-sunhood/",
+   "summary": "SmallHD has announced its new Cine 18 Snap-On Sunhood. It was designed to it installs in seconds with included snap screws that stay on your monitor. This makes it easy to quickly attach and remove the sunhood from your ",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/SmallHD.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-11-14T00:59:09.000Z"
+  },
+  {
+   "title": "3D Film Parts DJI Ronin 4D Dual Rail Mount",
+   "link": "https://www.newsshooter.com/2026/11/13/3d-film-parts-dji-ronin-4d-dual-rail-mount/",
+   "summary": "If you own or use a DJI Ronin 4D and need to run a focus motor and an iris motor 3D Film Parts has come up with a solution called the DJI Ronin 4D Dual Rail Mount. The the DJI Ronin 4D Dual Rail Mount fits the R4D’s LiDA",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/3D-Film-Parts.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-11-14T00:50:34.000Z"
+  },
+  {
+   "title": "NANLUX Bowens to FE Mount Adapter (AS-BA-FE)",
+   "link": "https://www.newsshooter.com/2026/11/13/nanlux-bowens-to-fe-mount-adapter-as-ba-fe/",
+   "summary": "The NANLUX Bowens to FE Mount Adapter (AS-BA-FE) was designed specifically for FE and FM mount fixtures. It enables users top use a wide array of affordable Bowens mount lighting modifiers on NANLUX’s proprietary mounts.",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/NANLUX.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-11-14T00:32:33.000Z"
+  },
+  {
+   "title": "Amazon has a plan to index the world’s online shopping data",
+   "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+   "summary": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, cal",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/acastro_STK103__03.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-11-13T23:49:11.000Z"
+  },
+  {
+   "title": "New Voigtlander NOKTON 35mm f/1.2 Aspherical full-frame lens for Nikon Z-mount announced today",
+   "link": "https://nikonrumors.com/2026/11/13/new-voigtlander-nokton-35mm-f-1-2-aspherical-full-frame-lens-for-nikon-z-mount-announced-today.aspx/",
+   "summary": "Cosina announced a new Voigtländer NOKTON 35mm f/1.2 Aspherical full-frame lens for Nikon Z-mount today (not to be confused with the APS-C version). Pre-orders should open soon at: B&H | Erhardt | WEX. This is the 16th V",
+   "image": "https://nikonrumors.com/wp-content/uploads/2026/11/Z-35_12-web01-rthdf-270x270.jpg",
+   "source": "Nikon Rumors",
+   "category": "photo",
+   "date": "2026-11-13T23:46:53.000Z"
+  },
+  {
+   "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+   "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+   "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Jensen-Huang-nvidia.jpg?w=1024",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-11-13T22:43:00.000Z"
+  },
+  {
+   "title": "What you should know before using Adobe’s latest photo-editing tools",
+   "link": "https://www.dpreview.com/news/what-you-should-know-before-using-adobes-latest-photo-editing-tools/",
+   "summary": "Demonstrations with Adobe’s product managers offered more insight into how the new features work. Trying them myself raised a few more questions.",
+   "image": "https://www.dpreview.com/wp-content/uploads/2026/11/gn-adobe-logos.jpg",
+   "source": "DPReview",
+   "category": "photo",
+   "date": "2026-11-13T22:07:53.000Z"
+  },
+  {
+   "title": "The Supreme Court Upheld Photographic Copyright in 1884, and Its Reason Was the Way Oscar Wilde Was Posed",
+   "link": "https://fstoppers.com/historical/supreme-court-upheld-photographic-copyright-1884-and-its-reason-was-way-oscar-904496?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "The Library of Congress holds a small color advertising card printed by the Burrow-Giles Lithographic Company at 20 and 22 Gold Street in New York. The front shows Oscar Wilde on a sofa with a closed book in one hand and",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/09/photographs-became-copyrightable-in-1884-oscar-wilde-fur-collar.jpg.webp?itok=zfxqOwt_",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-11-13T22:03:02.000Z"
+  },
+  {
+   "title": "Microsoft doesn’t ‘have an ETA for full recovery’ on outage yet",
+   "link": "https://www.zdnet.com/business/microsoft-outage-outlook-teams-copilot/",
+   "summary": "One think tank’s estimate puts the cost of the outage at $7 billion.",
+   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2207328643-e1794576021345.jpg",
+   "source": "ZDNet",
+   "category": "ai",
+   "date": "2026-11-13T21:43:32.000Z"
+  },
   {
    "title": "Scoring 'Tales from Eternia': Why Composer Erik Desiderio Channeled Queen and ’80s Rock",
    "link": "https://nofilmschool.com/erik-desiderio-composer",
@@ -9,6 +108,24 @@
    "source": "No Film School",
    "category": "video",
    "date": "2026-11-13T21:30:04.000Z"
+  },
+  {
+   "title": "Sony FX5 BHphoto preorders finally shipped out yesterday!",
+   "link": "https://www.sonyalpharumors.com/sony-fx5-bhphoto-preorders-finally-shipped-out-yesterday/",
+   "summary": "Many SAR readers have told me that their Sony FX5 orders from B&H Photo shipped yesterday or today! I’m happy for all you new owners. Feel free to share your unboxing experiences and first impressions in the comments! :)",
+   "image": "",
+   "source": "Sony Alpha Rumors",
+   "category": "photo",
+   "date": "2026-11-13T21:29:04.000Z"
+  },
+  {
+   "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+   "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
+   "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
+   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
+   "source": "Ars Technica",
+   "category": "ai",
+   "date": "2026-11-13T21:20:47.000Z"
   },
   {
    "title": "How 'Project Hail Mary' Brought Rocky to Life",
@@ -110,7 +227,7 @@
    "date": "2026-11-13T18:55:21.000Z"
   },
   {
-   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
+   "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
    "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
    "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2301327883.jpg?resize=1200,795",
@@ -192,7 +309,7 @@
   },
   {
    "title": "OpenAI board member worries an AI \"takeover\" of society could be months away",
-   "link": "https://arstechnica.com/features/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+   "link": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
    "summary": "Researcher traces a path from AI reward hacking to potential human extinction.",
    "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-destination-1152x648.jpg",
    "source": "Ars Technica",
@@ -587,6 +704,15 @@
    "date": "2026-11-13T08:14:04.000Z"
   },
   {
+   "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+   "link": "https://openai.com/business/customer-stories/shield",
+   "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+   "image": "",
+   "source": "OpenAI",
+   "category": "ai",
+   "date": "2026-11-13T08:00:00.000Z"
+  },
+  {
    "title": "Review of the new Yongnuo 18mm f/2.8 DF VCM APS-C lens",
    "link": "https://www.sonyalpharumors.com/review-of-the-new-yongnuo-18mm-f-2-8-df-vcm-aps-c-lens/",
    "summary": "Last week Yongnuo announced a new 18mm f/2.8 DF VCM APS-C E-mount lens. Here is a first review from Christopher Frost. The post Review of the new Yongnuo 18mm f/2.8 DF VCM APS-C lens first appeared on sonyalpharumors .",
@@ -623,15 +749,6 @@
    "date": "2026-11-12T22:29:43.000Z"
   },
   {
-   "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
-   "link": "https://arstechnica.com/ai/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
-   "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
-   "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/Pilots-during-DFW-departure-1152x648.jpg",
-   "source": "Ars Technica",
-   "category": "ai",
-   "date": "2026-11-12T22:28:47.000Z"
-  },
-  {
    "title": "Muse can now place calls to US businesses — if you pay",
    "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
    "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
@@ -641,10 +758,10 @@
    "date": "2026-11-12T22:22:28.000Z"
   },
   {
-   "title": "Instagram experiments with sports feature",
-   "link": "https://www.socialmediatoday.com/news/instagram-experiments-with-sports-feature/874585/",
-   "summary": "The app is seemingly experimenting with a new, dedicated sports engagement option.",
-   "image": "",
+   "title": "Instagram experiments with new sports feature",
+   "link": "https://www.socialmediatoday.com/news/instagram-experiments-with-new-sports-feature/874585/",
+   "summary": "The app is reportedly testing a capability that would enable users to specify the sports that they&rsquo;re interested in.",
+   "image": "https://imgproxy.divecdn.com/khXojiOkU45p_DhxBB-X7_0fg02ZofYtf9B72T512hU/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pbnN0YWdyYW1fYnJhbmRfbG9nby5wbmc=.webp",
    "source": "Social Media Today",
    "category": "instagram",
    "date": "2026-11-12T22:20:57.000Z"
@@ -765,15 +882,6 @@
    "source": "Ars Technica",
    "category": "ai",
    "date": "2026-11-12T19:59:59.000Z"
-  },
-  {
-   "title": "Microsoft doesn’t ‘have an ETA for full recovery’ on outage yet",
-   "link": "https://www.zdnet.com/business/microsoft-outage-outlook-teams-copilot/",
-   "summary": "One think tank’s estimate puts the cost of the outage at $7 billion.",
-   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/GettyImages-2207328643-e1794576021345.jpg",
-   "source": "ZDNet",
-   "category": "ai",
-   "date": "2026-11-12T19:45:52.000Z"
   },
   {
    "title": "No, AI agents did not discover a previously unknown Maya site",
@@ -965,15 +1073,6 @@
    "date": "2026-11-12T17:44:33.000Z"
   },
   {
-   "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-   "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-   "summary": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/07/Hugging-Face-CEO-Clem-Delangue.png?resize=1200,675",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-11-12T17:36:40.000Z"
-  },
-  {
    "title": "American Film Market 2026: Independent Film Under Construction",
    "link": "https://www.provideocoalition.com/american-film-market-2026-independent-film-under-construction/",
    "summary": "At this year’s American Film Market, “under construction” feels like an appropriate unofficial theme. Outside the hosting Fairmont Century Plaza, construction makes navigating the perimeter an unexpected part of the expe",
@@ -1005,15 +1104,6 @@
    "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
    "summary": "Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP protection firm Podqi and shared exclusive",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STKS539_AI_AGENTS_SHOPPING_E.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-11-12T17:00:00.000Z"
-  },
-  {
-   "title": "More game developers are starting to use generative AI",
-   "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
-   "summary": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it ",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/55145037587_ac59503045_k.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "source": "The Verge",
    "category": "ai",
    "date": "2026-11-12T17:00:00.000Z"
@@ -1415,15 +1505,6 @@
    "date": "2026-11-11T20:10:28.000Z"
   },
   {
-   "title": "Google Fi now switches between the best mobile networks automatically – how it works",
-   "link": "https://www.zdnet.com/home-and-office/google-fi-super-network-pixel/",
-   "summary": "Pixel users also get a bonus Wi-Fi upgrade. Here’s what to know.",
-   "image": "https://www.zdnet.com/wp-content/uploads/sites/3/dsc00320.jpg",
-   "source": "ZDNet",
-   "category": "ai",
-   "date": "2026-11-11T19:41:41.000Z"
-  },
-  {
    "title": "Taiwan’s chipmaking giant TSMC to invest $1B in Anthropic, OpenAI",
    "link": "https://arstechnica.com/ai/2026/11/taiwans-chipmaking-giant-tsmc-to-invest-1b-in-anthropic-openai/",
    "summary": "Latest example of the AI boom’s circular financing comes as AI trade wobbles.",
@@ -1496,15 +1577,6 @@
    "date": "2026-11-11T16:05:18.000Z"
   },
   {
-   "title": "How to Photograph a Scottish Island When the Wind Hits 80 mph",
-   "link": "https://fstoppers.com/education/how-photograph-scottish-island-when-wind-hits-80-mph-905503?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "Autumn on Iona brings low sun that can light the island for most of the day, but it also brings squalls that roll in off the Atlantic with little notice. You get minutes of good light at a time, so you have to decide on ",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_38.jpg.webp?itok=nhQfnSto",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-11-11T16:03:02.000Z"
-  },
-  {
    "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
    "link": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/",
    "summary": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
@@ -1557,15 +1629,6 @@
    "source": "Ars Technica",
    "category": "ai",
    "date": "2026-11-11T14:08:57.000Z"
-  },
-  {
-   "title": "And the hacking festival is continuing: A7III 29min limit gone, A6000 gets silent shutter and Sony A1 file transfer app!",
-   "link": "https://www.sonyalpharumors.com/and-the-hacking-festival-is-continuing-a7iii-29min-limit-gone-a6000-gets-silent-shutter-and-sony-a1-file-transfer-app/",
-   "summary": "As you’ve probably noticed, advances in AI have made it easier to hack camera firmware and add new features. I’ve come across a ton of new hacking tools for cameras from various manufacturers. But please be aware of the ",
-   "image": "",
-   "source": "Sony Alpha Rumors",
-   "category": "photo",
-   "date": "2026-11-11T14:00:14.000Z"
   },
   {
    "title": "Moment launches the Go Front Pack, a vest-inspired chest pack for mobile shooters",
@@ -1712,15 +1775,6 @@
    "date": "2026-11-11T05:01:16.000Z"
   },
   {
-   "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-   "link": "https://openai.com/index/jiostar-vijay-seshadri",
-   "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-   "image": "",
-   "source": "OpenAI",
-   "category": "ai",
-   "date": "2026-11-11T00:00:00.000Z"
-  },
-  {
    "title": "YouTuber leaks the release date for the Nikon ZR firmware update 2.0: November 24th",
    "link": "https://nikonrumors.com/2026/11/10/youtuber-leaks-the-release-date-for-the-nikon-zr-firmware-update-2-0-november-24th.aspx/",
    "summary": "Apparently, YouTubers cannot stop talking about (leaking?) the upcoming Nikon ZR firmware update version 2.0. In a video from a few days ago, the French YouTuber Mr Camera says in his 2.0 firmware review that we’ll have ",
@@ -1865,33 +1919,6 @@
    "date": "2026-11-10T15:00:39.000Z"
   },
   {
-   "title": "RØDE Capture now available for Android",
-   "link": "https://www.newsshooter.com/2026/11/10/rode-capture-now-available-for-android/",
-   "summary": "RØDE has released RØDE Capture for Android. The free video recording app, which launched on iOS in 2023, combines basic camera controls with in-app control of compatible RØDE microphones. It’s now available on the Google",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/RODE-Capture-for-Android_Socials-2_1920X1080.png",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-11-10T14:48:28.000Z"
-  },
-  {
-   "title": "Hollyland PYRO 7 Ultra Review",
-   "link": "https://www.newsshooter.com/2026/11/10/hollyland-pyro-7-ultra-review/",
-   "summary": "The Hollyland PYRO 7 Ultra is a professional all-in-one 7-inch wireless monitor that integrates wireless connectivity and monitoring into a single, highly portable device. The 7″ TX/RX monitor will work with the Pyro Ult",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/10/DSC_3378.jpeg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-11-10T14:23:06.000Z"
-  },
-  {
-   "title": "OWC Upgrades ThunderBay 4 with Thunderbolt 5 & up to 128TB of capacity",
-   "link": "https://www.newsshooter.com/2026/11/10/owc-upgrades-thunderbay-4-with-thunderbolt-5-up-to-128tb-of-capacity/",
-   "summary": "OWC has announced that it has added Thunderbolt 5 capabilities to its flagship OWC ThunderBay 4 RAID solution. Capacity has also been expanded up to 128TB. Key features “OWC ThunderBay 4 has been a customer favorite for ",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/OWC.jpg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-11-10T14:20:07.000Z"
-  },
-  {
    "title": "Tool Tip Tuesday for Adobe Premiere: Don’t Upgrade Premiere… Yet",
    "link": "https://www.provideocoalition.com/tool-tip-tuesday-for-adobe-premiere-dont-upgrade-premiere-yet/",
    "summary": "Welcome to Tool Tip Tuesday for Adobe Premiere on ProVideo Coalition Look, I know Adobe is having a really amazing week. Adobe MAX is happening. And the first thing you want to do is go download the new version of the to",
@@ -1899,15 +1926,6 @@
    "source": "ProVideo Coalition",
    "category": "video",
    "date": "2026-11-10T14:04:15.000Z"
-  },
-  {
-   "title": "Avid Ready to Play",
-   "link": "https://www.newsshooter.com/2026/11/10/avid-ready-to-play/",
-   "summary": "Avid has announced Ready to Play, which brings new AI creative capabilities to Media Composer. It was designed to give editors new ways to experiment and test ideas while still keeping creative control. I think a lot of ",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/Avid-Ready-to-Play.jpg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-11-10T14:00:53.000Z"
   },
   {
    "title": "Adobe’s Premiere updates bring more AI into the editing timeline",
@@ -2135,15 +2153,6 @@
    "date": "2026-11-08T22:20:11.000Z"
   },
   {
-   "title": "GoPro says its action camera reputation is hard to shake",
-   "link": "https://www.dpreview.com/interviews/gopro-says-its-action-camera-reputation-is-hard-to-shake/",
-   "summary": "GoPro’s ILS is finding uses beyond action footage, but expanding its photographic ambitions means confronting both expectations and limitations.",
-   "image": "https://www.dpreview.com/wp-content/uploads/2026/11/PI-gopro-ils-01.jpg",
-   "source": "DPReview",
-   "category": "photo",
-   "date": "2026-11-08T13:00:00.000Z"
-  },
-  {
    "title": "Canon Celebrates 15 Years of Cinema EOS: 17 Cameras and 53 Lenses",
    "link": "https://ymcinema.com/2026/11/08/canon-cinema-eos-15-years-17-cameras-53-lenses/",
    "summary": "Canon is celebrating the 15th anniversary of its Cinema EOS System, marking a journey that began in November 2011 with the introduction of the original Canon EOS C300. According to Canon’s official announcement, dated No",
@@ -2252,13 +2261,13 @@
    "date": "2026-11-05T15:33:58.000Z"
   },
   {
-   "title": "Confirmed: the camera from the official N2416 drawings is indeed the Z70",
-   "link": "https://nikonrumors.com/2026/11/05/confirmed-the-camera-from-the-official-n2416-drawings-is-indeed-the-z70.aspx/",
-   "summary": "A quick update: I can now confirm that the official drawings I posted online yesterday are indeed of the upcoming high-end APS-C Nikon Z70 camera. The new button on the top plate is for the REC function. Nikon is definit",
-   "image": "https://nikonrumors.com/wp-content/uploads/2026/11/Nikon-Z70-camera-leak2-550x307.jpg",
-   "source": "Nikon Rumors",
-   "category": "photo",
-   "date": "2026-11-05T15:24:13.000Z"
+   "title": "Instagram brings Edits to desktop to take on CapCut",
+   "link": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
+   "summary": "The move puts Edits in more direct competition with ByteDance's CapCut, the video-editing app Meta sought to challenge when it launched Edits last year.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Introducing-Edits-on-desktop_.png?resize=1200,726",
+   "source": "TechCrunch",
+   "category": "instagram",
+   "date": "2026-11-05T15:00:00.000Z"
   },
   {
    "title": "You can edit your videos with AI on Instagram’s new desktop Edits app",
@@ -2266,15 +2275,6 @@
    "summary": "Instagram's standalone video editing app is now available on macOS, where you can plug in your AI agent of choice to assemble your videos. Instagram's Matthew Simari, head of product management for Edits, said in an inte",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-timeline-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "source": "The Verge",
-   "category": "instagram",
-   "date": "2026-11-05T15:00:00.000Z"
-  },
-  {
-   "title": "Instagram brings Edits to desktop to take on CapCut",
-   "link": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
-   "summary": "The move puts Edits in more direct competition with ByteDance's CapCut, the video-editing app Meta sought to challenge when it launched Edits last year.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Introducing-Edits-on-desktop_.png?resize=1200,726",
-   "source": "TechCrunch",
    "category": "instagram",
    "date": "2026-11-05T15:00:00.000Z"
   },
@@ -2621,20 +2621,20 @@
    "date": "2026-10-05T18:29:00.000Z"
   },
   {
-   "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
-   "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
-   "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creati",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK070__01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "instagram",
-   "date": "2026-09-30T14:30:00.000Z"
-  },
-  {
    "title": "Instagram rolls out an AI video assistant for creators",
    "link": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
    "summary": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
    "image": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801",
    "source": "TechCrunch",
+   "category": "instagram",
+   "date": "2026-09-30T14:30:00.000Z"
+  },
+  {
+   "title": "Instagram is adding an AI ‘assistant’ to tell you how to post",
+   "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+   "summary": "Instagram is the latest social media platform to add built-in AI-powered features that will give users feedback on their posts. The company announced Wednesday that its standalone Edits app will now include an AI \"creati",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK070__01.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
    "category": "instagram",
    "date": "2026-09-30T14:30:00.000Z"
   },
