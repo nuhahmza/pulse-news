@@ -1,6 +1,69 @@
 {
- "updated": "2026-11-21T15:11:43.033Z",
+ "updated": "2026-11-21T21:00:23.255Z",
  "items": [
+  {
+   "title": "The vibe code revolution: AI hackers are rewriting what your camera can do",
+   "link": "https://www.dpreview.com/articles/the-vibe-code-revolution-ai-hackers-are-rewriting-what-your-camera-can-do/",
+   "summary": "People are customizing what their cameras can do with the help of new tools. It could change photography forever.",
+   "image": "https://www.dpreview.com/wp-content/uploads/2020/10/1924689625-Product-photos-OM-5_II_three_quarter_full.jpeg",
+   "source": "DPReview",
+   "category": "photo",
+   "date": "2026-11-21T20:41:54.000Z"
+  },
+  {
+   "title": "The UN fails to agree on rules regulating ‘killer robots’",
+   "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+   "summary": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings a",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/13611631/503831564.jpg.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-11-21T20:03:37.000Z"
+  },
+  {
+   "title": "My Top 3 Favorite Accessories Brands for my Camera Gear",
+   "link": "https://www.fujirumors.com/my-top-3-favorite-accessories-brands-for-my-camera-gear/",
+   "summary": "There are tons of companies making all sorts of accessories for our lovely Fujifilm cameras. Photography Accessories I own And today I thought I’d share with you my top three accessory brands, plus some honorable mention",
+   "image": "https://www.fujirumors.com/wp-content/uploads/2026/06/Top-Accessories.jpg",
+   "source": "Fuji Rumors",
+   "category": "photo",
+   "date": "2026-11-21T18:26:02.000Z"
+  },
+  {
+   "title": "The Artemis II eclipse from 62 Nikon Z9 RAW frames, as one HDR picture (guest post)",
+   "link": "https://nikonrumors.com/2026/11/21/the-artemis-ii-eclipse-from-62-nikon-z9-raw-frames-as-one-hdr-picture-guest-post.aspx/",
+   "summary": "This guest post, “The Artemis II eclipse from 62 Nikon Z9 RAW frames, as one HDR picture” is by Stefano Ivan Stinga (website | LinkedIn | X | images: NASA/Artemis II Crew, processing: Stefano Ivan Stinga): On April 7, 20",
+   "image": "https://nikonrumors.com/wp-content/uploads/2026/11/artemis-ii-eclipse-nikon-z9-1-550x344.jpg",
+   "source": "Nikon Rumors",
+   "category": "photo",
+   "date": "2026-11-21T18:17:55.000Z"
+  },
+  {
+   "title": "All 25 Beautiful Winners From the Black and White Photo Awards 2026",
+   "link": "https://petapixel.com/2026/11/21/all-25-beautiful-bw-winners-from-the-black-and-white-photo-awards-2026/",
+   "summary": "The Black and White Photo Awards 2026 winners have been unveiled. Photographers competed across six categories, each vying to be named Black and White Photographer of the Year. [ Read More ]",
+   "image": "https://petapixel.com/assets/uploads/2026/11/black-and-white-photo-awards-2026-winners-featured.jpg",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-11-21T17:00:20.000Z"
+  },
+  {
+   "title": "Here are the top AI agents that can live in your text messages",
+   "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+   "image": "https://techcrunch.com/wp-content/uploads/2017/12/gettyimages-673436934.jpg?resize=1200,813",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-11-21T17:00:00.000Z"
+  },
+  {
+   "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+   "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+   "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Inevitable-Key-Art_3x4-full-size.jpg?resize=899,1200",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-11-21T16:00:00.000Z"
+  },
   {
    "title": "Can Anthropic afford to put safety first?",
    "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
@@ -27,15 +90,6 @@
    "source": "The Verge",
    "category": "ai",
    "date": "2026-11-21T14:00:00.000Z"
-  },
-  {
-   "title": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions",
-   "link": "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/",
-   "summary": "OpenAI has released new prompt templates for GPT-6.2 Astra and Sol meant to fix common model behaviors such as overly brief answers, unnecessary follow-up questions, and excessive testing when coding. The API is changing",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_chatgpt-2.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-11-21T13:32:35.000Z"
   },
   {
    "title": "The Outages Are Just Getting Started",
@@ -74,33 +128,6 @@
    "date": "2026-11-21T12:00:55.000Z"
   },
   {
-   "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
-   "link": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
-   "summary": "Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalized in Lean that spans over 250,000 pages. Just hours later, S",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_riemann.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-11-21T11:19:49.000Z"
-  },
-  {
-   "title": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop",
-   "link": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/",
-   "summary": "Thinking Machines has released Inkling 2 Mini, an open looped transformer that runs 12 of its 24 layers three times per token. This lets the model reason internally for longer without generating extra text. On Artificial",
-   "image": "https://the-decoder.com/wp-content/uploads/2025/09/thinking_machines_ca_illustration.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-11-21T10:33:02.000Z"
-  },
-  {
-   "title": "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up",
-   "link": "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/",
-   "summary": "The Nasdaq 100 has slipped into a bear market after its worst weekly loss since the Covid-19 crisis. Nvidia plunged 14 percent as the SEC reviews its accounting, and Anthropic lost nearly all of its gains a day after its",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/tech_crash_synth.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-11-21T10:27:44.000Z"
-  },
-  {
    "title": "DJI Flip 4K Drone Hits Record-Low Price for Black Friday",
    "link": "https://ymcinema.com/2026/11/21/dji-flip-4k-drone-black-friday-record-low/",
    "summary": "The DJI Flip ($545 on Amazon) has dropped to its lowest recorded price for Black Friday 2026. Amazon is offering the compact 4K camera drone with the RC-N3 controller for just $305, down from its $439 list price. That’s ",
@@ -117,15 +144,6 @@
    "source": "Sony Alpha Rumors",
    "category": "photo",
    "date": "2026-11-21T09:20:56.000Z"
-  },
-  {
-   "title": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
-   "link": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/",
-   "summary": "Bytedance and several US universities introduce Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after just three training phases. The researchers attribute the gains to ca",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/bytedance-axio-training-pipeline-nano-banana-pro.jpg",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-11-21T09:17:24.000Z"
   },
   {
    "title": "Bright Tangerine Open Rig System Explained",
@@ -281,15 +299,6 @@
    "date": "2026-11-20T20:59:08.000Z"
   },
   {
-   "title": "OpenAI makes it much harder for attackers to extract how its latest AI models think",
-   "link": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/",
-   "summary": "OpenAI has significantly strengthened safeguards against extracting internal reasoning from GPT-6.2 Astra and GPT-6.2 Sol. In adaptive red-teaming tests, the success rate for extracting protected reasoning fell from 54 p",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/02/ai_model_distill.jpeg",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-11-20T20:31:50.000Z"
-  },
-  {
    "title": "KONDOR BLUE and Markiplier Launch GoPro MISSION 1 Cage Ecosystem – Media I/O Hub, NP-F Power Grip, Dual NATO Rails",
    "link": "https://www.cined.com/kondor-blue-and-markiplier-launch-gopro-mission-1-cage-ecosystem-media-i-o-hub-np-f-power-grip-dual-nato-rails/",
    "summary": "KONDOR BLUE has teamed up with filmmaker and YouTuber Mark Fischbach, better known as Markiplier, on a modular rigging system for GoPro’s MISSION 1 cameras. It consists of a cage with a swing-away access door and dual NA",
@@ -344,15 +353,6 @@
    "date": "2026-11-20T19:52:21.000Z"
   },
   {
-   "title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
-   "link": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/",
-   "summary": "Signal is blocking screenshots to stop AI agents like Apple's Siri AI, Google's Gemini Intelligence, and Meta's Muse from reading private chats. The app calls it an \"existential threat\" to privacy, but admits its protect",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/signal_ai_agents.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-11-20T19:50:27.000Z"
-  },
-  {
    "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
    "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
    "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
@@ -387,15 +387,6 @@
    "source": "No Film School",
    "category": "video",
    "date": "2026-11-20T19:00:05.000Z"
-  },
-  {
-   "title": "Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working",
-   "link": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/",
-   "summary": "Google is bringing \"Computer Use\" to Gemini for Mac, letting the AI operate desktop apps, local files, and websites in an isolated background window with a live preview while users keep working. The article Google's Gemi",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_blue.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-11-20T18:50:31.000Z"
   },
   {
    "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
@@ -542,15 +533,6 @@
    "date": "2026-11-20T16:01:04.000Z"
   },
   {
-   "title": "Bloomberg analysis of 10 million job postings shows AI-exposed roles in China fell 10 percentage points faster than others",
-   "link": "https://the-decoder.com/bloomberg-analysis-of-10-million-job-postings-shows-ai-exposed-roles-in-china-fell-10-percentage-points-faster-than-others/",
-   "summary": "A Bloomberg News analysis of 10 million job postings suggests AI is compounding China's already weak labor market. Entry-level workers and the creative industry are feeling the shift most, with more than 90% of Chinese m",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/08/china_flag_visual-1.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-11-20T15:56:03.000Z"
-  },
-  {
    "title": "DxO Year in Review 2026: Four New Versions and Where Each One Fits in Your Edit",
    "link": "https://petapixel.com/2026/11/20/dxo-year-in-review-2026-four-new-versions-and-where-each-one-fits-in-your-edit/",
    "summary": "A lot changed in DxO's photo editing tools in 2026. The strongest noise reduction reached far more cameras. Masks learned to find each person in a frame, and the distance behind them, without a brush. The glow of film ar",
@@ -576,15 +558,6 @@
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-11-20T15:09:29.000Z"
-  },
-  {
-   "title": "Apple joins the race for AI agents that control your device while raising new barriers for competitors",
-   "link": "https://the-decoder.com/apple-joins-the-race-for-ai-agents-that-control-your-device-while-raising-new-barriers-for-competitors/",
-   "summary": "After Meta, OpenAI, Anthropic, and Google launched their own AI agents, Apple is now building one too - while making it harder for rivals to access its devices. The article Apple joins the race for AI agents that control",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/07/apple_logo_neon_green.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-11-20T15:03:25.000Z"
   },
   {
    "title": "The fallout from Nvidia’s Jensen Huang scandal continues",
@@ -765,15 +738,6 @@
    "source": "Metricool",
    "category": "instagram",
    "date": "2026-11-20T11:34:25.000Z"
-  },
-  {
-   "title": "The Associated Press is Moving Eight US Photo Editor Jobs to India",
-   "link": "https://petapixel.com/2026/11/20/the-associated-press-is-moving-eight-us-photo-editor-jobs-to-india/",
-   "summary": "The Associated Press is moving eight photo editor positions to India today, in a move condemned by unions. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/11/Associated-Press.jpg",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-11-20T11:30:03.000Z"
   },
   {
    "title": "Nikon Black Friday: Full-Frame Camera Kits Start at $1,096",
@@ -1154,15 +1118,6 @@
    "date": "2026-11-19T20:18:49.000Z"
   },
   {
-   "title": "Google is putting AI chats right on the homepage",
-   "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-   "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the G",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK093_GOOGLE_D.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-11-19T20:05:06.000Z"
-  },
-  {
    "title": "The Best Photo Gear Isn't Made for Photographers",
    "link": "https://fstoppers.com/gear/best-photo-gear-isnt-made-photographers-905567?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
    "summary": "A lot of the most useful tools in a working photographer's bag were designed for filmmakers and vloggers. SmallRig's Black Friday sale is packed with some incredibly useful tools, and much of it would be extremely useful",
@@ -1174,7 +1129,7 @@
   {
    "title": "Instagram adds Stories editing",
    "link": "https://www.socialmediatoday.com/news/instagram-adds-stories-editing/875261/",
-   "summary": "The platform rolled out various updates for the format, including the much-requested option to make changes to Stories after posting.",
+   "summary": "The platform rolled out various Stories feature updates, including the much-request option to make changes to Stories after posting.",
    "image": "https://imgproxy.divecdn.com/2S5bhdgb5dUG7-aevuQaT9b0ZL6K3WC3pDQ5T4Ll6HI/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pbnN0YWdyYW1fc3Rvcmllc191cGRhdGVzLnBuZw==.webp",
    "source": "Social Media Today",
    "category": "instagram",
@@ -1262,15 +1217,6 @@
    "date": "2026-11-19T17:03:02.000Z"
   },
   {
-   "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-   "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-   "summary": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Everful-founders.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-11-19T17:00:00.000Z"
-  },
-  {
    "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
    "link": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/",
    "summary": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
@@ -1287,15 +1233,6 @@
    "source": "Google AI",
    "category": "ai",
    "date": "2026-11-19T17:00:00.000Z"
-  },
-  {
-   "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-   "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-   "summary": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/anthropic-opening-Getty.jpg?resize=1200,801",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-11-19T16:59:23.000Z"
   },
   {
    "title": "2026 TikTok News: The Definitive Timeline for Creators",
@@ -1350,15 +1287,6 @@
    "source": "Fstoppers",
    "category": "photo",
    "date": "2026-11-19T14:03:02.000Z"
-  },
-  {
-   "title": "Which Fujifilm Recommended SD-Card Do You Own – Vote Now",
-   "link": "https://www.fujirumors.com/which-fujifilm-recommended-sd-card-do-you-own-vote-now/",
-   "summary": "Black Friday Deal Pages 🇺🇸 USA: Amazon US / BHphoto / Adorama / BestBuy / Nuzira 🇨🇦 CAN: Amazon CA / Camera Canada 🇯🇵 JP: Amazon JP 🇩🇪 GER: Amazon DE / Calumet / Foto-Erhardt / Fotokoch 🇬🇧 UK: Amazon UK / WexPh",
-   "image": "https://www.fujirumors.com/wp-content/uploads/2026/06/SD-Cards-Ownership.jpg",
-   "source": "Fuji Rumors",
-   "category": "photo",
-   "date": "2026-11-19T13:53:51.000Z"
   },
   {
    "title": "The Flipper One is more than a Zero 2.0 – it’s a $399 Linux computer with a $13M Kickstarter",
@@ -2288,24 +2216,6 @@
    "date": "2026-11-14T12:29:23.000Z"
   },
   {
-   "title": "New Voigtlander NOKTON 35mm f/1.2 Aspherical full-frame lens for Nikon Z-mount announced today",
-   "link": "https://nikonrumors.com/2026/11/13/new-voigtlander-nokton-35mm-f-1-2-aspherical-full-frame-lens-for-nikon-z-mount-announced-today.aspx/",
-   "summary": "Cosina announced a new Voigtländer NOKTON 35mm f/1.2 Aspherical full-frame lens for Nikon Z-mount today (not to be confused with the APS-C version). Pre-orders should open soon at: B&H | Erhardt | WEX. This is the 16th V",
-   "image": "https://nikonrumors.com/wp-content/uploads/2026/11/Z-35_12-web01-rthdf-270x270.jpg",
-   "source": "Nikon Rumors",
-   "category": "photo",
-   "date": "2026-11-13T23:46:53.000Z"
-  },
-  {
-   "title": "What you should know before using Adobe’s latest photo-editing tools",
-   "link": "https://www.dpreview.com/news/what-you-should-know-before-using-adobes-latest-photo-editing-tools/",
-   "summary": "Demonstrations with Adobe’s product managers offered more insight into how the new features work. Trying them myself raised a few more questions.",
-   "image": "https://www.dpreview.com/wp-content/uploads/2026/11/gn-adobe-logos.jpg",
-   "source": "DPReview",
-   "category": "photo",
-   "date": "2026-11-13T22:07:53.000Z"
-  },
-  {
    "title": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
    "link": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/",
    "summary": "Airlines praised the AI tool, but the air traffic controllers’ union wasn’t involved.",
@@ -2567,20 +2477,20 @@
    "date": "2026-11-05T15:33:58.000Z"
   },
   {
-   "title": "You can edit your videos with AI on Instagram’s new desktop Edits app",
-   "link": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
-   "summary": "Instagram's standalone video editing app is now available on macOS, where you can plug in your AI agent of choice to assemble your videos. Instagram's Matthew Simari, head of product management for Edits, said in an inte",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-timeline-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "instagram",
-   "date": "2026-11-05T15:00:00.000Z"
-  },
-  {
    "title": "Instagram brings Edits to desktop to take on CapCut",
    "link": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
    "summary": "The move puts Edits in more direct competition with ByteDance's CapCut, the video-editing app Meta sought to challenge when it launched Edits last year.",
    "image": "https://techcrunch.com/wp-content/uploads/2026/11/Introducing-Edits-on-desktop_.png?resize=1200,726",
    "source": "TechCrunch",
+   "category": "instagram",
+   "date": "2026-11-05T15:00:00.000Z"
+  },
+  {
+   "title": "You can edit your videos with AI on Instagram’s new desktop Edits app",
+   "link": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
+   "summary": "Instagram's standalone video editing app is now available on macOS, where you can plug in your AI agent of choice to assemble your videos. Instagram's Matthew Simari, head of product management for Edits, said in an inte",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-timeline-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
    "category": "instagram",
    "date": "2026-11-05T15:00:00.000Z"
   },
