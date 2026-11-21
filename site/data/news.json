@@ -1,6 +1,132 @@
 {
- "updated": "2026-11-21T06:32:22.436Z",
+ "updated": "2026-11-21T15:11:43.033Z",
  "items": [
+  {
+   "title": "Can Anthropic afford to put safety first?",
+   "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+   "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last T",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/VRG_DCD_1121_Site.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-11-21T15:00:00.000Z"
+  },
+  {
+   "title": "I Couldn’t Imagine Working With a Photo Editor on a Different Continent",
+   "link": "https://petapixel.com/2026/11/21/i-couldnt-imagine-working-with-a-photo-editor-thousands-of-miles-away/",
+   "summary": "Long before I worked on the PetaPixel news desk, I was an agency photographer covering breaking news, features, and sports. [ Read More ]",
+   "image": "https://petapixel.com/assets/uploads/2026/11/Press-Photographer.jpg",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-11-21T14:00:02.000Z"
+  },
+  {
+   "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+   "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+   "summary": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahjong, shogi, sudoku, ",
+   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/classic-games-home-page-trimmed.jpeg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
+   "source": "The Verge",
+   "category": "ai",
+   "date": "2026-11-21T14:00:00.000Z"
+  },
+  {
+   "title": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions",
+   "link": "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/",
+   "summary": "OpenAI has released new prompt templates for GPT-6.2 Astra and Sol meant to fix common model behaviors such as overly brief answers, unnecessary follow-up questions, and excessive testing when coding. The API is changing",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_chatgpt-2.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-11-21T13:32:35.000Z"
+  },
+  {
+   "title": "The Outages Are Just Getting Started",
+   "link": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+   "summary": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities. Welcome to internet outage hell.",
+   "image": "https://media.wired.com/photos/6b00ba06fb286bb31d23be2b/master/pass/Kernel-Panic-Brace-for-More-Outages-Security.jpg",
+   "source": "WIRED",
+   "category": "ai",
+   "date": "2026-11-21T13:00:00.000Z"
+  },
+  {
+   "title": "Fujifilm Registers FF260003 “Forgotten” Rumored Camera – Not X-T6, X-Pro4, X-H3 or GFX180",
+   "link": "https://www.fujirumors.com/fujifilm-registers-ff260003-forgotten-rumored-camera-not-x-t6-x-pro4-x-h3-or-gfx180/",
+   "summary": "New Fujifilm Camera Registration Join Now – The Nr.1 Fujifilm GFX Community– 43K Members 🚀 Join Now – The Nr.1 Fujifilm X-T Community – 97K Members 🔥 Join Now – The Nr.1 Fujifilm X-Pro Community – 34K Members 😎 Join N",
+   "image": "https://www.fujirumors.com/wp-content/uploads/2026/11/FF-registration.jpeg",
+   "source": "Fuji Rumors",
+   "category": "photo",
+   "date": "2026-11-21T12:53:05.000Z"
+  },
+  {
+   "title": "Sony registered another new camera in China: New APS-C model coming in early 2027?",
+   "link": "https://www.sonyalpharumors.com/sony-registered-another-new-camera-in-china-new-aps-c-model-coming-in-early-2027/",
+   "summary": "A new Sony camera registrations has been spotted in China: The camera has the code “WW816852”. What we learn from the publicly available data is: It has WiFi 5 It has been registered by Sony WUXI Mid to high end cameras ",
+   "image": "https://www.sonyalpharumors.com/wp-content/uploads/2026/11/Sony-RX-china-model.jpg",
+   "source": "Sony Alpha Rumors",
+   "category": "photo",
+   "date": "2026-11-21T12:47:46.000Z"
+  },
+  {
+   "title": "This Photographer Built a DIY Digital Rangefinder Using Two Old Canon Cameras",
+   "link": "https://petapixel.com/2026/11/21/this-photographer-built-a-diy-digital-rangefinder-using-two-old-canon-cameras/",
+   "summary": "Earlier this year, photographer and creator Mr. 50mm built a DIY digital rangefinder camera using parts he salvaged from a FED 5 Soviet-era rangefinder and a Panasonic GF3 Micro Four Thirds camera. Mr. 50mm is back with ",
+   "image": "https://petapixel.com/assets/uploads/2026/11/mr-50-c7m-6.jpg",
+   "source": "PetaPixel",
+   "category": "photo",
+   "date": "2026-11-21T12:00:55.000Z"
+  },
+  {
+   "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
+   "link": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+   "summary": "Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalized in Lean that spans over 250,000 pages. Just hours later, S",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_riemann.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-11-21T11:19:49.000Z"
+  },
+  {
+   "title": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop",
+   "link": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/",
+   "summary": "Thinking Machines has released Inkling 2 Mini, an open looped transformer that runs 12 of its 24 layers three times per token. This lets the model reason internally for longer without generating extra text. On Artificial",
+   "image": "https://the-decoder.com/wp-content/uploads/2025/09/thinking_machines_ca_illustration.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-11-21T10:33:02.000Z"
+  },
+  {
+   "title": "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up",
+   "link": "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/",
+   "summary": "The Nasdaq 100 has slipped into a bear market after its worst weekly loss since the Covid-19 crisis. Nvidia plunged 14 percent as the SEC reviews its accounting, and Anthropic lost nearly all of its gains a day after its",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/tech_crash_synth.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-11-21T10:27:44.000Z"
+  },
+  {
+   "title": "DJI Flip 4K Drone Hits Record-Low Price for Black Friday",
+   "link": "https://ymcinema.com/2026/11/21/dji-flip-4k-drone-black-friday-record-low/",
+   "summary": "The DJI Flip ($545 on Amazon) has dropped to its lowest recorded price for Black Friday 2026. Amazon is offering the compact 4K camera drone with the RC-N3 controller for just $305, down from its $439 list price. That’s ",
+   "image": "https://ymcinema.com/wp-content/uploads/2026/11/DJI-Flip-4K-Drone-Hits-Record-Low-Price-for-Black-Friday.003.webp",
+   "source": "Y.M.Cinema",
+   "category": "video",
+   "date": "2026-11-21T09:48:09.000Z"
+  },
+  {
+   "title": "Sony A7 IV open gate vibe coded firmware is now available for download",
+   "link": "https://www.sonyalpharumors.com/sony-a7-iv-open-gate-vibe-coded-firmware-is-now-downloadable/",
+   "summary": "The Sony A7 IV open gate news made quite an impact on the community, but the code wasn’t officially released when I broke the news. Now it’s finally available, so I took the chance to give you a full roundup of the lates",
+   "image": "https://www.sonyalpharumors.com/wp-content/uploads/2026/11/3-2-open-gate-recording-on-a7iv-v0-0rvwdg1tp62i1.jpg",
+   "source": "Sony Alpha Rumors",
+   "category": "photo",
+   "date": "2026-11-21T09:20:56.000Z"
+  },
+  {
+   "title": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
+   "link": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/",
+   "summary": "Bytedance and several US universities introduce Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after just three training phases. The researchers attribute the gains to ca",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/bytedance-axio-training-pipeline-nano-banana-pro.jpg",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-11-21T09:17:24.000Z"
+  },
   {
    "title": "Bright Tangerine Open Rig System Explained",
    "link": "https://www.newsshooter.com/2026/11/20/bright-tangerine-open-rig-system-explained/",
@@ -470,15 +596,6 @@
    "date": "2026-11-20T14:55:44.000Z"
   },
   {
-   "title": "Nvidia bets at least $500 million on Inception's diffusion models to strengthen its open-source Nemotron lineup",
-   "link": "https://the-decoder.com/nvidia-bets-at-least-500-million-on-inceptions-diffusion-models-to-strengthen-its-open-source-nemotron-lineup/",
-   "summary": "Nvidia is close to acquiring AI startup Inception for at least $500 million, according to The Information. The company is just two years old and builds language models based on diffusion processes, an alternative approac",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/inception.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-11-20T14:53:50.000Z"
-  },
-  {
    "title": "Three Photographers Sue Police Over Use of Tear Gas and Pepper Spray During ICE Raid",
    "link": "https://petapixel.com/2026/11/20/three-photographers-sue-police-over-use-of-tear-gas-and-pepper-spray-during-ice-raid/",
    "summary": "Three photographers have sued the St. Paul Police Department in Minnesota over its alleged use of chemical munitions against them during an ICE raid, with their own photographs documenting the incident. [ Read More ]",
@@ -531,15 +648,6 @@
    "source": "CineD",
    "category": "video",
    "date": "2026-11-20T13:22:05.000Z"
-  },
-  {
-   "title": "Google's latest homepage update pushes its search engine further toward an AI answer engine",
-   "link": "https://the-decoder.com/googles-latest-homepage-update-pushes-its-search-engine-further-toward-an-ai-answer-engine/",
-   "summary": "Google is rolling out a collapsible sidebar globally on its Desktop Search homepage. In AI Mode, it lets users reopen recent AI searches, search threads, and create notebooks. Temporary threads that aren't saved to histo",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/07/google_gemini-1.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-11-20T13:19:31.000Z"
   },
   {
    "title": "Thypoch Sculptor AF 23mmF1.4 for Fujifilm X In Stock",
@@ -731,15 +839,6 @@
    "date": "2026-11-20T10:00:00.000Z"
   },
   {
-   "title": "Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's skill",
-   "link": "https://the-decoder.com/hermes-agents-collective-wisdom-feature-turns-one-employees-ai-trick-into-the-whole-teams-skill/",
-   "summary": "Companies will soon be able to run the open-source Hermes Agent from Nous Research directly inside Microsoft Teams. The article Hermes Agent's Collective Wisdom feature turns one employee's AI trick into the whole team's",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/06/hermes-og-image-blue.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-11-20T09:59:51.000Z"
-  },
-  {
    "title": "Sony A7 IV hack gets a library of 19 Fujifilm, Ricoh, Kodak and Leica-inspired looks!",
    "link": "https://www.sonyalpharumors.com/sony-a7-iv-hack-gets-a-library-of-19-fujifilm-ricoh-kodak-and-leica-inspired-looks/",
    "summary": "As you know I have always asked Sony to add proper film simulations on their Alpha cameras. Now there is a new hacking project named Erlla (here on Github) that does exactly that on your Sony A7IV.If you are willing to t",
@@ -801,15 +900,6 @@
    "source": "ProVideo Coalition",
    "category": "video",
    "date": "2026-11-20T05:07:49.000Z"
-  },
-  {
-   "title": "Clean Up Noisy Shots and Enlarge Crops with Aiarty | Lifetime Deal, No Subscription",
-   "link": "https://www.sonyalpharumors.com/clean-up-noisy-shots-and-enlarge-crops-with-aiarty-lifetime-deal-no-subscription/",
-   "summary": "Heavily cropped shots and older, low-resolution photos can look soft in larger prints or on modern displays. Aiarty Image Enhancer helps enhance RAW and JPEG photos from various cameras by reducing noise, refining detail",
-   "image": "https://www.sonyalpharumors.com/wp-content/uploads/2026/11/aiarty-image-enhancer-img1.png",
-   "source": "Sony Alpha Rumors",
-   "category": "photo",
-   "date": "2026-11-20T03:26:46.000Z"
   },
   {
    "title": "NEXTORAGE 8TB SSD RAID Prototype at Inter BEE 2026",
@@ -1010,15 +1100,6 @@
    "date": "2026-11-19T21:15:01.000Z"
   },
   {
-   "title": "An OpenAI agent assigned a simple writing task decided on its own to build a secret email surveillance tool",
-   "link": "https://the-decoder.com/an-openai-agent-assigned-a-simple-writing-task-decided-on-its-own-to-build-a-secret-email-surveillance-tool/",
-   "summary": "An internal OpenAI model was supposed to create a fitness document but instead began planning scripts to secretly forward emails to an \"attacker.\" The agent recognized the conflict with its assigned task but dismissed it",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/agent_mail_compromise.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-11-19T21:15:01.000Z"
-  },
-  {
    "title": "The disappointment factory: fear and loathing in the camera rumor mill",
    "link": "https://www.dpreview.com/opinion/the-disappointment-factory-fear-and-loathing-in-the-camera-rumor-mill/",
    "summary": "Please don't be let down by cameras that don't exist yet.",
@@ -1082,24 +1163,6 @@
    "date": "2026-11-19T20:05:06.000Z"
   },
   {
-   "title": "Heipi’s Hybrid Tripod Head Quickly Swaps Between Ball, Fluid, and Gimbal Head Modes",
-   "link": "https://petapixel.com/2026/11/19/heipis-hybrid-tripod-head-quickly-swaps-between-ball-fluid-and-gimbal-head-modes/",
-   "summary": "With more creators capturing both photos and videos, accessory makers are stepping up to meet the demand. Heipi's new 2-in-1 hybrid tripod head for photo and video promises the best of both worlds. [ Read More ]",
-   "image": "https://petapixel.com/assets/uploads/2026/11/KB50-Image-Display-4.jpg",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-11-19T20:00:06.000Z"
-  },
-  {
-   "title": "SmallRig Black Friday Deals: Up to 40% Off Tripods, Lights, Batteries, and Camera Cages",
-   "link": "https://petapixel.com/2026/11/19/smallrig-black-friday-deals-up-to-40-off-tripods-lights-batteries-and-camera-cages/",
-   "summary": "SmallRig's Black Friday Sale just went live. It runs from November 19 through November 30, 2026, with up to 40% off selected tripods, monopods, batteries, lights, phone rigs, and camera cages. We’ve rounded up 39 of the ",
-   "image": "https://petapixel.com/assets/uploads/2026/11/SmallRig-Black-Friday-2026-Feature-D-in-PetaPixel-Background.jpg",
-   "source": "PetaPixel",
-   "category": "photo",
-   "date": "2026-11-19T19:30:41.000Z"
-  },
-  {
    "title": "The Best Photo Gear Isn't Made for Photographers",
    "link": "https://fstoppers.com/gear/best-photo-gear-isnt-made-photographers-905567?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
    "summary": "A lot of the most useful tools in a working photographer's bag were designed for filmmakers and vloggers. SmallRig's Black Friday sale is packed with some incredibly useful tools, and much of it would be extremely useful",
@@ -1107,15 +1170,6 @@
    "source": "Fstoppers",
    "category": "photo",
    "date": "2026-11-19T19:30:38.000Z"
-  },
-  {
-   "title": "AI industry growth remains strong, but the pace is slowing",
-   "link": "https://the-decoder.com/ai-industry-growth-remains-strong-but-the-pace-is-slowing/",
-   "summary": "Token prices for AI models fell 21 percent in six weeks while usage volume hit a record high, according to the Ramp AI Index. Anthropic dominates with nearly 59 percent of token spending. Data from Ramp, Stripe and OpenR",
-   "image": "https://the-decoder.com/wp-content/uploads/2024/02/Throwing-money-at-AI.jpg",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-11-19T19:28:19.000Z"
   },
   {
    "title": "Instagram adds Stories editing",
@@ -1143,15 +1197,6 @@
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-11-19T19:10:45.000Z"
-  },
-  {
-   "title": "Gemini on Mac can now use your computer",
-   "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-   "summary": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful fo",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/M6_MBP_hero2.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-11-19T18:21:13.000Z"
   },
   {
    "title": "Meta Muse booked an Airbnb without permission – and that’s not the worst of it",
@@ -1253,15 +1298,6 @@
    "date": "2026-11-19T16:59:23.000Z"
   },
   {
-   "title": "Anthropic starts trading on Wall Street",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
-   "summary": "Anthropic has officially gone public. It began trading on the Nasdaq under the ticker symbol \"ANT\" at $111.50 per share, up from its initial $83 per share price that put company's value at around $1.5 trillion. The listi",
-   "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2305334560.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
-   "source": "The Verge",
-   "category": "ai",
-   "date": "2026-11-19T16:52:01.000Z"
-  },
-  {
    "title": "2026 TikTok News: The Definitive Timeline for Creators",
    "link": "https://metricool.com/tiktok-news/",
    "summary": "TikTok has grown significantly since the very first days of the network in 2016, to one of the most-used social media platforms today. Learn about the evolution of TikTok's network history here!",
@@ -1332,15 +1368,6 @@
    "source": "ZDNet",
    "category": "ai",
    "date": "2026-11-19T13:28:20.000Z"
-  },
-  {
-   "title": "Amazon US Black Friday deals are now live: Save big on Sony cameras, third party lenses and gift cards",
-   "link": "https://www.sonyalpharumors.com/amazon-us-black-friday-deals-are-now-live-save-big-on-sony-cameras-reconditioned-gear-and-gift-cards/",
-   "summary": "Now also the US deals are live on the big Amazon Black Friday deal page (Click here). Nealry all deals are available on this BHphoto Holiday page too (Click here). Best US deals at Amazon, BHphoto and Adorama. E-mount ca",
-   "image": "https://www.sonyalpharumors.com/wp-content/uploads/2026/11/Screenshot-2026-11-19-at-05.58.22.png",
-   "source": "Sony Alpha Rumors",
-   "category": "photo",
-   "date": "2026-11-19T13:15:24.000Z"
   },
   {
    "title": "Nikon ZR — A Solo Filmmaker’s User Review",
@@ -1458,15 +1485,6 @@
    "source": "CineD",
    "category": "video",
    "date": "2026-11-19T10:55:38.000Z"
-  },
-  {
-   "title": "Amazon Black Friday Deals Begin – The Best Deals For Each Country",
-   "link": "https://www.fujirumors.com/amazon-black-friday-deals-begin-the-best-deals-for-each-country/",
-   "summary": "The Amazon Black Friday Deals have now launched worldwide, along with other stores. Black Friday Deal Pages 🇺🇸 USA: Amazon US / BHphoto / Adorama / BestBuy / Nuzira 🇨🇦 CAN: Amazon CA / Camera Canada 🇯🇵 JP: Amazon J",
-   "image": "https://www.fujirumors.com/wp-content/uploads/2026/11/Bildschirmfoto-2026-11-19-um-11.47.32-scaled.jpg",
-   "source": "Fuji Rumors",
-   "category": "photo",
-   "date": "2026-11-19T10:33:01.000Z"
   },
   {
    "title": "Instagram Launches Content Protection to Fight Copycats",
@@ -1620,15 +1638,6 @@
    "source": "Social Media Today",
    "category": "tiktok",
    "date": "2026-11-18T22:19:18.000Z"
-  },
-  {
-   "title": "Does Nvidia Got This? Interim CEO Colette Kress Says It’s Got This",
-   "link": "https://www.wired.com/story/guys-really-we-got-this/",
-   "summary": "WIRED is tallying up how many times Nvidia’s interim CEO has assured everyone that the company has everything under control.",
-   "image": "https://media.wired.com/photos/6afe216b809613f3f77a2770/master/pass/Does-NVIDIA-Got-This-Business.jpg",
-   "source": "WIRED",
-   "category": "ai",
-   "date": "2026-11-18T22:16:23.000Z"
   },
   {
    "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
@@ -2513,15 +2522,6 @@
    "date": "2026-11-09T15:32:27.000Z"
   },
   {
-   "title": "Canon’s $2,499 EOS R6 V Earns Amazon’s Choice With Just 19 Reviews",
-   "link": "https://ymcinema.com/2026/11/09/canon-eos-r6-v-amazons-choice-19-reviews/",
-   "summary": "Canon’s video-focused EOS R6 V has received Amazon’s Choice recognition despite having only 19 customer ratings. Priced at $2,499, the full-frame mirrorless camera offers 7K RAW recording, Open Gate capture, and active c",
-   "image": "https://ymcinema.com/wp-content/uploads/2026/11/Canons-2499-EOS-R6-V-Earns-Amazons-Choice-With-Just-19-Reviews.002.webp",
-   "source": "Y.M.Cinema",
-   "category": "video",
-   "date": "2026-11-09T14:37:21.000Z"
-  },
-  {
    "title": "Instagram’s AI age detection is expanding globally",
    "link": "https://www.theverge.com/tech/1029627/meta-instagram-ai-age-assurance-global-expansion",
    "summary": "Meta is globally expanding the age estimation technology it uses to find teenagers on Instagram who haven't correctly disclosed their age. The rollout will automatically place \"millions more teens on Instagram into Teen ",
@@ -2567,20 +2567,20 @@
    "date": "2026-11-05T15:33:58.000Z"
   },
   {
-   "title": "Instagram brings Edits to desktop to take on CapCut",
-   "link": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
-   "summary": "The move puts Edits in more direct competition with ByteDance's CapCut, the video-editing app Meta sought to challenge when it launched Edits last year.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Introducing-Edits-on-desktop_.png?resize=1200,726",
-   "source": "TechCrunch",
-   "category": "instagram",
-   "date": "2026-11-05T15:00:00.000Z"
-  },
-  {
    "title": "You can edit your videos with AI on Instagram’s new desktop Edits app",
    "link": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
    "summary": "Instagram's standalone video editing app is now available on macOS, where you can plug in your AI agent of choice to assemble your videos. Instagram's Matthew Simari, head of product management for Edits, said in an inte",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-timeline-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "source": "The Verge",
+   "category": "instagram",
+   "date": "2026-11-05T15:00:00.000Z"
+  },
+  {
+   "title": "Instagram brings Edits to desktop to take on CapCut",
+   "link": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
+   "summary": "The move puts Edits in more direct competition with ByteDance's CapCut, the video-editing app Meta sought to challenge when it launched Edits last year.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Introducing-Edits-on-desktop_.png?resize=1200,726",
+   "source": "TechCrunch",
    "category": "instagram",
    "date": "2026-11-05T15:00:00.000Z"
   },
