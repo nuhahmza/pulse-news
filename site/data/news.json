@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-21T21:00:23.255Z",
+ "updated": "2026-11-22T01:09:54.932Z",
  "items": [
+  {
+   "title": "Roosevelt's Own Book Printed a Wider Take of the Famous Rough Riders Photo, With a Buffalo Soldier at the Edge",
+   "link": "https://fstoppers.com/historical/roosevelts-own-book-printed-wider-take-famous-rough-riders-photo-buffalo-soldier-905204?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "The Library of Congress copy is an albumen print on a card mount, with a torn typed label beneath it. Theodore Roosevelt stands at its center in suspenders and a spotted neckerchief, a torn American flag behind him, with",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/rough-riders-kettle-hill-lead.jpg.webp?itok=MqVGajoe",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-11-21T22:03:02.000Z"
+  },
+  {
+   "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+   "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+   "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/05/signal-app-icon-phone.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-11-21T21:37:10.000Z"
+  },
+  {
+   "title": "How we evolved from bi-standard/multistandard to bi-rate/multirate monitors",
+   "link": "https://www.provideocoalition.com/how-we-evolved-from-bi-standard-multistandard-to-bi-rate-multirate-monitors/",
+   "summary": "A few decades ago, it was typical to converse about either bi-standard or multistandard monitors or TV sets. (We even applied those terms to certain video tape recorders and players too, but that goes outside the scope o",
+   "image": "https://www.provideocoalition.com/wp-content/uploads/120-Hz-monitor.jpeg",
+   "source": "ProVideo Coalition",
+   "category": "video",
+   "date": "2026-11-21T21:15:22.000Z"
+  },
+  {
+   "title": "A tale of two Nvidias",
+   "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+   "summary": "We got two very different pictures of Nvidia — the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+   "source": "TechCrunch",
+   "category": "ai",
+   "date": "2026-11-21T21:07:42.000Z"
+  },
   {
    "title": "The vibe code revolution: AI hackers are rewriting what your camera can do",
    "link": "https://www.dpreview.com/articles/the-vibe-code-revolution-ai-hackers-are-rewriting-what-your-camera-can-do/",
@@ -18,6 +54,15 @@
    "source": "The Verge",
    "category": "ai",
    "date": "2026-11-21T20:03:37.000Z"
+  },
+  {
+   "title": "Is ACDSee Photo Studio Ultimate 2027 Worth It for Working Photographers?",
+   "link": "https://fstoppers.com/reviews/acdsee-photo-studio-ultimate-2027-worth-it-working-photographers-905611?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "If you pay for Adobe's photography bundle every month, ACDSee Photo Studio Ultimate 2027 deserves a look. This new release packs a ton of new generative AI features along with some fancy culling options too. I reviewed a",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/acdsee-photo-studio-ultimate-photoshop-family-members-into-photos.jpg.webp?itok=bX8ev_ZY",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-11-21T19:03:01.000Z"
   },
   {
    "title": "My Top 3 Favorite Accessories Brands for my Camera Gear",
@@ -38,6 +83,15 @@
    "date": "2026-11-21T18:17:55.000Z"
   },
   {
+   "title": "Why Does It Have to Be Black? Reviewing the Surrounded by Light Color Light Stands",
+   "link": "https://fstoppers.com/gear/why-does-it-have-be-black-reviewing-surrounded-light-color-light-stands-905166?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "Photographers have a long tradition of wearing black, and I’m guilty of it too. I do like to inject a bit of personality through color, and it turns out I’ve been doing that with my gear for years without realizing it. I",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/10/surroundedbylight_stand003.JPG.webp?itok=rQpfbwNJ",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-11-21T17:03:02.000Z"
+  },
+  {
    "title": "All 25 Beautiful Winners From the Black and White Photo Awards 2026",
    "link": "https://petapixel.com/2026/11/21/all-25-beautiful-bw-winners-from-the-black-and-white-photo-awards-2026/",
    "summary": "The Black and White Photo Awards 2026 winners have been unveiled. Photographers competed across six categories, each vying to be named Black and White Photographer of the Year. [ Read More ]",
@@ -54,6 +108,42 @@
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-11-21T17:00:00.000Z"
+  },
+  {
+   "title": "Nvidia researchers argue huge AI context windows are a dead end",
+   "link": "https://the-decoder.com/nvidia-researchers-argue-huge-ai-context-windows-are-a-dead-end/",
+   "summary": "Nvidia researchers argue that language models often don't need their full context windows—which are slow, expensive, and prone to errors—and propose an alternative. In tests, periodic summaries and targeted keyword searc",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/you-dont-need-long-context-nano-banana-pro.jpg",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-11-21T16:23:45.000Z"
+  },
+  {
+   "title": "Silicon Valley's growing obsession with AI doomsday is turning parts of the tech industry toward cult-like devotion",
+   "link": "https://the-decoder.com/silicon-valleys-growing-obsession-with-ai-doomsday-is-turning-parts-of-the-tech-industry-toward-cult-like-devotion/",
+   "summary": "A Buddhist monastery in Vermont called Maple wants to establish itself as Silicon Valley's spiritual authority while creating its own AI god. According to a New Yorker report, leader Soryu Forall's group records every br",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/buddhist_ai_sect.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-11-21T16:04:29.000Z"
+  },
+  {
+   "title": "Why a Longtime Canon Shooter Switched to the Leica SL3-P",
+   "link": "https://fstoppers.com/gear/why-longtime-canon-shooter-switched-leica-sl3-p-905625?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "Leaving a camera brand you've used for more than a decade is a bigger decision than comparing two spec sheets, especially when the old setup still does its job. Your lenses, log workflow, and menu habits are all tied to ",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_78.jpg.webp?itok=FUFWGBko",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-11-21T16:03:01.000Z"
+  },
+  {
+   "title": "AI Now Sends Its To-Do List to Human Photo Editors",
+   "link": "https://fstoppers.com/artificial-intelligence/ai-now-sends-its-list-human-photo-editors-905615?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "AI is taking over almost every creative industry, and photography is getting hit especially hard. You can generate incredible-looking images for free, but there's still a real need for actual photographs. What I want to ",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/fotello-i-hate-it-but-i-need-it-thumbnail.jpg.webp?itok=gUT9OzzI",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-11-21T16:03:01.000Z"
   },
   {
    "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
@@ -74,6 +164,15 @@
    "date": "2026-11-21T15:00:00.000Z"
   },
   {
+   "title": "Shooting the Dolomites Without the Weather You Hoped For",
+   "link": "https://fstoppers.com/education/shooting-dolomites-without-weather-hoped-905624?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "Clear skies and hard sun are the conditions most landscape photographers hope to avoid, and an autumn week in the Dolomites can serve up little else. When the light won't add drama, composition and position have to do th",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_77.jpg.webp?itok=BKykj9i1",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-11-21T14:03:02.000Z"
+  },
+  {
    "title": "I Couldn’t Imagine Working With a Photo Editor on a Different Continent",
    "link": "https://petapixel.com/2026/11/21/i-couldnt-imagine-working-with-a-photo-editor-thousands-of-miles-away/",
    "summary": "Long before I worked on the PetaPixel news desk, I was an agency photographer covering breaking news, features, and sports. [ Read More ]",
@@ -90,6 +189,15 @@
    "source": "The Verge",
    "category": "ai",
    "date": "2026-11-21T14:00:00.000Z"
+  },
+  {
+   "title": "OpenAI shares new prompting tips for GPT-6.2 Astra and Sol to fix brief answers and unnecessary questions",
+   "link": "https://the-decoder.com/openai-shares-new-prompting-tips-for-gpt-6-2-astra-and-sol-to-fix-brief-answers-and-unnecessary-questions/",
+   "summary": "OpenAI has released new prompt templates for GPT-6.2 Astra and Sol meant to fix common model behaviors such as overly brief answers, unnecessary follow-up questions, and excessive testing when coding. The API is changing",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/06/openai_logo_chatgpt-2.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-11-21T13:32:35.000Z"
   },
   {
    "title": "The Outages Are Just Getting Started",
@@ -119,6 +227,15 @@
    "date": "2026-11-21T12:47:46.000Z"
   },
   {
+   "title": "Which Sony Lenses to Buy, Which to Skip, and Where to Save Money",
+   "link": "https://fstoppers.com/education/which-sony-lenses-buy-which-skip-and-where-save-money-905623?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "Sony's full frame E-mount lineup runs from compact primes that cost a few hundred dollars to super telephotos priced well past $10,000, and a lot of those lenses cover the same focal lengths. With that much overlap, the ",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_76.jpg.webp?itok=gZrZq4MN",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-11-21T12:03:01.000Z"
+  },
+  {
    "title": "This Photographer Built a DIY Digital Rangefinder Using Two Old Canon Cameras",
    "link": "https://petapixel.com/2026/11/21/this-photographer-built-a-diy-digital-rangefinder-using-two-old-canon-cameras/",
    "summary": "Earlier this year, photographer and creator Mr. 50mm built a DIY digital rangefinder camera using parts he salvaged from a FED 5 Soviet-era rangefinder and a Panasonic GF3 Micro Four Thirds camera. Mr. 50mm is back with ",
@@ -126,6 +243,42 @@
    "source": "PetaPixel",
    "category": "photo",
    "date": "2026-11-21T12:00:55.000Z"
+  },
+  {
+   "title": "Hours after Anthropic claims a Claude proof of the Riemann hypothesis, Stanford releases an all-human competing draft",
+   "link": "https://the-decoder.com/hours-after-anthropic-claims-a-claude-proof-of-the-riemann-hypothesis-stanford-releases-an-all-human-competing-draft/",
+   "summary": "Anthropic mathematician Levent Alpöge says he used Claude to prove the Riemann hypothesis, math's most famous open problem for 167 years, with a proof formalized in Lean that spans over 250,000 pages. Just hours later, S",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/anthropic_riemann.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-11-21T11:19:49.000Z"
+  },
+  {
+   "title": "New open model Inkling 2 Mini thinks in loops to solve problems with fewer words and still runs on a laptop",
+   "link": "https://the-decoder.com/new-open-model-inkling-2-mini-thinks-in-loops-to-solve-problems-with-fewer-words-and-still-runs-on-a-laptop/",
+   "summary": "Thinking Machines has released Inkling 2 Mini, an open looped transformer that runs 12 of its 24 layers three times per token. This lets the model reason internally for longer without generating extra text. On Artificial",
+   "image": "https://the-decoder.com/wp-content/uploads/2025/09/thinking_machines_ca_illustration.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-11-21T10:33:02.000Z"
+  },
+  {
+   "title": "US technology stocks suffer their worst weekly loss since the pandemic as AI doubts pile up",
+   "link": "https://the-decoder.com/us-technology-stocks-suffer-their-worst-weekly-loss-since-the-pandemic-as-ai-doubts-pile-up/",
+   "summary": "The Nasdaq 100 has slipped into a bear market after its worst weekly loss since the Covid-19 crisis. Nvidia plunged 14 percent as the SEC reviews its accounting, and Anthropic lost nearly all of its gains a day after its",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/tech_crash_synth.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-11-21T10:27:44.000Z"
+  },
+  {
+   "title": "8 Travel Photography Tricks Learned Over 10 Years on the Road",
+   "link": "https://fstoppers.com/education/8-travel-photography-tricks-learned-over-10-years-road-905622?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
+   "summary": "Travel adds its own problems to photography: a bag full of heavy gear, places you've never scouted, and plenty of variables you can't control. Small habits that save weight, time, and worry add up to more shooting once y",
+   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_75.jpg.webp?itok=PjkKo4CT",
+   "source": "Fstoppers",
+   "category": "photo",
+   "date": "2026-11-21T10:03:01.000Z"
   },
   {
    "title": "DJI Flip 4K Drone Hits Record-Low Price for Black Friday",
@@ -144,6 +297,15 @@
    "source": "Sony Alpha Rumors",
    "category": "photo",
    "date": "2026-11-21T09:20:56.000Z"
+  },
+  {
+   "title": "Bytedance argues most AI training phases are unnecessary and backs it up with a competitive open model",
+   "link": "https://the-decoder.com/bytedance-argues-most-ai-training-phases-are-unnecessary-and-backs-it-up-with-a-competitive-open-model/",
+   "summary": "Bytedance and several US universities introduce Axion 1.0, an AI agent that rivals top commercial models from OpenAI and Anthropic on benchmarks after just three training phases. The researchers attribute the gains to ca",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/bytedance-axio-training-pipeline-nano-banana-pro.jpg",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-11-21T09:17:24.000Z"
   },
   {
    "title": "Bright Tangerine Open Rig System Explained",
@@ -189,6 +351,15 @@
    "source": "DPReview",
    "category": "photo",
    "date": "2026-11-21T02:53:17.000Z"
+  },
+  {
+   "title": "Tilta Black Friday Sale 2026 – Save Up to 50% on Camera Gear",
+   "link": "https://www.newsshooter.com/2026/11/20/__trashed-6/",
+   "summary": "Sponsored by Tilta Tilta’s biggest sale of the year is underway, with up to 50% off select camera cages, matte boxes, wireless lens control systems, rigs, and accessories. Running from November 19 through November 30, 20",
+   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/tilta-blackfriday2026.jpg",
+   "source": "Newsshooter",
+   "category": "video",
+   "date": "2026-11-21T02:16:55.000Z"
   },
   {
    "title": "Sekonic L-878D Light Meter First Look at Inter BEE 2026",
@@ -299,6 +470,15 @@
    "date": "2026-11-20T20:59:08.000Z"
   },
   {
+   "title": "OpenAI makes it much harder for attackers to extract how its latest AI models think",
+   "link": "https://the-decoder.com/openai-makes-it-much-harder-for-attackers-to-extract-how-its-latest-ai-models-think/",
+   "summary": "OpenAI has significantly strengthened safeguards against extracting internal reasoning from GPT-6.2 Astra and GPT-6.2 Sol. In adaptive red-teaming tests, the success rate for extracting protected reasoning fell from 54 p",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/02/ai_model_distill.jpeg",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-11-20T20:31:50.000Z"
+  },
+  {
    "title": "KONDOR BLUE and Markiplier Launch GoPro MISSION 1 Cage Ecosystem – Media I/O Hub, NP-F Power Grip, Dual NATO Rails",
    "link": "https://www.cined.com/kondor-blue-and-markiplier-launch-gopro-mission-1-cage-ecosystem-media-i-o-hub-np-f-power-grip-dual-nato-rails/",
    "summary": "KONDOR BLUE has teamed up with filmmaker and YouTuber Mark Fischbach, better known as Markiplier, on a modular rigging system for GoPro’s MISSION 1 cameras. It consists of a cage with a swing-away access door and dual NA",
@@ -353,6 +533,15 @@
    "date": "2026-11-20T19:52:21.000Z"
   },
   {
+   "title": "Signal blocks screenshots on iOS 27 and Android to stop AI agents from reading private chats",
+   "link": "https://the-decoder.com/signal-blocks-screenshots-on-ios-27-and-android-to-stop-ai-agents-from-reading-private-chats/",
+   "summary": "Signal is blocking screenshots to stop AI agents like Apple's Siri AI, Google's Gemini Intelligence, and Meta's Muse from reading private chats. The app calls it an \"existential threat\" to privacy, but admits its protect",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/signal_ai_agents.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-11-20T19:50:27.000Z"
+  },
+  {
    "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
    "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
    "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
@@ -387,6 +576,15 @@
    "source": "No Film School",
    "category": "video",
    "date": "2026-11-20T19:00:05.000Z"
+  },
+  {
+   "title": "Google's Gemini can now run Mac apps and finish desktop chores in the background while you keep working",
+   "link": "https://the-decoder.com/googles-gemini-can-now-run-mac-apps-and-finish-desktop-chores-in-the-background-while-you-keep-working/",
+   "summary": "Google is bringing \"Computer Use\" to Gemini for Mac, letting the AI operate desktop apps, local files, and websites in an isolated background window with a live preview while users keep working. The article Google's Gemi",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/09/gemini_blue.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-11-20T18:50:31.000Z"
   },
   {
    "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
@@ -992,15 +1190,6 @@
    "date": "2026-11-19T22:09:12.000Z"
   },
   {
-   "title": "A Doctored Photo Left People Recalling Details of a Balloon Ride That Never Happened",
-   "link": "https://fstoppers.com/photojournalistic/doctored-photo-left-people-recalling-details-balloon-ride-never-happened-904348?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "The fake was always the third page. Twenty adults in Wellington, New Zealand, sat down with a booklet of four grayscale prints, each one 150 mm square inside a thin black border, and by the end of the third interview, ha",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/08/doctored-balloon-photo-false-memory-balloon-sunrise.jpg.webp?itok=jQ70t5ed",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-11-19T22:03:01.000Z"
-  },
-  {
    "title": "A brief history of Nvidia’s recent stock fluctuations",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
    "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 pe",
@@ -1118,15 +1307,6 @@
    "date": "2026-11-19T20:18:49.000Z"
   },
   {
-   "title": "The Best Photo Gear Isn't Made for Photographers",
-   "link": "https://fstoppers.com/gear/best-photo-gear-isnt-made-photographers-905567?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "A lot of the most useful tools in a working photographer's bag were designed for filmmakers and vloggers. SmallRig's Black Friday sale is packed with some incredibly useful tools, and much of it would be extremely useful",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/smallrig-black-friday-sale-2026.jpg.webp?itok=3ljZZdPX",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-11-19T19:30:38.000Z"
-  },
-  {
    "title": "Instagram adds Stories editing",
    "link": "https://www.socialmediatoday.com/news/instagram-adds-stories-editing/875261/",
    "summary": "The platform rolled out various Stories feature updates, including the much-request option to make changes to Stories after posting.",
@@ -1163,15 +1343,6 @@
    "date": "2026-11-19T18:11:20.000Z"
   },
   {
-   "title": "Google gives Gemini the ability to use your Mac for you",
-   "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-   "summary": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/hero_header_CU_copy.width-2200.format-webp.jpeg?resize=1200,675",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-11-19T18:09:11.000Z"
-  },
-  {
    "title": "Introducing Tool Retrieval in the Gemini API",
    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
    "summary": "Give your agents access to hundreds of tools while using fewer tokens with Tool Retrieval, now in preview in the Gemini API.",
@@ -1179,15 +1350,6 @@
    "source": "Google AI",
    "category": "ai",
    "date": "2026-11-19T18:00:00.000Z"
-  },
-  {
-   "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-   "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-   "summary": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belo",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-11-19T17:38:40.000Z"
   },
   {
    "title": "I’ve tested countless Linux distros, and Pond is unlike anything I’ve tried – here’s why",
@@ -1206,15 +1368,6 @@
    "source": "ZDNet",
    "category": "ai",
    "date": "2026-11-19T17:12:31.000Z"
-  },
-  {
-   "title": "The Best Live-Streaming Camera for Filming Yourself Is $200 Off for Black Friday",
-   "link": "https://fstoppers.com/gear/best-live-streaming-camera-filming-yourself-200-black-friday-905492?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "When you're the host, you're also the camera operator, the director, and the person watching the stream for problems. That's why many one-person shows are a single camera on a tripod and framed wide enough that you have ",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/obsbot-tail-2-black-friday-sale.jpg.webp?itok=Xz_Wet7T",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-11-19T17:03:02.000Z"
   },
   {
    "title": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
@@ -1244,15 +1397,6 @@
    "date": "2026-11-19T16:25:46.000Z"
   },
   {
-   "title": "Lumix SHX1 vs. S1II: What Panasonic's New Box Camera Adds for Video",
-   "link": "https://fstoppers.com/gear/lumix-shx1-vs-s1ii-what-panasonics-new-box-camera-adds-video-905584?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "Panasonic's new Lumix SHX1 is a full frame box camera that keeps in-body stabilization and leaves out an internal ND filter, and few other box cameras combine autofocus, IBIS, a screen, 32-bit audio, and ProRes in one fu",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_70.jpg.webp?itok=g0r5VySB",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-11-19T16:03:02.000Z"
-  },
-  {
    "title": "Why this Tokyo photographer sold everything and started over with manual-focus lenses",
    "link": "https://www.dpreview.com/articles/why-this-tokyo-photographer-sold-everything-and-started-over-with-manual-focus-lenses/",
    "summary": "Marcel shares the Sony a7R V and manual-focus Voigtländer and Zeiss primes he built after selling everything, plus the lessons his grandfather taught him.",
@@ -1280,15 +1424,6 @@
    "date": "2026-11-19T14:11:40.000Z"
   },
   {
-   "title": "Why You Need a Tri-Reflector for Portraits",
-   "link": "https://fstoppers.com/education/why-need-tri-reflector-portraits-905583?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "A small silver umbrella throws hard, sparkly light that flatters a fashion model and can carve every line into an older face. If you shoot business portraits, you make the call between that punch and the forgiveness of a",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_69.jpg.webp?itok=aWpuu2Us",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-11-19T14:03:02.000Z"
-  },
-  {
    "title": "The Flipper One is more than a Zero 2.0 – it’s a $399 Linux computer with a $13M Kickstarter",
    "link": "https://www.zdnet.com/tech/flipper-one-cost-features-linux-computer-kickstarter/",
    "summary": "Backers are going big on the $759 Ultimate Bundle, but Flipper warns that rising RAM prices could affect production.",
@@ -1314,15 +1449,6 @@
    "source": "CineD",
    "category": "video",
    "date": "2026-11-19T12:56:15.000Z"
-  },
-  {
-   "title": "How to Pull a Clean Street Photo Out of a Chaotic City",
-   "link": "https://fstoppers.com/education/how-pull-clean-street-photo-out-chaotic-city-905582?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "Stand at Shibuya Crossing or in Leicester Square with a camera and you'll see the problem within seconds: hundreds of people, signs, cars, and colors, none of them arranging themselves into a photograph. Much of the best",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_68.jpg.webp?itok=_8fDAw50",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-11-19T12:03:02.000Z"
   },
   {
    "title": "NANLITE vela 150b/150c/300b/300c First Look at Inter BEE 2026",
@@ -1388,15 +1514,6 @@
    "date": "2026-11-19T11:21:53.000Z"
   },
   {
-   "title": "Save $2,000 USD on the SmallHD Ultra 5 Bolt 6 RX 750 Monitor Kit (Gold Mount)",
-   "link": "https://www.newsshooter.com/2026/11/19/save-2000-usd-on-the-smallhd-ultra-5-bolt-6-rx-750-monitor-kit-gold-mount/",
-   "summary": "For a limited time, you can save $2,000 USD on the SmallHD Ultra 5 Bolt 6 RX 750 Monitor Kit (Gold Mount) and purchase it for $1,549 USD. Key features The SmallHD ULTRA 5 Bolt 6 RX 750 Monitor Kit includes an ULTRA 5 bri",
-   "image": "https://media.newsshooter.com/wp-content/uploads/2026/11/smallHD.jpg",
-   "source": "Newsshooter",
-   "category": "video",
-   "date": "2026-11-19T11:08:44.000Z"
-  },
-  {
    "title": "How to Create Authentic Short-Form Videos People Actually Watch",
    "link": "https://www.socialmediaexaminer.com/how-to-create-authentic-short-form-videos-people-actually-watch/",
    "summary": "Struggling to create short-form videos that people actually watch instead of scrolling past? Wondering how to script, film, and edit Instagram Reels and TikTok videos on your phone that feel authentic and grow your audie",
@@ -1422,15 +1539,6 @@
    "source": "Metricool",
    "category": "instagram",
    "date": "2026-11-19T10:15:28.000Z"
-  },
-  {
-   "title": "3 Things That Make a Photo Look Cinematic, and Color Grading Isn't One",
-   "link": "https://fstoppers.com/education/3-things-make-photo-look-cinematic-and-color-grading-isnt-one-905581?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "Teal shadows and orange highlights have become shorthand for a cinematic photo, and plenty of presets promise that look in a single click. Color grading plays a much smaller part in why a frame feels like a still from a ",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/cover_67.jpg.webp?itok=xAQ01UKD",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-11-19T10:03:01.000Z"
   },
   {
    "title": "Hasselblad X2D, FUJIFILM X70 and Ricoh GR Community Mods – Film Looks, AF-C, 400MP Pixel Shift and 65:24",
@@ -1494,15 +1602,6 @@
    "source": "Nikon Rumors",
    "category": "photo",
    "date": "2026-11-19T04:17:39.000Z"
-  },
-  {
-   "title": "Nikon ZR Firmware 2.0 Will Be Available To Download November 23rd",
-   "link": "https://fstoppers.com/gear/nikon-zr-firmware-20-will-be-available-download-november-23rd-905577?utm_source=fstoppers&utm_medium=RSS&utm_campaign=rss_feed_articles",
-   "summary": "After announcing the development of firmware 2.0 for the Nikon ZR, we now have an official release date for when it will be available for download. Early adopters of Nikon ZR cinema cameras have been able to enjoy the vi",
-   "image": "https://cdn.fstoppers.com/styles/16_9_max_650/s3/lead/2026/11/251105-nikon-zr-_dsc0339----c-christopher-malcolm.jpg.webp?itok=EH0i9i32",
-   "source": "Fstoppers",
-   "category": "photo",
-   "date": "2026-11-19T02:17:40.000Z"
   },
   {
    "title": "Capture One adds wired tethering for the Hasselblad X2D II 100C",
@@ -1998,15 +2097,6 @@
    "source": "DPReview",
    "category": "photo",
    "date": "2026-11-17T14:00:00.000Z"
-  },
-  {
-   "title": "Plugs, Boots, Copper – Know Your Cable Maintenance & Replacement Parts",
-   "link": "https://www.provideocoalition.com/plugs-boots-copper-know-your-cable-maintenance-replacement-parts/",
-   "summary": "In an active and labor-intensive production environment where equipment is constantly being moved, jostled, transported, tugged, overall put through the wringer, your gear is going to come out the other side a little war",
-   "image": "https://www.provideocoalition.com/wp-content/uploads/pexels-tstudio-34805588-8071908-1024x576.jpg",
-   "source": "ProVideo Coalition",
-   "category": "video",
-   "date": "2026-11-17T13:40:28.000Z"
   },
   {
    "title": "Service Notice for RF 1.4x and RF 2x Extenders / Teleconverters",
