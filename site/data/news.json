@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-28T02:33:24.102Z",
+ "updated": "2026-11-28T11:30:35.594Z",
  "items": [
+  {
+   "title": "This Sony vibecoding project aims to support all Alpha cameras with new features",
+   "link": "https://www.sonyalpharumors.com/this-sony-vibecoding-project-aims-to-support-all-alpha-cameras-with-new-features/",
+   "summary": "A member of the Bionz X Github project sent me this: Hi, we have a huge Alpha project at github.com/ivica00/bionz-x-research We’re slowly emulating ALL sony cameras and making mods for it. We’re a long way ahead of Arcan",
+   "image": "https://www.sonyalpharumors.com/wp-content/uploads/2026/11/Screenshot-2026-11-27-at-20.07.45.png",
+   "source": "Sony Alpha Rumors",
+   "category": "photo",
+   "date": "2026-11-28T11:20:29.000Z"
+  },
+  {
+   "title": "Google Deepmind's \"Humanity's First Exam\" shows top AI models still fail simple everyday tasks under repeated runs",
+   "link": "https://the-decoder.com/google-deepminds-humanitys-first-exam-shows-top-ai-models-still-fail-simple-everyday-tasks-under-repeated-runs/",
+   "summary": "Google Deepmind tests the reliability of 18 AI models with \"Humanity's First Exam.\" Top models solve nearly every task family at least once, but even leaders like OpenAI's GPT-6.2 Astra stumble when asked for 16 straight",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/neural_network_coffee.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-11-28T11:12:30.000Z"
+  },
+  {
+   "title": "Robotics startup Embo raises $110 million in seed funding to build world-model AI for robots",
+   "link": "https://the-decoder.com/robotics-startup-embo-raises-110-million-in-seed-funding-to-build-world-model-ai-for-robots/",
+   "summary": "Embo raised $110 million in seed funding to build a universal robot brain with world models. Its AI learns how the physical world works from internet video and practices motor skills in simulation. Google Deepmind, Meta,",
+   "image": "https://the-decoder.com/wp-content/uploads/2026/11/embo_logo.png",
+   "source": "The Decoder",
+   "category": "ai",
+   "date": "2026-11-28T10:48:18.000Z"
+  },
+  {
+   "title": "Sony FX5 is officially NETFLIX approved",
+   "link": "https://www.sonyalpharumors.com/sony-fx5-is-officially-netflix-approved/",
+   "summary": "Netflix added the new Sony FX5 on their list of approved camera. They also suggested the preferred recording formats: X-OCN LT XAVC S-I (4K) And the camera is approved for anamorphic capture. Let’s see if the future Sony",
+   "image": "https://www.sonyalpharumors.com/wp-content/uploads/2026/11/Screenshot-2026-11-27-at-16.53.12.png",
+   "source": "Sony Alpha Rumors",
+   "category": "photo",
+   "date": "2026-11-28T06:44:41.000Z"
+  },
   {
    "title": "I found a DualSense deal that knocks 28% off this wireless PlayStation controller",
    "link": "https://www.zdnet.com/home-and-office/playstation-5-dualsense-controller-black-friday-deal/",
@@ -605,15 +641,6 @@
    "date": "2026-11-26T20:00:02.000Z"
   },
   {
-   "title": "Today’s new Black Friday deals",
-   "link": "https://www.sonyalpharumors.com/todays-new-black-friday-deals-2/",
-   "summary": "Today you save big on a ton of items listed at BHphoto’s Dealzone: $140 off on the dual Lexar 256GB kit Up to $170 off on Smallrig V-mount batteries $500 off on the Apple Mac mini with M4 Pro Chip Black Friday deals: Ama",
-   "image": "https://www.sonyalpharumors.com/wp-content/uploads/2026/11/Screenshot-2026-11-26-at-15.56.03.png",
-   "source": "Sony Alpha Rumors",
-   "category": "photo",
-   "date": "2026-11-26T19:35:58.000Z"
-  },
-  {
    "title": "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it",
    "link": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/",
    "summary": "Complexity theorist and former OpenAI researcher Scott Aaronson argues that AI's recent math breakthroughs matter far beyond academia. The possible consequences, he writes, range from reshaping the global economy to thre",
@@ -677,15 +704,6 @@
    "date": "2026-11-26T17:47:19.000Z"
   },
   {
-   "title": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error",
-   "link": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
-   "summary": "OpenAI says a billing bug gave GPT-6.2 users incorrect discounts. After the fix, Astra and Sol users hit their limits 40 and 25 percent faster than last week. As an apology, subscribers get an extra reset, and business u",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-11-26T17:28:56.000Z"
-  },
-  {
    "title": "Canon’s APS-C Lineup is Getting a Shake Up",
    "link": "https://www.canonrumors.com/canons-aps-c-lineup-is-getting-a-shake-up/",
    "summary": "We all know that Canon will be addressing their APS-C lineup throughout 2027, with at least one new camera coming in Q1 of 2027. The Shuffle We're told that Canon is going to change the segments for the next EOS R10 and ",
@@ -729,15 +747,6 @@
    "source": "TechCrunch",
    "category": "ai",
    "date": "2026-11-26T16:00:00.000Z"
-  },
-  {
-   "title": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead",
-   "link": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/",
-   "summary": "Chinese AI companies Z.AI and Moonshot AI have to delay their next flagship models and are looking for new sources of training data. The article After OpenAI and Anthropic shut the door on their data, a Chinese AI develo",
-   "image": "https://the-decoder.com/wp-content/uploads/2026/11/us_china.png",
-   "source": "The Decoder",
-   "category": "ai",
-   "date": "2026-11-26T15:45:08.000Z"
   },
   {
    "title": "Nikon ZR Firmware 2.0 Finally Out + FUJIFILM GFX ETERNA 55 Now Under $10,000 – Focus Check ep144",
@@ -839,15 +848,6 @@
    "date": "2026-11-26T11:37:17.000Z"
   },
   {
-   "title": "Sony FX3 gets Open gate through vibecoding!",
-   "link": "https://www.sonyalpharumors.com/sony-fx3-gets-open-gate-through-vibecoding/",
-   "summary": "Image source Reddit As reported on Reddit a new ArcaneLanterne update now added Open Gate on the Sony FX3! This is what they write: Open gate works on the FX3 (two testers, 2026-11-24). This kit is the A7S III open-gate ",
-   "image": "https://www.sonyalpharumors.com/wp-content/uploads/2026/11/Screenshot-2026-11-26-at-11.35.51.png",
-   "source": "Sony Alpha Rumors",
-   "category": "photo",
-   "date": "2026-11-26T11:03:49.000Z"
-  },
-  {
    "title": "Missouri Investigates Photographer After Customers Say They Never Received Images",
    "link": "https://petapixel.com/2026/11/26/missouri-investigates-photographer-after-customers-say-they-never-received-images/",
    "summary": "Missouri has opened an investigation into a photography business after allegedly leaving numerous customers without the pictures they paid for or a refund. [ Read More ]",
@@ -866,21 +866,21 @@
    "date": "2026-11-26T11:00:46.000Z"
   },
   {
-   "title": "Instagram Trial Reels: How They Work + What I Learned Testing Them",
-   "link": "https://buffer.com/resources/instagram-trial-reels/",
-   "summary": "Instagram trial reels show your reel to non-followers first. Here's how they work in 2026, how to post and schedule them, and what my tests showed.",
-   "image": "https://storage.ghost.io/c/6d/21/6d217297-aa70-41fe-b68d-e29e411dd3ed/content/images/2025/02/Instagram-trial-reels.png",
-   "source": "Buffer",
-   "category": "instagram",
-   "date": "2026-11-26T11:00:00.000Z"
-  },
-  {
    "title": "ZDNET’s best headphones of 2026: These two pairs left us impressed",
    "link": "https://www.zdnet.com/tech/zdnet-best-headphones-of-2026/",
    "summary": "We tested dozens of Bluetooth headphones in 2026, but two stood out. Here’s our top picks.",
    "image": "https://www.zdnet.com/wp-content/uploads/sites/3/Headphones-SERP-feature-image.jpg",
    "source": "ZDNet",
    "category": "ai",
+   "date": "2026-11-26T11:00:00.000Z"
+  },
+  {
+   "title": "Instagram Trial Reels: How They Work + What I Learned Testing Them",
+   "link": "https://buffer.com/resources/instagram-trial-reels/",
+   "summary": "Instagram trial reels show your reel to non-followers first. Here's how they work in 2026, how to post and schedule them, and what my tests showed.",
+   "image": "https://storage.ghost.io/c/6d/21/6d217297-aa70-41fe-b68d-e29e411dd3ed/content/images/2025/02/Instagram-trial-reels.png",
+   "source": "Buffer",
+   "category": "instagram",
    "date": "2026-11-26T11:00:00.000Z"
   },
   {
@@ -1343,20 +1343,20 @@
    "date": "2026-11-25T13:43:43.000Z"
   },
   {
-   "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
-   "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
-   "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2249127237.jpg?resize=1200,800",
-   "source": "TechCrunch",
-   "category": "ai",
-   "date": "2026-11-25T13:00:00.000Z"
-  },
-  {
    "title": "Has vibe coding made open source the new normal for synths?",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
    "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear world, leaving companies scrambling to figure out how to respond. While some, like Roland, have rem",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/vibe_coding_synths_.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "source": "The Verge",
+   "category": "ai",
+   "date": "2026-11-25T13:00:00.000Z"
+  },
+  {
+   "title": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed",
+   "link": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+   "summary": "The central question for investigators is what Nvidia knew about where those chips ended up and whether Huang's affair with a Megaspeed executive gave the company reason to doubt Megaspeed's assurances.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2249127237.jpg?resize=1200,800",
+   "source": "TechCrunch",
    "category": "ai",
    "date": "2026-11-25T13:00:00.000Z"
   },
@@ -2522,20 +2522,20 @@
    "date": "2026-11-05T15:33:58.000Z"
   },
   {
-   "title": "Instagram brings Edits to desktop to take on CapCut",
-   "link": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
-   "summary": "The move puts Edits in more direct competition with ByteDance's CapCut, the video-editing app Meta sought to challenge when it launched Edits last year.",
-   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Introducing-Edits-on-desktop_.png?resize=1200,726",
-   "source": "TechCrunch",
-   "category": "instagram",
-   "date": "2026-11-05T15:00:00.000Z"
-  },
-  {
    "title": "You can edit your videos with AI on Instagram’s new desktop Edits app",
    "link": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
    "summary": "Instagram's standalone video editing app is now available on macOS, where you can plug in your AI agent of choice to assemble your videos. Instagram's Matthew Simari, head of product management for Edits, said in an inte",
    "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/instagram-edits-desktop-timeline-1.jpg?quality=90&#038;strip=all&#038;crop=0,0,100,100",
    "source": "The Verge",
+   "category": "instagram",
+   "date": "2026-11-05T15:00:00.000Z"
+  },
+  {
+   "title": "Instagram brings Edits to desktop to take on CapCut",
+   "link": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
+   "summary": "The move puts Edits in more direct competition with ByteDance's CapCut, the video-editing app Meta sought to challenge when it launched Edits last year.",
+   "image": "https://techcrunch.com/wp-content/uploads/2026/11/Introducing-Edits-on-desktop_.png?resize=1200,726",
+   "source": "TechCrunch",
    "category": "instagram",
    "date": "2026-11-05T15:00:00.000Z"
   },
